@@ -1,0 +1,18 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/essays" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:55.852Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="millerHistoryOfMooreMaterials.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.921Z" modified="2026-03-04T15:59:55.921Z" filename="millerHistoryOfMooreMaterials.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_03_11_intro.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.891Z" modified="2026-03-04T15:59:55.891Z" filename="nb07_03_11_intro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_01_04_intro.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.881Z" modified="2026-03-04T15:59:55.881Z" filename="nb07_01_04_intro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_04_07_intro.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.865Z" modified="2026-03-04T15:59:55.865Z" filename="nb07_04_07_intro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_04_04_intro.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.855Z" modified="2026-03-04T15:59:55.855Z" filename="nb07_04_04_intro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

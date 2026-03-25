@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/templates/sections" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.5Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="highlights.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.507Z" modified="2026-03-04T15:59:27.507Z" filename="highlights.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="partners.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.506Z" modified="2026-03-04T15:59:27.506Z" filename="partners.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bottom.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.504Z" modified="2026-03-04T15:59:27.504Z" filename="bottom.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="about.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.502Z" modified="2026-03-04T15:59:27.502Z" filename="about.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

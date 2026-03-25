@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/static/resources" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.536Z">
+    <acl entries="0" version="1"/>
+    <subcollection name="scripts" filename="scripts"/>
+</collection>

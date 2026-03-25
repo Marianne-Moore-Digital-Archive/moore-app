@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <hi rend="bold">Poems To or About Moore</hi>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For testing purposes only.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Compiled from MMDA webpage TEI Conversion
+               Files</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc n="6">education</catDesc>
+               </category>
+               <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>The following list is an expanded version of poems mentioned on or submitted to the Marianne Moore Society page, as compiled by Vivian R. Pollak. Where available, a link to each poem has been included. If you wish to recommend an addition to this list, please send an email to ccmiller@buffalo.edu.</p>
+
+<p>Auden, W. H. <ref target="http://www.nybooks.com/articles/1967/11/09/a-mosaic-for-marianne-moore/">"A Mosaic for Marianne Moore."</ref></p>
+
+<p>Bishop, Elizabeth.  <ref target="https://fsgworkinprogress.com/2014/04/invitation-to-miss-marianne-moore/">"Invitation to Miss Marianne Moore."</ref></p>
+
+<p>Duncan, Robert. <ref target="https://books.google.com/books?id=HWPGAAAAQBAJ&amp;pg=PA24&amp;lpg=PA24&amp;dq=Memory+holds+particular+maidens+inviolate+and+quickens+as+if+Spring+had+arrived&amp;source=bl&amp;ots=Nu3dwTdZq6&amp;sig=zj1ULqTdN8VphDl_4bngjqBq4HY&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjg25yG_tLZAhVl54MKHYCPA8kQ6AEIKTAA#v=onepage&amp;q=Memory%20holds%20particular%20maidens%20inviolate%20and%20quickens%20as%20if%20Spring%20had%20arrived&amp;f=false">"The Maiden."</ref></p>
+
+<p>Eusuf, Nausheen. <ref target="../resources/images/sources/poemsAboutMM/eusuf.pdf">"To a Pangolin."</ref></p>
+
+<p>Fulton, Alice. "Give."</p>
+
+<p>Hartley, Marsden. <ref target="../resources/images/sources/poemsAboutMM/hartley.pdf">"Marianne Moore."</ref></p>
+
+<p>Hogue, Cynthia.  <ref target="../resources/images/sources/poemsAboutMM/hogue.pdf">"The Sibyl."</ref></p>
+
+<p>Jarrell, Randall.  <ref target="../resources/images/sources/poemsAboutMM/jarrell.pdf">"The Country Was."</ref></p>
+
+<p>Leavell, Linda. <ref target="../resources/images/sources/poemsAboutMM/leavell.pdf">"Monhegan Island."</ref></p>
+
+<p>Merrin, Jeredith. <ref target="../resources/images/sources/poemsAboutMM/merrin_long.pdf">"The Long-Whiskered Owlet (Xenoglaux loweryi)"</ref>, "The Barn Owl," <ref target="../resources/images/sources/poemsAboutMM/merrin_hummingbird.pdf">"Hummingbird."</ref></p>
+
+<p>Niedecker, Lorine. <ref target="https://books.google.com/books?id=qDzKDAAAQBAJ&amp;pg=PA481&amp;lpg=PA481&amp;dq=lorine+niedecker+if+I+were+a+bird&amp;source=bl&amp;ots=4MEam-Ui2h&amp;sig=t1Dj5fAwSX-HYfRIa5p9R1Od3b8&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiO0NLI-tLZAhUm8YMKHQCiDT8Q6AEILzAB#v=onepage&amp;q=lorine%20niedecker%20if%20I%20were%20a%20bird&amp;f=false">"If I Were a Bird."</ref></p>
+
+<p>Notley, Alice. <ref target="https://media.sas.upenn.edu/pennsound/authors/Notley/Buffalo_4-10-87/Notley-Alice_07_Homage_Buffalo_1987.mp3">"Homage to Marianne Moore."</ref></p>
+
+<p>Olson, Kirby. "Christmas at Rockefeller Center."</p>
+
+<p>Smith, Ellen McGrath . <ref target="../resources/images/sources/poemsAboutMM/smith.pdf">"Re: Marriage."</ref></p>
+
+<p>Spicer, Jack.  <ref target="http://bibliosity.blogspot.com/2009/04/radar.html">"Radar: A Postcript for Marianne Moore."</ref></p>
+
+<p>Stevens, Wallace. <ref target="https://ia601501.us.archive.org/24/items/in.ernet.dli.2015.182920/2015.182920.The-Collected-Poems-Of-Wallace-Stevens.pdf">"The Prejudice Against the Past."</ref></p>
+
+<p>Todd, Ruthven. <ref target="../resources/images/sources/poemsAboutMM/todd.pdf">"A Short Happy Poem for Marianne Moore."</ref></p>
+
+<p>Updike, John. <ref target="http://www.amerlit.com/poems/POEMS%20Updike,%20John%20Miss%20Moore%20at%20Assembly%20(1993)%20parody%20of%20Marianne%20Moore.pdf">"Miss Moore at Assembly."</ref></p>
+
+<p>Wasserman, Rosanne. <ref target="../resources/images/sources/poemsAboutMM/wasserman.pdf">"Walking on All-Hallows, 1971," "The Mind Is an Enchaining Thing."</ref></p>
+
+<p>Williams, William Carlos. <ref target="https://www.poetrynook.com/poem/marianne-moore">"Marianne Moore."</ref></p>
+
+
+
+<head>Suggestions for Further Reading</head>
+
+<p>Clampitt, Amy. <title>The Kingfisher, What the Light Was Like</title>.</p>
+
+<p><title>Critics and Poets on Marianne Moore</title>. Includes poems by Grace Schulman, Cynthia Hogue, Jeredith Merrin, Joanie Mackowski, Lisa Steinman, and Jeanne Heuving.</p>
+
+<p><title>Festschrift for Marianne Moore's Seventy Seventh Birthday</title>. Includes poems by John Ciardi, Babette Deutsch, William Jay Smith, Nicholas Moore, James T. Farrell, Ralph Pomeroy, Howard Moss, Eleanor Edelstein, Allen Ginsberg, Herbert Cahoon, Robert Penn Warren, David Ignitow, Millen Brand, Vernon Watkins, Richard Wilbur, James Laughlin, Robin Skelton, Jeff Kindley, Carol Weston, and Theodore Weiss.</p>
+
+<p>Merrin, Jeredith. <title>Owling</title>.</p>
+
+<p>    ---. "Bat Ode." <title>Bat Ode</title> (The  University of Chicago Press, Phoenix Poets Series, 2001).</p>
+
+<p>Taggart, John. <title>Unveiling/Marianne Moore</title>.</p>
+
+         </div>
+      </body>
+   </text>
+</TEI>

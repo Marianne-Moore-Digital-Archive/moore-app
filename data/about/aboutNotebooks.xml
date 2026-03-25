@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>About the Notebooks</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="3">notebooks</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <aboutNotebooks.xmlaboutNotebooks.xmlhead>ABOUT THE NOTEBOOKS</aboutNotebooks.xmlaboutNotebooks.xmlhead>
+            <div>
+                <p>
+                    <figure rend="right">
+                  <figDesc>07.01.03, image 0007; Moore fills in information.</figDesc>
+                  <graphic width="20%" url="https://moorearchive.org/app/site/media/images/Moore%20VII-01-03%20image%200007_cropped.jpg"/>
+               </figure>Marianne Moore’s notebooks contain a
+                    vital record of a mind at work—drafts of
+                    poems and prose, playful drawings,
+                    copious notes from the events and
+                    performances she attended and her daily
+                    reading and research, remarkably diverse
+                    materials that range from quotations of
+                    scholarly commentary to advertisements
+                    for Johnnie Walker Scotch. Moore also
+                    recorded conversations—snippets of
+                    monologue and dialogue spoken by or
+                    about most of the most famous modernists
+                    and by family members and people she
+                    overheard on a train or at the zoo. Her
+                    notebooks constitute one of the great
+                    critical and cultural resources for
+                    modernist studies and twentieth-century
+                    cultural history.</p>
+                <p>There are 122 notebooks in the Rosenbach
+                    Museum and Library Marianne Moore
+                    Collection and Moore’s hand-written
+                    notes in these notebooks vary from a few
+                    pages to over 400. These include Reading
+                    Diaries, Conversation Notebooks
+                    (recording conversations Moore
+                    participated in or overheard, whether in
+                    public venues like the circus or at
+                    parties with famous peers), Poetry-draft
+                    Notebooks [see 07.04.04, image 0012;
+                    Poetry Notebook from 1922-1930. On this
+                    page Moore is drafting both “An Octopus”
+                    and “Marriage.”], Travel Notebooks,
+                    Music Notebooks (on concerts she heard),
+                    Notebooks on lectures, classes she
+                    attended, and sermons, and Financial
+                    Notebooks. <figure rend="left">
+                  <figDesc>07.01.01, image 0016; An 1882 date.</figDesc>
+                  <graphic width="20%" url="https://moorearchive.org/app/site/media/images/Moore%20VII-01-01%20image%200016_cropped.jpg"/>
+               </figure>The earliest three of Moore’s
+                    notebooks dates from 1905 (a Bryn Mawr
+                    College record book, student essays, and
+                    a reading notebook) and several contain
+                    notes made in the 1960s—making it clear
+                    that Moore engaged in such writing
+                    throughout her adult life. The
+                    collection also contains at least two
+                    notebooks belonging exclusively or in
+                    part to her mother, Mary Warner Moore
+                    (one beginning in 1882), indicating that
+                    such record-keeping was a family
+                    practice [see 07.01.01, image 0016;
+                    where there is an 1882 date]. Indeed,
+                    Moore kept notebooks consisting largely
+                    or wholly of her mother’s remarks and in
+                    others both recorded dialogues between
+                    herself and her mother and took
+                    dictation from her mother for
+                    correspondence. Through her recorded
+                    reflections and quotations, one sees
+                    from year to year what Moore was
+                    reading, what lectures and concerts she
+                    attended, conversations she engaged in
+                    or overheard, and bits of prose she
+                    drafted in response to events or simply
+                    to something she saw on the street. As
+                    these remarkable notebooks reveal, Moore
+                    had boundless energy for engagement with
+                    people and with fields beyond the
+                    obviously poetic.<figure rend="right">
+                  <figDesc>7.01.03, image 0027; Moore writes and draws over the material on the page.</figDesc>
+                  <graphic width="20%" url="https://moorearchive.org/app/site/media/images/Moore%20VII-01-03%20image%200027_cropped.jpg"/>
+               </figure>
+                </p>
+                <p>While Moore evidently bought some
+                    notebooks to use for her record-keeping,
+                    most notebooks are repurposed calendars
+                    or diaries, where she writes across or
+                    around the printed information or
+                    dividers on each page, ignoring the
+                    notebook’s intended or original
+                    function—although sometimes filling in
+                    requested identificatory information.
+                    [see 07.01.03, image 0007—where she
+                    fills in information—and image 0027,
+                    where she writes and draws over the
+                    material on the page] None of Moore’s
+                    notebooks has been published in any form
+                    and they are currently available only at
+                    the Rosenbach Museum and Library, which
+                    is open to scholars a total of 18 hours
+                    a week.</p>
+                <p>The notebooks are hard to decipher—in
+                    part because of Moore’s handwriting and
+                    use of abbreviations but also in part
+                    because they are filled with
+                    cancellations and write-overs [see
+                    07.04.07, image 0005, Poetry Notebook
+                    from the 1930s].</p>
+                <p>Many of these notebooks have already been
+                    found to be a rich resource for
+                    understanding Moore's composition
+                    process; they provide information about
+                    the source of lines and ideas used in
+                    her poems and essays—sometimes decades
+                    later [see 07.02.02, image 0033 verso;
+                    Notes on a 1930 article, used for “O to
+                    Be a Dragon,” first published in 1957].<figure rend="left">
+                  <figDesc>07.04.04, image 0012; Poetry Notebook from 1922-1930. Drafting both “An Octopus” and “Marriage.”</figDesc>
+                  <graphic width="20%" url="https://moorearchive.org/app/site/media/images/Moore%20VII-04-04%20image%200012.jpg"/>
+               </figure>
+                    They are also an extraordinary resource
+                    for following the observations of an
+                    astute critical observer and reader
+                    through six decades of the twentieth
+                    century, including the period of two
+                    World Wars, the depression, and the Cold
+                    War, and for illuminating the source
+                    materials for composition of one of the
+                    century’s most important poets. It is
+                    difficult to overstate the impact that
+                    access to these notebooks will have on
+                    studies of Moore and of
+                    twentieth-century poetry and cultural
+                    studies.<figure rend="right">
+                  <figDesc>07.04.07, image 0005; Poetry Notebook from the 1930s.</figDesc>
+                  <graphic width="20%" url="https://moorearchive.org/app/site/media/images/Moore%20VII-04-07%20image%200005.jpg"/>
+               </figure></p>
+                <p>The notebooks housed at the Rosenbach
+                    Library are in very fragile condition.
+                    Some have fallen apart and needed to be
+                    reconstructed. Unfortunately, as now
+                    conserved at the Rosenbach, at least two
+                    poetry notebooks have been reconstructed
+                    and digitized in an order that does not
+                    correspond to the order of pages as
+                    Moore wrote them. This site restores, as
+                    far as scholarly expertise enables, the
+                    original page order for these notebooks.
+                    As we continue work on additional
+                    notebooks, we will discover whether
+                    other notebooks are similarly
+                    disordered, and then work to restore
+                    original order. For more on this subject
+                    and process, see “Accuracy and the
+                    Challenges of Editing Moore’s Archive,”
+                    soon to be posted on this site.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

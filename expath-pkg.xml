@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="https://e-editiones.org/apps/moore" abbrev="moore" version="1.0.0" spec="1.0">
+    <title>Marianne Moore Notebooks</title>
+    <dependency processor="http://exist-db.org" semver-min="6.2.0"/>
+    <dependency package="http://e-editiones.org/roaster" semver-min="1"/>
+    <dependency package="http://tei-publisher.com/library/jinks-templates" semver="1"/>
+    <dependency package="http://existsolutions.com/apps/tei-publisher-lib" semver-min="6"/>
+</package>

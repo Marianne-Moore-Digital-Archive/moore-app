@@ -1,0 +1,159 @@
+{
+  "pkg" : {
+    "abbrev" : "moore"
+  },
+  "label" : "Marianne Moore Notebooks",
+  "odds" : [ "moore.odd", "about.odd" ],
+  "id" : "https://e-editiones.org/apps/moore",
+  "defaults" : {
+    "language" : "en",
+    "upload" : "notebooks",
+    "data-default" : "notebooks",
+    "view" : "page",
+    "odd" : "moore.odd",
+    "template" : "moore.html"
+  },
+  "extends" : [ "base10", "registers", "upload", "timeline", "docker", "landing-page", "theme-base10", "iiif" ],
+  "menu" : {
+    "language" : false,
+    "delete" : true,
+    "replace" : true,
+    "dark-mode" : true,
+    "items" : [ {
+      "url" : null,
+      "id" : "Start"
+    }, {
+      "url" : null,
+      "id" : "people"
+    }, {
+      "url" : null,
+      "id" : "places"
+    }, {
+      "url" : null,
+      "id" : "explore"
+    }, {
+      "subitems" : [ {
+        "url" : "browse.html",
+        "id" : "Notebook Viewer"
+      }, {
+        "url" : "about/indexNotebooks.xml",
+        "id" : "Index of Notebooks"
+      }, {
+        "url" : "about/aboutNotebooks.xml",
+        "id" : "About the Notebooks"
+      } ],
+      "id" : "Notebooks"
+    }, {
+      "subitems" : [ {
+        "url" : "about/bibliography.xml",
+        "id" : "Bibliography"
+      }, {
+        "url" : "about/library.xml",
+        "id" : "Moore Library Index"
+      }, {
+        "url" : "about/hardToFind.xml",
+        "id" : "Hard to find Essays"
+      }, {
+        "url" : "about/sources.xml",
+        "id" : "Moore’s Sources"
+      }, {
+        "url" : "about/usefulSites.xml",
+        "id" : "Useful Sites"
+      }, {
+        "url" : "about/newsletters.xml",
+        "id" : "MM Newsletters"
+      } ],
+      "id" : "Scholarship"
+    }, {
+      "subitems" : [ {
+        "url" : "about/aboutMM.xml",
+        "id" : "About the Poet"
+      }, {
+        "url" : "about/aboutPoems.xml",
+        "id" : "About the Poems"
+      }, {
+        "url" : "about/context.xml",
+        "id" : "Context and History"
+      }, {
+        "url" : "about/teaching.xml",
+        "id" : "Syllabuses and Lesson Plans"
+      }, {
+        "url" : "about/studentResearch.xml",
+        "id" : "For Students by Students"
+      }, {
+        "url" : "about/poemsAboutMM.xml",
+        "id" : "Poems To or About Moore"
+      } ],
+      "id" : "Education"
+    }, {
+      "subitems" : [ {
+        "url" : "about/aboutMMDA.xml",
+        "id" : "About the Archive"
+      }, {
+        "url" : "about/people.xml",
+        "id" : "People"
+      }, {
+        "url" : "about/documentation.xml",
+        "id" : "Project Documentation"
+      }, {
+        "url" : "about/articles.xml",
+        "id" : "Articles About the Archive"
+      }, {
+        "url" : "about/permissions.xml",
+        "id" : "Rights and Permissions"
+      } ],
+      "id" : "About the Archive"
+    }, {
+      "url" : "about/donate.xml",
+      "id" : "Donate"
+    } ],
+    "login" : true,
+    "download" : false,
+    "search" : true
+  },
+  "features" : {
+    "browse" : {
+      "sort" : {
+        "options" : [ {
+          "label" : "Date",
+          "value" : "date",
+          "key" : "browse.date"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "browse.title"
+        } ],
+        "default" : "title"
+      },
+      "field" : {
+        "options" : [ {
+          "label" : "Content",
+          "value" : "text",
+          "key" : "search.content"
+        } ],
+        "default" : "text"
+      }
+    },
+    "register" : {
+      "placement" : "right",
+      "enabled" : false
+    },
+    "iiif" : {
+      "viewer" : "pb-facsimile",
+      "base_uri" : "",
+      "enabled" : false
+    },
+    "toolbar" : {
+      "zoom" : true,
+      "navigation" : true,
+      "parent" : false,
+      "enabled" : true
+    }
+  },
+  "theme" : {
+    "layout" : {
+      "after-width" : "min(20vw, 256px)",
+      "before-width" : "min(15vw, 130px)"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/auxiliary/team" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:56.806Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="eeditiones.md" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.822Z" modified="2026-03-04T15:59:56.822Z" filename="eeditiones.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tp.md" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.821Z" modified="2026-03-04T15:59:56.821Z" filename="tp.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jinntec.md" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.82Z" modified="2026-03-04T15:59:56.82Z" filename="jinntec.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wolfgang.md" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.808Z" modified="2026-03-04T15:59:56.808Z" filename="wolfgang.md" mimetype="text/markdown">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

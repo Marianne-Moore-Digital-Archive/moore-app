@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/auxiliary" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:56.8Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="intro.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.802Z" modified="2026-03-04T15:59:56.802Z" filename="intro.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="team" filename="team"/>
+</collection>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Useful Sites</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="5">scholarship</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <list>
+    <item>
+        <ref target="https://moore123.wordpress.com//">Patricia C.
+            Willis’ moore123 Blog</ref>
+    </item>
+    <item>
+        <ref target="https://www.rosenbach.org/collections/marianne-moore">Marianne Moore Collection at the Rosenbach
+            Museum and Library </ref>
+    </item>
+     <item>
+        <ref target="https://rosenbach.catalogaccess.com/advanced-search?includedFields=Photos%2CContainers&amp;Collection=moore&amp;page=2&amp;size=10&amp;withImages=false">Rosenbach Museum and Library: Photographs from
+            the Moore Collection</ref>
+    </item>
+    <item>
+        <ref target="http://lindaleavell.com/">Linda
+            Leavell’s Website (Moore Biographer)</ref>
+    </item>
+   
+</list>
+               </div>
+        </body>
+    </text>
+</TEI>

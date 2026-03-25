@@ -1,0 +1,85 @@
+/* Editorial conventions */
+
+.unclear {
+    background-color: #D8D8D8;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.i, .italics, .italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.superscript {
+     vertical-align: super;
+     font-size: .83em;
+}
+
+.subscript {
+     vertical-align: sub;
+     font-size: .83em;
+}
+
+.pencil {
+    color: gray;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+/* glossary note label */
+a.tei-note1 {
+    background-color: #FFFF99;
+}
+
+/* editorial note label */
+a.tei-note2 {
+    background-color: #CCFFFF;
+}
+
+.line {
+    display: grid;
+    grid-template-columns: 2em auto;
+    column-gap: 0.5em;
+    margin-bottom: -0.2em;
+}
+
+.genre span {
+    display: inline-block;
+    width: 0.5em;
+    height: 100%;
+}
+
+.conv.active {
+    background-color: turquoise;
+}
+
+.verse.active {
+    background-color: green;
+} 
+
+.prose.active {
+    background-color: pink;
+}
+.read.active {
+    background-color: orange;
+}
+
+.nowrap {
+    white-space: nowrap;
+}

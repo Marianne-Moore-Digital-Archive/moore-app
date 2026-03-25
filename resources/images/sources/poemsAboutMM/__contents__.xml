@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/poemsAboutMM" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:46.102Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="merrin_long.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.767Z" modified="2026-03-04T15:59:46.767Z" filename="merrin_long.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hartley.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.752Z" modified="2026-03-04T15:59:46.752Z" filename="hartley.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="todd.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.515Z" modified="2026-03-04T15:59:46.515Z" filename="todd.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="eusuf.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.471Z" modified="2026-03-04T15:59:46.471Z" filename="eusuf.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="wasserman.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.393Z" modified="2026-03-04T15:59:46.393Z" filename="wasserman.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="hogue.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.363Z" modified="2026-03-04T15:59:46.363Z" filename="hogue.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="smith.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.273Z" modified="2026-03-04T15:59:46.273Z" filename="smith.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="merrin_hummingbird.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.215Z" modified="2026-03-04T15:59:46.215Z" filename="merrin_hummingbird.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jarrell.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.161Z" modified="2026-03-04T15:59:46.161Z" filename="jarrell.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="leavell.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.104Z" modified="2026-03-04T15:59:46.104Z" filename="leavell.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

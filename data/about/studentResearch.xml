@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <hi rend="bold">For Students by Students</hi>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For testing purposes only.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Compiled from MMDA webpage TEI Conversion
+               Files</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc n="5">education</catDesc>
+               </category>
+               <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Every year, students across the United States and around the globe read Marianne Moore's poetry. Exciting essays and other projects often follow. Wishing to recognize excellence in student writing about Moore, and with the further objective of providing a forum for students to engage the work of their peers, the Marianne Moore Digital Archive publishes examples of polished, high quality writing by High School, Undergraduate, and early-stage Graduate students. If you are a student who would like to submit work to this page, or an instructor who would like to encourage students to do the same, click here for more information. Work will be selected for publication based on intellectual and stylistic merit as is appropriate for the level of study of the author.</p><p>The work included here should be cited as “For Students By Students: Marianne Moore Digital Archive,” with the date of submission, to clarify that it is student work and has not undergone the vetting required for professional publication.</p><p>If you are a student who would like to submit work to this page, or an instructor who would like to encourage their students to do the same, email ccmiller@buffalo.edu for more information.</p>
+            <head>Student Exhibit</head>
+            <p><ref target="resources/images/sources/students/KariapperHeebaMMDAPoster.pdf">"Hierarchy in Marianne Moore's "The Buffalo": A Literary and Digital Analysis." (poster, 2017)</ref></p> 
+            <p>Kariapper, Heeba (Computer Science and English. SUNY, Buffalo)</p>
+            <p><ref target="resources/images/sources/students/KariapperHeebaMMDAPoster.pdf"><figure>
+                     <graphic width="90%" url="resources/images/sources/students/KariapperHeebaMMDAPoster.jpg"/>
+                  </figure></ref>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

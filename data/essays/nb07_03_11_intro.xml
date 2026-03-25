@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Introduction to Miscellaneous
+                    Notebook 07.03.11</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">essays</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction to Miscellaneous Notebook
+                    07.03.11</head>
+                <p rend="center">Cristanne Miller</p>
+                <p rend="center"><ref target="../notebooks/nb07_03_11.xml?root=3.4.5.2.4&amp;action=search&amp;view=page&amp;odd=moore#3.4.5.40.8.10.4"><figure>
+                        <graphic width="25%" url="resources/images/moore/nb07_03_11_0001.jpg"/>
+                    </figure></ref>
+                </p>
+                <p rend="center"><ref target="../notebooks/nb07_03_11.xml?root=3.4.5.2.4&amp;action=search&amp;view=page&amp;odd=moore#3.4.5.40.8.10.4"><hi rend="bold underline">Go to Notebook Viewer</hi></ref></p>
+                <p>Marianne Moore kept notes in this 1921
+                    Yearbook from sometime in 1929 (the
+                    earliest recorded date is 26 June
+                    1929—one of two short notes probably
+                    written by her mother Mary Warner Moore)
+                    until around 10 January 1940, her latest
+                    date of entry.<note>Moore’s handwriting
+                        does not always differ strikingly
+                        from her mother’s. The second
+                        passage probably in Mary Warner
+                        Moore’s hand is on the back of a
+                        pre-printed stub from an investment
+                        firm tucked into this notebook and
+                        dated June 23 1929. This passage
+                        also has the spiritual focus typical
+                        of much of Mary Warner Moore’s
+                        writing. On the reverse (printed)
+                        side of this paper scrap, MM writes
+                        a brief note on Scofield Thayer and
+                        James Sibley Watson.</note> The
+                    miscellaneous notes here consist of
+                    recorded speech, descriptive prose, a
+                    drafted (?) letter, lists of various
+                    kinds, and reading notes from sources as
+                    diverse as “Directions for use” on a
+                    shipment of “Southern Calif Persimmons,”
+                    an 1856 volume titled <title>The
+                        Merchant’s and Mechanic’s Assistant,
+                        Being a Collection of Rules and
+                        Practical Tables for the Use of
+                        Commercial Houses &amp; Those
+                        Interested in Ships, Operative
+                        Mechanics, Artificers and
+                        Engineers</title>, and George
+                    Santayana’s 1935 <title>The Last
+                        Puritan: A Memoir in the Form of a
+                        Novel</title>. While it is not
+                    always apparent whether Moore is quoting
+                    from a written source, recording speech,
+                    or writing her own prose, most of the
+                    time one can distinguish between these
+                    genres of writing both because of the
+                    presentation of the material and because
+                    of the clarity with which it is written.
+                    This introduction first presents a
+                    general overview of material in the
+                    notebook and then focuses on a few
+                    passages that may illuminate a published
+                    poem or contribute to our understanding
+                    of Moore’s unpublished work or processes
+                    of note-taking and composition.</p>
+                <p>While Moore’s poetry notebooks contain
+                    innumerable cancellations, arrows
+                    pointing to material on various parts of
+                    a page, and other marks of drafting,
+                    this notebook’s writing appears to be
+                    most tentative (that is, it involves the
+                    greatest number of cancellations and
+                    interlineations) when the poet is
+                    recording speech she has heard—although,
+                    to repeat, sometimes it is impossible to
+                    know whether she is recording overheard
+                    speech or drafting a bit of prose. In
+                    recording longer passages of speech, it
+                    is clear that Moore is trying to get the
+                    tone, the rhythm, and the words
+                    themselves just right, and that this is
+                    not simple. In contrast, her own
+                    descriptions or prose typically do not
+                    indicate that she was interested in a
+                    process of ongoing revision or
+                    rethinking in the context of this
+                    particular notebook, although there are
+                    often cancelled words or phrases. For
+                    example, the November 1931 observation
+                    of a seagull leads to: “A gull: rising
+                    vertical—the wing points perpendicular
+                    in the same line <del>w thrust</del>
+                    without <del>w</del> perceptable bend or
+                    quiver Three gulls flying over the
+                    Lafayette steeple—and presently a third
+                    following—.” While Moore wants to get
+                    her description right she seems
+                    primarily interested in the observation.
+                    Whereas in her poetry notebooks she
+                    repeats versions of word combinations or
+                    lines several times, across many pages,
+                    here she does not repeat fully
+                    articulated drafts of anything. Phrases
+                    are repeated only in the immediate
+                    context of cancelling some words
+                    (sometime the same words) and adding
+                    others to get the quotation right. For
+                    example, two passages in which Moore
+                    attempts to capture the language of
+                    Graham McNamee, a sports radio
+                    broadcaster, are filled with
+                    cancellations and interlineated
+                    words—once in relation to a baseball
+                    game and once to a horse race.</p>
+                <p>To help the reader at least tentatively
+                    distinguish Moore’s own observations
+                    from opinions or remarks she copies out
+                    that stem from (often unnamed) others, I
+                    mark passages as belonging to the genre
+                    or mode of either conversation (that is,
+                    recorded speech), prose, or reading
+                    notes, which often combine paraphrase
+                    and quotation without distinguishing the
+                    two. These indicators are not
+                    definitive. For example, a long passage
+                    beginning with the date “Nov. 22 1936”
+                    begins with brief reference to Job,
+                    reflects on absurd advice men or women
+                    may give you about voting, represented
+                    as the speech of an unnamed “she,” and
+                    then continues:</p>
+                <p>
+                <lg>
+                <l>well the whole thing is such an absurdity</l>
+                    <l><del>you might as well no No</del>Any one who has</l>
+                    <l>ever       inherited</l>
+                    <l>capital or earned capital or used</l>
+                    <l>            shld be denied the right</l>
+                    <l>capital <del>should be is disqualified</del> to</l>
+                    <l>              ⍰enses</l>
+                    <l> to hold office [...]  (<ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.40.10">view p. 20r</ref>–<ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.42.4">21v</ref>)</l>
+                </lg>
+                </p>
+                <p>Then 5 lines later:</p>
+                <p>
+                <lg>
+                    <l>    Seriously—the country would</l>
+                    <l>          anyone</l>
+                    <l>needs a tyrant whose bad points or</l>
+                    <l>good points are a little stronger than</l>
+                    <l>its bad &amp; good points. This is what, in</l>
+                    <l>the South they call—a lady.  (<ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.42.4">view p. 21v</ref>)</l>
+                </lg>
+                </p>
+                <p>The “well” in the phrase “well the whole thing is such an absurdity” suggests recorded speech, as does the later “Seriously.” In this case, Moore’s known opinions also guide my marking of this passage as recorded conversation: by the mid-1930s, she was distressed about rising fascism in Europe, and therefore unlikely to have been sympathetic to the desirability of a “tyrant” in the United States. It could also be that what interested Moore in the whole conversation is the definition of what constitutes a “lady” in the “South”—again, something she is not likely to have drafted as prose, and certainly not with this long preamble.</p>
+                <p>This passage is followed by commentary that is not conversational in tone but seems to continue the thought of the preceding conversation:</p>
+                <p>
+                <lg>
+                    <l>     Humane creature. –whose</l>
+                    <l>style is a collapse of modesty &amp; whose</l>
+                    <l>morality is the collapse of integrity.</l>
+                    <l>One reels backward and falls <del>into</del> to</l>
+                    <l>dreaming of a country where the people</l>
+                    <l>were willing to go without enough to eat,</l>
+                    <l>to wear &amp; to read, if only they could</l>
+                    <l>be free.  (<ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.42.4">view p. 21v</ref>)</l>
+                </lg>
+                </p>
+                <p>In the left margin, a thin pencil line marks the sentence beginning “One reels backward.” Following this second passage, Moore copies an additional (third) comment, preceded by an asterisk apparently indicating that what follows should go at the very beginning of the first recorded passage (on the previous notebook page) where she has also made an asterisk: “*Your politically liberal intellectual / friends want you to know something / about politics.”<note>In fact, Moore makes two asterisks on the previous page, then cancels one, suggesting that she wants to be precise about where the interpolated comment belongs.</note></p>
+                <p>This extended group of three passages may indicate that Moore is speaking with someone who quotes a third person giving absurd advice about politics; toward the beginning of this sequence, the potential proponent of tyranny also admits she does not vote but is determined to advise “you” as to who you should vote for. Although parts of the sequence are not strongly suggestive of speech, the marginal penciling by the lines emphasizing people’s desire to “be free” suggests that this is a part of the conversation Moore wanted most to record. Similarly, the third comment’s use of the pronouns “your” and “you” and Moore’s use of asterisks to alter the location of this sentence suggest recorded, quoted speech. It is my best guess that Moore quotes a single speaker in all three sections of this commentary, giving an initial date for what she heard but no indication of who the speaker might be.<note>While Moore may record a conversation (parts 1 and 3) and respond to it (part 2—beginning “Humane creature”), I do not know of another passage in any notebook where she comments on a recorded conversation. The phrasing in the second passage is closer to Moore’s own diction than that of the others.</note></p>
+                <p>Typically, Moore does not comment on the passages she records—one of the elements that makes it difficult to judge her reasons for recording something: it might be because she finds a speaker to be astute, or outrageous, or funny, or to be using a turn of phrase the poet enjoys, or because the topic interests her. The notebook itself gives no indication of her motives for recording.</p>
+                <p>In this notebook, observations or recorded speech about galoshes or washing one’s hair or horse races are juxtaposed with political commentary and comments on Moore’s most famous peers. Someone remarks that “T.S. Eliot reduces feeling to ash, &amp; you <del>must</del> have to imagine the fire that made the ashes &amp; the tree that made the fire.”<note>p. <ref target="http://moore2.cedar.buffalo.edu:8081/exist/apps/moore/notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.38.10">19r</ref>.</note> Moore may quote herself, or her mother, or be drafting a letter, when she writes: “Letter to Bryher: I should be happy in 'seeing' you and Hilda but <hi rend="underline">I do not like artists</hi>. I like laboratory scientists &amp; tennis players and boys of the kind that go in flocks and say little when isolated.” (<ref target="http://moore2.cedar.buffalo.edu:8081/exist/apps/moore/notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.56.8">view p. 28r</ref>) Unlike the remarks on desiring a ruling tyrant, this remark about liking scientists and boys does sound like Moore and might well be drafted prose.</p>
+                <p>Several descriptions, phrases, and lists in this notebook point toward later published poems, including “The Steeple-Jack,” “Frigate Pelican,” The Buffalo, “The Pangolin,” “Old Tiger,” Camellia Sabina,” “Half-Deity,” “Elephants,” “Rigorists,” “He ‘Digesteth Harde Yron’,” “Walking-Sticks and Paperweights and Watermarks,” and “For February 14<hi rend="superscript">th</hi>.” One of the notebook’s concluding pages also lists the titles of several poems—including some Moore apparently never wrote. The end of the notebook includes several such lists. The list titled “Poems” appears to function both as a potential table of contents (perhaps for the volume of selected poems she is preparing during the mid-1930s) and as a list of topics about which she might write: it begins “Camellia Sabina &amp; the Bordeaux Plum” but also includes items such as “Spider—scorpion, spider-crab (tarantulas)” and “Carlsbad Caverns.” As it continues, the list segues into brief notes. For example, toward the bottom of this page Moore writes, “I am an OX or is this another thing that I don’t know about in the Malay peninsula.” Further down she writes both “Pangolin” and “Fearful—yet to be feared”—perhaps because she is considering which would make a better title for the poem. These notes and Moore’s use of titles that do not yet have their final form (“Camellia Sabina &amp; the Bordeaux Plum” becomes “Camellia Sabina”) suggest that she is writing lists on these back pages before 1935, which in turn indicates that she writes simultaneously from the front of the notebook and in the back. Indeed she leaves several blank pages between her final dated entry of January 1940 and her concluding lists.</p>
+                <p>Another list is of “Chapter headings” (for example, “Pleasure is less than Happiness” and “The Baffled Rat Squeaks”) and a third list is of character names. As these lists and earlier entries suggest, Moore is already working on her novel during the early 1930s—and several of the chapter titles indeed appear in the novel. Moore refers to the possibility of writing a novel as early as 1922, but she does not complete a draft until 1939, when she submitted it for publication under the title “The Way We Live Now.”<note>Moore takes the title for her novel from Anthony Trollope’s 1875 satirical novel <title>The Way We Live Now</title>, based on the financial scandals in 1870s Britain.</note> The novel was never published. Among the chapter headings listed in this notebook and exactly repeated in the novel are “Crickets,” “The Standard Poets,” “A Good Ghost,” and “Job’s Protestation of of Integrity”—a phrase she at one point considered as a possible title for the whole. Other chapter headings are revised slightly or give a different version of the same thought: “Sir Thopas Impiety” becomes “Sir Thopas”; “It was the month of April, the Bumpkins call it May” becomes “It was the Month of April”—and the rest of the phrase (quoted from William Cowper’s “A Fable”) constitutes the first sentence of the chapter. “Pleasure is less than Happiness” becomes “Satisfaction is a Lowly thing”—a line Moore also used in her poem “What Are Years?”</p>
+                <p>Among the notebook’s final pages and loose paper inclusions are two attempts to name people to whom Moore felt indebted—perhaps an early discarded version of an acknowledgments page or dedication she never published. Interestingly, although one version of this draft includes “Mr. Eliot,” who assisted Moore in the editing of her <title>Selected Poems</title>, she describes it as including “clergymen, physicians, and other philanthropists.” The rougher and much cancelled version (on a repurposed envelope, folded to fit in the notebook) thanks “<del>the members of my family</del>,” “friends,” and “the owners of the monthly Dial."</p>
+                <p>While no cancelled passages, such as those one sees in Moore’s poetry notebooks, suggest that she deliberately returns to this notebook, mining it for material used in later publication, a few passages may indicate important points of genesis for poems and many phrases are lifted for her novel. The passages suggestive of later poems illuminate some  apparently preliminary thinking behind the poems and perhaps, additionally, one of Moore’s methods of composition.</p>
+                <p>To return to her 1931 jottings on sea gulls, her brief lines of prose in this notebook hold little interest in isolation but read in the context of the poem to which they contribute they may be illuminating: “A gull: rising vertical the wing points perpendicular in the same line <del>w thrust?</del> without <del>w</del> perceptable bend or quiver. Three gulls flying over the Lafayette steeple—and presently a third following.” In her poem “The Steeple Jack,” Moore writes:</p>
+                <p>
+                    <lg>
+                        <l>One by one, in two’s, in three’s, the seagulls keep</l>
+                        <l>  flying back and forth over the town clock,</l>
+                        <l>or sailing around the lighthouse without moving the wings—</l>
+                        <l>rising steadily with a slight</l>
+                        <l> quiver of the body [...]<note>This and all published poems quoted in this notebook refer to Heather Cass White’s edition <title>A-Quiver with Significance: 1932-1936</title>, 50-51.</note></l>
+                        
+                    </lg>
+                </p>
+                <p>Like most of Moore’s poems, “The Steeple Jack” proceeds through detailed description of particular phenomena, leaving readers to make out for themselves the significance of the cumulative picture or narrative. In this case, the poem presents a small sea-side town following a storm that seems both steeped in disaster (eight stranded whales) and as precisely arranged as a Dürer masterpiece. In my reading, this 1932 poem argues against nationalism and despair—in part in response to the Depression and to rising Fascism in Europe. A long catalogue of plants includes many species not native to the U.S.; two mentions of Dürer remind us of the value of European art; a “college student” “with his not-native books” sits “on the hillside” observing the landscape—perhaps reminding us to study both our own environment and the wisdom of other places and times.</p>
+                <p>The poem concludes with a hinted return to those gulls Moore saw by the Lafayette Avenue Presbyterian church, which she attended, and the notebook context may hint at the unhappy personal narrative behind the poem. Until late summer of 1929, Moore had lived in the Village; while she and her mother were on vacation, her brother let their flat go and rented an apartment for them in Brooklyn—expressly against her wishes, since this took her so far out of the swing of the city’s literary life.<note>Leavel, <title>Holding On Upside Down</title>, 260-261. Leavell reads this poem similarly, although without reference to this notebook passage or to any written point of genesis.</note> In “The Steeple Jack,” “the pitch / of the church spire” is “not true”—an interesting word to choose rather than, for example, “straight.” Moore is ambivalent about this small town:  “This would be a fit haven,” she writes, “for</p>
+                <p>
+                    <lg>
+                        <l>waifs, children, animals, prisoners,</l>
+                        <l>    and presidents who have repaid</l>
+                        <l>sin-driven</l>
+                        <l>senators by not thinking about them.</l>
+                    </lg>
+                </p>
+                <p>In this town, “the hero, the student, / the steeple-jack, each in his way, / is at home.”</p>
+                <p>
+                    <lg>
+                        <l>It could not be dangerous to be living</l>
+                        <l>    in a town like this, of simple people,</l>
+                        <l>who have a steeple-jack placing danger signs by the church</l>
+                        <l>while he is gilding the solid-</l>
+                        <l>     pointed star, which on a steeple</l>
+                        <l>stands for hope.  (<title>A-Quiver</title> 53).</l>
+                    </lg>
+                </p>
+                <p>Does even the star on a “not-true” steeple stand for hope? Why does the steeple-jack gild rather than straighten this steeple? Seeing gulls fly over the Lafayette Avenue church’s steeple in Brooklyn may have stimulated questions for her about hope and trust in a “not true” world, questions she grappled with in “The Steeple Jack.” One might trust Moore’s earlier comment in the poem—“it is a privilege to see so much confusion”—more than her implication that institutions like churches and street signs prevent life treachery or danger. In every town we face the question of what serves us best as moral or ethical guides and who or what we can trust.</p>
+                <p>The concluding list of poems also suggests possible new, or extended, directions of study. Critics are already exploring the ecological and natural scientific foundation of some of her poems—for example, “An Octopus,” which describes the ecology of the glacier on Mount Ranier—and the relation of her work to nationalism, in various forms. What might she have done with a poem on “Carlsbad Caverns,” or a poem titled “A Patriot”? This list also suggests Moore’s transnational interests. She took many pages of notes on objects from Persia and other parts of the East—as suggested by the potential titles “The Maharajahas’ barge” and “In Persia at times there has been the capable man with leisure.” One of her published poems with specific focus on Asia features the water buffalo. To my knowledge, her earliest drafted thoughts toward that poem appear within this list, where she writes, as previously quoted: “I am an OX or is this another thing that I don't know about in the Malay peninsula—&amp; <del>you are a clear head stronger than I am, comparatively</del>”; she then continues onto the recto of the next page: “I may change to a buffalo—not bison w spear headed tail—but the water buffalo.”</p>
+                <p>    In the poetry notebook Moore kept between 1933 and 1940, edited by Heather Cass White, Moore repeats lines that echo these:</p>
+                <p>
+                    <lg>
+                        <l> I am no falconing party</l>
+                        <l>I am a buffalo</l>
+                        <l><del>or is that something one can't know</del></l>
+                        <l>in the ooze of the low</l>
+                        <l> land ^ or is that something one can't know.  (<ref target="../notebooks/nb07_04_07.xml?root=3.6.4.34.4&amp;action=search&amp;view=page&amp;odd=moore#3.6.4.34.6.5.26">view Poetry Notebook 07.04.07, p. 17r</ref>)</l>
+                    </lg>
+                </p>
+                <p>Moore writes on another page of the same notebook:</p>
+                <p>
+                    <lg>
+                        <l>  I am a buffalo–</l>
+                        <l>  or is this something else that I don't know</l>
+                        <l>   about</l>
+                        <l>or </l>
+                        <l> I am a baby is that what I</l>
+                        <l>       to the universe </l>
+                        <l> <del>am</del> am ^, <del>not a</del> buffalo, but a baby that has</l>
+                        <l>        no </l>
+                        <l>                 decided to cry.</l>
+                        <l/>
+                        <l>    nothing high like a buffalo</l>
+                        <l>          but a baby that has</l>
+                        <l>     decided to cry</l>
+                        <l>                 goldilocks  (<ref target="../notebooks/nb07_04_07.xml?root=3.6.4.10.4&amp;action=search&amp;view=page&amp;odd=moore#3.6.4.10.6.5.34">view Poetry Notebook 07.04.07, p. 5r</ref>)</l>
+                            
+                    </lg>
+                </p>
+                <p>Later on this same page Moore drafts “Take this portion of my soul / fr the good half of the whole / goriness / spottedness moving boldly along / a flea // hopping on &amp; distressing me” and then in a corner of the page “am I / a buffalo or am I /a not much hurt baby that’s / decided to cry.”</p>
+                <p>This poem also works from two visual images that Moore saw in the <title>New York Times</title>, one in 1927 and the second in 1933. The latter was (mis)titled “The Over-Drove Ox,” a satirical print of an ox running amok on a crowded street by eighteenth-century artist Thomas Rowlandson; the former was a photograph of a diorama of white-footed water buffalo at the Chicago Field Museum. Moore cut out this image with its caption.<note>The <title>Times</title> titled Rowlandson’s <title>The Overdrive Ox</title> (1787) as “The Over-Drove Ox” (<title>New York Times</title> Feb 12, 1933). The second print was titled: “Water Buffalo from Eastern Asia: A Group of Animals[.] Shot by Colonel Theodore Roosevelt on the William V. Kelly-Roosevelt Expedition. Now on Exhibition at the Field Museum of Natural History in Chicago.” Moore clipped it from the <title>New York Times</title> April 24, 1927. See the weblog curated by Patricia C. Willis, <ref target="https://moore123.wordpress.com">https://moore123.wordpress.com</ref> (accessed May 2016) for access to these images and information on the poem.</note></p>
+                <p>The final poem contains the lines:</p>
+                <p>
+                    <lg>
+                        <l>. . .       no freakishly</l>
+                        <l/>
+                        <l>        Over-Drove Ox drawn by</l>
+                        <l>Rowlandson, but the Indian buffalo,</l>
+                        <l>albino-</l>
+                        <l>     footed, standing in a mud-lake with a</l>
+                        <l>         day's work to do. No white</l>
+                        <l>     Christian heathen, way-</l>
+                        <l>            laid by the Buddha,</l>
+                        <l/>
+                        <l>         serves him so well as the</l>
+                        <l>buffalo—as mettlesome as if check-</l>
+                        <l>reined—free neck</l>
+                        <l>    stretching out, and snake tail in a half-twist</l>
+                        <l>          on the flank; nor will so</l>
+                        <l>    cheerfully assist</l>
+                        <l>            the Sage sitting with</l>
+                        <l/>
+                        <l>           feet at the same side, to</l>
+                        <l>dismount at the shrine;<note>“The Buffalo” was first published in <title>Poetry</title>, November 1934 (<title>A-Quiver</title> 89-90).</note></l>
+                   </lg>
+                </p>
+                <p>The poem contains no first-person singular, no linking of the poet or speaker to any ox or Buffalo, no mention of cry-babies, or what one can or can’t know—and the closest one comes to mention of the soul is the reference to Buddha, who is well-served by the mettlesome but nonetheless gently helpful Indian water buffalo. No one has put together these multiple source images, lines, or reflections toward the final poem—and we do not yet know what further transcription of other notebooks kept in the late 1920s or early 1930s might contribute to our understanding of its origins.</p>
+                <p>The genesis of a poem like “The Buffalo” in statements of identification and psychological evaluation (“I am an ox,” or “a buffalo” or a “not much hurt baby that has decided to cry”) also raises interesting questions for a poet whose published work generally eschews use of the first person and is never constructed around traditional lyric meditation stemming from or portraying a distinctive emotional, personal presence. Is this movement from first-person drafted statements that seem to carry personal and emotional weight to published work downplaying or altogether dropping a marked first-person presence typical of Moore’s composition practice? And what might this tell us about her rewriting of the lyric genre?</p>
+                <p>In contrast, Moore appears to have seen fiction as a genre in which the idiosycracies of personality might blossom, and she attributes many of her own characteristics to Eloise—a poet, avid sketcher of animals, and devotee of the circus. While no passage in this notebook functions as a draft for any character’s description or speech, the novel contains several sentences or phrases lifted directly from its pages. For example, the quoted remark about T. S. Eliot is repeated in a conversation between two women about an acquaintance, who is “helplessly a poet”: “It’s not the tree nor the ash made by the tree that you have in him, but the fire that made the ash” (III.04.01, 330-331). A long notebook description of a diving team called the Aquabats, which Moore apparently saw in a newsreel, makes a cameo appearance in her description of a newsreel her protagonists see in a movie theater (115). The notebook records a comment apparently made in relation to Margaret Kennedy’s play <title>Escape Me Never</title>: “I am an xtremist but <del>even</del> for one accustomed to the rigors of acting it wouldn’t be comfortable to be banged about the stage like a bale of jute from Indo china.” In the novel, two characters debate whether to leave the play they’re seeing; one says “We might have tried the Pekin Cockroach, <del>which is quite good</del>. We could stand seeing people banged about like bales of jute better than put up with this.” A notebook passage on Bach’s Triple Concerto in C major leads to two quoted phrases in the novel. Eloise asserts that “Bach, for me, is an intensive octopus of fascination, and if anybody . . . has anything qualifying to say about him, that man is not my friend”—all but the last six words coming directly from the notebook. Later, after hearing “the triple concerto in F major,” she remarks that the concert “began at eight and lasted till twenty minutes past ten, and it seemed like five minutes”: in the notebook, the Bach concert described began at 8:15.</p>
+                <p>In other places, notebook entries may serve as trial drafts for a kind of description that appears in the novel—for example, of a waltz, Millefiore paperweights, or several detailed descriptions of people’s clothing, hands, and types of momvement. Moore has such eclectic appreciation for detailed description or fine phrases that it is possible her notebook descriptions function entirely independently of the novel she is drafting but the number of coincidences in topics of interest, the phrases she does lift precisely, and the list of chapter headings and character names suggest there is some closer connection.</p>
+                <p>Critics have not yet begun to explore what may be similarly rich intersections between her notebooks’ recorded conversations, reading notes, and drafted passages and the texts of her published essays or her letters. An example of a potential link between a notebook and letters occurs in a passage written sometime between November 1932 and November 1936 and a letter Moore writes to Pound in 1946. Moore refers briefly to Pound’s influence on W. H. D. Rouse’s translation of the <title>Odyssey</title>, encouraging Rouse to be colloquial—as Moore puts it, to “kee[p] to the manner of the Greek. You feel the image of the boat forward and the swish of the oars—.”<note>Miscallaneous Notebook 07.03.11, p. <ref target="../notebooks/nb07_03_11.xml?root=3.4.5.40.4&amp;action=search&amp;view=page&amp;odd=moore#3.4.5.40.8.10.4">20v</ref>.</note> Immediately following this note, she writes:</p>
+                <p>
+                    <lg>
+                        <l>                 [..]well— don't let me be embittered</l>
+                        <l>  <del>To be</del> Embitterment is regrettable</l>
+                        <l> <del>It is res</del> as a result of which <del>people</del></l>
+                        <l> <del>take the</del> in every important thing</l>
+                        <l>the person takes the lesser attitude</l>
+                        <l>                   his own</l>
+                        <l> w a view to emphasizing individuality.  (<ref target="../notebooks/nb07_03_11.xml?root=3.4.5.40.4&amp;action=search&amp;view=page&amp;odd=moore#3.4.5.40.8.10.4">view Misc. Notebook 07.03.11, p. 20v</ref>)</l>
+                    </lg>
+                </p>
+                <p>In the left margin, vertically next to these lines, she writes “EMBITTERMENT.” On 31 July 1946, Moore wrote to Pound: “I have been telling people I cannot write letters or even receive them; but we think of you, Ezra, and wish you could be comfortable. Don’t be embittered. Embitterment is a sin—a subject on which I am an authority.”<note><title>Selected Letters</title>, 461.</note> While Moore may be saying she is an authority on sin rather than embitterment (syntactically, either is possible), the notebook entry shows that she has been thinking about embitterment for at least a decade.</p>
+                <p>As my exploration of a variety of threads of interest here indicates, there is no dominant theme or topic in this notebook, just as there is no dominant genre. It is entirely miscellaneous, also opening the question of why Moore would choose to write a particular observation, recorded conversation, or reading note in one book rather than another, when she is keeping several at the same time. Between 1929 and 1940, Moore appears to be writing in at least twenty-seven notebooks! While in some cases the notebooks are highly specific (notes on a set of lectures, or on finances), in others the choice of which notebook to write in could be a matter of deliberate categorization of material or of coincidence or convenience. Perhaps she chooses whatever notebook comes most readily to hand. As more edited and annotated notebooks become available on this site, we may be able to speculate more pointedly about the extent to which Moore intended a specific use for particular reading or conversation or miscellaneous notebooks. Only after several notebooks of the same period have been transcribed can scholars begin to speculate meaningfully on their patterns and Moore’s choices, and hence come closer to understanding the workings of her “enchanting . . . enchanted” mind.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

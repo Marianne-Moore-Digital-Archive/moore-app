@@ -1,0 +1,46 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.016Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.164Z" modified="2026-03-04T15:59:27.164Z" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.829Z" modified="2026-03-04T15:59:56.829Z" filename="repo.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.152Z" modified="2026-03-04T15:59:27.152Z" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name=".jinks.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.184Z" modified="2026-03-04T15:59:27.184Z" filename=".jinks.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="context.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.173Z" modified="2026-03-04T15:59:27.173Z" filename="context.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="post-install.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.162Z" modified="2026-03-04T15:59:27.162Z" filename="post-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="icon.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.18Z" modified="2026-03-04T15:59:27.18Z" filename="icon.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Dockerfile" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.16Z" modified="2026-03-04T15:59:27.16Z" filename="Dockerfile" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.158Z" modified="2026-03-04T15:59:27.158Z" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.066Z" modified="2026-03-04T15:59:27.155Z" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.182Z" modified="2026-03-16T19:02:30.209Z" filename="config.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.186Z" modified="2026-03-04T15:59:27.186Z" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name=".devcontainer" filename=".devcontainer"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="static" filename="static"/>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="data" filename="data"/>
+    <subcollection name="transform" filename="transform"/>
+</collection>

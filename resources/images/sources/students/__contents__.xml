@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/students" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:53.522Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="KariapperHeebaMMDAPoster.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.528Z" modified="2026-03-04T15:59:53.528Z" filename="KariapperHeebaMMDAPoster.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="KariapperHeebaMMDAPoster.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.524Z" modified="2026-03-04T15:59:53.524Z" filename="KariapperHeebaMMDAPoster.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

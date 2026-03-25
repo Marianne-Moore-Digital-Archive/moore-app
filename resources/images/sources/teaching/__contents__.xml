@@ -1,0 +1,33 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/teaching" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:46.055Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="LeavellLittleMagazinesF08.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.083Z" modified="2026-03-04T15:59:46.083Z" filename="LeavellLittleMagazinesF08.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Costello_Mooreassignments_history.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.081Z" modified="2026-03-04T15:59:46.081Z" filename="Costello_Mooreassignments_history.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Leavell5480finalF08.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.079Z" modified="2026-03-04T15:59:46.079Z" filename="Leavell5480finalF08.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Leavell_MooreBishopsyllabus.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.071Z" modified="2026-03-04T15:59:46.071Z" filename="Leavell_MooreBishopsyllabus.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Costello_Mooreassignments_toasnail.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.069Z" modified="2026-03-04T15:59:46.069Z" filename="Costello_Mooreassignments_toasnail.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Costello_Moore_assignments_blazon.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.067Z" modified="2026-03-04T15:59:46.067Z" filename="Costello_Moore_assignments_blazon.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Leavell_6110finalF06.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.065Z" modified="2026-03-04T15:59:46.065Z" filename="Leavell_6110finalF06.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Gregorysyllabus2015.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.063Z" modified="2026-03-04T15:59:46.063Z" filename="Gregorysyllabus2015.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Gregorysyllabus2017.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.06Z" modified="2026-03-04T15:59:46.06Z" filename="Gregorysyllabus2017.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="MM.ML.syll.2015.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.057Z" modified="2026-03-04T15:59:46.057Z" filename="MM.ML.syll.2015.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

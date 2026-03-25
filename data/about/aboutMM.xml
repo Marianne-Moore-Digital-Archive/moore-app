@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">About the Poet</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">education</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><figure rend="left"><graphic width="45%" url="resources/images/moore/Moore_XII_02_32h.jpg"/></figure>Marianne Moore (1887-1972) was among the foremost modernist poets of the early twentieth-century. Her work contributed to the revolution in poetic form and conceptions of poetry occurring during the 1910s and 1920s and she remained a poet of profound reflection and innovative design throughout her lifetime. In particular, Moore was among the first to conceive the poem as constructed through both language and visual design on the page and she was the first Anglo-American poet to divorce the poetic line from syntax. While her peers such as T. S. Eliot, Ezra Pound, William Carlos Williams, Wallace Stevens, and H.D. often excoriated each others’ work, all were profound admirers of Moore’s thought and poetry (Leavell 2014; Miller 1995). Moore was also significant to modernism in her decades-long reviewing of work by her contemporaries, her publication of essays on aesthetic and cultural topics, and in her editing of one of the premier periodicals of modernist literature and art, <title>The Dial</title>, from 1925-1929.</p>
+
+<p>Moore was awarded the Dial Prize, the Pulitzer Prize, the Bollingen Prize, the National Book Award, and the Gold Medal of the National Institute of Arts and Letters—among other awards. Additionally, she was made Chevalier de l'ordre des Lettres from France and received a Gold Medal Award for Lifetime Achievement from the Poetry Society.</p>
+
+<p><figure rend="right"><graphic width="45%" url="resources/images/moore/Moore_XII_04_12.jpg"/></figure>Moore grew up first in Kirkland, Missouri, then (after a brief period of instability) in Carlisle, Pennsylvania, living with her mother, Mary Warner Moore, and brother, John Warner—called Warner. Her mother separated from her husband, Moore’s father, before the poet’s birth, and refused further contact with him or his family. Moore and her mother and brother were very close and engaged in playful familial practices—like assigning each other animal names taken from children’s literature or events in their youth: Moore herself was typically given a masculine nomenclature, as Fangs, Gator, and later as Rat—the poet-hero of <title>The Wind in the Willows</title>. After attending Bryn Mawr College, one of the most rigorous colleges for women at the turn of the century, Moore spent a year working in upstate New York and then returned to living with her mother in Carlisle. The two Moore women later moved to New Jersey and then New York, continuing to live together until Mary Warner’s death in 1947. The relationship was strained in many ways but Moore found ways to make it nourish her poetry, or found ways through her poetry to escape its tensions.</p>
+
+<p>Moore’s friends and admirers poet H.D. and novelist Bryher (Winnifred Ellerman) published a book of her poems in 1921 (<title>Poems</title>) and Moore published her own first book of poetry, <title>Observations</title>, in 1924—a collection that won the Dial Prize. Moore ceased writing poems during the years she edited <title>The Dial</title> but returned to writing and publishing in the 1930s, including a volume of <title>Selected Poems</title>, introduced by T. S. Eliot, in 1935. With the publication of her <title>Collected Poems</title> in 1951, she began to receive widespread national recognition. By the time of her death in 1972, she was an international celebrity.</p>
+
+<p>In addition to poetry, reviews, and essays, Moore translated the <title>Fables of La Fontaine</title>, published in 1954. She also wrote a play (<title>The Absentee</title>, 1962) and a novel (unpublished). For information on the novel, see Cristanne Miller’s <ref target="../essays/nb07_03_11_intro.xml">“Introduction” to notebook 07.03.11.</ref></p>
+
+<p>While Moore has long been recognized as one of the great poets of the twentieth-century, she is not as well-known as her peers—in part, Moore scholars believe, because her work poses a different kind of difficulty from that of, say, Eliot or Pound. This has something to do with the innovative difficulty of her syntax and syllabic forms, but the complexity of Moore’s work also issues in part from the extraordinary and shifting frames of reference in individual poems, often including scientific, artistic, and a wide array of popular cultural and international political realms. Moore has not just an interest in Chinese lacquer carving, baseball, the behavior of ants or swans, genetic engineering of plants, and classical literary and philosophical or theoretical texts but a precise and detailed knowledge of such subjects. Understanding her allusions to this range of knowledge helps to illuminate the power and breadth of her poems’ reflections, their political implications, and (often) their wit or humor.</p>
+
+<p><figure rend="left"><graphic width="45%" url="resources/images/moore/Moore_XII_03_05e.jpg"/></figure>Equally important, while vast quantities of supporting or avant-text materials have been published for Moore’s contemporaries, including draft manuscripts and correspondence, only a tiny fraction of such material available in Moore’s archive has seen its way into print. Of the tens of thousands of letters she wrote there has been only one relatively compact selection of letters; none of her many notebooks has been published; and there is not even a variorum edition of her poems. The <title>Marianne Moore Digital Archive</title> takes as its assumption that the first and most important step in illuminating the extraordinary range of Moore’s intellectual and cultural interests and interventions is to make her notebooks accessible in annotated, searchable editions.</p>
+
+<p>Within the last decade, Moore has become increasingly important to contemporary poets and scholars. Similarly, there is increasing interest in art, like Moore’s, that is based on multi-disciplinary, high and low culture, widely diverse resources—such as those illuminated by her notebooks.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

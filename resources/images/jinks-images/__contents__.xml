@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/jinks-images" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:53.537Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="type.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.553Z" modified="2026-03-04T15:59:53.553Z" filename="type.jpeg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paper.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.55Z" modified="2026-03-04T15:59:53.55Z" filename="paper.jpeg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="books.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.544Z" modified="2026-03-04T15:59:53.544Z" filename="books.jpeg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="typewriter.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.539Z" modified="2026-03-04T15:59:53.539Z" filename="typewriter.jpeg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

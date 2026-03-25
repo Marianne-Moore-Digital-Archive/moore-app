@@ -1,0 +1,90 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/modules" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.202Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="navigation-tei.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.25Z" modified="2026-03-04T15:59:27.25Z" filename="navigation-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.248Z" modified="2026-03-04T15:59:27.248Z" filename="query.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="config.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.246Z" modified="2026-03-04T15:59:27.246Z" filename="config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline-api.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.244Z" modified="2026-03-04T15:59:27.244Z" filename="timeline-api.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="facets-config.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.243Z" modified="2026-03-04T15:59:27.243Z" filename="facets-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="registers-api.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.241Z" modified="2026-03-04T15:59:27.241Z" filename="registers-api.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-jats.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.239Z" modified="2026-03-04T15:59:27.239Z" filename="query-jats.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline-api.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.238Z" modified="2026-03-04T15:59:27.238Z" filename="timeline-api.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-db.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.235Z" modified="2026-03-04T15:59:27.235Z" filename="query-db.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation-jats.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.233Z" modified="2026-03-04T15:59:27.233Z" filename="navigation-jats.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="iiif-config.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.231Z" modified="2026-03-04T15:59:27.231Z" filename="iiif-config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="registers-api.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.23Z" modified="2026-03-04T15:59:27.23Z" filename="registers-api.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.228Z" modified="2026-03-04T15:59:27.228Z" filename="navigation.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ext-html.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.226Z" modified="2026-03-04T15:59:27.226Z" filename="ext-html.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="generate-pm-config.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.224Z" modified="2026-03-04T15:59:27.224Z" filename="generate-pm-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="facets.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.222Z" modified="2026-03-04T15:59:27.222Z" filename="facets.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nlp-config.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.221Z" modified="2026-03-04T15:59:27.221Z" filename="nlp-config.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="static-generator.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.219Z" modified="2026-03-04T15:59:27.219Z" filename="static-generator.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="query-tei.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.217Z" modified="2026-03-04T15:59:27.217Z" filename="query-tei.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="map.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.216Z" modified="2026-03-04T15:59:27.216Z" filename="map.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-api.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.214Z" modified="2026-03-04T15:59:27.214Z" filename="custom-api.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="registers-static-index.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.212Z" modified="2026-03-04T15:59:27.212Z" filename="registers-static-index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="odd-global.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.211Z" modified="2026-03-04T15:59:27.211Z" filename="odd-global.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="custom-api.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.209Z" modified="2026-03-04T15:59:27.209Z" filename="custom-api.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="generated-config.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.207Z" modified="2026-03-04T15:59:27.207Z" filename="generated-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="registers.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.205Z" modified="2026-03-04T15:59:27.205Z" filename="registers.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pm-config.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.236Z" modified="2026-03-04T16:00:07.279Z" filename="pm-config.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="navigation-dbk.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.203Z" modified="2026-03-04T15:59:27.203Z" filename="navigation-dbk.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="annotations" filename="annotations"/>
+    <subcollection name="lib" filename="lib"/>
+</collection>

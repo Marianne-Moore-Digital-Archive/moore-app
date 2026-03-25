@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/modules/templates" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.252Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="page.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.256Z" modified="2026-03-04T15:59:27.256Z" filename="page.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="browse.xqm" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.254Z" modified="2026-03-04T15:59:27.254Z" filename="browse.xqm" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

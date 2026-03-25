@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">Syllabuses and Lesson
+                        Plans</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="4">education</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>UNDERGRADUATE</head>
+                <list rend="unordered">
+                    <item><p><ref target="../resources/images/sources/teaching/Costello_Moore_assignments_blazon.pdf"><hi rend="bold">Variations on
+ assignments on Marianne Moore
+ and the blazon (used with
+ “Those Various Scalpels” and
+ “Roses Only”) by Bonnie
+ Costello. (writing
+ assignment)</hi></ref>. Last updated: Spring 2017</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/Costello_Mooreassignments_toasnail.pdf"><hi rend="bold">“To a Snail” in relation to other snail poems and semiotics (and other intertextual topics) by Bonnie
+ Costello. (writing assignment)</hi></ref>. Last updated: Spring 2017</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/Costello_Mooreassignments_history.pdf"><hi rend="bold">Marianne Moore as historian and contemporary cultural critic by Bonnie Costello. (writing assignment)</hi></ref>. Last updated: Spring 2017</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/Gregorysyllabus2017.pdf"><hi rend="bold">Women Writers/Intersectionalities: Three Poets by Elizabeth Gregory. (syllabus) This course explores the poetry of Elizabeth Bishop, Gwendolyn Brooks, and Marianne
+ Moore</hi></ref>. Last updated: Spring 2017</p>
+                    </item>
+                </list>
+                <head>GRADUATE</head>
+                <list rend="unordered">
+                    <item><p><ref target="../resources/images/sources/teaching/Gregorysyllabus2015.pdf"><hi rend="bold">Marianne
+ Moore and Mina Loy by
+ Elizabeth Gregory</hi>
+ (syllabus)</ref>. Last updated: Spring 2015.</p>
+                        <p>This course explores the poetry
+                            of two modernist poets, Mina Loy
+                            and Marianne Moore. Though their
+                            work differs markedly in affect
+                            and mode, Ezra Pound linked the
+                            two as practitioners of
+                            "logopoeia," which he defined as
+                            "poetry that is akin to nothing
+                            but language, which is a dance
+                            of the intelligence among words
+                            and ideas..." Though you might
+                            argue with that
+                            characterization, both succeeded
+                            in part because they eschewed
+                            the familiar "feminine"
+                            sentimentality of the period and
+                            presented themselves as very (if
+                            not exclusively) rational. With
+                            radically innovative prosodies
+                            and revolutionary understandings
+                            of what modern women might have
+                            to say, their bodies of work
+                            turn out to be among the most
+                            challenging and engaging of the
+                            20th century.</p>
+                        <p>The course will explore the
+                            poetry written across the long
+                            careers of both poets, the
+                            history of scholarship on their
+                            work and of the availability of
+                            their texts (though both are
+                            more available now, Loy was out
+                            of print for decades, and
+                            Moore's work was [and still is]
+                            in print only in limited form).
+                            We will also look at the tole of
+                            biography and reception, and
+                            read the two most recent
+                            biographies of each (Loy
+                            [Carolyn Burke, 1996]; Moore
+                            [Linda Leavell, 2013]). In
+                            addition, the course will take
+                            advantage of the presence of a
+                            major cohort of Moore critics,
+                            who will be part of the
+                            21st-century Moore conference on
+                            campus March 19-22,
+                        2015.</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/Leavell_MooreBishopsyllabus.pdf"><hi rend="bold">Marianne Moore and Elizabeth Bishop by Linda Leavell. (syllabus)</hi></ref> Last updated: Fall 2006</p>
+                        <p>Moore and Bishop met when Moore
+                            was an established poet and
+                            Bishop a college student. They
+                            liked each other immediately and
+                            became lifelong friends. Both
+                            have a precise eye for detail,
+                            both write about animals, and
+                            although both resist easy
+                            classification, both are highly
+                            regarded by a wide range of
+                            poets. The seminar will examine
+                            not only their poetry and prose
+                            but also their respective
+                            generations and the dynamics of
+                            influence between mentor and
+                            protégé. Students will develop
+                            their expertise as scholars of
+                            literature by analyzing primary
+                            and secondary sources. They
+                            should likewise develop
+                            expertise in both oral and
+                            written expression.</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/Leavell_6110finalF06.pdf"><hi rend="bold">Final Exam,
+ Marianne Moore and Elizabeth
+ Bishop by Linda Leavell.
+ (exam)</hi></ref> Last updated: Fall 2006</p><p>Final exam questions for the course above.</p></item> <item><p><ref target="../resources/images/sources/teaching/LeavellLittleMagazinesF08.pdf"><hi rend="bold">Modernism:
+ American Poetry in the "Little
+ Magazines" by Linda Leavell.
+ (syllabus)</hi></ref> Last updated: Fall 2008</p>
+                        <p>For students new to the subject
+                            of modern American poetry, this
+                            course will serve as an
+                            introduction. But it will
+                            introduce the poets and their
+                            works through two emerging
+                            critical perspectives:
+                            periodical studies and material
+                            studies. If students of poetry
+                            are accustomed to examining
+                            nuances of meaning in language,
+                            what more can they learn about a
+                            poem from examining it as a
+                            physical artifact—an object
+                            consisting of ink and paper?
+                            Most of the modernist American
+                            poetry we now read in
+                            anthologies first appeared in
+                            experimental “little magazines”
+                            published in Chicago, New York,
+                            and London. How did these poems
+                            appear to the readers who first
+                            encountered them there? How do
+                            the politics of magazine editing
+                            inform these poems and their
+                            reception? What do the
+                            advertisements and editorials,
+                            for instance, tell us about the
+                            magazine’s intended readership?
+                            How did some of the poets who
+                            appeared in these magazines
+                            become canonized and others not?
+                            The seminar will examine these
+                            and other questions as it
+                            examines literary history both
+                            vertically (e.g., a poet’s
+                            oeuvre) and horizontally (e.g.,
+                            works by various authors in a
+                            single magazine issue). Students
+                            will develop their expertise as
+                            scholars of literature by
+                            analyzing primary and secondary
+                            sources. They should likewise
+                            develop expertise in both oral
+                            and written
+                        expression.</p></item>
+                    <item>
+                        <p><ref target="../resources/images/sources/teaching/Leavell5480finalF08.pdf"><hi rend="bold">Final Exam,
+ Modernism: American Poetry in
+ the "Little Magazines" by
+ Linda Leavell
+ (exam)</hi></ref>. Last
+                            updated: Fall 2008</p><p>Final
+                            exam questions for the course
+                            above.</p></item>
+                    <item><p><ref target="../resources/images/sources/teaching/MM.ML.syll.2015.pdf"><hi rend="bold">Marianne
+ Moore and Mina Loy by
+ Cristanne Miller
+ (syllabus)</hi></ref>. Last
+                            updated: Spring 2015</p>
+                        <p>At the end of the 1910s, the two
+                            most talked about and arguably
+                            the most influential poets in
+                            New York were Marianne Moore and
+                            Mina Loy. Both published their
+                            most innovative work between
+                            1914 and 1925, both affected the
+                            development of modernist poetic
+                            form, both were reviewed very
+                            positively by poets we now think
+                            of as canonical (Pound, Eliot,
+                            Williams), both published in
+                            multiple little magazines, and
+                            Moore would go on to become one
+                            of the most important editors of
+                            the 1920s, editing <title>The
+ Dial</title> from 1925-29.
+                            This seminar will focus on the
+                            poetry written by these two
+                            women, primarily in the contexts
+                            of the New York scene, gender
+                            politics, the role of biography
+                            in reception, the visual arts,
+                            little magazines, and editorial
+                            issues remaining for scholars to
+                            address. Class participants will
+                            have access to some
+                            never-published and hard to
+                            access notebooks kept by Moore
+                            and used for the writing of her
+                            poetry, and an opportunity to
+                            engage in some
+                        editing.</p></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

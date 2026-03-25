@@ -1,0 +1,24 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/scripts" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:28.084Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="header.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.095Z" modified="2026-03-04T15:59:28.095Z" filename="header.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="facets.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.093Z" modified="2026-03-04T15:59:28.093Z" filename="facets.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="language.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.092Z" modified="2026-03-04T15:59:28.092Z" filename="language.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="registers.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.09Z" modified="2026-03-04T15:59:28.09Z" filename="registers.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeline.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.089Z" modified="2026-03-04T15:59:28.089Z" filename="timeline.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="layout.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.087Z" modified="2026-03-04T15:59:28.087Z" filename="layout.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="browse.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.086Z" modified="2026-03-04T15:59:28.086Z" filename="browse.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

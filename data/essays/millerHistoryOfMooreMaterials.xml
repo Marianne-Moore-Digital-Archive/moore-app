@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A History of Moore Materials at the
+                    Rosenbach Museum &amp; Library and the
+                    MMDA</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">essays</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>A History of Moore Materials at the
+                    Rosenbach Museum &amp; Library and the
+                    MMDA</head>
+                <p rend="center">Cristanne
+                        Miller<note>Information serving as
+                        the basis for this essay comes from
+                        several sources: my thanks to Linda
+                        Leavell for providing notes on her
+                        conversations with the Moore family,
+                        especially Moore’s niece, Marianne
+                        Craig Moore; to Robin G. Schulze for
+                        conversation and notes about her
+                        part in manuscript recovery; to
+                        Patricia C. Willis and Leslie Morris
+                        for email exchanges on this subject;
+                        and to Elizabeth Fuller for comments
+                        on accuracy. Ellen Dunlap spoke with
+                        Fuller, who in turn spoke with me.
+                        Leavell, Willis, and Fuller all
+                        looked at drafts of the
+                        essay.</note></p>
+                <p rend="center">posted October 2018</p>
+                <p>There is a history behind the gathering
+                    and organization of every major archive.
+                    There is also a history behind every
+                    major editorial project. Both kinds of
+                    history involve multiple contingencies
+                    and endless possibilities for error.
+                    Manuscript materials are also themselves
+                    unstable. Especially work written during
+                    the modernist period, when cheap paper
+                    was widely available, is often fragile
+                    or deteriorating, and many manuscripts
+                    come to libraries already in compromised
+                    condition. Furthermore, practices for
+                    archival research were different several
+                    decades ago, when the Moore papers were
+                    delivered to the Rosenbach Museum &amp;
+                    Library, and conditions for scholarly
+                    research in small private libraries
+                    differed from those at well-funded
+                    universities or national archive
+                        centers.<note>I generalize on the
+                        basis of work conducted over the
+                        past almost forty years at various
+                        manuscript archives in Germany,
+                        Israel, and the United
+                        States—including at institutions
+                        such as Harvard, Yale, or the New
+                        York Public Library and at the
+                        Rosenbach in the 1980s, when it was
+                        less than half its current size, and
+                        to reading privately held
+                        manuscripts in the owner’s dining
+                        room.</note> In short, a history of
+                    the Moore materials comprises many
+                    stories—of instabilities, accidents, and
+                    theft; and of scholars, editors,
+                    librarians, the poet’s family, and of
+                    literary executors.</p>
+                <p>While similar stories might be told about
+                    other large collections going to small
+                    libraries in the mid-twentieth century,
+                    the history of the Moore Collection at
+                    the Rosenbach Museum &amp; Library is
+                    more unusual and dramatic than most—from
+                    the fact that Moore donated the entire
+                    contents of her living room to the
+                    Library to dramatic recovery of
+                    uncatalogued manuscripts, theft, and the
+                    inadvertent scrambling of pages in some
+                    notebooks. We tell this tale not (only)
+                    because it is a good story but because
+                    it helps to explain why some Moore
+                    notebooks are available only in
+                    photocopy and why the Marianne Moore
+                    Digital Archive (hereafter MMDA)
+                    presentation of two poetry notebooks
+                    includes a link to an important
+                    renumbering document, for anyone
+                    comparing MMDA transcriptions with notes
+                    taken on the conserved notebooks at the
+                        Rosenbach.<note>As we continue to
+                        study and edit notebooks, we may
+                        find others that require the
+                        reordering of pages and images.
+                        Conversation Notebook 1914-1929
+                        (VII.10.07, old numbering: 1250/24)
+                        has a few disordered pages in its
+                        photocopy and librarian-numbered
+                        pages (the notebook itself is
+                        missing), but because Moore was
+                        writing in a repurposed bound
+                        calendar, it is easy to reorder
+                        these few pages by following the
+                        calendar dates. The error was
+                        detected some time ago by Rosenbach
+                        staff member Evelyn Feldman and then
+                        caught again by Michael Barsanti and
+                        Linda Leavell. See a misquotation in
+                        Leavell’s <title>Prismatic
+                            Color</title> (148) caused by
+                        the disordered pages—pointed out to
+                        me by Leavell (email
+                    2017).</note></p>
+                <p>Our story of Moore’s manuscripts also
+                    serves as a cautionary reminder that
+                    knowing the history of documents and
+                    having personal records taken from
+                    original sources is key to accurate
+                    scholarly editing.</p>
+                <p>This is also a story of decades-long
+                    collaboration between librarians and
+                    scholars in supporting and fruitfully
+                    using a huge and initially chaotic
+                    archive. Moore scholars I know have the
+                    highest regard for the librarians with
+                    whom we have worked at the Rosenbach,
+                    three of whom have gone on to hold
+                    illustrious positions in the profession:
+                    Patricia C. Willis as Curator of
+                    American Literature at the Beinecke
+                    Library, Yale; Ellen Dunlap, Director of
+                    the Rosenbach from 1983 to 1992, as
+                    president of the American Antiquarian
+                    Society; and Leslie Morris as Gore Vidal
+                    Curator of Modern Books and Manuscripts
+                    at the Houghton Library, Harvard.</p>
+                <p>In 1968, Marianne Moore sold her papers
+                    to the Philip H. and A.S.W. Rosenbach
+                    Foundation (later known as the Rosenbach
+                    Museum and Library) and bequeathed her
+                    furniture and personal possessions for a
+                    Marianne Moore Room, because the
+                    Rosenbach’s Philadelphia townhouse
+                    contained a room with the same
+                    proportions as her living room on West
+                    9th Street in Manhattan—right down to
+                    the placement of windows and the
+                    fireplace. Moore’s archive was in demand
+                    by University of Texas at Austin, Yale,
+                    and other rare book libraries but,
+                    probably in part because of her growing
+                    friendship with Clive Driver, she chose
+                    the Rosenbach. Moore died in 1972,
+                    having named Driver, who was Director of
+                    the Rosenbach from 1966 to 1979, the
+                    literary executor of her estate—much to
+                    the surprise of her family. The family
+                    had believed that Marianne Craig Moore,
+                    the poet’s niece, would be named
+                    literary executor, as she had been in a
+                    previous document. According to Linda
+                    Leavell, there were already hard
+                    feelings between Clive Driver and the
+                    family from the last years of Moore’s
+                    life, during which Driver came to
+                    Moore’s New York apartment several days
+                    each week to catalog her papers. The
+                    family also distrusted Louise Crane—a
+                    friend of the poet’s, who supported
+                    Driver’s role.<note><title>Holding On
+                            Upside Down: The Life and Work
+                            of Marianne Moore</title>
+                        (2014), 384-385.</note> Crane had
+                    enlisted Lawrence Brinn to draw up the
+                    new will that made Driver the
+                        executor.<note>Unrelated to this
+                        case, Brinn was later arrested for
+                        misuse of clients’ funds. <ref target="http://www.nytimes.com/1986/01/22/nyregion/a-foundation-chief-agrees-to-repay-1.3-million.html">http://www.nytimes.com/1986/01/22/nyregion/a-foundation-chief-agrees-to-repay-1.3-million.html</ref></note>
+                    Upon Moore’s death, her papers and
+                    belongings were transferred to the
+                    Rosenbach—including all furnishings of
+                    her living room, from books and art
+                    works to a piece of cake stashed in a
+                    bottom desk drawer and first discovered
+                    years later and an exercise bar, which
+                    had hung in a doorway of her apartment. </p>
+                <p>In 1987, the Moore heirs read in the New
+                    York Times about Clive Driver’s
+                    unauthorized sale of a John Adams letter
+                    from the Rosenbach’s collections and
+                    contacted the Rosenbach to inquire why
+                    they were not hearing from Driver, in
+                    his role as Literary Executor of the
+                    Moore Papers.<note><ref target="http://www.nytimes.com/1987/04/22/books/museum-says-ex-chief-sold-off-30-rare-letters.html">http://www.nytimes.com/1987/04/22/books/museum-says-ex-chief-sold-off-30-rare-letters.html</ref></note>
+                    He had not been sending reports or
+                    accounts—evidently generating reports
+                    was not a task at which he excelled.
+                    According to the family, there was an
+                    inventory of everything that Driver had
+                    taken from Moore’s apartment to the
+                    Rosenbach, but when the family inquired
+                    about this list following the
+                    announcement of the Adams letter theft,
+                    the Rosenbach claimed to have no such
+                    list and no librarian I have contacted
+                    knows of its existence.<note>Sarah Moore
+                        did make a card file of all the
+                        living room books and the order in
+                        which Moore had them, for the
+                        Marianne Moore Room.</note> On the
+                    other hand, it is known that the
+                    Rosenbach’s official inventory books was
+                    altered to indicate that some documents
+                    were sold by auction, whereas they had
+                    been sold privately by Driver himself.
+                    No report or document ever indicated
+                    that Driver sold material from the Moore
+                    archive. The Moores sued Driver,
+                    however, for the return of material he
+                    was holding privately in his possession.
+                    Director of the Rosenbach Ellen Dunlap
+                    also filed a civil suit against Driver
+                    for return of 115 missing documents. </p>
+                <p>Driver had ample opportunity to steal
+                    manuscripts. After he retired from all
+                    official work at the Rosenbach, in 1983,
+                    he was given permission by the Board to
+                    spend the night in the Museum when he
+                    was in town—since he had moved to
+                    Massachusetts and no longer owned
+                    accommodation in Philadelphia. On these
+                    nights, he was alone in the house. This
+                    circumstance, however, was less odd than
+                    it now sounds. Because the Museum &amp;
+                    Library was housed in what had been the
+                    Rosenbach residence, it long contained
+                    at least one bedroom and the first
+                    directors of the Rosenbach lived in
+                    residence there—as Driver himself had
+                    for some period. Even after the
+                    Rosenbach Director no longer lived in
+                    the building, this residential space was
+                    available for use. </p>
+                <p>Generally, during Driver’s day at the
+                    Rosenbach, arrangements were less formal
+                    and institutionalized than they are
+                    now—as was probably the case at other
+                    libraries with minimal staff support for
+                    research archives. For example, scholars
+                    read in a small room on the third floor
+                    (no elevator), blocked off from an
+                    exhibition and library-tour room only by
+                    a folding screen. Readers of the Moore
+                    papers always worked from original
+                    manuscripts and there was typically no
+                    staff person in the room. One used an
+                    internal telephone line to request
+                    another manuscript or ask a question.
+                    Scholarly reading hours coincided more
+                    or less with regular business hours at
+                    the library, and especially scholars who
+                    spent several weeks in succession
+                    studying Moore materials might choose to
+                    work through the lunch hour or even eat
+                    a sack lunch in the kitchen with
+                    Rosenbach staff. One was always escorted
+                    in person into and out of the reading
+                    room but one felt a relationship of
+                    trust between librarians and readers in
+                    relation to these unique and fragile
+                    materials. </p>
+                <p>Similarly, arrangements having to do with
+                    Clive Driver’s personal access to the
+                    Moore papers were informal. It is
+                    unknown, for example, whether he had
+                    entered into an agreement with Moore
+                    herself about keeping some material in
+                    his possession. His retention of Moore
+                    manuscripts, however, does seem to have
+                    been premised on a different practical
+                    and ethical basis from his theft of
+                    Americana manuscripts. Librarians and
+                    scholars were told that Driver retained
+                    some Moore material because he was
+                    writing a biography of the poet. There
+                    was apparently no record of what
+                    material he held at any given
+                        time.<note>Patricia C. Willis
+                        comments, for example, that she
+                        cannot recall whether Moore’s novel
+                        was “restricted from use or whether
+                        Driver kept it apart from the
+                        collection. I recall his telling me
+                        that he ‘had some material’ that he
+                        kept for a biography but I did not
+                        know what the items were”
+                        (correspondence with Miller,
+                        December 2016). For preservation
+                        reasons, Willis photocopied
+                        materials that were fragile and/or
+                        frequently requested so that they
+                        would be read first in photocopy
+                        (correspondence May 2018).</note>
+                    According to Patricia C. Willis, the
+                    curator of literature at the Rosenbach
+                    from 1974 until 1987, only one poetry
+                    notebook (that from 1922-1930) was
+                    accessible among the Moore Papers during
+                    her tenure—suggesting that Driver had
+                    the other five in his possession. As
+                    rehearsed in the Encyclopedia of Library
+                    and Information Science, in 1989, the
+                    Rosenbach’s civil suit was settled and
+                    Driver was required to return documents
+                    in his possession. Forty-eight documents
+                    were known to have been sold by Driver
+                    to dealer Paul Richards; ten were still
+                    in his possession at the time of the
+                    settlement with the
+                            Rosenbach.<note><title>Encyclopedia
+                            of Library and Information
+                            Science</title>, volume 62,
+                        supplement 25: 205. This article
+                        also indicates that Driver was
+                        convicted on felony charges from a
+                        separate criminal case. According to
+                        Elizabeth Fuller, the Rosenbach
+                        conducted a thorough check of all
+                        records and materials in its
+                        Americana Collection and every item
+                        they knew was missing eventually
+                        turned up in the marketplace.
+                        Nothing was unaccounted for.</note>
+                    Again, none of the items named in the
+                    civil suit or returned in relation to
+                    this suit were from the Moore
+                    Collection. The Moores also won their
+                    suit and Marianne Craig Moore became the
+                    estate’s Literary Executor.<note>The
+                        January 1989 <title>Rosenbach
+                            Newsletter</title> (no. 12)
+                        announced that Marianne Craig Moore
+                        had been appointed Literary Executor
+                        for the Estate of Marianne
+                        Moore.</note></p>
+                <p>According to the family, Driver turned
+                    his privately held Moore papers over to
+                    their lawyer. The Rosenbach Newsletter
+                    (January 1991, no. 18) reported that
+                    “some 2,700 items” were returned,
+                    including “correspondence; poetry
+                    manuscripts; notes for her unfinished
+                    memoir, titled Coming about; and the
+                    typescript of her unpublished novel.
+                    Chronologically the material spans her
+                    early family days (1895) to her death in
+                    1972.” Marianne and Sarah Moore picked
+                    up boxes of these documents from their
+                    lawyer and drove them to Philadelphia,
+                    where they delivered them personally to
+                    the Rosenbach. Miscommunication at this
+                    point prevailed: the Moores were
+                    directed to bring the papers to the back
+                    door and noted that no one at the
+                    Rosenbach thanked them or otherwise
+                    formally acknowledged the return of the
+                    documents. Deliveries, however, were
+                    generally directed to the alley and back
+                    door because parking on DeLancey Place
+                    was virtually impossible; staff were
+                    rarely present for deliveries. The role
+                    of the Moores was publicly acknowledged
+                    in the January 1991 Rosenbach
+                    Newsletter.</p>
+                <p>The relationship between the family and
+                    the Rosenbach over recent decades has
+                    been cordial. Perhaps in part because of
+                    this early history of materials in the
+                    archive, however, the Moores have been
+                    protective guardians of the poet’s
+                    unpublished materials. In 1989, the new
+                    Literary Executor was quoted as saying,
+                    “It will be necessary to review what has
+                    been done with unpublished material by
+                    Marianne Moore and to plan what should
+                    be done with the whole body of this
+                    material. Such planning for the Estate
+                    will take time and will preclude
+                    authorizing or permitting either
+                    extensive quotation or extensive
+                    paraphrase of unpublished manuscripts,
+                    etc., by Marianne Moore.”<note>January
+                        1989 <title>Rosenbach
+                            Newsletter</title> (no.
+                        12).</note> The Moore family
+                    encouraged Bonnie Costello (with Celeste
+                    Goodridge and Cristanne Miller) to
+                    publish a selection of Moore’s letters
+                    (The Selected Letters of Marianne Moore,
+                    Knopf, 1997), but they prevented other
+                    major editorial enterprises for years. </p>
+                <p>No public account of Driver’s thefts
+                    includes any mention of stolen Moore
+                    materials and to our knowledge there is
+                    no list of what was in his possession
+                    with which to compare the material
+                    recovered in 1989. One might surmise
+                    that Driver was more likely to have
+                    misplaced or lost “borrowed” Moore
+                    material than to have stolen it: he
+                    appears to have had no intention to sell
+                    this material and he did return a
+                    massive number of items to the Moores
+                    and the Library. Nonetheless, some
+                    material remains missing from the
+                    archive. </p>
+                <p>Records at the Rosenbach indicate that
+                    some documents previously in its
+                    possession and at that time photocopied
+                    are now missing—presumably because they
+                    were taken by Driver and never returned.
+                    Four notebooks were photocopied sometime
+                    in the 1970s or early 1980s and are now
+                    extant only in that copied
+                        form.<note>Reading Notebook
+                        VII.01.02 (1916-1921; originally
+                        catalogued as 1250/2), is extant
+                        only in photocopy, as are
+                        Conversation Notebooks VII.03.10
+                        (1921-28; 1250/26; photocopy is
+                        incomplete); VII.10.06 (1915-1919;
+                        1250/23), and VII.10.07 (1914-1921;
+                        1250/24).</note> Because there is
+                    neither an inventory of Moore items
+                    initially sold to the Rosenbach nor of
+                    items taken by Driver rather than going
+                    directly to the Library or taken by him
+                    later from the archive, it is impossible
+                    to know how many items that were never
+                    photocopied or catalogued are also
+                    missing. </p>
+                <p>Scholars were reminded of this fact in
+                    the mid-1990s, when Melanie Fortunato
+                    discovered a cache of stolen letters. A
+                    draper with whom Fortunato worked in
+                    Allentown, PA, showed her a box of
+                    “Civil War letters” that he had recently
+                    bought at an auction because he knew of
+                    Fortunato’s interest in American
+                    history. The box indeed contained
+                    letters from the Civil War period
+                    (written by Moore’s grandfather, who was
+                    then living in Gettysburg), but also
+                    correspondence between Moore and Ezra
+                    Pound. Fortunato did not know Moore’s
+                    work, but she did know Pound’s and
+                    realized that the documents were
+                    important. After an internet search on
+                    Moore, Fortunato contacted Robin G.
+                    Schulze because of her proximity at Penn
+                    State. Schulze then contacted Linda
+                    Leavell, and together they put Fortunato
+                    in touch with the Rosenbach. Curator
+                    Michael Barsanti contacted the draper
+                    and recovered the stolen letters,
+                    including several between Moore and
+                        Pound.<note>The <title>Rosenbach
+                            Newsletter</title> announcing
+                        the date of the return of these
+                        documents and the number of
+                        documents returned, is missing from
+                        the Rosenbach’s files. I have not
+                        been able to locate a copy anywhere.
+                        Elizabeth Fuller has said that she
+                        has access to this information but
+                        has not yet located and sent it to
+                        me.</note> The letters had come from
+                    the estate of S. V. (Stanley Virgil)
+                    Baum, who had worked at the Rosenbach to
+                    help catalog Moore’s correspondence.
+                    Shortly after the letters were
+                    reacquired, Leavell, Schulze, and Miller
+                    gathered at the Rosenbach to judge the
+                    significance of this new-found
+                    correspondence—unknown to Pound as well
+                    as to Moore scholars before their
+                    fortuitous recovery. </p>
+                <p>The current editorial stage of this story
+                    began around 2007, when Miller and
+                    Schulze hoped to publish an annotated,
+                    transcribed print edition of Moore’s
+                    most famous and longest poetry notebook
+                    (VII.04.04), begun early in 1922 and
+                    ending with pages written in 1930. They
+                    decided to construct a prototype of
+                    their edition before requesting
+                    permission from the Moore
+                        estate.<note>Miller and Schulze were
+                        denied permission to publish such an
+                        edition at the time. Miller was
+                        later granted permission to publish
+                        all Moore’s notebooks, edited and
+                        annotated, on the MMDA.</note> While
+                    using a digitized copy of the notebook
+                    at the Rosenbach, it became clear to
+                    Miller and Schulze that there was a
+                    major discrepancy between the order of
+                    pages in the extensive notes they had
+                    taken previously, individually, on this
+                    notebook, and the order of the digitized
+                    pages that followed the conserved and
+                    rebound copy of the original—a
+                    disordering that could have occurred at
+                    any time in the decade before the
+                    notebook was conserved. Looking at an
+                    early photocopy made during Willis’s
+                    years as curator, they confirmed that
+                    their notes agreed with the order of the
+                    photocopy and that the sequence of pages
+                    in the digitized, conserved edition was
+                    incorrect. The conservation treatment of
+                    this notebook concluded in October of
+                    2005, and digitized images (also
+                    numbered incorrectly) were available for
+                    scholarly use some time after late July
+                    2004. The Rosenbach used Schulze and
+                    Miller’s reordering of the first half of
+                    the notebook to correct the problem,
+                    returning the notebook to the
+                        conservator.<note>Elizabeth Fuller
+                        provided dates and records of the
+                        treatment process for this notebook,
+                        concluding with the return of the
+                        reassembled notebook to the
+                        Rosenbach on October 11, 2005 and
+                        then the Library’s response to the
+                        Miller and Schulze re-ordering in
+                        2007 (correspondence January 2 and
+                        5, 2018).</note> In 2017, Miller
+                    worked with Willis, as part of her
+                    transcription and editing of this
+                    notebook, to reorder all pages. Poetry
+                    Notebook 07.04.04 will be published
+                    through the MMDA in the fall of 2018,
+                    together with a chart showing the
+                    relationship of Willis’s photocopy
+                    numbering, Rosenbach initial
+                    conservation re-ordering, and the
+                    numbering of images in the online
+                    publication. Because the notebook
+                    contains several page stubs and
+                    fragments, the chart is relatively
+                    complex. The Rosenbach will also have
+                    access to this chart, to alert scholars
+                    to sequence issues. Several pages of
+                    this notebook remained in correct
+                    sequence in the digitized conserved
+                    rebound notebook; others, however, were
+                    dramatically out of place. This problem
+                    has meant that for some number of years
+                    before 2007, every scholar working on
+                    this notebook saw the early pages in a
+                    sequence in part different from that of
+                    Moore’s composition and they continue to
+                    see its middle and later pages in partly
+                    disordered sequence. Because this
+                    notebook contains germinal drafting
+                    toward many of Moore’s most famous early
+                    poems (“Marriage,” “An Octopus,” and
+                    “Silence,” among others) and toward
+                    significant later poems (for example,
+                    “The Steeplejack,” “The Hero,” and “The
+                    Jerboa”), it is heavily used. Any
+                    conclusion scholars drew about sequence
+                    of composition or Moore’s process of
+                    thought in moving from lines or notes on
+                    one page to the next were potentially
+                    false. </p>
+                <p>In 2016, in transcribing and editing a
+                    1933-1940 poetry notebook (VII.04.07),
+                    Heather White came to a similar
+                    conclusion after finding a logical
+                    confusion in the sequence of pages in
+                    the conserved and rebound, digitized
+                    notebook. Fortunately, there was also a
+                    photocopy of this notebook that could be
+                    used to determine either Moore’s
+                    original ordering of pages or at least
+                    the order of the pages in the notebook
+                    around 1989, when it apparently entered
+                    the Rosenbach collection and was
+                    photocopied. </p>
+                <p>These two notebooks were in frail
+                    condition and urgently required
+                    conservation. Some pages had broken
+                    loose from their binding, not
+                    surprisingly given that Moore often
+                    wrote in cheaply made, repurposed
+                    notebooks. By the time of the
+                    conservation, some pages of the 1920s
+                    notebook earlier photocopied as half
+                    pages or large fragments containing
+                    several lines had either entirely
+                    disintegrated, disappeared, or existed
+                    only in one- or two-line
+                        fragments.<note>Willis speculates
+                        that a number of pages existing only
+                        as stubs when she photocopied this
+                        notebook had been torn off by Moore
+                        herself. This was a stenographer’s
+                        notebook, with pages sewn through at
+                        the top. In order to remove a front
+                        page without dislodging its other
+                        half (back page) later in the
+                        notebook, one had to tear the page
+                        off above or below the
+                        stitching—hence the stubs. Several
+                        pages of this notebook are cancelled
+                        by a single vertical line through
+                        the middle of the page. Scholars
+                        speculate that Moore cancelled pages
+                        after she had taken desired material
+                        from them for a later draft. Perhaps
+                        she also, for this reason, tore out
+                        some pages, or perhaps she removed
+                        them for other reasons. For example,
+                        Moore used notebooks eclectically.
+                        She might have written extraneous
+                        notes on some pages, or torn them
+                        out to use for other
+                        purposes.</note> The Rosenbach used
+                    one of the premier conservation houses
+                    in Philadelphia, the Conservation Center
+                    for Art and Historic Artifacts, and kept
+                    manuscripts under watchful eye
+                    throughout the process. There is no
+                    telling at what moment the disordering
+                    of pages occurred—including,
+                    potentially, at the hands of
+                    well-meaning scholars looking at the
+                    original manuscript, who inadvertently
+                    misplaced loose pages or even imagined
+                    they were correcting the sequence. </p>
+                <p>We regard it as one of the more
+                    significant functions of the MMDA
+                    transcriptions that they present a
+                    sequence of pages restored to what we
+                    believe was the order of Moore’s
+                    composition in two poetry notebooks—or
+                    as close as we can come to such an
+                    order, judging by our own early notes on
+                    these notebooks, early photocopies, and
+                    logic. </p>
+                <p>As previously indicated, this tale of
+                    shifting possession of manuscripts,
+                    theft, and accidental false ordering of
+                    pages in two poetry notebooks provides a
+                    dramatic instance of larger issues at
+                    play in any editorial work on archival
+                    materials—namely the unpredictability
+                    and instability that can enter the
+                    process, or be revealed, at any moment.
+                    The materials themselves are often
+                    fragile and the opportunities for
+                    introducing human error are legion—even
+                    when one is not dealing with convicted
+                    felons. Especially in this age of
+                    internet access to data produced over
+                    centuries, once an error in any form is
+                    published it is virtually impossible to
+                    extinguish it from the record
+                    completely. To take a trivial example,
+                    the early misconception that Moore
+                    majored in Biology at Bryn Mawr College
+                    has been corrected in various
+                    places—probably first in the Spring 1981
+                    Marianne Moore Newsletter, which lists
+                    her “major” as “history and
+                            politics.”<note><title>Marianne
+                            Moore Newsletter</title> V.1
+                        (Spring 1981) 2-3.</note> Scholars
+                    continue to repeat that Moore majored in
+                    Biology, however—for example, as
+                    recently as 2005, 2008, and 2015, and
+                    the Brittanica.com website repeats the
+                    biology major myth.<note>See Jeredith
+                        Merrin’s essay in the
+                            <title>Columbia History of
+                            American Poetry</title> (2005);
+                        Shirlee Emmons and Wilbur Lewis’s
+                            <title>Research the Song</title>
+                        (2008); and Joshua Schuster’s
+                            <title>The Ecology of
+                            Modernism</title> (2015). Moore
+                        did in fact take several courses in
+                        Biology and for one year considered
+                        it her primary field of study, but
+                        at the end of her junior year she
+                        changed her focus to history and
+                        politics. See also Leavell’s
+                            <title>Holding On Upside
+                            Down</title>: Moore chose not
+                        Biology but “history with politics
+                        and economics” (the latter two in a
+                        single department) as her focus of
+                        study at Bryn Mawr—what we would now
+                        call a double major (67,
+                    78).</note></p>
+                <p>We hope this account of the early years
+                    of the material in the Moore Papers
+                    archive, as influenced by Driver, Baum,
+                    the Moore family, general library
+                    practices, and perhaps by scholars
+                    themselves will provide a clear and
+                    accurate record for future scholars.
+                    Further, the MMDA hopes to provide a
+                    forum for scholarly debate, information,
+                    and corrections. Through online
+                    publication, it may help to retard
+                    further deterioration of unique
+                    manuscripts in the Rosenbach archive and
+                    through its capacity for including
+                    debate and correction it may help to
+                    keep critical discussion of these
+                    resources as close to the factual record
+                    as possible.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

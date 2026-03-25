@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+    <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">Index of Notebooks</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="2">notebooks</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>This is an index of all Moore’s working notebooks, as compiled by the Rosenbach Museum and Library in 2015. A few notebooks were kept by Mary Warner Moore, her mother, although these also typically contain writing by Moore or her mother quotes her. As we transcribe and publish each notebook, it will appear in both “Available Notebook Editions” and the “Index.” Each list can be sorted by notebook number, date, and type. As we publish each notebook, we change the number to Arabic numerals (e.g., 07.03.11) to distinguish it from the Rosenbach’s manuscripts (VII:03:11).</p>
+                <p>Click on a column head to sort the table of contents according to that feature.</p>
+                <p>For more information about Moore’s notebooks, see <ref target="aboutNotebooks.xml">"About the Notebooks."</ref></p>
+                <p>To download the full index of Moore's notebooks as a CSV file, visit <ref target="https://buffalo.box.com/s/i40pmx2xktkawuqoed2hvakv5j20ijzo">MMDA Box.</ref></p>
+                <head>Index of Notebooks</head>
+                <br/>
+                <table rows="123" cols="6" xml:id="notebooks-index">
+                    <row role="label">
+                        <cell role="data">Access</cell>
+                        <cell role="data">Start Date</cell>
+                        <cell role="data">End Date</cell>
+                        <cell role="data">Notebook Edition Number</cell>
+                        <cell role="data">Type</cell>
+                        <cell role="data">Extent</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.01.01</cell>
+                        <cell role="data">1882</cell>
+                        <cell role="data">1915</cell>
+                        <cell role="data">Reading notebook 1250/1 : AMs</cell>
+                        <cell role="data">1 v. (406 p. in 203 leaves) + 11 enclosures ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.01.02</cell>
+                        <cell role="data">1916</cell>
+                        <cell role="data">1921</cell>
+                        <cell role="data">Reading notebook 1250/2 : photocopy</cell>
+                        <cell role="data">1 folder (217 p. in 217 leaves) ; 28 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.01.03</cell>
+                        <cell role="data">1921</cell>
+                        <cell role="data">1922</cell>
+                        <cell role="data">Reading notebook 1250/3 : AMs</cell>
+                        <cell role="data">1 v. (242 p. in 118 leaves) ; 14 cm. (in case).</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="label"> <ref target="/mmda_nb07_01_04_viewerURL">Viewer</ref> | <ref target="/mmda_nb07_01_04_introURL">Introduction</ref>
+                        </cell>
+                        <cell role="data">Moore 07.01.04</cell>
+                        <cell role="data">1923</cell>
+                        <cell role="data">1923</cell>
+                        <cell role="data">Reading notebook 1251/7: AMs</cell>
+                        <cell role="data"> 1 v. (124 p. in 62 leaves) ; 14 cm. (in case). </cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.01</cell>
+                        <cell role="data">1924</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">Reading notebook 1250/5 : AMs</cell>
+                        <cell role="data">1 v. (460 p. in 228 leaves) + 1 enclosure ; 14 cm. (in case).</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.02</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">1943</cell>
+                        <cell role="data">Reading notebook 1250/6 : AMs</cell>
+                        <cell role="data">1 v. (460 p. in 230 leaves) + 1 enclosure ; 14 cm. (in case).</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.03</cell>
+                        <cell role="data">1938</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">Reading notebook 1250/7 : AMs</cell>
+                        <cell role="data">1 v. (223 p. in 109 leaves) ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.04</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">Reading notebook 1250/8 : AMs</cell>
+                        <cell role="data">1 v. (13 p. in 35 leaves) + 4 enclosures ; 21 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.05</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">Reading notebook 1250/9 : AMs</cell>
+                        <cell role="data">1 v. (53 p. in 40 leaves) + 6 enclosures ; 27 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.06</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Reading notebook 1250/10 : AMs</cell>
+                        <cell role="data">1 v. (89 p. in 168 leaves) + 3 enclosures ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.02.07</cell>
+                        <cell role="data">1960 (ca.)</cell>
+                        <cell role="data">1967</cell>
+                        <cell role="data">Reading notebook 1250/11 : AMs</cell>
+                        <cell role="data">1 v. (19 p. in 81 leaves) ; 26 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.01</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">Reading notebook 1250/12 : AMs</cell>
+                        <cell role="data">1 v. (12 p. in 60 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.02</cell>
+                        <cell role="data">1963</cell>
+                        <cell role="data">1963</cell>
+                        <cell role="data">Reading notebook 1250/13 : AMs</cell>
+                        <cell role="data">1 v. (35 p. in 60 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.03</cell>
+                        <cell role="data">1965 or later</cell>
+                        <cell role="data">1965 or later</cell>
+                        <cell role="data">Reading notebook 1250/14 : AMs</cell>
+                        <cell role="data">1 v. (3 p. in 28 leaves) ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.04</cell>
+                        <cell role="data">1965 (ca.)</cell>
+                        <cell role="data">1965 (ca.)</cell>
+                        <cell role="data">Reading notebook 1250/15 : AMs</cell>
+                        <cell role="data">1 v. (69 p. in 44 leaves) + 1 enclosure ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.05</cell>
+                        <cell role="data">1967 (ca.)</cell>
+                        <cell role="data">1967 (ca.)</cell>
+                        <cell role="data">Reading notebook 1250/16 : AMs</cell>
+                        <cell role="data">1 v. (2 p. in 98 leaves) + 1 enclosure ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.06</cell>
+                        <cell role="data">1969</cell>
+                        <cell role="data">1969</cell>
+                        <cell role="data">Reading notebook 1250/17 : AMs</cell>
+                        <cell role="data">1 v. (8 p. in 106 leaves) ; 12 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.07</cell>
+                        <cell role="data">1914</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">Reading notebook 1250/18 : AMs; Author:</cell>
+                        <cell role="data">1 v. (149 p. in 74 leaves) + 11 enclosures ; 15 x 22 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.08</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">Miscellaneous notebook 1250/19 : Ams; Au</cell>
+                        <cell role="data">1 v. (106 p. in 98 leaves) + 14 enclosures ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.09</cell>
+                        <cell role="data">1951 (ca.)</cell>
+                        <cell role="data">1953 (ca.)</cell>
+                        <cell role="data">Reading notebook 1250/20 : AMs</cell>
+                        <cell role="data">1 v. (6 p. in 32 leaves) ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.10</cell>
+                        <cell role="data">1921</cell>
+                        <cell role="data">1928</cell>
+                        <cell role="data">Notebook 1250/26 : photocopy (incomplete)</cell>
+                        <cell role="data">1 v. (2 p.)The notes were written in a daily calendar for 1920,</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="label">
+                            <ref target="/mmda_nb07_03_11_viewerURL">Viewer</ref> | <ref target="/mmda_nb07_03_11_introURL">Introduction</ref>
+                        </cell>                        
+                        <cell role="data">Moore 07.03.11</cell>
+                        <cell role="data">1929</cell>
+                        <cell role="data">1940</cell>
+                        <cell role="data">Miscellaneous notebook 1250/27 : AMs</cell>
+                        <cell role="data">1 v. (44 p. in 106 leaves) + 3 enclosures ; 14 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.03.12</cell>
+                        <cell role="data">1929</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">Conversation notebook 1250/28 : AMs</cell>
+                        <cell role="data">1 V. (125 p. in 62 leaves) + 7 enclosures ; 14 cm. (in case).</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.01</cell>
+                        <cell role="data">1931</cell>
+                        <cell role="data">1936</cell>
+                        <cell role="data">Conversation notebook 1250/29 : AMs</cell>
+                        <cell role="data">1 v. (124 p. in 62 leaves) + 3 enclosures ; 14 cm. (in case).</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.02</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">1935</cell>
+                        <cell role="data">Conversation notebook 1250/30 : AMs</cell>
+                        <cell role="data">1 v. (226 p. in 112 leaves) + 27 enclosures ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.03</cell>
+                        <cell role="data">1935</cell>
+                        <cell role="data">1969 (bulk 1935-1947)</cell>
+                        <cell role="data">Conversation notebook 1251/1 : AMs</cell>
+                        <cell role="data">1 v. (244 p. in 182 leaves) + 2 enclosures ; 14 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell role="label">
+                            <ref target="/mmda_nb07_04_04_viewerURL">Viewer</ref> | <ref target="/mmda_nb07_04_04_introURL">Introduction</ref>
+                        </cell>
+                        <cell role="data">Moore 07.04.04</cell>
+                        <cell role="data">1922</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">Poetry notebook 1251/7 : AMs</cell>
+                        <cell role="data">1 v. (133 p. in 63 leaves) + 1 enclosure ; 15 x 23 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.05</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">1970</cell>
+                        <cell role="data">Poetry notebook 1251/10 : AMs</cell>
+                        <cell role="data">1 v. (110 p. in 73 leaves) + 2 enclosures ; 18 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.06</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">Poetry notebook 1251/11 : AMs</cell>
+                        <cell role="data">1 v. (7 p. in 28 leaves) + 1 enclosure ; 20 cm.</cell>
+                    </row>                    
+                    <row role="data">
+                        <cell role="label">
+                            <ref target="/mmda_nb07_04_07_viewerURL">Viewer</ref> | <ref target="/mmda_nb07_04_07_introURL">Introduction</ref>
+                        </cell>
+                        <cell role="data">Moore 07.04.07</cell>
+                        <cell role="data">1933 (ca.)</cell>
+                        <cell role="data">1940</cell>
+                        <cell role="data">Poetry notebook 1251/12 : AMs</cell>
+                        <cell role="data"> 1 v. (38 p. in 27 leaves) ; 21 x 11 cm. </cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.08</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Music notebook 1251/17 : AMs</cell>
+                        <cell role="data">1 v. (12 p. in 14 leaves) ; 14 x 7 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.09</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">1954</cell>
+                        <cell role="data">Music notebook 1251/18 : AMs</cell>
+                        <cell role="data">1 v. (133 p. in 98 leaves) + 2 enclosures ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.10</cell>
+                        <cell role="data">1935</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">Travel notebook 1251/19 : AMs</cell>
+                        <cell role="data">1 v. (51 p. in 98 leaves) ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.04.11</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Travel notebook 1251/20 : AMs</cell>
+                        <cell role="data">1 v. (52 p. in 54 leaves) + 1 enclosure ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.01</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Travel notebook 1251/21 : AMs</cell>
+                        <cell role="data">1 v. (14 p. in 38 leaves) + 1 enclosure ; 10 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.02</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Travel notebook 1251/22 : AMs</cell>
+                        <cell role="data">1 v. (1 p. in 64 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.03</cell>
+                        <cell role="data">1911</cell>
+                        <cell role="data">1927</cell>
+                        <cell role="data">Travel notebook 1251/23 : AMs</cell>
+                        <cell role="data">1 v. (53 p. in 99 leaves) + 2 enclosures ; 16 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.04</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">Lecture notebook 1251/24 : AMs</cell>
+                        <cell role="data">1 v. (207 p. in 115 leaves) + 2 enclosures ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.05</cell>
+                        <cell role="data">1908 (ca.)</cell>
+                        <cell role="data">1908 (ca.)</cell>
+                        <cell role="data">Lecture notebook 1251/25 : AMs</cell>
+                        <cell role="data">1 v. (94 p. in 93 leaves) + 1 enclosure ; 19 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.06</cell>
+                        <cell role="data">1907</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">Lecture notebook 1251/26 : AMs</cell>
+                        <cell role="data">1 v. (194 p. in 103 leaves) ; 19 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.07</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Lecture notebook 1251/27 : AMs</cell>
+                        <cell role="data">1 v. (51 p. in 29 leaves) ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.08</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">1932</cell>
+                        <cell role="data">Lecture notebook 1251/28 : AMs</cell>
+                        <cell role="data">1 v. (102 p. in 80 leaves) + 3 enclosures ; 15 x 23 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.09</cell>
+                        <cell role="data">1931</cell>
+                        <cell role="data">1960 (bulk 1931-1933)</cell>
+                        <cell role="data">Lecture notebook 1251/29 : AMs</cell>
+                        <cell role="data">1 v. (259 p. in 130 leaves) + 1 enclosure ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.05.10</cell>
+                        <cell role="data">1933</cell>
+                        <cell role="data">1935</cell>
+                        <cell role="data">Lecture notebook 1251/30 : AMs</cell>
+                        <cell role="data">1 v. (262 p. in 132 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.01</cell>
+                        <cell role="data">1935</cell>
+                        <cell role="data">1936</cell>
+                        <cell role="data">Lecture notebook 1252/1 : AMs</cell>
+                        <cell role="data">1 v. (119 p. in 60 leaves) + 3 enclosures ; 26 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.02</cell>
+                        <cell role="data">1936</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">Lecture notebook 1252/2 : AMs</cell>
+                        <cell role="data">1 v. (237 p. in 120 leaves) + 9 enclosures ; 26 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.03</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">1951</cell>
+                        <cell role="data">Lecture notebook 1252/3 : AMs</cell>
+                        <cell role="data">1 v. (208 p. in 120 leaves); 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.04</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">1952</cell>
+                        <cell role="data">Lecture notebook 1252/4 : AMs</cell>
+                        <cell role="data">1 v. (85 p. in 60 leaves) ; 23 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.05</cell>
+                        <cell role="data">1938</cell>
+                        <cell role="data">1940</cell>
+                        <cell role="data">Lecture notebook 1252/5 : AMs</cell>
+                        <cell role="data">1 v. (121 p. in 60 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.06</cell>
+                        <cell role="data">1940</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">Lecture notebook 1252/6 : AMs</cell>
+                        <cell role="data">1 v. (37 p. in 70 leaves) + 1 enclosure ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.07</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">1944</cell>
+                        <cell role="data">Lecture notebook 1252/7 : AMs</cell>
+                        <cell role="data">1 v. (230 p. in 119 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.08</cell>
+                        <cell role="data">1944</cell>
+                        <cell role="data">1946</cell>
+                        <cell role="data">Lecture notebook 1252/8 : AMs</cell>
+                        <cell role="data">1 v. (139 p. in 119 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.06.09</cell>
+                        <cell role="data">1950</cell>
+                        <cell role="data">1954</cell>
+                        <cell role="data">Lecture notebook 1252/9 : AMs</cell>
+                        <cell role="data">1 v. (85 p. in 49 leaves) ; 16 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.01</cell>
+                        <cell role="data">1955, Jan. 22</cell>
+                        <cell role="data">1955, Jan. 22</cell>
+                        <cell role="data">Notes on W.H. Auden 1252/10 : AMs</cell>
+                        <cell role="data">1 v. (17 p. in 63 leaves) ; 16 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.02</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">Lecture notebook 1252/11 : AMs</cell>
+                        <cell role="data">1 v. (50 p. in 29 leaves) ; 18 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.03</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">Lecture notebook 1252/12 : AMs</cell>
+                        <cell role="data">1 v. (77 p. in 40 leaves) + 2 enclosures ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.04</cell>
+                        <cell role="data">1957</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">Lecture notebook 1252/13 : AMs</cell>
+                        <cell role="data">1 v. (39 p. in 36 leaves) + 2 enclosures ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.05</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">Lecture notebook 1252/14 : AMs</cell>
+                        <cell role="data">1 v. (70 p. in 36 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.06</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">Lecture notebook 1252/15 : AMs</cell>
+                        <cell role="data">1 v. (51 p. in 40 leaves) ; 16 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.07</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">Lecture notebook 1252/16 : AMs</cell>
+                        <cell role="data">1 v. (100 p. in 50 leaves) ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.08</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">Lecture notebook 1252/17 : AMs</cell>
+                        <cell role="data">1 v. (98 p. in 55 leaves) + 2 enclosures ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.09</cell>
+                        <cell role="data">1961</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Lecture notebook 1252/18 : AMs</cell>
+                        <cell role="data">1 v. (234 p. in 120 leaves) + 1 enclosure ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.10</cell>
+                        <cell role="data">1963</cell>
+                        <cell role="data">1967</cell>
+                        <cell role="data">Lecture notebook 1252/19 : AMs</cell>
+                        <cell role="data">1 v. (18 p. in 60 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.11</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">1965</cell>
+                        <cell role="data">Lecture notebook 1252/20 : AMs</cell>
+                        <cell role="data">1 v. (25 p. in 72 leaves) + 1 enclosure ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.12</cell>
+                        <cell role="data">1951</cell>
+                        <cell role="data">1960</cell>
+                        <cell role="data">Religion notebook 1252/21 : AMs</cell>
+                        <cell role="data">1 v. (131 p. in 95 leaves) ; 17 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.07.13</cell>
+                        <cell role="data">1914</cell>
+                        <cell role="data">1921</cell>
+                        <cell role="data">Notebook 1252/22 : AMs</cell>
+                        <cell role="data">1 v. (83 p. in 60 leaves) + 11 enclosures ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.01</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">1960</cell>
+                        <cell role="data">Correspondence notebook 1252/23 : AMs</cell>
+                        <cell role="data">1 v. (78 p. in 190 leaves) ; 14 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.02</cell>
+                        <cell role="data">1949</cell>
+                        <cell role="data">1951</cell>
+                        <cell role="data">Correspondence notebook 1252/24 : AMs</cell>
+                        <cell role="data">1 v. (8 p. in 32 leaves) ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.03</cell>
+                        <cell role="data">1914</cell>
+                        <cell role="data">1914</cell>
+                        <cell role="data">Religion notebook 1252/25 : AMs</cell>
+                        <cell role="data">1 v. (63 p. in 37 leaves) ; 20 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.04</cell>
+                        <cell role="data">1920</cell>
+                        <cell role="data">1934</cell>
+                        <cell role="data">Financial notes : AMs</cell>
+                        <cell role="data">1 v. (34 p. in 16 leaves) ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.05</cell>
+                        <cell role="data">1934</cell>
+                        <cell role="data">1944</cell>
+                        <cell role="data">Financial notes : AMs</cell>
+                        <cell role="data">1 v. (24 p. in 11 leaves) ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.06</cell>
+                        <cell role="data">1926</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">Financial notes : AMs</cell>
+                        <cell role="data">1 v. (102 p. in 72 leaves) + 8 enclosures ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.07</cell>
+                        <cell role="data">1957</cell>
+                        <cell role="data">1969</cell>
+                        <cell role="data">Financial notes : AMs</cell>
+                        <cell role="data">1 v. (85 p. in 66 leaves) + 1 enclosure ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.08</cell>
+                        <cell role="data">1958</cell>
+                        <cell role="data">1960</cell>
+                        <cell role="data">Financial notes : AMs</cell>
+                        <cell role="data">1 v. (23 p. in 57 leaves) + 1 enclosure ; 11 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.09</cell>
+                        <cell role="data">1952</cell>
+                        <cell role="data">1952</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">1 v. (1 p. in 83 leaves) + 1 enclosure ; 8 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.10</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">1 v. (4 p. in 36 leaves) + 1 enclosure ; 11 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.11</cell>
+                        <cell role="data">1968</cell>
+                        <cell role="data">1968</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">1 v. (10 p. in 35 leaves) ; 11 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.12</cell>
+                        <cell role="data">1934</cell>
+                        <cell role="data">1941</cell>
+                        <cell role="data">Publication notes : AMs</cell>
+                        <cell role="data">1 v. (23 p. in 81 leaves) ; 8 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.13</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Travel notebook : AMs</cell>
+                        <cell role="data">1 v. (10 p. in 60 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.08.14</cell>
+                        <cell role="data">1951</cell>
+                        <cell role="data">1953</cell>
+                        <cell role="data">Publication notes ("Fables") : AMs</cell>
+                        <cell role="data">1 v. (8 p. in 45 leaves) + 1 enclosure ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.01</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes: AMs</cell>
+                        <cell role="data">1 v. (31 p. in 64 leaves) + 4 enclosures ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.02</cell>
+                        <cell role="data">1895</cell>
+                        <cell role="data">1895</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">1 v. (23 p. in 63 leaves) + 1 enclosure ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.03</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">1930</cell>
+                        <cell role="data">Religion notes : AMs</cell>
+                        <cell role="data">1 item (2 p. in 1 leaf) ; 9 x 14 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.04</cell>
+                        <cell role="data">1905</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Bryn Mawr College record book : AMs</cell>
+                        <cell role="data">1 v. (49 p. in 36 leaves) ; 18 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.05</cell>
+                        <cell role="data">1918</cell>
+                        <cell role="data">1929</cell>
+                        <cell role="data">Miscellaneous literature notes : TMs [carbon]</cell>
+                        <cell role="data">6 items (37 p. in 38 leaves) ; 27 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.06</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">1937</cell>
+                        <cell role="data">Clippings index : TMs and AMs</cell>
+                        <cell role="data">1 item (46 leaves) + 3 enclosures + 1 envelope ; 10 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.07</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">4 items (6 p. in 6 leaves); 13 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.08</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs and TMs</cell>
+                        <cell role="data">12 items (19 p. in 13 leaves); 32 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.09</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs, TMs [carbon], photocopies</cell>
+                        <cell role="data">10 items (13 p. in 12 leaves) + 1 envelope + 1 page fragment ; 28 cm.
+                            or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.10</cell>
+                        <cell role="data">1946</cell>
+                        <cell role="data">1952</cell>
+                        <cell role="data">Notes on T.S. Eliot : AMs</cell>
+                        <cell role="data">1 item (23 p. in 12 leaves); 27 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.11</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">1946</cell>
+                        <cell role="data">Religion notes: TMs [carbon] and AMs</cell>
+                        <cell role="data">16 items (25 p. in 22 leaves) ; 28 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.12</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">1962</cell>
+                        <cell role="data">Lecture notes for the Montauk Club : AMs [carbon]</cell>
+                        <cell role="data">1 item (8 p. in 8 leaves) ; 28 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.13</cell>
+                        <cell role="data">194-</cell>
+                        <cell role="data">194-</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">6 items (7 p. in 6 leaves) ; 28 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.14</cell>
+                        <cell role="data">1964 (ca.)</cell>
+                        <cell role="data">1964 (ca.)</cell>
+                        <cell role="data">Travel notebook ("Florence") : AMs</cell>
+                        <cell role="data">1 v. (65 p. in 60 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.15</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">Lecture notes : AMs</cell>
+                        <cell role="data">1 item (21 p. in 13 leaves) + envelope; 16 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.16</cell>
+                        <cell role="data">1963</cell>
+                        <cell role="data">1963</cell>
+                        <cell role="data">Baseball notebook ("Ball 1963") : AMs</cell>
+                        <cell role="data">1 v. (28 p. in 51 leaves) ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.17</cell>
+                        <cell role="data">1939</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Medicine and health notebook : AMs</cell>
+                        <cell role="data">1 v. (28 p. in 186 leaves) + 42 enclosures; 14 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.18</cell>
+                        <cell role="data">1952</cell>
+                        <cell role="data">1962 (ca.)</cell>
+                        <cell role="data">Miscellaneous notes : AMs</cell>
+                        <cell role="data">7 items (22 p. in 25 leaves) + 1 empty envelope ; 28 cm. or
+                            smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.19</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Shorthand notebook : AMs</cell>
+                        <cell role="data">1 v. (36 p. in 70 leaves) ; 23 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.09.20</cell>
+                        <cell role="data">1936 (ca.)</cell>
+                        <cell role="data">1936 (ca.)</cell>
+                        <cell role="data">Notes on I.A. Richards : AMs</cell>
+                        <cell role="data">1 item (6 p. in 3 leaves) ; 25 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.01</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notebook : AMs</cell>
+                        <cell role="data">1 v. (9 p. in 33 leaves) ; 9 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.02</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">1964</cell>
+                        <cell role="data">Miscellaneous notebook : AMs</cell>
+                        <cell role="data">1 v. (2 p. in 56 leaves) + 1 enclosure ; 13 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.03</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notebook : AMs</cell>
+                        <cell role="data">1 v. (11 p. in 13 leaves) ; 17 x 8 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.04</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs and TMs</cell>
+                        <cell role="data">22 items (69 p. in 52 leaves) + 2 enclosures + 3 envelopes, and 1 page
+                            fragment ; 28 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.05</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">n.d.</cell>
+                        <cell role="data">Miscellaneous notes : AMs, TMs and ephemera.</cell>
+                        <cell role="data">41 items (161 p. in 152 leaves) + 5 enclosures + 2 envelopes, 2
+                            envelope fragments ; 32 cm. or smaller</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.06</cell>
+                        <cell role="data">1915</cell>
+                        <cell role="data">1919</cell>
+                        <cell role="data">Conversation notebook 1250/23 : photocopy</cell>
+                        <cell role="data">1 item (72 p. in 72 leaves) ; 28 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.10.07</cell>
+                        <cell role="data">1914</cell>
+                        <cell role="data">1921</cell>
+                        <cell role="data">Conversation notebook 1250/24 : photocopy</cell>
+                        <cell role="data">1 folder (69 p. in 69 leaves) ; 28 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.01</cell>
+                        <cell role="data">1920</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">Conversation notebook 1250/25 : AMs</cell>
+                        <cell role="data">1 v. (360 p. in 196 leaves) + 11 enclosures ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.02</cell>
+                        <cell role="data">1942</cell>
+                        <cell role="data">196-</cell>
+                        <cell role="data">Poetry notebook 1251/08 : AMs</cell>
+                        <cell role="data">1 v.(366 p. in 194 leaves) + 19 enclosures ; 18 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.03</cell>
+                        <cell role="data">1955</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">Poetry notebook 1251/09 : AMs</cell>
+                        <cell role="data">1 V. (35 p. in 57 leaves) + 2 enclosures ; 15 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.04</cell>
+                        <cell role="data">1905</cell>
+                        <cell role="data">1907</cell>
+                        <cell role="data">Reading notebook : AMs</cell>
+                        <cell role="data">1 v. (94 p. in 101 leaves) + 1 enclosure ; 21 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.05</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">Lecture notebook : AMs</cell>
+                        <cell role="data">1 v. (102 p. in 103 leaves) ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.06</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Lecture notebook : AMs</cell>
+                        <cell role="data">1 v. (87 p. in 88 leaves) + 1 enclosure ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.11.07</cell>
+                        <cell role="data">1908</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Lecture notebook : AMs</cell>
+                        <cell role="data">1 v. (70 p. in 70 leaves) ; 24 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.01</cell>
+                        <cell role="data">1906</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Lecture notes : AMs</cell>
+                        <cell role="data">62 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.02</cell>
+                        <cell role="data">1906</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Student examinations : AMs, TMs</cell>
+                        <cell role="data">114 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.03</cell>
+                        <cell role="data">1905</cell>
+                        <cell role="data">1905</cell>
+                        <cell role="data">Student essays : AMs</cell>
+                        <cell role="data">114 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.04</cell>
+                        <cell role="data">1906</cell>
+                        <cell role="data">1906</cell>
+                        <cell role="data">Student essays : AMs</cell>
+                        <cell role="data">134 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.05</cell>
+                        <cell role="data">1907</cell>
+                        <cell role="data">1907</cell>
+                        <cell role="data">Student essays : AMs</cell>
+                        <cell role="data">28 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.06</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">1909</cell>
+                        <cell role="data">Student essays : AMs</cell>
+                        <cell role="data">83 leaves</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.07</cell>
+                        <cell role="data">1943</cell>
+                        <cell role="data">1956</cell>
+                        <cell role="data">Reading notebook : AMs</cell>
+                        <cell role="data">1 v. (67 p. in 143 leaves) + 63 enclosures ; 25 cm.</cell>
+                    </row>
+                    <row role="data">
+                        <cell/>
+                        <cell role="data">Moore 07.12.08</cell>
+                        <cell role="data">1913</cell>
+                        <cell role="data">1916</cell>
+                        <cell role="data">Reading notebook : photocopy</cell>
+                        <cell role="data">1 folder (54 p. in 54 leaves) ; 28 cm.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

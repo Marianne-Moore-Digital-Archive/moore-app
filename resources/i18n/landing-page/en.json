@@ -1,0 +1,46 @@
+{
+    "serafin": {
+        "facets": {
+            "date": "Year",
+            "author": "Sender",
+            "place": "Place"
+        },
+        "browse": {
+            "date": "Date",
+            "author": "Sender",
+            "number": "Number",
+            "place": "Place"
+        },
+        "more": "Show more"
+    },
+    "menu": {
+        "explore": "Explore collection",
+        "collections": "Collections",
+        "about": "About",
+        "team": "Team",
+        "contact": "Contact",
+        "project": "Project"
+    },
+    "hero": {
+        "main": "Marianne Moore Digital Archive",
+        "sub": "Making previously unpublished work of Marianne Moore accessible, with a particular focus on her 120 working notebooks, including very early drafts of poems, notes about her reading, and notes on many other aspects of her life from 1895 until the 1960s. Moore lifts phrases from these notebooks for her poetry and essays. Reading these transcribed and annotated notebooks provides an extraordinary window on her life, her poetry, her relationships with peers, her work, and 20th-century culture.",
+        "explore": "Explore Notebooks"
+    },
+    "landing": {
+        "license": "License and attribution",
+        "credits": "Media Credits:",
+        "cite": "Contact:",
+        "partners": "We gratefully acknowledge external support from the NEH, the SUNY Innovative Instruction Research Council, and a UB Innovative Micro-Programs Accelerating Collaboration in Themes (IMPACT) grant.",
+        "corpus": "Notebooks",
+        "corpus-info": "The interactive Index of Notebooks lists all extant notebooks kept by Moore, organized by genre of notebook and dates kept. “About the Notebooks” describes several features of the notebook collection. The Notebook Viewer presents notebooks already edited and published on this site, with access to TEI/XML encoding. Eventually, it will be supported by integrated text and image search tools.",
+        "register": "Scholarship",
+        "register-info": "Information enabling Moore scholarship, including the Moore Library Index, hard-to-find critical essays, sources Moore used for her own poems, a bibliography of Moore criticism, a glossary, and a list of other useful Moore sites.",
+        "howto": "Education",
+        "howto-info": "Educational resources include information about Marianne Moore, her poems, short features on the context and history of her life and writing, an interactive timeline of her life and publications, and pedagogical resources, such as syllabi.",
+        "about": "About",
+        "highlights": "Site Navigation",
+        "about-1": "Jinks application manager is designed as a working environment for creating and publishing of digital scholarly editions. Editions created with this framework are aiming to meet the varied needs of several humanities disciplines (textual scholarship, literary studies, linguistics, history and more). Jinks builds on what is common, at the same time providing the choice and customisation possibilities to the editors and developers.",
+        "about-2": "The platform follows the international standard for the encoding of textual data, TEI, and bases its visualisations on TEI Publisher. As a result, it enables publication of different types of material: from the basic presentation of texts and documents in digital form to the most complex scholarly editions. There is room for various forms of textual delivery (transcriptions, translations, facsimiles) and annotations.",
+        "about-3": "Tools and working environment are not enough. To best serve the needs of editors, a consistent and efficient process for creating and publishing digital scholarly editions is needed. This project is offering such a process. It includes sets of good practices and workflows and takes into account both how scholarly editors work and how IT specialists, responsible for the technical side of editions, complete their tasks."
+    }
+}

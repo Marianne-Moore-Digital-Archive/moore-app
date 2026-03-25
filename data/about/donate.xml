@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">Make a Gift</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">donate</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>Please click on the link below to make a gift to the <title>Marianne Moore Digital Archive</title>. As the linked page indicates, you may give directly to the endowment supporting the archive or to an immediately spendable account. Or you may choose to make a more targeted gift, or to support us in other ways. All donors will receive a gift receipt from the University at Buffalo UB Foundation, for use in determining tax deduction eligibility.</p>
+
+<p>The <hi rend="bold"><title>MMDA</title> endowment</hi> resulted from a one-time gift of $25,000 made by a Moore scholar, which has since been supported by other scholars, students, and librarians—including gifts as small as $50. Similarly the immediately spendable account was created by an initial gift of $10,000, subsequently supported by Moore scholars and enthusiasts. The immediately spendable account is used primarily to pay for student assistance during the academic year. The endowment currently generates around $2,500/annually.</p>
+
+<p>To donate, click on the button below, click on or type in the amount you wish to give, and then hit “search for more” in the “Use my gift for” area. In the Search box that opens, type in Marianne Moore and it will give you 2 options, both called “Marianne Moore Digital Archive Support Fund”: one specifies that it is an “(endowed fund)”; the other does not (it is the “spend now” account). We would be grateful for a gift in either category!</p>
+
+<head rend="center bold"><ref target="https://ubfoundation.buffalo.edu/giving/index.php?gift_allocation=0301866411">Donate Now</ref></head>
+
+<head>Targeted gifts</head>
+
+<list type="unordered">
+    <item>Support one student editorial, technical, or programming assistant, academic year:  $5000</item>
+    <item>Support one student editorial, technical, or programming assistant, calendar year:  $8000*</item>
+    <item>Support the publication of one notebook edition and publication: $10,000*</item>
+    </list>
+<p>*gifts of this size are eligible to be paid by pledge over a 5-year period.</p>
+<p>Targeted gifts provide potential opportunity for naming, after the donor or in honor of a person or group of your choice (e.g., a Reading Notebook, made possible by a gift in honor of pangolins worldwide, or made possible by Virginia Smith).</p>
+<p>To make a targeted gift, please contact Cristanne Miller, ccmiller@buffalo.edu.</p>
+
+<head>In-kind gifts</head>
+
+<p>The MMDA would welcome any gifts of letters or contextualizing material relating to Moore’s life and publications.</p>
+
+<p>To discuss such a gift, please contact Cristanne Miller, ccmiller@buffalo.edu.</p>
+
+<head>Volunteer!</head>
+<p>We welcome volunteer proof readers and technical/programming assistants from all walks of life. Depending on your skills and experience, you might participate in a variety of tasks or designs.</p>
+
+<p>To discuss volunteering, contact Cristanne Miller, ccmiller@buffalo.edu.</p>
+    
+</div>
+        </body>
+    </text>
+</TEI>

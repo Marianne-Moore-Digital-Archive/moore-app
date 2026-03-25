@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">Hard to Find Essays</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="3">scholarship</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Individual Essays</head>
+                <p>
+                    <ref target="https://doaj.org/article/8d45850327e147e2b955bf9fb4f9fcde">Ambroży, Paulina."Wading through
+                        black jade in Marianne Moore’s
+                        sunken cathedral: The modernist sea
+                        poem as a Deleuzian fold."
+                            <title>Studia Anglica
+                            Posnaniensia</title> 50. 4
+                        (2015): 79-97.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/CostelloMMwilddecorum.pdf">Costello, Bonnie. "Marianne Moore's
+                        Wild Decorum." <title>The American
+                            Poetry Review</title> 16.2
+                        (March/April 1987): 43-54. </ref>
+                </p>
+                <p>
+                    <ref target="https://howeverhow2archive.org/how2/v1/n7/conference/another-postmodernism-towards-ethical-poetics">Hogue, Cynthia. "Another
+                        Postmodernism: Toward an Ethical
+                        Poetics.”<title>How2</title> 1.7
+                        (Spring 2002).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Hogue_PluckedString.pdf">---. "'The Plucked String’: Emily
+                        Dickinson, Marianne Moore and the
+                        Poetics of Select Defects,"
+                            <title>Emily Dickinson
+                            Journal</title> 7.1 (1998):
+                        89-109.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Leavell_APS_2003.pdf">Leavell, Linda. "Marianne Moore,
+                        Her Family, and Their Language."
+                            <title>Proceedings of the
+                            American Philosophical
+                            Society</title> 147. 2 (2003):
+                        140-149.</ref>
+                </p>
+                <p>
+                    <ref target="https://archive.org/details/isbn_9781567312768/page/n9/mode/2up">Merrin, Jeredith. “Elizabeth Bishop
+                        and Marianne Moore.” <title>The
+                            Columbia History of American
+                            Poetry</title>, ed. Jay Parini
+                        and Brett C. Millier. New York:
+                        Columbia University Press, 1993.
+                        343-369.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Merrin_MM_Calvinism.pdf">---. “Sites of Struggle: Marianne
+                        Moore and American Calvinism.”
+                            <title>The Calvinist Roots of
+                            the Modern Era</title>, ed.
+                        Aliki Barnstone, Michael Tomasek
+                        Manson, and Carol J. Singley.
+                        Hanover: The University Press of New
+                        England, 1997. 91-106.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Miller_1.pdf">Miller, Cristanne. "The Politics of
+                        Marianne Moore's Poetry of Ireland:
+                        1917-1941." <title>Irish Journal of
+                            American Studies</title> 11/12
+                        (2002/2003): 1-17.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Miller_2.pdf">---. "Marianne Moore and the Women
+                        Modernizing New York." <title>Modern
+                            Philology</title> 98.2 (2000):
+                        339-362</ref>.</p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Miller_3.pdf">---. "Marianne Moore and a Poetry
+                        of Hebrew (Protestant) Prophecy."
+                            <title>sources</title> 12
+                        (2002): 29-47.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Miller_4.pdf">---. "'By-Play’: The Radical
+                        Rhythms of Marianne Moore."
+                            <title>Foreign Literature
+                            Studies</title> (Wuhan China)
+                        30.6 (2008): 20-33. </ref>
+                </p>
+                <p>
+                    <ref target="https://ojs.unbc.ca/index.php/joe/article/view/270/335">Olson, Kirby. "Marianne Moore’s
+                        'The Camperdown Elm' and The Revival
+                        of Brooklyn’s Prospect Park."
+                            <title>Journal of
+                            Ecocriticism</title> 3.2 (2011):
+                        16-27.</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Willis_MMandthePipesofPan.pdf">Willis, Patricia. <title>Marianne
+                            Moore and the Pipes of Pan: Mt.
+                            Rainier and Mt. Olympus</title>.
+                        American College of Greece: The
+                        Attica Tradition Educational
+                        Foundation, 2001.</ref>
+                </p>
+                <head>Special Issues on Moore</head>
+                <p>
+                    <title>Twentieth-Century
+                        Literature</title>. Guest edited by
+                    Andrew J. Kappel, 30.2/3 (1984). </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/front_matter.pdf">Front Matter (i-iii).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/kappel_intro.pdf">Kappel, Andrew J. "Introduction:
+                        The Achievement of Marianne Moore"
+                        (v-xxx).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/moore_well_moused%20lion.pdf">Moore, Marianne. "Well Moused,
+                        Lion" (123-129).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/costello_mm_and_bishop.pdf">Costello, Bonnie. "Marianne Moore
+                        and Elizabeth Bishop: Friendship and
+                        Influence" (130-149).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/gregor_omissions_are_not_accidents.pdf">Gregor, Arthur. "Omissions Are Not
+                        Accidents" Reminiscences" (150-159).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/goodridge_MM_and_WCW.pdf">Goodridge, Celeste. "Private
+                        Exchanges and Public Reviews:
+                        Marianne Moore's Criticism of
+                        William Carlos Williams" (160-174).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/schulman_MM_and_McKnight.pdf">Schulman, Grace. "Marianne Moore
+                        and E. McKnight Kauffer: Two
+                        Characteristic Americans" (175-180).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/holley_mm_and_model_stanza.pdf"> Holley, Margaret. "The Model
+                        Stanza: The Organic Origin of
+                        Moore's Syllabic Verse" (181-191)
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/martin_MM.pdf">Martin, Taffy. "Portrait of a
+                        Writing Master: Beyond the Myth of
+                        Marianne Moore" (192-209).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Steinman_modern_america_modernism_and_MM.pdf">Steinman, Lisa M. "Modern America,
+                        Modernism, and Marianne Moore"
+                        (210-230).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/rees_reality_of_imagination_in_MM.pdf">Rees, Ralph. "The Reality of
+                        Imagination in the Poetry of
+                        Marianne Moore" (231-241).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/willis_road_to_paradise.pdf">Willis, Patricia C. "The Road to
+                        Paradise: First Notes on Marianne
+                        Moore's 'An Octopus'" (242-266).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/moore_late_ver_oct.pdf">Moore, Marianne. "A Late Manuscript
+                        Version of 'An Octopus'"
+                        (267-272).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/slatin_MM_and_natural_historian.pdf">Slatin, John M. "'Advancing
+                        Backward in a Circle': Marianne
+                        Moore as (Natural) Historian"
+                        (273-326).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/ross_fables.pdf">Ross, Bruce. "Fables of the Golden
+                        Age: The Poetry of Marianne Moore"
+                        (327-350).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sprout_MM_as_translator.pdf">Sprout, Rosalie. "After The Fables:
+                        The Translator as Poet"
+                        (351-365).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/lourdeaux_MM_and_psychoanalytic_paradigm.pdf"> Lourdeaux, Stanley. "Marianne
+                        Moore and a Psychoanalytic Paradigm
+                        for the Dissociated Image"
+                        (366-371).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/back_matter.pdf">Back Matter</ref>
+                </p>
+                <p> </p>
+                <p><title>Poesis</title>. Guest edited by
+                    Celeste Goodridge, 6.3 (1987).</p>
+                <p><ref target="resources/images/sources/hardToFind/Poesis_frontmatter.pdf"> Front Matter </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Ostriker.pdf">Ostriker, Alicia. "What do Women
+                        (Poets) Want?: Marianne Moore and
+                        H.D. as Poetic Ancestresses" (1-9).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Holley.pdf">Holley, Margaret. "Marianne Moore
+                        and the Capacity for Change: the
+                        Shape of a Career" (10-20).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Duncan.pdf">Duncan, Robert. "H.D.'s Challenge"
+                        (21-34).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Nitchie.pdf">Nitchie, George. "Condescension and
+                        Affection: Some Observations on
+                        Marianne Moore" (35-39).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Gelpi.pdf">Gelpi, Albert. "Re-Membering the
+                        Mother: a Reading of H.D.'s Trilogy
+                        " (40-55).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Friedman.pdf">Stanford Friedman, Susan.
+                        "Palimpsest of Origins in H.D.'s
+                        Career" (56-73).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Guest.pdf"> Guest, Barbara. "The Intimacy of
+                        Biography" (74-83).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Willis.pdf">Willis, Patricia C. "The Owl and
+                        the Lantern: Marianne Moore at Bryn
+                        Mawr" (84-97).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Wallace.pdf">Mitchell Wallace, Emily. "Athene's
+                        Owl" (98-123).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/Poesis_Moran.pdf">Moran, Eileen G. "Portrait of the
+                        Artist: Marianne Moore's Letters to
+                        Hildegarde Watson" (124-137).</ref>
+                </p>
+                <p><title>Sagetrieb</title>. Guest edited
+                    by Celeste Goodridge, 6.3 (1987).</p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_front_matter.pdf">Front Matter (1-5).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_costello.pdf">Costello, Bonnie. "Marianne Moore
+                        and the Sublime" (5-14).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_holley.pdf"> Holley, Margaret. "Portraits of
+                        Ladies in Marianne Moore and
+                        Elizabeth Bishop" (15-30).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_goodridge.pdf">Goodridge, Celeste. "Towards a
+                        Poetic of Disclosure: Marianne Moore
+                        and Henry James" (31-44).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_front_kearns.pdf">Kearns, Cleo McNelly.
+                        "Consanguinities: T. S. Eliot and
+                        Marianne Moore" (45-56).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_molesworth.pdf">Molesworth, Charles. "In Earnest of
+                        Merit: Moore's Early Fiction"
+                        (57-66).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_wasserman.pdf">Wasserman, Rosanne. "Marianne Moore
+                        and the New York School: O'Hara,
+                        Ashbery, Koch" (67-78). </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_sielke.pdf">Sielke, Sabine. "Snapshots of
+                        Marriage, Snares of Mimicry, Snarls
+                        of Motherhood: Marianne Moore and
+                        Adrienne Rich" (79-98).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_Keller_and_Miller.pdf">Keller, Lynn and Cristanne Miller.
+                        "'The Tooth of Disputation':
+                        Marianne Moore's 'Marriage'"
+                        (99-116).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_heuving.pdf">Heuving, Jeanne. "Gender in
+                        Marianne Moore's Art: Can'ts and
+                        Refusals" (117-126).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_graham.pdf">Graham, Vicki. "Whetted to
+                        Brilliance" (127-146).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_sullivan.pdf">Sullivan, Janet. "Encountering the
+                        Unicorn: William Carlos Williams and
+                        Marianne Moore" (147-162).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_merrin.pdf">Merrin, Jeredith. "Teaching
+                        Marianne Moore" (163-168).</ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_nadel.pdf">Nadel, Alan. "Marianne Moore and
+                        the Art of Delineation" (169-180).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_hickey.pdf">Hickey, Dona J. "Marianne Moore:
+                        The Best of Both Worlds" (181-192).
+                    </ref>
+                </p>
+                <p>
+                    <ref target="resources/images/sources/hardToFind/sagetrieb_back_matter.pdf">Back Matter</ref>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

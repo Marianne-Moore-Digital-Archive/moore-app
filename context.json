@@ -1,0 +1,409 @@
+{
+  "actions" : [ {
+    "description" : "Reindex data",
+    "name" : "reindex"
+  }, {
+    "description" : "Fix ODDs",
+    "name" : "fix-odds"
+  } ],
+  "profiles" : [ "base10", "registers", "upload", "timeline", "docker", "landing-page", "theme-base10", "iiif" ],
+  "_lastModified" : "2025-10-13T12:06:02.63+02:00",
+  "label" : "Marianne Moore Notebooks",
+  "version" : "1.0.0",
+  "id" : "https://e-editiones.org/apps/moore",
+  "_update" : true,
+  "styles" : [ "resources/css/pico-components.css", "https://cdn.jsdelivr.net/npm/theme-toggles@4.10.1/css/classic.min.css", "resources/css/jinks-theme.css" ],
+  "_noDeploy" : false,
+  "template-suffix" : "\\.tpl",
+  "ignore" : [ "repo.xml", "resources/css/components.css" ],
+  "target" : "/db/apps/moore",
+  "menu" : {
+    "language" : false,
+    "delete" : true,
+    "replace" : true,
+    "dark-mode" : true,
+    "items" : [ {
+      "url" : null,
+      "id" : "Start"
+    }, {
+      "url" : null,
+      "id" : "people"
+    }, {
+      "url" : null,
+      "id" : "places"
+    }, {
+      "url" : null,
+      "id" : "explore"
+    }, {
+      "subitems" : [ {
+        "url" : "browse.html",
+        "id" : "Notebook Viewer"
+      }, {
+        "url" : "about/indexNotebooks.xml",
+        "id" : "Index of Notebooks"
+      }, {
+        "url" : "about/aboutNotebooks.xml",
+        "id" : "About the Notebooks"
+      } ],
+      "id" : "Notebooks"
+    }, {
+      "subitems" : [ {
+        "url" : "about/bibliography.xml",
+        "id" : "Bibliography"
+      }, {
+        "url" : "about/library.xml",
+        "id" : "Moore Library Index"
+      }, {
+        "url" : "about/hardToFind.xml",
+        "id" : "Hard to find Essays"
+      }, {
+        "url" : "about/sources.xml",
+        "id" : "Moore’s Sources"
+      }, {
+        "url" : "about/usefulSites.xml",
+        "id" : "Useful Sites"
+      } ],
+      "id" : "Scholarship"
+    }, {
+      "subitems" : [ {
+        "url" : "about/aboutMM.xml",
+        "id" : "About the Poet"
+      }, {
+        "url" : "about/aboutPoems.xml",
+        "id" : "About the Poems"
+      }, {
+        "url" : "about/context.xml",
+        "id" : "Context and History"
+      }, {
+        "url" : "about/teaching.xml",
+        "id" : "Syllabuses and Lesson Plans"
+      }, {
+        "url" : "about/studentResearch.xml",
+        "id" : "For Students by Students"
+      }, {
+        "url" : "about/poemsAboutMM.xml",
+        "id" : "Poems To or About Moore"
+      } ],
+      "id" : "Education"
+    }, {
+      "subitems" : [ {
+        "url" : "about/aboutMMDA.xml",
+        "id" : "About the Archive"
+      }, {
+        "url" : "about/people.xml",
+        "id" : "People"
+      }, {
+        "url" : "about/documentation.xml",
+        "id" : "Project Documentation"
+      }, {
+        "url" : "about/articles.xml",
+        "id" : "Articles About the Archive"
+      }, {
+        "url" : "about/permissions.xml",
+        "id" : "Rights and Permissions"
+      } ],
+      "id" : "About the Archive"
+    }, {
+      "url" : "about/donate.xml",
+      "id" : "Donate"
+    } ],
+    "login" : true,
+    "download" : false,
+    "search" : true
+  },
+  "theme" : {
+    "logo" : {
+      "width" : "140px",
+      "height" : "48px",
+      "dark" : "../images/tei-publisher-logo-contrast-color.svg",
+      "splash" : {
+        "size" : "360px auto",
+        "dark" : "../images/tei-publisher-logo-contrast-color.svg",
+        "light" : "../images/tei-publisher-logo-color.svg"
+      },
+      "light" : "../images/tei-publisher-logo-contrast-color.svg"
+    },
+    "hero" : {
+      "background-color" : "rgba(0, 0, 0, 0.6)",
+      "text-width" : "50rem",
+      "background-size" : "cover",
+      "background-image" : "../images/typewriter.jpg",
+      "background-repeat" : "no-repeat"
+    },
+    "layout" : {
+      "after-width" : "min(20vw, 256px)",
+      "max-width" : "108rem",
+      "before-width" : "min(15vw, 130px)",
+      "class" : "fixed-layout"
+    },
+    "menubar" : {
+      "color" : "#ffffff",
+      "background-image" : null,
+      "font-size" : "14px",
+      "background-color" : "var(--jinks-colors-500)"
+    },
+    "breadcrumbs" : {
+      "max" : "40ch"
+    },
+    "header" : {
+      "background-image" : null
+    },
+    "fonts" : {
+      "toc" : {
+        "size" : "1.125rem"
+      },
+      "footnote" : {
+        "size" : "0.9em"
+      },
+      "base" : {
+        "family" : "'Inter', 'Noto', sans-serif",
+        "line-height" : "140%",
+        "size" : "16px",
+        "weight" : "400"
+      },
+      "heading" : {
+        "family" : "'Inter', 'Noto', sans-serif",
+        "size" : "1.2rem",
+        "weight" : "400"
+      },
+      "breadcrumbs" : {
+        "size" : "0.9rem"
+      },
+      "content" : {
+        "family" : "JunicodeVF, Georgia, 'Times New Roman', serif",
+        "line-height" : "150%",
+        "size" : "1.25rem",
+        "weight" : "400"
+      }
+    },
+    "texture" : {
+      "background-image" : "../images/jinks-images/paper.jpeg"
+    },
+    "colors" : {
+      "palette" : "neutral"
+    }
+  },
+  "features" : {
+    "browse" : {
+      "sort" : {
+        "options" : [ {
+          "label" : "Category",
+          "value" : "category",
+          "key" : "browse.category"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "browse.title"
+        }, {
+          "label" : "Author",
+          "value" : "author",
+          "key" : "browse.author"
+        }, {
+          "label" : "Date",
+          "value" : "date",
+          "key" : "browse.date"
+        } ],
+        "default" : "title"
+      },
+      "field" : {
+        "options" : [ {
+          "label" : "Content",
+          "value" : "text",
+          "key" : "search.content"
+        }, {
+          "label" : "Title",
+          "value" : "title",
+          "key" : "search.title"
+        } ],
+        "default" : "text"
+      }
+    },
+    "menubar" : true,
+    "register" : {
+      "placement" : "right",
+      "enabled" : false
+    },
+    "upload" : {
+      "target" : "",
+      "accept" : ".xml, .tei, .odd, .docx, .md, .mei",
+      "enabled" : true
+    },
+    "timeline" : {
+      "document-view" : false,
+      "enabled" : false
+    },
+    "iiif" : {
+      "viewer" : "pb-facsimile",
+      "base_uri" : "",
+      "enabled" : false
+    },
+    "toolbar" : {
+      "zoom" : true,
+      "navigation" : true,
+      "parent" : false,
+      "enabled" : true,
+      "progress" : {
+        "subscribe" : "transcription",
+        "enabled" : true
+      }
+    },
+    "toolbar-toggles" : {
+      "toggle-reading" : false,
+      "enabled" : false
+    },
+    "hero" : false,
+    "toc" : {
+      "collapse" : false,
+      "enabled" : false
+    }
+  },
+  "indexing" : {
+    "tei" : {
+      "enable" : true,
+      "context" : "div"
+    },
+    "docbook" : {
+      "enable" : true
+    },
+    "jats" : {
+      "enable" : true
+    }
+  },
+  "pkg" : {
+    "website" : "http://tei-publisher.com",
+    "abbrev" : "moore",
+    "version" : "1.0.0",
+    "dependencies" : [ {
+      "semver" : "1",
+      "package" : "http://e-editiones.org/roaster"
+    }, {
+      "semver" : "6",
+      "package" : "http://existsolutions.com/apps/tei-publisher-lib"
+    }, {
+      "semver" : "1",
+      "package" : "http://tei-publisher.com/library/jinks-templates"
+    } ],
+    "permissions" : "rw-r--r--",
+    "user" : {
+      "password" : "simple",
+      "name" : "tei",
+      "group" : "tei"
+    }
+  },
+  "description" : "Includes style defaults",
+  "_dry" : false,
+  "source" : "/db/apps/jinks/profiles/theme-base10",
+  "type" : "theme",
+  "skip" : [ "^doc/.*$", "setup.xql", "config.json" ],
+  "odds" : [ "teipublisher.odd", "moore.odd", "about.odd" ],
+  "docker" : {
+    "eXist" : "6.4.0",
+    "features" : {
+      "nodejs" : false,
+      "xst" : false,
+      "ner" : false,
+      "tex" : false
+    },
+    "roaster" : "1.10.0",
+    "ports" : {
+      "https" : 8443,
+      "http" : 8080
+    },
+    "tei-publisher-lib" : "6.0.0",
+    "ant" : "1.10.14"
+  },
+  "_overwrite" : "quick",
+  "defaults" : {
+    "sort" : [ {
+      "field" : "date"
+    } ],
+    "language" : "en",
+    "data" : "data",
+    "landing" : "index.html",
+    "address-by-id" : false,
+    "odd-root" : "resources/odd",
+    "upload" : "notebooks",
+    "data-default" : "notebooks",
+    "direction" : "ltr",
+    "view" : "page",
+    "media" : [ "web", "print", "fo", "latex", "epub" ],
+    "template" : "moore.html",
+    "browse" : "browse.html",
+    "search" : "div",
+    "odd" : "moore.odd",
+    "pagination" : {
+      "fill" : 5,
+      "depth" : 10
+    }
+  },
+  "templating" : {
+    "use" : [ "templates/register-blocks.html", "templates/upload-blocks.html", "templates/timeline-blocks.html", "templates/iiif-blocks.html" ],
+    "modules" : {
+      "http://teipublisher.com/ns/templates/browse" : {
+        "at" : "modules/templates/browse.xqm",
+        "prefix" : "browse"
+      },
+      "http://teipublisher.com/ns/templates/page" : {
+        "at" : "modules/templates/page.xqm",
+        "prefix" : "page"
+      }
+    }
+  },
+  "script" : {
+    "custom" : [ ],
+    "webcomponents" : "2.26.0-next-3.16",
+    "extra-components" : [ ],
+    "cdn" : "https://cdn.jsdelivr.net/npm/@teipublisher/pb-components"
+  },
+  "order" : 902,
+  "$schema" : "../../schema/jinks.json",
+  "i18n" : [ "registers", "landing-page" ],
+  "api" : [ {
+    "spec" : "registers-api.json",
+    "prefix" : "rview",
+    "id" : "http://teipublisher.com/api/registers/view",
+    "path" : "registers-api.xql"
+  }, {
+    "prefix" : "ridx",
+    "id" : "http://tei-publisher.com/jinks/registers/index",
+    "path" : "registers-static-index.xql"
+  }, {
+    "spec" : "timeline-api.json",
+    "prefix" : "timeline",
+    "id" : "http://teipublisher.com/api/timeline",
+    "path" : "timeline-api.xql"
+  } ],
+  "depends" : [ "base10" ],
+  "static" : {
+    "fields" : {
+      "index" : [ "content", "translation", "commentary" ],
+      "store" : [ "content", "translation", "commentary", "title", "link", "places" ]
+    },
+    "redirect" : {
+      "" : "1/index.html"
+    },
+    "styles" : [ "resources/css/static.css", "transform/teipublisher.css" ],
+    "facets" : [ "places" ],
+    "collections" : {
+      "" : {
+        "index" : "single",
+        "path-prefix" : "letters",
+        "paginate" : {
+          "toc" : false,
+          "parts" : [ {
+            "user.mode" : "metadata",
+            "id" : "metadata",
+            "view" : "single",
+            "odd" : "serafin.odd"
+          }, {
+            "user.mode" : "register",
+            "id" : "register",
+            "odd" : "serafin.odd"
+          } ],
+          "template" : "static/templates/registers.html"
+        },
+        "template" : "static/templates/index.html"
+      }
+    }
+  }
+}

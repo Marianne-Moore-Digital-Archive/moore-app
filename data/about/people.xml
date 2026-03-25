@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>People</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="2">about</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Director</head>
+                <list rend="unordered">
+                    <item>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/miller.jpg"/>
+                            </figure><hi rend="bold">Cristanne Miller</hi> (2015 -
+                            ), SUNY Distinguished Professor
+                            and Edward H. Butler Professor
+                            of Literature, University at
+                            Buffalo</p>
+                        <p>Miller is an established Moore
+                            scholar and editor. Two of her
+                            monographs deal with Moore
+                              (<title>Marianne Moore:
+                              Questions of
+                            Authority</title>, Harvard
+                            University Press, 1995;
+                              <title>Cultures of Modernism:
+                              Marianne Moore, Mina Loy, Else
+                              Lasker-Schüler. Gender and
+                              Literary Community in New York
+                              and Berlin</title>, University
+                            of Michigan Press, 2005) and she
+                            was a co-editor of <title>The
+                              Selected Letters of Marianne
+                              Moore</title> (1997). Her
+                            experience in editing primary
+                            documents includes <title>Words
+                              for the Hour: A New Anthology
+                              of Civil War Poetry</title>
+                            (coedited with Faith Barrett,
+                            University of Massachusetts
+                            Press, 2005), <title>Emily
+                              Dickinson’s Poems: As She
+                              Preserved Them</title>
+                            (Harvard, 2016), which won the
+                            MLA Best Scholarly Edition
+                            Prize, and <title>The Letters of
+                              Emily Dickinson</title>
+                            (Harvard 2024). Miller also
+                            serves on the Editorial Board of
+                            ModNets.</p>
+                    </item>
+                </list>
+                <head>Associate Directors</head>
+                <list rend="unordered">
+                    <item>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/gregory.jpg"/>
+                            </figure><hi rend="bold">Elizabeth Gregory</hi>
+                            (Current Project Manager, 2015 -
+                            ), is the Taylor Professor of
+                            Gender &amp; Sexuality Studies,
+                            a Professor of English and
+                            Director of the Women’s, Gender
+                            and Sexuality Studies Program
+                            and the Institute for Research
+                            on Women, Gender and Sexuality,
+                            at the University of
+                            Houston.</p>
+                        <p>Gregory's books on Moore include
+                              <title>Apparition of Splendor:
+                              Marianne Moore Performing
+                              Democracy through Celebrity,
+                              1952-1970</title> (Rutgers
+                            University Press, 2021) and
+                              <title>Quotation and Modern
+                              American Poetry: "'Imaginary
+                              Gardens with Real
+                              Toads'"</title> (Texas
+                            A&amp;M/Rice University Press,
+                            1996), as well as two edited
+                            collections: <title>The Critical
+                              Response to Marianne
+                              Moore</title> (Praeger Press,
+                            2003) and (co-edited with Stacy
+                            Carson Hubbard)
+                              <title>21st-Century Marianne
+                              Moore: Essays from a Critical
+                              Renaissance</title> (Palgrave,
+                            2017).</p>
+                    </item>
+                    <item>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/carson.jpg"/>
+                            </figure><hi rend="bold">Luke Carson</hi> (2020 -; Datebook
+                            Series Editor, 2021 - ), Associate Professor of English, University of Victoria, BC</p>
+                        <p>Carson is the author of
+                              <title>Consumption and
+                              Depression in Gertrude Stein,
+                              Louis Zukofsky and Ezra
+                              Pound</title> (Palgrave
+                            Macmillan, 1999), "Republicanism
+                            and Leisure in Marianne Moore's
+                            Depression," and co-author (with
+                            Heather Cass White) of
+                            "Difficult Ground: Poetic
+                            Renunciation in Marianne Moore's
+                            'Walking-Sticks and Paperweights
+                            and Watermarks'" and "A Variety
+                            of Hero: Marianne Moore's
+                            Romance." As the General Editor
+                            of ELS Editions, he oversaw the
+                            publication of two facsimile
+                            editions of Moore's poems, both
+                            edited by Heather Cass White:
+                              <title>A-Quiver with
+                              Significance: Marianne Moore
+                              1932–1936</title> and
+                              <title>Adversity and Grace:
+                              Marianne Moore
+                              1936–1941</title>. </p>
+                    </item>
+                </list>
+                <head>Technical Team</head>
+                <list>
+                    <item>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/wasmoen.jpg"/>
+                            </figure><hi rend="bold">Technical Director, Nikolaus Wasmoen</hi> (2015 - ), Project Director and Manager for
+                            DH Faculty Projects, University at Buffalo, SUNY</p>
+                        <p>Wasmoen directs and manages digital scholarship research
+                            projects for faculty in the College of Arts and Sciences at
+                            the University at Buffalo. He has served on a wide range of
+                            digital humanities projects including as a Technical Board
+                            member of ModNets (previously Project Manager), Digital
+                            Co-Editor of the Lili Elbe Digital Archive, a Consultant on
+                            Special Projects for the William Blake Archive, and Education
+                            Director of the Association for Documentary Editing (ADE),
+                            2017–2019.</p>
+                    </item>
+                    <item>
+                        <p><hi rend="bold">Associate Technical Director, Juniper Johnson</hi> (they/them) (2024
+                            - ), English PhD Candidate at Northeastern University</p>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/johnson.jpg"/>
+                            </figure>Johnson's dissertation,
+                            "Organizing Bodies of
+                            Knowledge," explores the use of
+                            computational text analysis to
+                            study and trace classifications
+                            of gender, disability, and
+                            sexuality in nineteenth century
+                            medicine and literary discourse.
+                            As an interdisciplinary scholar
+                            with expertise in digital
+                            pedagogy and project
+                            development, they have
+                            previously worked with the Early
+                            Caribbean Digital Archive, Women
+                            Writers Project + Women Writers
+                            Vector Toolkit, Digital
+                            Integration Teaching Initiative
+                            for the NULab for Texts, Maps,
+                            and Networks, the Primary Source
+                            Cooperative, the Homosaurus
+                            Project, the Mapping Black
+                            London Project, and the Early
+                            Black London Digital
+                            Almanac.</p>
+                    </item>
+                    <item><hi rend="bold">OCR and Site Construction Director, Srirangaraj (Ranga) Setlur</hi>, Principal Research Scientist, Center
+                        for Unified Biometrics and Sensors
+                        (CUBS) and the Center of Excellence
+                        for Document Analysis and Recogntion
+                        (CEDAR), University at Buffalo.
+                        Setlur has published an edited book
+                        and several papers on topics related
+                        to handwritten OCR and creation of
+                        digital libraries and other
+                        technical development issues raised
+                        by the MMDA. He has been awarded
+                        over 25 million dollars as PI or
+                        Co-PI from Federal, State and
+                        Industry sources for research on
+                        pattern recognition topics. He has
+                        also been awarded the University at
+                        Buffalo Outstanding Research
+                        Award.</item>
+                    <item><hi rend="bold">Systems Administrator and Web Developer, Ed Sobczak</hi>, Center for
+                        Unified Biometrics and Sensors
+                        (CUBS) and the Center of Excellence
+                        for Document Analysis and Recogntion
+                        (CEDAR), University at Buffalo
+                        SUNY.</item>
+                </list>
+                <head>Advisory Board Members</head>
+                <list>
+                    <item>Rachel Blau DuPlessis, Poet, Emerita Professor of Literature and
+                        Creative Writing, Temple University</item>
+                    <item>Susan K. Cahn, Professor of History, University at Buffalo
+                        SUNY</item>
+                    <item>Elizabeth Fuller, Rosenbach Museum and Library, Collection
+                        Librarian</item>
+                    <item>Linda Leavell, Emerita Professor of English, Oklahoma State
+                        University</item>
+                    <item>Robin Schulze, Professor of Communication, University at
+                        Buffalo, SUNY</item>
+                    <item>Patricia Willis, Emerita Elizabeth Wakeman Dwight Curator of the Collection of American Literature at
+                        the Beinecke Library, Yale University</item>
+                </list>
+                <head>Guest Notebook Editor, 07.02.02 Reading Notebook, 1930-43 (with Robin Schulze and Cristanne Miller)</head>
+                <list>
+                    <item><hi rend="bold">Jeffrey Westover</hi>, Associate
+                        Professor of English, Boise State
+                        University. Westover's publications
+                        on Moore include editing <title>Marianne Moore and the
+                            Archives: From Material Culture
+                            to the Digital Humanities</title> (Clemson,
+                        2024); a chapter on the poet in
+                            <title>The Colonial Moment:
+                            Discoveries and Settlements in
+                            Modern American Poetry</title> (2004); and various articles.
+                    </item>
+                </list>
+                <head>Bibliographic Consultant</head>
+                <list>
+                    <item><hi rend="bold">Aurore Clavier</hi>, Maître de
+                        conférences - Littérature américaine, Université de Lille</item>
+                </list>
+                <head>Recent Notebook Proofreaders</head>
+                <list>
+                    <item><hi rend="bold">Emily Setina</hi>, Associate Professor at University of
+                        Nevada, Las Vegas</item>
+                    <item><hi rend="bold">Stacy Hubbard</hi>, Associate Professor at
+                        University at Buffalo, SUNY</item>
+                    <item><hi rend="bold">Roger Gilbert</hi>, Professor Cornell
+                        University</item>
+                    <item><hi rend="bold">Heather White</hi>, Professor University of
+                        Alabama</item>
+                </list>
+                <head>Current Research and Editorial
+                    Assistants</head>
+                <list>
+                    <item><hi rend="bold">Chiaki S. Bems</hi> RTU Rīga Business
+                        School (RBS)</item>
+                    <item><hi rend="bold">Aaron VanSteinberg</hi>, PhD student
+                        University at Buffalo, SUNY English
+                        Department, Poetics Program</item>
+                    <item><hi rend="bold">Holly Ponce</hi>, PhD student University at Delaware,
+                        English Department</item>
+                </list>
+                <head>TEI Publisher Developers</head>
+                <list>
+                     <item>Helena Bermúdez Sabel, JinnTec</item>
+                     <item>Magdalena Turska, JinnTec</item>
+                </list>
+                <head>Past MMDA Team</head>
+                <list>
+                    <item>Project and Programmer Assistant, Claire Nashar (she/her), PhD, Department of English, University at Buffalo SUNY</item>
+                    <item>Assistant Technical Project Manager, Abhipsa Chakraborty, PhD candidate, Department of English, University at Buffalo (SUNY)</item>
+                    <item>Assistant Technical Project Manager, Emma Felin, PhD candidate, Faculty of English, University of Oxford</item>
+                    <item>Associate Editor, Heather Cass White, Professor of English, University of Alabama, Tuscaloosa (2015-2022)</item>
+                    <item>Project Editor and Manager, Claire Nashar, PhD, Department of English, UB (2015-2019)</item>
+                    <item>Image Photographer for Moore Datebooks at RML, Matthew Shelton, Instructor, Rowan University, PhD, Department of English, University of Connecticut (2021)</item>
+                    </list>
+                <head>Past Editorial and Programming Assistants</head>
+                <list>
+                    <item>Qinyi (Jennifer) Shen, Dickinson College (2023-2024)</item>
+                    <item>Chris Sauerwald, MLS Student, Library Science, UB (2023-2024)</item>
+                    <item>Girija Polamreddy, MS Student, Department of Computer Science, UB (2021-2022)</item>
+                </list>
+                <head>Past Graduate Student Project Assistants</head>
+                <list>
+                    <item>Ye Wang, PhD candidate, Department of Media Study, UB</item>
+                    <item>Evan Moritz, MA, Department of Theatre &amp; Dance, UB</item>
+                    <item>Kathleen Naughton, PhD Student, Department of English, UB (2020)</item>
+                    <item>Emelie Griffin, PhD Student, Department of English, University of Houston (2020)</item>
+                    <item>Kehinde Alonge, Master's Student, Department of English, UB (2019-2020)</item>
+                    <item>Abigale Ramos, Undergraduate Student, English and Creative Writing Major, Class of 2019, University of Houston (2019)</item>
+                </list>
+                <head>Past Volunteer and Undergraduate Project Assistants</head>
+                <list>
+                    <item>Marla Anzalone, PhD Candidate, Duquesne University</item>
+                    <item>Stephanie Richter, undergraduate student, UB</item>
+                    <item>Cherie Jacobs, undergraduate student, English Major, UB</item>
+                    <item>Brandon Boudreault, PhD candidate, Department of English, UB (2018-2019)</item>
+                    <item>Shaun Nowicki, undergraduate student, English Major, UB</item>
+                    <item>Heeba Kariapper, undergraduate student, Computer Science Major, Class of 2020, UB (2016-2017)</item>
+                    <item>Amber Levias, History Major, Class of 2020, UB</item>
+                    <item>Brian Reagan, undergraduate student, History Major, UB</item>
+                    <item>Allison Vanouse, visiting researcher, Editorial Institute, Boston University</item>
+                </list>
+            
+                <head>Past Web Developers</head>
+                <list>
+                    <item>Gopi Chand Pendyala, MS, Department of Computer Science, UB (2022)</item>
+                    <item>Tejas Sudhir Magar Master's student, School of Business, UB (2019-2020)</item>
+                    <item>Sushanta Das Master's student, School of Business, UB (2018-2019)</item>
+                    <item>Alok Asok, Master's student in Computer Science, UB (2015-2016)</item>
+                    <item>Karanjeet Singh, Master's student in Computer Science, UB (2016)</item>
+                    <item>Chaitanya Dineshkumar Brahmbhatt, Master's student in Computer Science, UB (2016-2017)</item>
+                </list>
+            </div>    
+        </body>
+    </text>
+</TEI>

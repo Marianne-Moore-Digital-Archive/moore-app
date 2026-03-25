@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/static/resources/scripts" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.537Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="map.js" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.538Z" modified="2026-03-04T15:59:27.538Z" filename="map.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

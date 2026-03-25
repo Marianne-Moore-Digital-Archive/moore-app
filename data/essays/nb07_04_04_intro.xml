@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Introduction to Poetry Notebook
+               07.04.04</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For testing purposes only.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Compiled from MMDA webpage TEI Conversion
+               Files</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc n="1">essays</catDesc>
+               </category>
+               <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Introduction to Poetry Notebook
+               07.04.04</head>
+            <p rend="center">Cristanne Miller</p>
+            <p rend="center"><ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore"><figure>
+                     <graphic width="25%" url="resources/images/moore/nb07_04_04_0002verso.jpg"/>
+                  </figure></ref>
+            </p>
+            <p rend="center"><ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore"><hi rend="bold underline">Go to Notebook Viewer</hi></ref></p>
+            <p>This is the notebook of Moore’s that has
+               received the most scholarly attention, for
+               several reasons. First, it is the earliest of
+               Moore’s extant notebooks dedicated to
+               drafting poetry and hence gives us the
+               earliest available information about her
+               composition process—in its initial stages, as
+               she pursues ideas and language clusters over
+               several pages. Second, in this notebook Moore
+               drafts toward several of her most famous
+               poems: among others, “Marriage,” “An
+               Octopus,” “Silence,” “Peter,” “The Student,”
+               “The Steeplejack,” “The Hero,” “The Jerboa,”
+               and “The Plumet Basilisk.” While her notes
+               toward some of these poems are relatively
+               brief (for example, “Peter”) she brings
+               “Silence” almost to completion, and she makes
+               over 60 pages of notes toward “Marriage” with
+               almost an equal number toward “An Octopus.”
+               The way her thinking and her drafted lines
+               wander among subjects—like the conception of
+               paradise—that find their way into entirely
+               different poems, or sometimes are shared in
+               quite different ways among multiple poems,
+               provides a compelling focus for study.</p>
+            <p>Third, this notebook contains a handful of
+               never-published poems, giving a wonderful
+               sense of what Moore rejected as ideas and
+               lines toward poems as well as what she
+               pursued. Titles of poems she briefly drafts
+               toward and then drops include “Vienna <del>A Cat</del>”
+               (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.214.4">view p. 107r</ref>); “<hi rend="underline">A <del>Crucifix</del></hi> <hi rend="underline">The Land</hi>” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.220.4">view p. 110v</ref>)—a poem that may anticipate aspects of
+               “The Steeple-Jack”; “Fugo fugare” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.226.4">view pp. 113r</ref>-<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.228.4">114v</ref>); “John Johnson,” “The Tarantula,”
+               and “Canada” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.230.4">view p. 115r</ref>); “Disappointment &amp;
+               Triumph” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.250.4">view p. 125r</ref>); “<hi rend="underline">The Signer of the Valentine</hi>”
+               (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.252.4">view p. 126v</ref>), and “<hi rend="underline">accursed Africa</hi>” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.274.4">view p. 137v</ref>). As
+               the quick succession of page numbers for the
+               first six poems indicates, Moore imagined
+               drafts for several of these poems—some little
+               more than titles—at the time when she was
+               concluding her five years of editorial work
+               at <title>The Dial</title> and beginning to
+               draft seriously again. <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.220.4">Page 110v(view)</ref>, dated
+               “October,” seems to mark Moore’s return to
+               writing poetry after the closing of
+                  <title>The Dial</title> in 1929. Scholars
+               might study whether these are initial
+               conceptions, with alternative titles, for
+               poems Moore in fact completes or whether
+               these are thoughts toward poems she decides
+               not to write. In either case, some of her
+               drafting here points toward language and
+               ideas she does carry forward in other poems,
+               fully developed and published. Whatever one’s
+               interpretation of these sometimes winsome
+               drafts, they reveal a part of Moore’s writing
+               otherwise invisible.</p>
+            <p>This is also one of the longest of Moore’s
+               poetry-drafting notebooks (only the notebook
+               she kept from 1942 into the 1960s is longer)
+               and it has larger pages than most of her
+               notebooks. It is a fliptop stenographer’s
+               pad, with pages of 15x23 cm, most of which
+               are written top to bottom, recto and verso,
+               in small script, often crowding into the
+               margins of the page. The notebook contains
+               extensive reading notes on a few
+               texts—primarily Richard Baxter’s <title>The
+                  Saints’ Everlasting Rest</title>
+               (published in 1650) and the 1915 <title>U. S.
+                  Government Rules and Regulations, Mount
+                  Rainier National Park</title>. (Moore’s
+               own copy of this brochure is available on the
+                  <title>MMDA</title> under <ref target="../about/sources.xml">"Moore's
+                  Sources"</ref>—showing her underlining and
+               marginalia.) Unlike in her reading notebooks,
+               here Moore’s notes on reading are
+               interspersed with her composition and the two
+               forms of writing seem to bleed into each
+               other: just as she composes through slightly
+               variant repetition of phrases or ideas she
+               wants to retain, she repeats notes taken from
+               the same page of a source, perhaps because
+               she finds a passage particularly interesting
+               or finds a phrase she thinks she may use in a
+               poem. Through this process, one can see
+               immediately how phrases from her reading move
+               into the drafting of a poem.</p>
+            <p>The dates of entries into this notebook are
+               impossible to identify with precision. Moore
+               dates no entries. Patricia C. Willis (in
+               personal correspondence) estimates that the
+               earliest writing stems from some time in the
+               fall of 1922, because already on <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.12.4">page 6v(view)</ref>,
+               Moore is drafting “An Octopus / of ice”—that
+               is, she has already both visited Mount
+               Rainier and read a part of the Mount Rainier
+               National Park Service publication from which
+               she borrows this metaphor. She returned from her
+               first trip to Washington in October of 1922
+               and her second trip on 1 October 1923. She
+               sent “Marriage” to Monroe Wheeler for
+               publication in October of 1923. This means
+               that the first 67 pages of the notebook must
+               have been written between October 1922 and
+               October 1923. “An Octopus” was not published
+               until December 1924, although it was
+               submitted for publication in October. This
+               suggests that most of the pages from 67 to
+               109 were written between fall 1923 and
+               October 1924—although she mentions in a
+               letter that she worked on “An Octopus” (and
+               “Sea Unicorns and Land Unicorns”) off and on
+               for two years. The following drafts pick up
+               later—sometime before Moore’s first
+               publication of the new poems she is drafting
+               here in June 1932. No blank pages in the
+               notebook mark this hiatus between Moore’s
+               drafting toward poems of the early 1920s and
+               those of the early 1930s. It is possible that
+               this indicates that Moore was drafting poems
+               even while working at <title>The
+               Dial</title>, but it is more likely that this
+               had to do with her general frugality. When
+               she began drafting again, she wrote from
+               where she had left off in the notebook. Her
+               reading notes in Notebook 07.02.02 indicate
+               that she is reading actively toward the 1932
+               poems in 1930. She does, however, draft
+               briefly toward a poem titled “The Basilisk”
+                  (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.218.4">view p. 109r</ref>) and read about
+               lizards in 1923 or 1924 (Reading Notebook
+               07.02.01)—perhaps early stages of
+               contemplating what is published as “The
+               Plumet Basilisk” in 1933.</p>
+            <p>The transcription of this notebook makes
+               Moore’s writing legible. It makes no attempt
+               to reproduce visual aspects of her page.
+               Because each page of transcription adjoins
+               the appropriate notebook page, the user can
+               see at all times Moore’s own handwriting,
+               cancellations, circles, arrows, oversized
+               letters, multiple underlinings, doodles, and
+               other visual features of the page. Moore’s
+               drafting is often messy and the handwriting
+               miniscule, especially in her interlineations
+               or slanted and marginal insertions. Several
+               pages contain script that runs off the edge
+               of a horizontal line of print into a margin,
+               or inserted passages written entirely at a
+               slanted angle from other writing on the page.
+               Such passages are transcribed with an eye
+               toward producing clear text for the user, not
+               toward representing visual idiosyncracies of
+               the page precisely; all text is reproduced on
+               a standard horizontal print line and marginal
+               vertical insertions appear at the foot of
+               each transcription page. Moore’s use of the
+               shorthand symbol ^ for the word “the” is
+               transcribed as “the”—again in the interest of
+               legibility.</p>
+            <p>Most poetry-drafting pages in this notebook
+               reveal at least one kind of cancellation.
+               Moore seems to have had a system for crossing
+               out pages, perhaps after she had taken what
+               she wanted from them for a later draft of the
+               poem. Sometimes she draws a single line down
+               the center of a page, lengthwise. On other
+               pages, she has both a centered vertical line
+               and one or more horizontal lines across the
+               page. Often, it is impossible to tell whether
+               these horizontal lines are meant to underline
+               text, cancel a line of text, or function
+               generally for the page. Moore also sometimes
+               cancels large or small passages more
+               vigorously, with looping spirals or circles
+               or a plethora of slanted or straight lines.
+               For ease of reading, and because we cannot
+               know what Moore intended by these passage or
+               page cancellations, this transcription
+               represents as cancelled only individual words
+               or rows of print that are crossed out
+               individually. Typically, such cancellation is
+               accompanied by interlineated substitutions or
+               write-overs, or a passage that repeats some
+               variation of the material. Because Moore also
+               includes frequent write-overs, we transcribe
+               this process only when Moore distinctly
+               changes the word she is writing over (she
+               frequently repeats or writes-over to clarify
+               penmanship). The <title>MMDA</title>
+               Transcription Guidelines section under "<ref target="../about/documentation.xml">Project Documentation</ref>" provide a
+               thorough explanation of our transcription
+               principles.</p>
+            <p>The most dramatic contribution this
+               transcription makes to the clear and accurate
+               presentation of Moore’s text has to do with
+               the order of notebook pages themselves. The
+               paper of this notebook is fragile (it was a
+               cheap notebook) and it was frequently handled
+               by scholars, because of its importance. At
+               some point, several of its pages became
+               dislodged from the binding and some became
+               disordered. Unfortunately, the Rosenbach copy
+               of this notebook was digitized, conserved,
+               and rebound following this false order of
+               pages. During an early stage of transcribing
+               this notebook, Robin Schulze and I discovered
+               this disordering and made a list of
+               re-ordered pages. In 2017-18, Patricia C.
+               Willis and I worked more methodically from a
+               photocopy she made in the early 1980s to
+               re-order all pages and all textual
+               fragments—some of which used to be larger
+               sections of pages, now disintegrated, and
+               some which were stubs when the notebook was
+               received by the Rosenbach Museum and Library.
+               Willis speculates that Moore herself removed
+               some pages, or parts of pages, from the
+               notebook. The order you will find here is
+               different from that of the conserved
+               Rosenbach copy. We believe that the order
+               here restores the notebook’s pages to their
+               correct order. For more on this process, see
+               my essay “<ref target="../essays/millerHistoryOfMooreMaterials.xml?view=page&amp;odd=moore">A History of Moore Materials at the
+                  Rosenbach Museum &amp; Library and the
+                     <title>MMDA</title></ref>.” Some
+               fragments cannot be positioned accurately in
+               relation to other drafting. They appear following the back cover at
+               the end of this notebook, starting on <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.290.4">page 145r(view)</ref>.</p>
+            <p>For the general reader, the joy of reading
+               this notebook will be in following Moore’s
+               repeating and sometimes wholly unexpected
+               thoughts in relation to published poems they
+               know. For the scholar, the primary interest
+               of this notebook may have to do with Moore’s
+               pursuit of ideas or even particular phrases
+               (for example, “eagles w tigers in their eyes
+               &amp; feet”) that she repeats across the
+               drafting of more than one poem. Patricia C.
+               Willis has written about Moore’s
+               compositional intertwining of “Marriage” and
+               “An Octopus” (available through "<ref target="../about/hardToFind.xml">Hard to Find Essays</ref>"); others
+               may read Moore’s drafts as suggesting she
+               knew from the start that she was working on
+               separate poems. But no one has considered
+               ways that the concepts of “silence” and
+               “restraint” are interlaced in the composition
+               of several poems, or how the idea of
+               “paradise” continues through from the 1920s
+               poems into “The Steeple-Jack” and “The Plumet
+               Basilisk.” For example, on <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.104.4">page 52v(view)</ref>, she uses
+               the phrase “a paradise of water basilisks.”
+               References to cats also recur. Repetition is
+               a primary technique in Moore’s drafting, and
+               her repetitions may illuminate various
+               aspects of her thinking. Moore also tries out
+               several titles for her poems—for example,
+               “Reluctant” for “The Jerboa.”</p>
+            <p>While much attention has been paid to the
+               shapes of Moore’s syllabic poems, critics
+               have not yet studied her drafts to determine
+               the extent to which Moore drafts in
+               discernable lines—or at what point in her
+               drafting either free or syllabic verse lines
+               begin to appear. Even when drafting free
+               verse poems in the 1920s, Moore occasionally
+               plays with rhyming sounds—as on <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.184.4">page 92v(view)</ref> and
+               <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.206.4">page 103r(view)</ref>, where she briefly considers rhyming
+               sequences in drafts toward “An Octopus” and
+               “Sea Unicorns and Land Unicorns.” When she
+               returns to syllabic verse around 1930, she
+               sometimes circles rhyming sounds—as on <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.228.4">page
+               114v(view)</ref> or <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.256.4">pages 128v(view)</ref>-<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.258.4">129r(view)</ref>.</p>
+            <p>Like many of Moore’s notebooks, this one
+               concludes with writing that indicates Moore
+               used the notebook for various purposes, using
+               back pages for non-drafting purposes. There’s
+               a drafted letter to Kenneth Burke, dated 16
+               August 1923; a few pages contain apparent
+               transcriptions of conversational comments.
+               Moore also rewrites (or quotes from
+               conversation) the chorus of a popular song
+               called “The Prairie flower”; her version
+               begins, “I’m not a hot house flower as you
+               can see / I’m as wild as I can be” (<ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.284.4">view p.
+               142v</ref>). Other lines at the end of this notebook
+               may constitute notes toward “Marriage,” “Sea
+               Unicorns and Land Unicorns,” and other poems.
+               On <ref target="../notebooks/nb07_04_04.xml?view=page&amp;odd=moore&amp;root=3.4.2.290.4">page 145r(view)</ref>, she begins what may be a draft
+               toward “What are Years?”—which was not
+               published until 1940, suggesting that this
+               poem may not initially have been conceived as
+               a response to World War II.</p>
+            <p>This notebook provides rich ground for
+               thinking about some of Moore’s most famous
+               and highly acclaimed poems and for
+               contemplating her process of composition. We
+               are eager to see the contributions to Moore
+               scholarship that may be enabled by online,
+               public access to this key notebook.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

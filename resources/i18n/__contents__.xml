@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/i18n" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:28.07Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="languages.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.072Z" modified="2026-03-04T15:59:28.072Z" filename="languages.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="registers" filename="registers"/>
+    <subcollection name="app" filename="app"/>
+    <subcollection name="landing-page" filename="landing-page"/>
+</collection>

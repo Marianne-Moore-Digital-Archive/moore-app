@@ -1,0 +1,379 @@
+h1 {
+    font-size: 6rem;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 120%;
+}
+
+h3 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 100%;
+    margin-block-end: var(--s1);
+}
+/*.h3-list {*/
+/*    text-indent: 50px;*/
+/*}*/
+
+h4 {
+    font-size: 1.625rem;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+@media (max-width: 1023px) {
+    h1 {
+        font-size: 4rem;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+section {
+    margin-block-end: 0;
+    padding-block: var(--s4);
+    background-color: var(--jinks-colors-100);
+}
+
+header p {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+
+footer {
+    display: block;
+    padding-block: var(--s-1);
+    margin-block-start: 0;
+    background-color: var(--jinks-colors-700);
+    background-image: var(--jinks-footer-background);
+}
+
+footer div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.column {
+    display:flex;
+    flex-direction: column;
+    justify-items: flex-start;
+}
+
+/*.article {*/
+/*    color: var(jinks-colors-accent);*/
+/*}*/
+
+.row, .long-desc {
+    display:flex;
+    flex-direction: row;
+    justify-items: stretch;
+    gap: var(--s4);
+}
+
+
+
+header.row {
+    margin-block-end: var(--s2);
+}
+
+.row > *,
+.long-desc > * {
+    flex: 50%;
+}
+
+/* hide extra elements from content pages */
+.before,
+.before-top,
+.after,
+.after-top {
+    display:none;
+}
+
+.hero {
+    color: var(--jinks-colors-light);
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    --pico-color: var(--jinks-colors-light);
+    --pico-h1-color: var(--jinks-colors-light);
+    position: relative;
+    background-image: var(--jinks-hero-background-image);
+    background-size: var(--jinks-hero-background-size);
+    background-repeat: var(--jinks-hero-background-repeat);
+    background-color: var(--jinks-hero-background-color);
+}
+
+.hero div {
+    align-self: flex-end;
+    margin-block-end: var(--s4);
+}
+
+.explore-link {
+    display: inline-block;
+    padding: var(--s-1, 0.5rem) var(--s1, 1rem);
+    border-radius: 40rem;
+    border: 1px solid var(--jinks-colors-light);
+    background-color: var(--jinks-colors-light);
+    color: var(--jinks-color-inverse);
+    font-weight: 500;
+    line-height: 110%; /* 0.9625rem */
+    text-decoration: none;
+    align-self: flex-start;
+    margin-block-start: var(--s0);
+}
+
+.explore-link:after {
+    content: " ->"
+}
+
+.hero h1 {
+    max-width: var(--jinks-hero-text-width);
+}
+
+/* subtitle for the hero section */
+.hero p {
+    max-width: var(--jinks-hero-text-width);
+}
+
+/*Section for light and dark theme formatting*/
+
+.section-light {
+    background-color: var(--jinks-colors-300, #fff);
+}
+
+.section-dark {
+    background-color: var(--jinks-colors-300, #000);
+    color: var(--jinks-colors-300);
+    --pico-color: var(--jinks-colors-light);
+    --pico-h2-color: var(--jinks-colors-light);
+}
+
+.section-highlight {
+    background-color: var(--jinks-colors-300, #444);
+    color: var(--jinks-colors-300);
+    --pico-color: var(--jinks-color-300);
+    --pico-h2-color: var(--jinks-colors-300);
+}
+
+@media (max-width: 1023px) {
+    section {
+        margin-top: 2rem;
+    }
+}
+
+.highlights {
+    background-color: var(--jinks-colors-300);
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:        
+    "area-1 area-2"
+    "area-1 area-3";;
+    gap: var(--s-1);
+    min-height: 10rem;
+}
+
+.area-1 {
+    grid-area: area-1;
+}
+.area-2 {
+    grid-area: area-2;
+}
+.area-3 {
+    grid-area: area-3;
+}
+@media (max-width: 1023px) {
+    .highlights {
+        /* grid-template-columns: repeat(auto-fill, calc(50% - var(--s-1))); */
+    }
+}
+
+@media (max-width: 639px) {
+    .highlights {
+        display: block;
+    }
+}
+
+.highlight-card {
+    --lg: linear-gradient(180deg, var(--Light-neutral-Gradient_top, rgba(42, 40, 36, 0.20)) 0%, var(--Light-neutral-Gradient_bottom, rgba(42, 40, 36, 0.90))100%);
+    --lg2: linear-gradient(180deg, var(--Light-neutral-Gradient_top, rgba(42, 40, 36, 0.70)) 0%, var(--Light-neutral-Gradient_bottom, rgba(42, 40, 36, 0.90))100%);
+    --card-text-color: white;
+
+    border-radius: var(--radius-24, 1.5rem);
+    /*background-image: linear-gradient(180deg, var(--Light-neutral-Gradient_top, rgba(42, 40, 36, 0.20)) 0%, var(--Light-neutral-Gradient_bottom, rgba(42, 40, 36, 0.90)) 50%);*/
+    background-origin: border-box;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    transition: all 1s ease-out;
+    margin-block-end: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: var(--s0);
+}
+
+.highlight-card:hover {
+    --lg: linear-gradient(180deg, var(--Light-neutral-Gradient_top, rgba(42, 40, 36, 0.50)) 0%, var(--Light-neutral-Gradient_bottom, rgba(42, 40, 36, 1)) 100%);
+    transition: all 1s ease-out;
+}
+
+.highlight-card .label {
+    color: var(--card-text-color);
+    align-self: start;
+}
+
+.highlight-card .desc {
+    /*backdrop-filter: blur(5px);*/
+    padding: var(--s1);
+}
+
+.highlight-card .desc a {
+    color: var(--card-text-color);
+    text-decoration: none;
+}
+
+.highlight-card .explore-link {
+    color: var(--card-text-color);
+    border: thin solid var(--jinks-border-color);
+    background: var(--jinks-colors-500);
+}
+
+.highlight-card .desc p {
+    color: var(--card-text-color);
+}
+
+/*Formatting for the ABOUT section as a two column grid.*/
+.about {
+    background-color: var(--jinks-colors-100);
+    /*justify-content: space-between;*/
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto 70%;
+    column-gap: 2em;
+    padding: 2em;
+}
+
+.about article {
+    max-width: 80rem;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--jinks-colors-50);
+    /*margin-inline: var(--s2);*/
+    margin-block: var(--s1)
+}
+
+.about-row {
+    display:flex;
+    flex-direction: row;
+    justify-items: stretch;
+    gap: var(--s4);
+} 
+
+.partner-logos {
+    display: flex;
+    /*justify-content: space-between;*/
+    /*align-items: center;*/
+    gap: var(--s1);
+}
+
+.partner-logo {
+    display: block;
+    border: thin solid var(--jinks-border-color);
+    border-radius: 1.5rem;
+    background: var(--jinks-colors-light);
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.10);
+    flex: 12%;
+}
+
+.partner-logo img {
+    margin-block: 1em;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+
+.bottom a {
+    color: var(--pb-color-grey-3);
+    text-decoration: none;
+    width: auto;
+}
+
+.bottom a:hover {
+    color:#0172ad;
+}
+
+.license {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: auto; /* override width from `footer a` in base.css */
+    gap: var(--s-2);
+}
+
+.license svg {
+    height: var(--s2);
+    width: var(--s2);
+    fill: var(--jinks-colors-light);
+    stroke: transparent;
+}
+
+.link-group {
+    list-style-type: none;
+    padding: 0;
+    margin-inline-end: var(--s4);
+    color: inherit;
+}
+.link-group li {
+    list-style: none;
+}
+
+.link-group-horizontal {
+    margin: 0;
+}
+
+.link-group-horizontal li {
+    display: inline-block;
+    margin-inline: var(--s2);
+}
+
+.label {
+    display: inline-block;
+    padding: var(--s-1, 0.5rem) var(--s1, 1rem);
+    margin-block-end: var(--s2);
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    border-radius: var(--radius-full, 62.4375rem);
+    border: 1px solid var(--Labels-Light-BG, #CFCDC5);
+    background: var(--Labels-Light-BG, #CFCDC5);
+
+    color: var(--jinks-colors-700);
+
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%; /* 1.05rem */
+    letter-spacing: 0.075rem;
+    text-transform: uppercase;
+}
+
+.label-dark {
+    color: var(--jinks-colors-700);
+    border: thin solid var(--jinks-colors-500);
+    background: var(--jinks-colors-500);
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+    ---json
+    {
+        "templating": {
+            "extends": "templates/layouts/base.html"
+        },
+        "features": {
+            "toolbar": {
+                "enabled": false
+            }
+        },
+        "styles": [
+            "resources/css/landing-page.css"
+        ],
+        "script": {
+            "custom": [
+                "resources/scripts/language.js"
+            ]
+        },
+        "theme": {
+            "layout": {
+                "class": "landing-layout"
+            }
+        }
+    }
+    ---
+    [% template styles %]
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet"/> -->
+    [% endtemplate %]
+
+    [% template hero %]
+    <header class="hero">
+        <div class="center-l row">
+            <h1><pb-i18n key="hero.main"/> <strong><pb-i18n key="hero.main2"/></strong></h1>
+            <p>
+                <pb-i18n key="hero.sub"/><br/>
+                <a class="explore-link" href="[[ $context?defaults?browse ]]"><pb-i18n key="hero.explore"/></a>
+            </p>
+        </div>
+    </header>
+    [% endtemplate %]
+
+    [% include "templates/sections/about.html" %]
+    [% include "templates/sections/highlights.html" %]
+    [% include "templates/sections/partners.html" %]
+    [% include "templates/sections/bottom.html" %]
+    [% include "templates/footer.html" %]
+</template>

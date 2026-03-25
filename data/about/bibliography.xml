@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <hi rend="bold">Bibliography</hi>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">scholarship</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Standard and Useful Editions</head>
+                <head type="sub">Poetry</head>
+                <p><title>New Collected Poems</title>
+                    (Farrar,Straus and Giroux, 2017), ed.
+                    Heather Cass White.</p>
+                <p><title>Observations</title> (Farrar
+                    Straus and Giroux, 2016), ed. Linda
+                    Leavell</p>
+                <p><title>A-Quiver with Significance:
+                        Marianne Moore 1932-1936</title>
+                    (ELS Editions, 2008), ed. Heather Cass
+                    White </p>
+                <p><title>The Poems of Marianne Moore
+                        (Viking Penguin, 2005)</title>, ed.
+                    Grace Schulman</p>
+                <p><title>Becoming Marianne Moore: The Early
+                        Poems 1907-1924 </title>(University
+                    of California Press, 2002), ed. Robin G.
+                    Schulze</p>
+                <p><title>The Complete Poems of Marianne
+                        Moore</title> (Macmillan, 1967) </p>
+                <p><title>Tell Me, Tell Me: Granite, Steel,
+                        and Other Topics</title> (Viking
+                    Press, 1966)</p>
+                <p><title>The Arctic Ox</title> (Faber and
+                    Faber, 1964) </p>
+                <p><title>O to Be a Dragon</title> (Viking
+                    Press, 1959) </p>
+                <p><title>Like a Bulwark</title> (Viking
+                    Press, 1956) </p>
+                <p><title>Collected Poems</title>
+                    (Macmillan, 1951) </p>
+                <p><title>Nevertheless</title> (Macmillan,
+                    1944) </p>
+                <p><title>What Are Years?</title>
+                    (Macmillan, 1941) </p>
+                <p><title>The Pangolin and Other
+                        Verse</title> (Brendin Publishing
+                    Co., 1936)</p>
+                <p><title>Selected Poems</title> (Macmillan,
+                    1935) </p>
+                <p><title>Observations</title> (The Dial
+                    Press, 1924)</p>
+                <p><title>Poems</title> (The Egoist Press,
+                    1921) </p>
+                <head type="sub">Prose</head>
+                <p><title>The Complete Prose of Marianne
+                        Moore</title> (Viking Press, 1986),
+                    ed. Patricia C. Willis</p>
+                <p><title>A Marianne Moore Reader</title>
+                    (Viking Press, 1961) </p>
+                <p><title>Predilections</title> (Viking
+                    Press, 1955)</p>
+                <head>Translation </head>
+                <p><title>The Fables of La Fontaine</title>
+                    (Viking Press, 1954) </p>
+                <p><title>Rock Crystal</title> (The New York
+                    Review of Books, 1945) </p>
+                <head type="sub">Correspondence</head>
+                <p><title>Selected Letters of Marianne
+                        Moore</title> (New York: Knopf,
+                    1997), ed. Bonnie Costello, Celeste
+                    Goodridge, and Cristanne Miller</p>
+                <head>Bibliography</head>
+                <p>To submit a new entry to the bibliography, please email ccmiller@buffalo.edu. </p>
+                <p>Click on a column head to sort the table of contents according to that feature or
+                    enter a search term into the search box to filter the displayed entries. Because the file is very large, loading and re-sorting may take a while.</p>
+                <p>To download the full bibliography as a CSV file, visit <ref target="https://buffalo.box.com/s/hm7eaxjw148e9jlso11lfjmxc4byd9po">MMDA Box.</ref></p>
+                <table rows="321" cols="5" xml:id="moore-bibliography">
+                    <row role="label">
+                        <cell role="data">Author Name</cell>
+                        <cell role="data">Title</cell>
+                        <cell role="data">Collected In /
+                            Publisher</cell>
+                        <cell role="data">Year</cell>
+                        <cell role="data">Genre</cell>
+                    </row>
+    <row role="data">
+        <cell role="data">Abbott, Craig S.</cell>
+        <cell role="data">Marianne Moore: A Descriptive Bibliography</cell>
+        <cell role="data">U of Pittsburgh P</cell>
+        <cell role="data">1977</cell>
+        <cell role="data">Reference Works</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Abbott, Craig S.</cell>
+        <cell role="data">Marianne Moore: A Reference Guide</cell>
+        <cell role="data">G.K. Hall</cell>
+        <cell role="data">1978</cell>
+        <cell role="data">Reference Works</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ahearn, Barry</cell>
+        <cell role="data">"Marianne Moore and Ac-/cident"</cell>
+        <cell role="data">Pound, Frost, Moore, and Poetic Precision: Science in Modernist American Poetry (Palgrave Macmillan): 213-286</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Allen, Edward</cell>
+        <cell role="data">"'Spenser's Ireland,' December 1941: Scripting a Response"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 63.4 (Duke UP): 257-268</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Allen, Edward, Ed.</cell>
+        <cell role="data">"Marianne Moore"</cell>
+        <cell role="data">Glossator Vol. 11 (Brooklyn College)</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Special Issue</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Altieri, Charles</cell>
+        <cell role="data">"The Doctrine of Impersonality and Modernism's War on Rhetoric: Eliot, Loy, and Moore"</cell>
+        <cell role="data">The Art of Twentieth-Century American Poetry: Modernism and After (Blackwell): 52-96</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Altieri, Charles</cell>
+        <cell role="data">"Marianne Moore and the Logic of 'Inner Sensuousness'"</cell>
+        <cell role="data">Philosophy in the Condition of Modernism (Palgrave Macmillan): 263-283</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ambrozy, Paulina</cell>
+        <cell role="data">"Wading through black jade in Marianne Moore's sunken cathedral: The modernist sea poem as a Deleuzian fold"</cell>
+        <cell role="data">Studia Anglica Posnaniena Vol. 50.4 (Sciendo): 79-97</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ambrozy-Lis, Paulina</cell>
+        <cell role="data">"When a Sycamore Becomes an Albino Giraffe: On the Tension between the Natural and the Artificial in Marianne Moore's 'The Sycamore'"</cell>
+        <cell role="data">Walking on a Trail of Words: Essays in Honor of Professor Agnieszka Salska (Wydawnictwo Uniwersytetu Lodzkiego): 165-175</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Anderson, David</cell>
+        <cell role="data">"Marianne Moore's 'Fertile Procedure': Fusing Scientific Method and Organic Form through Syllabic Technique"</cell>
+        <cell role="data">Paideuma Vol. 33.2/3 (National Poetry Foundation; U of Maine, Orono): 83-108</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Arckens, Elien</cell>
+        <cell role="data">"In This Told-Backward Biography': Marianne Moore against Survival in Her Queer Archival Poetry"</cell>
+        <cell role="data">Women's Studies Quarterly Vol. 44.1/2 (The Feminist P at CUNY): 111-127</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Austin, Marite Oubrier</cell>
+        <cell role="data">"Marianne Moore's Translation of the Term Galand in Fables of LaFontaine"</cell>
+        <cell role="data">Papers on French Seventeenth Century Literature Vol. 28.54 (U of Washington): 81-91</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Azimi, Saba., Ahmadzadeh, Shideh and Sabbagh, Mahmoud Reza Ghorban</cell>
+        <cell role="data">“Catachrestic Divergence: in Marianne Moore’s ‘The Monkey Puzzle’” </cell>
+        <cell role="data">American &amp; British  Studies Annual 15: 100-115</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">"Marianne Moore, and the Arcadian Pleasures of Shopping"</cell>
+        <cell role="data">Women: A Cultural Review Vol. 12.2 (Routledge): 218-235</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">"Marianne Moore, Kenneth Burke, and the Poetics of Literary Labor"</cell>
+        <cell role="data">Journal of American Studies Vol. 45.3 (British Association for American Studies): 433-452</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">"'Just looking' at the Everyday: Marianne Moore's Exotic Modernism"</cell>
+        <cell role="data">Modernist Cultures Vol. 2.1 (Edinburgh UP): 58-69</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">Marianne Moore and the Cultures of Modernity</cell>
+        <cell role="data">Routledge</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">"Hysterical Virgins and Little Magazines: Marianne Moore's Editorship of The Dial"</cell>
+        <cell role="data">Journal of Modern Periodical Studies Vol. 4.1 (Penn State UP): 55-75</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">"Editorial Compression: Marianne Moore at The Dial Magazine"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 131-147</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bazin, Victoria</cell>
+        <cell role="data">Modernism Edited: Marianne Moore and the Dial Magazine</cell>
+        <cell role="data">U of Edinburgh P</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Berger, Charles</cell>
+        <cell role="data">"The 'Not-Native' Moore: Hybridity and Heroism in the Thirties"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 150-164</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Berger, Charles</cell>
+        <cell role="data">"Moore after Stevens: Beyond the Last Thought"</cell>
+        <cell role="data">Wallace Stevens Journal Vol. 31.2 (John Hopkins UP): 131-147</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Berry, Sarah</cell>
+        <cell role="data">"Marianne Moore’s Cabinets of Curiosity"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 41.3 (Indiana UP): 18-38</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bishop, Elizabeth</cell>
+        <cell role="data">"Efforts of Affection"</cell>
+        <cell role="data">The Collected Prose (Farrar, Straus and Giroux): 121-155</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Biography, Memoirs, and Profiles</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bloom, Harold</cell>
+        <cell role="data">Marianne Moore</cell>
+        <cell role="data">Chelsea House</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bornstein, George</cell>
+        <cell role="data">Material Modernism: The Politics of the Page</cell>
+        <cell role="data">Cambridge UP</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Bornstein, George</cell>
+        <cell role="data">"Flaring Moore: A Polemical Edition"</cell>
+        <cell role="data">Text: An Interdisciplinary Annual of Textual Studies Vol. 16 (U of Michigan P): 217-228</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Boroff, Marie</cell>
+        <cell role="data">Language and the Poet: Verbal Artistry in Frost, Stevens, and Moore</cell>
+        <cell role="data">U of Chicago P</cell>
+        <cell role="data">1979</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Botta, Anna</cell>
+        <cell role="data">“Cristina Campo, Emily Dickinson and Marianne Moore: The Poetry of Vibrant  Kinship”</cell>
+        <cell role="data">Cahiers d’´Etudes Italiennes</cell>
+        <cell role="data">2023</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Brinkman, Bartholomew</cell>
+        <cell role="data">"Scrapping Modernism: Marianne Moore and the Making of the Modern Collage Poem"</cell>
+        <cell role="data">Modernism/modernity Vol. 18.1 (Johns Hopkins UP): 43-66</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Brinkman, Bartholomew</cell>
+        <cell role="data">“She Literary Digest, Moore’s Scrapbooks, and the Archive of  Mass Print”</cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Brinkman, Bartholomew</cell>
+        <cell role="data">"Modernism Edited: Marianne Moore and the Dial  Magazine (2019)"</cell>
+        <cell role="data">Journal of European Periodical Studies: 190-192</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Brooks, Martin</cell>
+        <cell role="data">"Primitive Originals: Pablo Neruda in Elizabeth Bishop's 'Invitation to Miss Marianne Moore"</cell>
+        <cell role="data">Ka Mate Ka Ora: A New Zealand Journal of Poetry and Poetics Vol. 11 (New Zealand Electronic Poetry Centre): 111-121</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Budde, Tanja</cell>
+        <cell role="data">"Modernist Women Poets: H.D.'s 'Sea Violet' and Marianne Moore's 'The Fish'"</cell>
+        <cell role="data">A History of American Poetry: Contexts-Developments-Readings (Wissenschaftlicher Verlag Trier): 199-213</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Burt, Stephanie</cell>
+        <cell role="data">“Paper Trail: The true legacy of Marianne Moore, modernist monument.”</cell>
+        <cell role="data">Slate: https://slate.com/culture/2003/11/the-true-legacy-of-marianne-moore-modernist-monument.html.</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Buxton, Rachel</cell>
+        <cell role="data">"Marianne Moore and the Poetics of Pragmatism"</cell>
+        <cell role="data">Review of English Studies: The Leading Journal of English Literature and the English Language 58: 531-551.  </cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Cantrell, Carol H.</cell>
+        <cell role="data">“‘The Roar of Ice’’: Motion, Language, and Silence in Marianne  Moore’</cell>
+        <cell role="data">Bucknell Review, 44:1: 157-174.</cell>
+        <cell role="data">2000</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Carson, Luke</cell>
+        <cell role="data">“‘Possible Meaning’: Marianne Moore’s Anagogical Reading of Rilke,  
+Herbert, La Fontaine, and Hölderlin.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Carson, Luke and White, Heather Cass</cell>
+        <cell role="data">"Republicanism and Leisure in Marianne Moore's Depression"</cell>
+        <cell role="data">MLQ Vol. 63.3 (Duke UP): 315-342</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Carson, Luke and White, Heather Cass</cell>
+        <cell role="data">"Difficult Ground: Poetic Renunciation in Marianne Moore's 'Walking Sticks and Paperweights and Watermarks"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 56.3 (Indiana UP): 341-370</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Carson, Rachel</cell>
+        <cell role="data">"Marianne Moore and the Poetics of Pragmatism"</cell>
+        <cell role="data">Review of English Studies: The Leading Journal of English Literature and the English Language Vol. 58.236 (Oxford UP): 531-551</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Cecire, Natalia</cell>
+        <cell role="data">"Marianne Moore's Precision"</cell>
+        <cell role="data">Arizona Quarterly Vol. 67.4 (John Hopkins UP): 83-110</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Chapman, Mary</cell>
+        <cell role="data">"Miss Marianne Moore: 'Bulldoggy' on Suffrage"</cell>
+        <cell role="data">Making News: Suffrage Print Culture and U.S. Modernism (Oxford UP): 114-146</cell>
+        <cell role="data">2014</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Choi, Tae-Sook</cell>
+        <cell role="data">"The Poetic Technique and Morality of Marianne Moore"</cell>
+        <cell role="data">Journal of English Language and Literature Vol. 56.6: 219-236</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Churchill, Suzanne W</cell>
+        <cell role="data">“Marianne Moore: The Poetics of Conversity.”</cell>
+        <cell role="data">The Little  Magazine OTHERS and the Renovation of Modern American Poetry.  Farnham,  England: 135-178.</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Clavier, Aurore</cell>
+        <cell role="data">"The First Grace of Style: Marianne Moore and the Writing of Dancing"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 203-219</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Clavier, Aurore</cell>
+        <cell role="data">“Arts and Grafts: Marianne Moore’s Poetry and the Culture of  Exception.” </cell>
+        <cell role="data">Miranda 23: https://journals.openedition.org/miranda/42440. </cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Clavier, Aurore</cell>
+        <cell role="data">“‘Cut Prose?’: The Sentence and the Line in Marianne Moore’s  Poetry.” </cell>
+        <cell role="data">Transatlantica 1: https://journals.openedition.org/transatlantica/16994</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Clavier, Aurore</cell>
+        <cell role="data">“Postmarks and Watermarks: Reading through Marianne Moore’s Letters.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Clegg, John</cell>
+        <cell role="data">"Marianne Moore Buys Some Bananas"</cell>
+        <cell role="data">PN Review 47:3: 15-16.</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Colvin, Christina</cell>
+        <cell role="data">"Composite Creatures: Marianne Moore's Zoo-Logic"</cell>
+        <cell role="data">ISLE Vol. 24.4 (Oxford UP): 707-726</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">Marianne Moore: Imaginary Possessions</cell>
+        <cell role="data">Harvard UP</cell>
+        <cell role="data">1981</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Marianne Moore and Elizabeth Bishop: Friendship and Influence"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 130-149</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Marianne Moore's Wild Decorum"</cell>
+        <cell role="data">The American Poetry Review Vol. 16.2 (American Poetry Review): 43-54</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Marianne Moore and the Sublime"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 5-14</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Moore's America"</cell>
+        <cell role="data">Shifting Ground: Reinventing Landscape in Modern American Poetry (Harvard UP): 86-116</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Marianne Moore and the Old Masters"</cell>
+        <cell role="data">Genre: Forms of Discourse and Culture Vol. 45.1 (U of Illinois at Chicago Circle): 57-86</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Costello, Bonnie</cell>
+        <cell role="data">"Finding Moore: No Search Engines, No Indexes"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 261-263</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Cull, Ryan</cell>
+        <cell role="data">"'Complexities Which Will Remain Complexities' The Environmentalist Epistemology of Marianne Moore's 'An Octopus'"</cell>
+        <cell role="data">Paideuma Vol. 33.2/3 (National Poetry Foundation; U of Maine, Orono): 3-27</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Darling, Kristina Marie</cell>
+        <cell role="data">“Reclaiming the Intellectual Agency of Women: Marianne  Moore &amp; Jamesian Psychology.” </cell>
+        <cell role="data">Stylistic Innovation, Conscious Experience,  and the Self in Modernist Women’s Poetry: An Imagist Turned Philosopher (London: Rowan &amp; Littlefield): 1-24</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Duncan, Robert</cell>
+        <cell role="data">"H.D.'s Challenge"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 21-34</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">DuPlessis, Rachel Blau</cell>
+        <cell role="data">"'seismic orgasm': Sexual Intercourse, Its Modern Representations and Politics"</cell>
+        <cell role="data">Genders, Races and Religious Cultures in Modern American Poetry: 1908-1934 (Cambridge UP): 52-80</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Esdale, Logan</cell>
+        <cell role="data">"The Saintsbury Years of Marianne Moore"</cell>
+        <cell role="data">Textual Cultures: Texts, Contexts, Interpretation Vol. 5.1 (Society of Textual Scholarship): 46-75</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Falcetta, Jennie-Rebecca</cell>
+        <cell role="data">"Acts of Containment: Marianne Moore, Joseph Cornell, and the Poetics of Enclosure"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 29.4 (Indiana UP): 122-144</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Felin, Emma</cell>
+        <cell role="data">“Peculiar Kind of Particularity: Plants and Animals in Marianne Moore’s  Early Poetry.”</cell>
+        <cell role="data">Modernist Cultures 18.1: 43-67.  </cell>
+        <cell role="data">2023</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Finch, Zachary</cell>
+        <cell role="data">"Passion for the Particular: Marianne Moore, Henry James, Beatrix Potter, and the Refuge of Close Reading"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 221-235</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Fraser, Alison</cell>
+        <cell role="data">“Mass Print, Clipping Bureaus, and the Pre-Digital Database:  Reexamining Marianne Moore’s Collage Poetics through the Archives.”   </cell>
+        <cell role="data">Journal of Modern Literature 43.1: 19-33</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Frey, Lauren</cell>
+        <cell role="data">“Marianne Moore’s Ghost Revisions: Poems (1921), Observations (1924,  1925) and Selected Poems (1935).”</cell>
+        <cell role="data">Textual Cultures 14.1: 174-188.</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Friedlander, Benjamin</cell>
+        <cell role="data">"Marianne Moore Today"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 222-235</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Frontain, Raymond-Jean</cell>
+        <cell role="data">"Marianne Moore, the Psalmist David, and the Moral Basis of Poetry"</cell>
+        <cell role="data">Philological Review Vol. 36.2 (Arkansas Philological Association): 1-12</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Galvin, Rachel</cell>
+        <cell role="data">"Marianne Moore and the Eyewitness Bind"</cell>
+        <cell role="data">News of War: Civilian Poetry, 1936-1945 (Oxford UP): 251-277</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Garrigue, Jean</cell>
+        <cell role="data">Marianne Moore</cell>
+        <cell role="data">U of Minnesota P</cell>
+        <cell role="data">1965</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gelpi, Albert</cell>
+        <cell role="data">"Re-Membering the Mother: a Reading of H.D.'s Trilogy"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 40-55</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gilbert, Roger</cell>
+        <cell role="data">"These Things: Moore’s Habits of Addiction"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 33-48</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gilbert, Roger</cell>
+        <cell role="data">“‘This is how the mind works’: Marianne Moore and the Aesthetics of Notebooks.”</cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gilcrest, David W.</cell>
+        <cell role="data">"Rhetorical Redemption, Environmental Poetics, and the Case of the Camperdown Elm"</cell>
+        <cell role="data">ISLE Vol. 8.2 (Oxford UP): 169-180</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Glaser, Brian Brodhead</cell>
+        <cell role="data">"A Thought on Marianne Moore's Prudishness"</cell>
+        <cell role="data">Another Language: Poetic Experiments in Britain and North America (LIT): 285-288</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Goodridge, Celeste</cell>
+        <cell role="data">"Private Exchanges and Public Reviews: Marianne Moore's Criticism of William Carlos Williams"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 160-174</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Goodridge, Celeste</cell>
+        <cell role="data">"Towards a Poetic of Disclosure: Marianne Moore and Henry James"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 31-44</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Graham, Vicki</cell>
+        <cell role="data">"Whetted to Brilliance"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 127-146</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Graham, Vicki</cell>
+        <cell role="data">"'The Best Wild Music of the Forest': Marianne Moore's 'An Octopus'"</cell>
+        <cell role="data">ISLE Vol. 10.1 (Oxford UP): 167-184</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"Locating the Lyric: Marianne Moore, Elizabeth Bishop and the Second World War"</cell>
+        <cell role="data">Locations of literary modernism: region and nation in British and American modernist poetry (Cambridge UP): 199-214</cell>
+        <cell role="data">2000</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"'The magnitude of their root systems': 'An Octopus'"</cell>
+        <cell role="data">Poets and Critics Read Marianne Moore (Bucknell UP): 137-149</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"Moore’s Numbers"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 49-65</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"Moore, Pound, Syllabics, and History"</cell>
+        <cell role="data">Twentieth Century Literature (Duke UP): 427-450</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"Marianne Moore and the Hidden Persuaders"</cell>
+        <cell role="data">Writing for the New Yorker (Edinburgh UP): 58-78</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Green, Fiona</cell>
+        <cell role="data">"‘Black Obsidian Diana’: Moore, Pound, and the Curation of Race”  </cell>
+        <cell role="data">Yearbook of English Studies 50: 61-80</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregor, Arthur</cell>
+        <cell role="data">"'Omissions Are Not Accidents': Reminiscences"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 30.2/3 (Duke UP): 150-159</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">Quotation and Modern American Poetry: 'Imaginary Gardens with Real Toads'</cell>
+        <cell role="data">Texas A&amp;M</cell>
+        <cell role="data">1996</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">The Critical Response to Marianne Moore</cell>
+        <cell role="data">Praeger Press</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">"Flaring Moore, or The Revisionist Reviewed"</cell>
+        <cell role="data">The Critical Response to Marianne Moore (Praeger Press): 1-17</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">"Still Leafing': Celebrity, Confession, Marianne Moore's 'The Camperdown Elm, 'and the Scandal of Aging"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 35.3 (Indiana UP): 51-76</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">"Marianne Moore's 'Blue Bug': A Dialogic Ode on Celebrity, Race, Gender and Age"</cell>
+        <cell role="data">Modernism/modernity Vol. 22.4 (Johns Hopkins UP): 759-786</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">"Is Andy Warhol Marianne Moore: Celebrity, Celibacy and Subversion"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 237-251</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">Apparition of Splendor: Marianne Moore Performing Democracy  through Celebrity, 1952-1970</cell>
+        <cell role="data">Newark: University of Delware Press</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth</cell>
+        <cell role="data">“Out-Casts and Stay-at-Homes: Marianne Moore, Arthur Mitchell, and LGBTQ  Migration in NYC.”</cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Gregory, Elizabeth and Hubbard, Stacy Carson</cell>
+        <cell role="data">Twenty-First Century Marianne Moore: Essays from a Critical Renaissance</cell>
+        <cell role="data">Palgrave Macmillan</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Guest, Barbara</cell>
+        <cell role="data">"The Intimacy of Biography"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 74-83</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hadas, Pamela White</cell>
+        <cell role="data">Marianne Moore, Poet of Affection</cell>
+        <cell role="data">Syracuse UP</cell>
+        <cell role="data">1977</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Haft, Adele J.</cell>
+        <cell role="data">"Marianne Moore's 'Sea Unicorns and Land Unicorns': The 'Unreal Realities' of Early Modern Maps and Animals"</cell>
+        <cell role="data">Cartographic Perspectives Vol. 46 (North American Cartographic Information Society): 28-64</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hall, Donald</cell>
+        <cell role="data">"The Art of Poetry: Marianne Moore"</cell>
+        <cell role="data">Marianne Moore : A Collection of Critical Essays (Prentice-Hall): 20-45</cell>
+        <cell role="data">1969</cell>
+        <cell role="data">Interviews</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hart, Matthew</cell>
+        <cell role="data">Nations of Nothing but Poetry</cell>
+        <cell role="data">Oxford UP</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Harter, Odile</cell>
+        <cell role="data">"Moore's Depression Collectives"</cell>
+        <cell role="data">American Literature Vol. 85.2 (Duke UP): 333-361</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hatley, Clifford</cell>
+        <cell role="data">“A More-Than-Human Green: National Parks and Animality in Marianne  Moore’s ‘An Octopus.’”</cell>
+        <cell role="data">Modernism in  the Green: Public Greens in Modern Literature and Culture (New York: Routledge): 153-172.</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">He, Qingji</cell>
+        <cell role="data">"Multi-Dimensional Authenticity and Apology for Modernist Poetry: Marianne Moore's 'Poetry'"</cell>
+        <cell role="data">Interdisciplinary Studies Literature Vol. 2.3 (Interdisciplinary Studies of World Literature; Zhejiang U): 521-534</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Herd, David</cell>
+        <cell role="data">"'So He Who Strongly Feels, Behaves': Marianne Moore's Ethical Detail"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 63.4 (Duke UP): 475-498</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Heuving, Jeanne</cell>
+        <cell role="data">"Gender in Marianne Moore's Art: Can'ts and Refusals"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orno): 117-126</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Heuving, Jeanne</cell>
+        <cell role="data">Omissions are not Accidents: Gender in the Art of Marianne Moore</cell>
+        <cell role="data">Wayne State UP</cell>
+        <cell role="data">1992</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hickey, Dona J.</cell>
+        <cell role="data">"Marianne Moore: The Best of Both Worlds"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 181-192</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hicok, Bethany</cell>
+        <cell role="data">"Companions in Disguise: The Conjuries of Wallace Stevens and Marianne Moore"</cell>
+        <cell role="data">Wallace Stevens Journal Vol. 31.2 (Johns Hopkins UP): 115-130</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hoff, James Dennis</cell>
+        <cell role="data">"Marianne Moore, John Dewey, and the Aesthetics of Animal Life"</cell>
+        <cell role="data">Texas Studies in Literature and Language Vol. 61.3 (U of Texas P): 313-333</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hogue, Cynthia</cell>
+        <cell role="data">"'The Plucked String': Emily Dickinson, Marianne Moore and the Poetics of Select Defects"</cell>
+        <cell role="data">Emily Dickinson Journal Vol. 7.1 (John Hopkins UP): 89-109.</cell>
+        <cell role="data">1998</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hogue, Cynthia</cell>
+        <cell role="data">"Another Postmodernism: Toward an Ethical Poetics"</cell>
+        <cell role="data">How2 Vol. 1.7</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Holley, Margaret</cell>
+        <cell role="data">"The Model Stanza: The Organic Origin of Moore's Syllabic Verse"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 181-191</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Holley, Margaret</cell>
+        <cell role="data">"Marianne Moore and the Capacity for Change: the Shape of a Career"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 10-20</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Holley, Margaret</cell>
+        <cell role="data">The Poetry of Marianne Moore: A Study in Voice and Value</cell>
+        <cell role="data">Cambridge UP</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Holley, Margaret</cell>
+        <cell role="data">"Portraits of Ladies in Marianne Moore and Elizabeth Bishop"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 15-30</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Honigsblum, Bonnie</cell>
+        <cell role="data">An Annotated Bibliography of Works about Marianne Moore: 1977–1990</cell>
+        <cell role="data">National Poetry Foundation</cell>
+        <cell role="data">1990</cell>
+        <cell role="data">Reference Works</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Howarth, Peter</cell>
+        <cell role="data">“Marianne Moore’s Performances.” </cell>
+        <cell role="data">ELH: English Literary History 87:2: 553-579</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hubbard, Stacy Carson</cell>
+        <cell role="data">"Mannerist Moore: Poetry, Painting, Photography"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 113-136</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hubbard, Stacy Carson</cell>
+        <cell role="data">"Yellow Roses and Bulbuls: Marianne Moore’s Persian Effects"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 67-85</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Hutchison, Sharla</cell>
+        <cell role="data">"The Eco-Poetics of Marianne Moore's 'The Sycamore'"</cell>
+        <cell role="data">ISLE Vol. 18.4 (Oxford UP): 763-778</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Jiang, James</cell>
+        <cell role="data">"'Curious Self-Evidence': Graphology and Gusto in Marianne Moore's Critical Prose"</cell>
+        <cell role="data">Modernism/modernity Vol. 26.2 (Johns Hopkins UP): 375-398</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Johnson, Benjamin</cell>
+        <cell role="data">"The Poetics of the Fall in Marianne Moore's 'The Jerboa'"</cell>
+        <cell role="data">Arizona Quarterly Vol. 63.3 (Johns Hopkins UP): 61-89</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Johnson, Benjamin</cell>
+        <cell role="data">"Marianne Moore's 'Abraham Lincoln and the Art of the Word, Poetry, Celebrity and Civil Religion"</cell>
+        <cell role="data">Texas Studies in Literature and Language Vol. 57.1 (U of Texas P): 53-79</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kack, Elin</cell>
+        <cell role="data">"Flying Is Writing and Lindbergh's Flight a Poem': William Carlos Williams's Theorising Poetry and Science through Marianne Moore and Gertrude Stein"</cell>
+        <cell role="data">European Journal of English Studies Vol. 22.3 (Routledge): 287-301</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kahan, Benjamin</cell>
+        <cell role="data">"'The Viper's Traffic-Knot': Celibacy and Queerness in the 'Late' Marianne Moore"</cell>
+        <cell role="data">Celibacies: American Modernism and Sexual Life (Duke UP): 509-539</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kappel, Andrew J.</cell>
+        <cell role="data">"Introduction: The Achievement of Marianne Moore"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): v-xxx</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kearns, Cleo McNelly</cell>
+        <cell role="data">"Consanguinities: T.S. Elliot and Marianne Moore"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 45-56</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Keller, Lynn and Miller, Cristanne</cell>
+        <cell role="data">"'The Tooth of Disputation': Marianne Moore's Marriage"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 99-116</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kindley, Evan</cell>
+        <cell role="data">"Picking and Choosing: Marianne Moore among the Agonists"</cell>
+        <cell role="data">ELH Vol. 79 (Johns Hopkins UP): 685-713</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kinnahan, Linda</cell>
+        <cell role="data">"Economics and Gender in Mina Loy, Lola Ridge, and Marianne Moore"</cell>
+        <cell role="data">Oxford Companion to Twentieth-Century American Poetry (Oxford UP): 143-172</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kinnahan, Linda</cell>
+        <cell role="data">"Marianne Moore and Modern Labor"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 149-166</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kinnahan, Linda</cell>
+        <cell role="data">“Archives of Excess and ‘power over the poor’: Marianne Moore’s ‘The  Jerboa.’” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Kodat, Catherine Gunther</cell>
+        <cell role="data">Don't Act, Just Dance: The Metapolitics of Cold War Culture</cell>
+        <cell role="data">Rutgers UP</cell>
+        <cell role="data">2014</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ladino, Jennifer</cell>
+        <cell role="data">"Rewriting Nature Tourism in 'an Age of Violence': Tactical Collage in Marianne Moore's 'An Octopus'"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 51.3 (Duke UP): 385-315</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Lakritz, Andrew</cell>
+        <cell role="data">Modernism and the Other in Stevens, Frost, and Moore</cell>
+        <cell role="data">UP of Florida</cell>
+        <cell role="data">1996</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Lane, Gary</cell>
+        <cell role="data">A Concordance to the Poems of Marianne Moore</cell>
+        <cell role="data">Haskell House</cell>
+        <cell role="data">1972</cell>
+        <cell role="data">Reference Works</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leader, Jennifer</cell>
+        <cell role="data">"'Certain Axioms Rivaling Scripture': Marianne Moore, Reinhold Niebuhr and the Ethics of Engagement"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 51.3 (Duke UP): 316-340</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leader, Jennifer</cell>
+        <cell role="data">Knowing, Seeing, Being: Jonathan Edwards, Emily Dickinson, Marianne Moore and the American Typological Tradition</cell>
+        <cell role="data">U of Massachusetts P</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leader, Jennifer</cell>
+        <cell role="data">"The Teacher Was Speaking of Unrhymed Verse"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 113-128</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Marianne Moore, Her Family, and Their Language"</cell>
+        <cell role="data">Proceedings of the American Philosophical Society Vol. 147.2 (American Philosophical Society): 140-149</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Marianne Moore, the James Family, and the Politics of Celibacy'"</cell>
+        <cell role="data">Twenty Century Literature Vol. 49.2 (Duke UP): 219-245</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Marianne Moore's Emily Dickinson"</cell>
+        <cell role="data">The Emily Dickinson Journal Vol. 12.2 (Johns Hopkins UP): 1-20</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Kirkwood and Kindergarten: A Modernist's Childhood"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 25-39</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Marianne Moore Instructs Her Biographer: 'Relentless accuracy' versus 'the haggish, uncompanionable drawl of certitude'"</cell>
+        <cell role="data">South Central Review Vol. 23.3 (Johns Hopkins UP): 76-88</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Frightening Disinterestedness': The Personal Circumstances of Marianne Moore's 'Marriage'"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 31.1 (Indiana UP): 64-79</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">Holding on Upside Down: The Life and Work of Marianne Moore</cell>
+        <cell role="data">FSG</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda</cell>
+        <cell role="data">"Advertising Moore"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 273-275</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Leavell, Linda, Miller, Cristanne, and Schulze, Robin</cell>
+        <cell role="data">Critics and Poets on Marianne Moore: A Right Good Salvo of Barks</cell>
+        <cell role="data">Bucknell UP</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Collection of Essays</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Levy, Ellen</cell>
+        <cell role="data">"Borrowing Paints from a Girl: Greenberg, Eliot, Moore and the Struggle between the Arts"</cell>
+        <cell role="data">Modernism/modernity Vol. 17.1 (Johns Hopkins UP): 1-20</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Levy, Ellen</cell>
+        <cell role="data">"Natural Reticence: Editing Marianne Moore"</cell>
+        <cell role="data">Literacy Imagination Vol. 12.2: 229-241</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Levy, Ellen</cell>
+        <cell role="data">Criminal Ingenuity: Moore, Cornell, Ashbery, and the Struggle Between the Arts</cell>
+        <cell role="data">Oxford UP</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Lin, Su</cell>
+        <cell role="data">“Cultural Borrowing and Cold War Resistance in Marianne Moore’s ‘O to Be a  Dragon.’” </cell>
+        <cell role="data">Foreign Literature Studies 43:2: 80-93</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Liu, Haiyan and Tan, Joan Qionglin</cell>
+        <cell role="data">"Chineseness in Marianne Moore's 'Nine Nectarines'"</cell>
+        <cell role="data">ANQ Vol. 31.2 (UP of Kentuky): 111-117</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Liu, Wei</cell>
+        <cell role="data">“Dis/Appearance for Appeal: On Marianne Moore’s ‘Performing’ Archive.”</cell>
+        <cell role="data">Style:  A Quarterly Journal of Aesthetics, Poetics, Stylistics and Literary Criticism 56:3: 280-302</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Loiseaux, Elizabeth Bergmann</cell>
+        <cell role="data">"Women Looking: The Feminist Ekphrasis of Marianne Moore and Adrienne Rich"</cell>
+        <cell role="data">In the Frame: Women's Ekphrastic Poetry from Marianne Moore to Susan Wheeler (U Delaware P): 121-144</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Lourdeaux, Stanley</cell>
+        <cell role="data">"Marianne Moore and a Psychoanalytic Pardigm for the Dissociated Image"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 366-371</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Mak, Cliff</cell>
+        <cell role="data">"On Falling Fastidiously: Marianne Moore's Slapstick Animals"</cell>
+        <cell role="data">ELH Vol. 83.3 (Johns Hopkins UP): 873-898</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Malamud, Randy</cell>
+        <cell role="data">"Marianne Moore; 'flies in amber'"</cell>
+        <cell role="data">Poetic Animals and Animal Souls (Palgrave Macmillan): 93-136</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Malay, Michael</cell>
+        <cell role="data">"The Homely and the Wild in Marianne Moore and Elizabeth Bishop"</cell>
+        <cell role="data">The Figure of the Animal in Modern and Contemporary Poetry (Palgrave Macmillan): 33-95</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Malysek, Chelsie</cell>
+        <cell role="data">“From Word to Word: Marianne Moore’s Poetics of Cross-Reference,”</cell>
+        <cell role="data">Modern Philology 121:4: 447-470</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Martin, Taffy</cell>
+        <cell role="data">"Portrait of a Writing Master: Beyond the Myth of Marianne Moore"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 192-209</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Martin, Taffy</cell>
+        <cell role="data">Marianne Moore, Subversive Modernist</cell>
+        <cell role="data">U of Texas P</cell>
+        <cell role="data">1986</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Mason, Dancy</cell>
+        <cell role="data">"'Another armored animal': Modernist Prosthesis and Marianne Moore Posthumanist Animiles"</cell>
+        <cell role="data">Feminist Modernist Studies Vol. 1.3 (Feminist inter/Modernist Association): 318-315</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Maynard, James</cell>
+        <cell role="data">“Robert Duncan, ‘On Reading Marianne Moore”: An Introduction.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McAlmon, Robert</cell>
+        <cell role="data">Post-Adolescence: A Selection of Short Fiction</cell>
+        <cell role="data">U of New Mexico P</cell>
+        <cell role="data">1991</cell>
+        <cell role="data">Biography, Memoirs, and Profiles</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McCabe, Susan</cell>
+        <cell role="data">Cinematic Modernism: Modernist Poetry and Film</cell>
+        <cell role="data">Cambridge UP</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McCabe, Susan</cell>
+        <cell role="data">"Survival of the Queerly Fit: Darwin, Marianne Moore, Elizabeth Bishop"</cell>
+        <cell role="data">Twenty Century Literature Vol. 55.4 (Duke UP): 547-571</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McCabe, Susan</cell>
+        <cell role="data">"'Let's Be Alone Together': Bryher's and Marianne Moore's Aesthetic-Erotic Collaboration"</cell>
+        <cell role="data">Modernism/modernity Vol. 17.3 (Johns Hopkins UP): 607-637</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McRae, Calista</cell>
+        <cell role="data">"'Another armored animal': Robert Lowell's Allusions to Marianne Moore"</cell>
+        <cell role="data">Arizona Quarterly (John Hopkins UP) Vol. 72.2: 1-28</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McRae, Calista</cell>
+        <cell role="data">“Visible, Invisible”: Dickinson and Disappearance in Marianne Moore’s “A Jellyfish.”</cell>
+        <cell role="data">The Emily Dickinson Journal 30:2: 116-133</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">McSherry, Síofra</cell>
+        <cell role="data">"To fulfill a private obligation: Marianne Moore, Her Patrons, and the Social Economy of the Gift"</cell>
+        <cell role="data">New American Notes Online</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Merrin, Jeredith</cell>
+        <cell role="data">"Teaching Marianne Moore"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orno): 163-168</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Merrin, Jeredith</cell>
+        <cell role="data">"Elizabeth Bishop and Marianne Moore"</cell>
+        <cell role="data">The Columbia History of American Poetry (Columbia UP): 343-369</cell>
+        <cell role="data">1993</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Merrin, Jeredith</cell>
+        <cell role="data">An Enabling Humility: Marianne Moore, Elizabeth Bishop, and the Uses of Tradition</cell>
+        <cell role="data">U of Michigan P</cell>
+        <cell role="data">1995</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Merrin, Jeredith</cell>
+        <cell role="data">"Sites of Struggle: Marianne Moore and American Calvinism"</cell>
+        <cell role="data">The Calvinist Roots of the Modern Era (UP of New England): 91-106</cell>
+        <cell role="data">1997</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Documenting Moore"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 265-278</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Marianne Moore's Black Maternal Hero"</cell>
+        <cell role="data">American Literary History Vol. 1.4 (Oxford UP): 786-815</cell>
+        <cell role="data">1989</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Gendering the Beautiful in Marianne Moore's Poetry"</cell>
+        <cell role="data">Problematyka na swiecie</cell>
+        <cell role="data">1994</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">Marianne Moore: Questions of Authority</cell>
+        <cell role="data">Harvard UP</cell>
+        <cell role="data">1995</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Marianne Moore and the Women Modernizing New York"</cell>
+        <cell role="data">Modern Philology Vol. 98.2 (U of Chicago P): 339-362</cell>
+        <cell role="data">2000</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Marianne Moore and a Poetry of Hebrew (Protestant) Prophecy"</cell>
+        <cell role="data">Sources Vol. 12 (U d'Orléans P): 29-47</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"The Responsibilities of Inclusion and Omission: Editing Marianne Moore's Poetry"</cell>
+        <cell role="data">Virginia Quarterly Review Vol. 80.1 (U of Virginia): 232-248</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"'What is War For?' Moore's Development of an Ethical Poetry"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore: "A Right Good Salvo of Barks" (Bucknell UP): 56-73</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">Culture of Modernism: Marianne Moore, Mina Loy, and Else Lasker-Schuler</cell>
+        <cell role="data">U Michigan P</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"'By-Play': The Radical Rhythms of Marianne Moore"</cell>
+        <cell role="data">Foreign Literature Studies Vol. 30.6 (Wuhan China): 20-33</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Distrusting: Marianne Moore on Feelings and War in the 1940s"</cell>
+        <cell role="data">American Literature Vol. 80.2 (Duke UP): 353-379</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"Omission and Aberration in Marianne Moore's Party"</cell>
+        <cell role="data">Aberration in Modernist and Contemporary Poetry (Mcfarland): 19-35</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"A History of Moore Materials at the Rosenbach Museum &amp; Library and the MMDA"</cell>
+        <cell role="data">MMDA</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"The Marianne Moore Digital Archive and Feminist Modernist Digital Humanities"</cell>
+        <cell role="data">Feminist Modernist Studies Vol. 1.3 (Feminist inter/Modernist Association): 257-268</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Miller, Cristanne</cell>
+        <cell role="data">"The Politics of Marianne Moore's Poetry of Ireland: 1917-1941"</cell>
+        <cell role="data">Irish Journal of American Studies Vol. 11/12 (Irish Association for American Studies): 1-17</cell>
+        <cell role="data">2002/2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Mitchell Wallace, Emily</cell>
+        <cell role="data">"Athene's Owl"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 98-123</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Molesworth, Charles</cell>
+        <cell role="data">"In Earnest of Merit: Moore's Early Fiction"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 57-66</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Molesworth, Charles</cell>
+        <cell role="data">Marianne Moore: A Literary Life</cell>
+        <cell role="data">Atheneum</cell>
+        <cell role="data">1990</cell>
+        <cell role="data">Biography, Memoirs, and Profiles</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Moore, Marianne</cell>
+        <cell role="data">"Well Moused, Lion"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 123-129</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Moore, Marianne</cell>
+        <cell role="data">"A Late Manuscript Version of 'An Octopus'"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 267-272</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Moran, Eileen G.</cell>
+        <cell role="data">"Portrait of the Artist: Marianne Moore's Letters to Hildegarde Watson"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 124-137</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Mouw, Alex</cell>
+        <cell role="data">“Marianne Moore’s Public Solitude"</cell>
+        <cell role="data">Twentieth Century Literature 68:4: 409-436</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nadel, Alan</cell>
+        <cell role="data">"Marianne Moore and the Art of Delineation"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 169-180</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nardi, Paola A.</cell>
+        <cell role="data">"Marianne Moore's 'Granite and Steel': A Late Perspective on New York City"</cell>
+        <cell role="data">RSA Journal Vol. 12 (AISNA): 39-59</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nardi, Paola A.</cell>
+        <cell role="data">"Nature as Scenery and Symbol: Marianne Moore's 'An Octopus' and Ralph Waldo Emerson's 'Nature'"</cell>
+        <cell role="data">Emerson at 200 (Aracne): 185-193</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nardi, Paola A.</cell>
+        <cell role="data">"Marianne Moore: Ambiguous Modernism"</cell>
+        <cell role="data">Ambassadors: American Studies in a Changing World (AISNA): 445-454</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nashar, Claire</cell>
+        <cell role="data">“The Marianne Moore Digital Archive: Teaching and Research.”</cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Neal, Allison</cell>
+        <cell role="data">“Marianne Moore’s Tone Technologies: Elocution, Poetry, Phonograph.”   </cell>
+        <cell role="data">Modernism/modernity: https://modernismmodernity.org/articles/neal-moore-tone-technologies</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Neely, Julianne</cell>
+        <cell role="data">“Kill Your Heroes: Examining Marianne Moore’s Fraught Racial,  Misogynistic, Capitalist Politics.”</cell>
+        <cell role="data">Vida Online: https://www.vidaweb.org/kill-your-heroes-examining-marianne-moores-fraught-racial-misogynistic-and-capitalist-politics/</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Nitchie, George</cell>
+        <cell role="data">"Condescension and Affection: Some Observations on Marianne Moore"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 35-39</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">O'Connor, Laura</cell>
+        <cell role="data">"Flamboyant Reticence: An Irish Incognita"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 165-183</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Oliver, Elisabeth</cell>
+        <cell role="data">"Redecorating Vorticism: Marianne Moore's 'Ezra Pound' and the Geometric Style"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 34.4 (U of Indiana P): 84-113</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Olson, Kirby</cell>
+        <cell role="data">"Marianne Moore's 'The Camperdown Elm' and The Revival of Brooklyn's Prospect Park"</cell>
+        <cell role="data">Journal of Ecocriticism Vol. 3.2 (U of British Columbia P): 16-27</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Olson, Kirby</cell>
+        <cell role="data">"Marianne Moore and the Just War Tradition"</cell>
+        <cell role="data">The Montreal Review</cell>
+        <cell role="data">2014</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Olson, Kirby</cell>
+        <cell role="data">"Marianne Moore and the Poetics of the Protestant Work Ethic"</cell>
+        <cell role="data">The Montreal Review</cell>
+        <cell role="data">2014</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Olson, Kirby</cell>
+        <cell role="data">“Marianne Moore and Style.” </cell>
+        <cell role="data">Tab 10:4: 32-37: https://tabjournal.org/wp-content/uploads/2022/07/Tab-Journal-Vol-10-July-2022.pdf</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Olson, Kirby</cell>
+        <cell role="data">“Marianne Moore’s Baseball Poems.” </cell>
+        <cell role="data">The Imaginative Conservative: https://theimaginativeconservative.org/2020/07/marianne-moore-baseball-poems-kirby-olson.html.</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ostriker, Alicia</cell>
+        <cell role="data">"What do Women (Poets) Want?: Marianne Moore and H.D. as Poetic Ancestresses"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 1-9</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Parker-Hay, Katherine</cell>
+        <cell role="data">"Reading a Woolfian Sexuality in the Poetry of Marianne Moore"</cell>
+        <cell role="data">Virginia Woolf Miscellany Vol. 84 (Southern Connecticut State U): 19-22</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Paul, Catherine</cell>
+        <cell role="data">Poetry in the Museums of Modernism</cell>
+        <cell role="data">University of Michigan</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Paul, Catherine</cell>
+        <cell role="data">"Observations"</cell>
+        <cell role="data">A Companion to Modernist Literature and Culture (Blackwell): 422-430</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Phillips, Siobhan</cell>
+        <cell role="data">“The Students of Marianne Moore: Reading the Ugly History of the Carlisle Indian Industrial School, Where the Poet Taught.” </cell>
+        <cell role="data">Poetry Foundation  Online: https://scholar.dickinson.edu/faculty_publications/716/</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Plimpton, George</cell>
+        <cell role="data">"Marianne Moore"</cell>
+        <cell role="data">The Best of Plimpton (Atlantic Monthly Press): 85–99.</cell>
+        <cell role="data">1990</cell>
+        <cell role="data">Biography, Memoirs, and Profiles</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Pollak, Vivian R.</cell>
+        <cell role="data">"Moore, Plath, Hughes and 'The Literary Life'"</cell>
+        <cell role="data">American Literary History Vol. 6.3 (Oxford UP): 95-117</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Pollak, Vivian R.</cell>
+        <cell role="data">"'The Wholesomeness of Life': Marianne Moore's Unartificial Dickinson"</cell>
+        <cell role="data">Our Emily Dickinsons: American Women Poets and the Intimacies of Difference (U Pennsylvania P): 118-152</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Pugh, Christina</cell>
+        <cell role="data">"Marianne Moore's Finish"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 63.4 (Duke UP): 405-426</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Qian, Zhaoming</cell>
+        <cell role="data">The Modernist Response to Chinese Art: Pound, Moore, Stevens</cell>
+        <cell role="data">Penn State UP</cell>
+        <cell role="data">2008</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Qian, Zhaoming</cell>
+        <cell role="data">Modernism and the Orient</cell>
+        <cell role="data">University of New Orleans Press</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Qian, Zhaoming</cell>
+        <cell role="data">"Mai-Mai Sze, the Tao, and Moore's Late Poetry"</cell>
+        <cell role="data">Paideuma Vol. 40 (National Poetry Foundation; U of Maine, Orono): 349-356</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Raine, Anne</cell>
+        <cell role="data">"Still Life in the Age of Mechanical Reproduction: Nature, Modernity, and Marianne Moore"</cell>
+        <cell role="data">The Critical Response to Marianne Moore (Praeger Press): 173-184</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Redding, Patrick</cell>
+        <cell role="data">"'One Must Make a Distinction However': Marianne Moore and Democratic Taste"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 58.2 (Duke UP): 296-332</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Reddy, Srikanth</cell>
+        <cell role="data">"'To Explain Grace Requires a Curious Hand': Marianne Moore's Interdisciplinary Transgressions"</cell>
+        <cell role="data">American Literature Vol. 77.3 (MLA): 451-481</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Rees, Ralph</cell>
+        <cell role="data">"The Reality of Imagination in the Poetry of Marianne Moore"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 231-241</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Reizenstein, Ben</cell>
+        <cell role="data">"Perspicuous Opacity: Marianne Moore and the Truth"</cell>
+        <cell role="data">Cambridge Quarterly Vol. 36.4 (Oxford UP): 317-337</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Rieke, Alison</cell>
+        <cell role="data">"'Plunder' or 'Accessibility to Experience': Consumer Culture and Marianne Moore's Modernist Self-Fashioning"</cell>
+        <cell role="data">Journal of Modern Literature Vol 27.1/2 (Indiana UP): 149-170</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Robinson, Vanessa</cell>
+        <cell role="data">"Poetry's Language of Animals: Towards a New Understanding of the Animal Other"</cell>
+        <cell role="data">Modern Language Review Vol. 110.1 (Modern Humanities Research Association): 28-46</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Roffman, Karin</cell>
+        <cell role="data">From the Modernist Annex: American Women Writers in Museums and Libraries</cell>
+        <cell role="data">U Alabama P</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Roffman, Karin</cell>
+        <cell role="data">"Mysteries Expound Mysteries: Marianne Moore’s Influence on John Ashbery"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 185-199</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Roffman, Karin</cell>
+        <cell role="data">“An Interview with Patricia C. Willis.”</cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Ross, Bruce</cell>
+        <cell role="data">"Fables of the Golden Age: The Poetry of Marianne Moore"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 327-350</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sborgi, Anna Viola</cell>
+        <cell role="data">"Between Literature and the Visual Arts: Portraits of the Self in Williams Carlos Williams, Marianne Moore, and Fernando Pessoa"</cell>
+        <cell role="data">Stories and Portraits of the Self (Rodopi): 267-280</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schoerke, Meg</cell>
+        <cell role="data">"Equilibrium and Feeling: The Feminist Roots of Marianne Moore's Views on Emotion and Poetry"</cell>
+        <cell role="data">The Critical Response to Marianne Moore (Praeger Press): 264-278</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schon, Jeffrey</cell>
+        <cell role="data">"Marianne Moore: In Her Own Image"</cell>
+        <cell role="data">WinStar TV and Video</cell>
+        <cell role="data">1999</cell>
+        <cell role="data">Biography, Memoirs, and Profiles</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulman, Grace</cell>
+        <cell role="data">"Conversation with Marianne Moore"</cell>
+        <cell role="data">Quarterly Review of Literature Vol. 16.1–2 (Princeton UP): 154–171.</cell>
+        <cell role="data">1969</cell>
+        <cell role="data">Interviews</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulman, Grace</cell>
+        <cell role="data">"Marianne Moore and E. Mcknight Kauffer: Two Characteristic Americans"</cell>
+        <cell role="data">Twentieth-Century Literature (Duke UP): 175-180</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">The Web of Friendship: Marianne Moore and Wallace Stevens</cell>
+        <cell role="data">U of Michigan P</cell>
+        <cell role="data">1995</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"'Injudicious Gardening': Marianne Moore, Gender and the Hazards of Domestication"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 74-89</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"How Not to Edit: The Case of Marianne Moore"</cell>
+        <cell role="data">Textual Cultures Vol. 2.1 (Indiana UP): 119-135</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"Marianne Moore"</cell>
+        <cell role="data">Prospects for the Study of American Literature (AMS): 259-274</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"What a Facsimile Edition Can and Cannot Do: Moore's Diligence Is to Magic as Progress Is to Flight"</cell>
+        <cell role="data">Textual Cultures Vol. 6.2 (Indiana UP): 84-91</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">The Degenerate Muse: American Nature, Modernist Poetry, and the Problem of Cultural Hygiene</cell>
+        <cell role="data">Oxford UP</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"Marianne Moore and Printed Page"</cell>
+        <cell role="data">The Cambridge History of American Poetry (Cambridge UP): 603-627</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"Marianne Moore’s Gustatory Imagination"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 15-32</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schulze, Robin G.</cell>
+        <cell role="data">"Discovering Moore"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 269-272</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Schuster, Joshua</cell>
+        <cell role="data">"Fables: On the Morals of Marianne Moore's Animal Monologues"</cell>
+        <cell role="data">The Ecology of Modernism: American Environments and Avant-Garde Poetics (U of Alabama P): 22-46</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sekiguchi, Chiaki</cell>
+        <cell role="data">"'The Physiognomy of Conduct': Marianne Moore's Reading of Surrounding"</cell>
+        <cell role="data">Journal of the American Literature Society of Japan Vol. 1 (American Literature Society of Japan): 99-121</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Setina, Emily</cell>
+        <cell role="data">"Marianne Moore, Photography, and the Self-in-Flux"</cell>
+        <cell role="data">English Language Notes Vol. 44.2 (U of Colorado, Boulder): 275-282</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Setina, Emily</cell>
+        <cell role="data">"'Mountains Being a Language with Me': Marianne Moore, Marsden Hartley, and Modernist Revision"</cell>
+        <cell role="data">Modernism/modernity Vol. 22.1 (Johns Hopkins UP): 153-182</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Setina, Emily</cell>
+        <cell role="data">"Marianne Moore's Postwar Fables and the Politics of Indirection"</cell>
+        <cell role="data">PMLA Vol. 131.5 (MLA): 1256-1273</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Setina, Emily</cell>
+        <cell role="data">"Marianne Moore’s “Light Is Speech,” Decision Magazine, and the Wartime Work of Intellectual Exchange"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 167-183</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Setina, Emily</cell>
+        <cell role="data">"'Light is Speech,' Decision Magazine, and the Wartime Work of Intellectual Exchange"</cell>
+        <cell role="data">Twenty-First Century Moore (Palgrave Macmillan): 167-183</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sielke, Sabine</cell>
+        <cell role="data">"Snapshots of Marriage, Snares of Mimicry, Snarls of Motherhood: Marianne Moore and Adrienne Rich"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 79-98</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sielke, Sabine</cell>
+        <cell role="data">Fashioning the Female Subject: The Intertextual Networkin of Dickinson, Moore, and Rich</cell>
+        <cell role="data">U of Michigan P</cell>
+        <cell role="data">1997</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sielke, Sabine</cell>
+        <cell role="data">“Strange Animals in Stylish Habitats: Marianne Moore’s Poetry Revisited.”</cell>
+        <cell role="data">In An Eclectic Bestiary: Encounters in a More-than-Human World (Transcript Publishing: Bielefeld, Germany): 123-140.</cell>
+        <cell role="data">2019</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Slatin, John M.</cell>
+        <cell role="data">"'Advancing Backward in a Circle': Marianne Moore as (Natural) Historian"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 273-326</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Slatin, John M.</cell>
+        <cell role="data">The Savage’s Romance: The Poetry of Marianne Moore</cell>
+        <cell role="data">Pennsylvania State UP</cell>
+        <cell role="data">1986</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Smailbegovic, Ada</cell>
+        <cell role="data">“At the Edges of Unmeeting: Geometries of Sea and Land in  Marianne Moore’s Seascapes.” </cell>
+        <cell role="data">Comparative Literature 73:2: 150-165</cell>
+        <cell role="data">2021</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sprout, Rosalie</cell>
+        <cell role="data">"After The Fables: The Translator as Poet"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 351-365</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stamy, Cynthia</cell>
+        <cell role="data">Marianne Moore and China: Orientalism and a Writing of America</cell>
+        <cell role="data">Oxford UP</cell>
+        <cell role="data">1999</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stanford Friedman, Susan</cell>
+        <cell role="data">"Palimpsest of Origins in H.D.'s Career"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 56-73</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stapleton, Laurence</cell>
+        <cell role="data">Marianne Moore: The Poet’s Advance</cell>
+        <cell role="data">Princeton UP</cell>
+        <cell role="data">1978</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Steinman, Lisa</cell>
+        <cell role="data">Made in America: Science, Technology, and American Modernist Poets</cell>
+        <cell role="data">Yale UP</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Steinman, Lisa M.</cell>
+        <cell role="data">"Modern America, Modernism, and Marianne Moore"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 210-230</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Strommen, Hannah M.</cell>
+        <cell role="data">"Animal Poetics: Marianne Moore, Ted Hughes and the Song of Songs"</cell>
+        <cell role="data">Literature &amp; Theology: An International Journal of Religion, Theory, and Culture Vol. 31.4 (Oxford UP): 405-419</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">"New Readings of Marianne Moore's 'Spenser's Ireland'"</cell>
+        <cell role="data">Peer English Vol. 2 (U of Leicester ): 32-44</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">"Irish by descent? Marianne Moore's American-Irish Inheritance"</cell>
+        <cell role="data">Irish Journal of American Studies No. 1 (Irish Association for American Studies): 26-26</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">"Writing Was Resilience. Resilience Was an Adventure': Marianne Moore, Bernard Shaw, and the Art of Writing"</cell>
+        <cell role="data">The Annual of Bernard Shaw Studies Vol. 29 (Pennsylvania State UP): 66-78</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">"On title, three works? Marianne Moore, Maria Edgeworth and The Absentee"</cell>
+        <cell role="data">Romantic Ireland from Tone to Gonne: Fresh Perspectives on Nineteenth-Century Ireland, Vol.1: Literature (Peter Lang): 246-253</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">American literature and Irish culture, 1910-55: The Politics of Enchantment</cell>
+        <cell role="data">Manchester UP</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">"It's native surroundings: Marianne Moore, England and the idea of the 'characteristic American'"</cell>
+        <cell role="data">Modernist Cultures Vol. 11.1 (Edinburgh UP): 48-64</cell>
+        <cell role="data">2016</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Stubbs, Tara</cell>
+        <cell role="data">“Briefer Mentions and Lyrical Lexicons: Marianne Moore’s Responses  to Dictionaries in The Dial and Observations.” </cell>
+        <cell role="data">In Andrew Blades and Piers Pennington, eds. Poetry and the Dictionary (Liverpool: Liverpool University Press): 195–215</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Sullivan, Janet</cell>
+        <cell role="data">"Encountering the Unicorn: William Carlos Williams and Marianne Moore"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 147-162</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Suzanne, Churchill</cell>
+        <cell role="data">The Little Magazine Others and the Renovation of Modern American Poetry</cell>
+        <cell role="data">Ashgate</cell>
+        <cell role="data">2006</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Swigg, Richard</cell>
+        <cell role="data">Quick, Said the Bird: Williams. Eliot, Moore and the Spoken Word</cell>
+        <cell role="data">U of Iowa P</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Tracy, Ryan</cell>
+        <cell role="data">“’His Shield’: Prester John, Amphibiousness, and Black Fugitivity in Marianne  Moore’s Haile Selassie Poems.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Tracy, Ryan</cell>
+        <cell role="data">“The Octopus and the Pelican: Queer ‘Efforts of Affection’ between Marianne  Moore and Elizabeth Bishop.” </cell>
+        <cell role="data">Feminist Modernist Studies 6:3:  191-207</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Trousdale, Rachel</cell>
+        <cell role="data">"'Humor Saves Steps': Laughter and Humanity in Marianne Moore"</cell>
+        <cell role="data">Journal of Modern Literature Vol. 35.3 (Temple UP): 21-38</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Trousdale, Rachel</cell>
+        <cell role="data">Humor, Empathy, and Community in Twentieth-Century American  Poetry</cell>
+        <cell role="data">Oxford UP</cell>
+        <cell role="data">2022</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Trousdale, Rachel</cell>
+        <cell role="data">“Reconceiving Marianne Moore.”</cell>
+        <cell role="data">Twentieth-Century Marianne Moore:  Essays from a Critical Renassiance (2017). Journal of Modern Literature 43:4: 166-169</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">T'Sjoen, Yves</cell>
+        <cell role="data">"J. Bernlef and American Poetry: Poetic-Strategic Mentions of Marianne Moore. A Case Study"</cell>
+        <cell role="data">Dutch Crossing: Journal of Low Countries Studies Vol. 39.1 (Bedford College): 84-93</cell>
+        <cell role="data">2015</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Unali, Lina</cell>
+        <cell role="data">"Moral Purpose in the Marianne Moore"</cell>
+        <cell role="data">USA: Identities, Cultures, and Politics in National, Transnational and Global Perspectives (eum edizioni universita di macerata): 471-478</cell>
+        <cell role="data">2009</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Vincent, John E.</cell>
+        <cell role="data">Queer Lyrics: Difficulty and Closure in American Poetry</cell>
+        <cell role="data">Palgrave Macmillan</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Volpicelli, Robert</cell>
+        <cell role="data">"Against Things: The At-Home Objects of Marianne Moore"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 58.4 (Duke UP): 640-662</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Volpicelli, Robert</cell>
+        <cell role="data">“The Poet’s Room as Archive.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wasmoen, Nikolaus</cell>
+        <cell role="data">"Publishing a 'Fighting Spirit': Marianne Moore in the Little Magazines during WWI"</cell>
+        <cell role="data">Modern Print Activism in the United States (Ashgate): 65-85</cell>
+        <cell role="data">2013</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wasmoen, Nikolaus</cell>
+        <cell role="data">"Composure and Composition: Marianne Moore's Serial Imagination"</cell>
+        <cell role="data">Journal of Modern Periodical Studies Vol. 9.1 (Pennsylvania State): 53-75</cell>
+        <cell role="data">2018</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wasserman, Rosanne</cell>
+        <cell role="data">"Marianne Moore and the New York School: O'Hara, Ashbery, Koch"</cell>
+        <cell role="data">Sagetrieb Vol. 6.3 (U of Maine, Orono): 67-78</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Weinstein, Josh</cell>
+        <cell role="data">"Marianne Moore's Ecopoetics Architectonic"</cell>
+        <cell role="data">ISLE Vol. 17.2 (Oxford UP): 373-388</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Westover, Jeffery</cell>
+        <cell role="data">"Marianne Moore's Geography of Origins"</cell>
+        <cell role="data">The Colonial Moment: Discoveries and Settlements in Modern American Poetry (Nothern Illinois UP)</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Westover, Jeffery</cell>
+        <cell role="data">"Value, Commerce, and Economy in the Poetry of Marianne Moore"</cell>
+        <cell role="data">Paideuma Vol. 33.2/3 (National Poetry Foundation; U of Maine, Orono): 29-52</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Westover, Jeffrey</cell>
+        <cell role="data">Marianne Moore and the Archives: From Material Culture to the Digital  Humanities</cell>
+        <cell role="data">Clemson, SC: Clemson University Press</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Westover, Jeffrey</cell>
+        <cell role="data">“Questioning Categories to Revitalize Words: Meaning and Mottoes in the Poetry of  Marianne Moore.” </cell>
+        <cell role="data">Marianne Moore and the Archives (Clemson University Press)</cell>
+        <cell role="data">2024</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wheeler, Lesley</cell>
+        <cell role="data">"Marianne Moore: Freedom and Protection"</cell>
+        <cell role="data">The Poetics of Enclosure: American Woman Poets from Dickinson to Dove (U Tennessee P): 41-64</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wheeler, Lesley</cell>
+        <cell role="data">"Impostors and Chameleons: Marianne Moore and the Carlisle Indian School"</cell>
+        <cell role="data">Paideuma Vol. 33.2/3 (National Poetry Foundation; U of Maine, Orono): 53-82</cell>
+        <cell role="data">2004</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Andrew</cell>
+        <cell role="data">“Harry Belafonte and Marianne Moore on the Tonight Show.”  </cell>
+        <cell role="data">Rosenbach Museum and Library Blog</cell>
+        <cell role="data">2020</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather and Green, Fiona, Eds.</cell>
+        <cell role="data">Twentieth-Century Literature (Special Issue on Marianne Moore)</cell>
+        <cell role="data">(Duke UP) Vol. 63.4</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Special Issue</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass</cell>
+        <cell role="data">"Relentless Accuracy and Capacity For Fact: Authorship in Marianne Moore and Gertrude Stein"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 98-112</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass</cell>
+        <cell role="data">"Pragmatist Poetics in Wallace Stevens and Marianne Moore"</cell>
+        <cell role="data">Wallace Stevens Journal Vol. 31.2 (John Hopkins UP): 148-170</cell>
+        <cell role="data">2007</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass</cell>
+        <cell role="data">Adversity and Grace: Marianne Moore, 1932-1941</cell>
+        <cell role="data">(ELS Editions)</cell>
+        <cell role="data">2012</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass</cell>
+        <cell role="data">"Editing Moore"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 277-280</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass</cell>
+        <cell role="data">"'Pigeons' and the Future of Moore Criticism"</cell>
+        <cell role="data">Twentieth Century Literature Vol. 63.4 (Duke UP): 385-404</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">White, Heather Cass and Carson, Luke</cell>
+        <cell role="data">"A Variety of Hero: Marianne Moore's Romance"</cell>
+        <cell role="data">Journal of Modern Literature Vol 34.4 (Indiana UP): 63-83</cell>
+        <cell role="data">2011</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia</cell>
+        <cell role="data">Marianne Moore and the Pipes of Pan: Mt. Rainer and Mt. Olympus</cell>
+        <cell role="data">American College of Greece: The Attica Tradition Educational Foundation</cell>
+        <cell role="data">2001</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"The Road to Paradise: First Notes on Marianne Moore's 'An Octopus'"</cell>
+        <cell role="data">Twentieth-Century Literature Vol. 30.2/3 (Duke UP): 242-266</cell>
+        <cell role="data">1984</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"The Owl and the Lantern: Marianne Moore at Bryn Mawr"</cell>
+        <cell role="data">Poesis Vol. 6.3/4 (Bryn Mawr College): 84-97</cell>
+        <cell role="data">1985</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">Marianne Moore: Vision into Verse into Verse</cell>
+        <cell role="data">Rosenbach Museum &amp; Library</cell>
+        <cell role="data">1987</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"Modernist Epithalamium: Moore's 'Marriage'"</cell>
+        <cell role="data">Paideuma Vol. 32.1/2 (National Poetry Foundation; U of Maine, Orono): 265-299</cell>
+        <cell role="data">2003</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"Marianne Moore and the Seventeenth Century"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 40-55</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"Contrarieties Equally True’: Marianne Moore and William Blake"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 255-260</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">"Archiving Marianne Moore"</cell>
+        <cell role="data">Twenty-First Century Marianne Moore (Palgrave Macmillan): 255-260</cell>
+        <cell role="data">2017</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Willis, Patricia C.</cell>
+        <cell role="data">Marianne Moore Newsletters I-VII</cell>
+        <cell role="data">Rosenbach Museum &amp; Library</cell>
+        <cell role="data">1977-1983</cell>
+        <cell role="data">Book</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wilson, Elizabeth</cell>
+        <cell role="data">"El Greco's Daughter: Necessary Deflection in Marianne Moore's 'For February 14th' and 'Saint Valentine'"</cell>
+        <cell role="data">Critics and Poets on Marianne Moore (Bucknell UP): 192-207</cell>
+        <cell role="data">2005</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Wilson, William S.</cell>
+        <cell role="data">"Ray Johnson Aboveboard"</cell>
+        <cell role="data">From BMC to NYC: The Tutelary Years of Ray Johnson 1943-1967 (Black Mountain College Museum)</cell>
+        <cell role="data">2010</cell>
+        <cell role="data">Essay</cell>
+    </row>
+    <row role="data">
+        <cell role="data">Zona, Kirstin Hotelling</cell>
+        <cell role="data">Marianne Moore, Elizabeth Bishop, and May Swenson: The Feminist Poetics of Self-Restraint</cell>
+        <cell role="data">U of Michigan P</cell>
+        <cell role="data">2002</cell>
+        <cell role="data">Book</cell>
+    </row>
+                </table>
+                <head>Other Online Bibliographies</head>
+                <p><ref target="https://www.oxfordbibliographies.com/display/document/obo-9780199827251/obo-9780199827251-0108.xml">Ellen Levy’s Annotated Bibliography on
+                    Marianne Moore (Oxford University Press;
+                    login required)</ref></p>
+                <p><ref target="../resources/images/sources/mm_bibliography_20240425.pdf">21st Century Publications on Marianne
+                    Moore: A Bibliography in Progress,
+                    compiled by Elizabeth Gregory</ref></p>
+                <head>Manuscripts and Papers</head>
+                <p><ref target="https://digitalcollections.nypl.org/collections/10072a90-b1ea-0135-33d2-2388615f464a">James Sibley Watson/The Dial Papers</ref>.
+                    Henry W. and Albert A. Berg Collection
+                    of English and American Literature, New
+                    York Public Library.</p>
+                <p><ref target="https://www.rosenbach.org/collections/marianne-moore">Marianne Moore Collection</ref>. Rosenbach
+                    Museum and Library.</p>
+                <p><ref target="https://research.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00688">Marianne Moore Papers</ref>. Harry Ransom Center.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

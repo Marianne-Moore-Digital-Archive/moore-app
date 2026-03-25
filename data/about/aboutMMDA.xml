@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>About the Archive</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">about</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>The Marianne Moore Digital Archive (MMDA)
+                    Notebooks Project makes digital
+                    reproductions and transcriptions of
+                    Marianne Moore’s notebooks readily
+                    accessible to scholarly, classroom, and
+                    non-academic readers for the first time.
+                    The transcriptions are supported by
+                    annotations contextualizing Moore’s
+                    writing and life and providing citations
+                    to the original source texts she invokes
+                    or from which she is taking
+                    notes—sometimes extensively. These
+                    digital editions are also supported by a
+                    growing collection of related materials,
+                    such as a bibliography of Moore
+                    criticism, an index of books Moore owned
+                    (complete with inscriptions), a
+                    glossary, an interactive timeline of
+                    Moore's life and publications, links to
+                    hard-to-find critical essays and to some
+                    of the full source texts from which
+                    Moore drew, and searchable reproductions
+                    of the richly documented Marianne Moore
+                    Newsletters. The site also provides
+                    notebook-internal and inter-notebook
+                    search tools. This site makes it
+                    possible to understand Moore and her
+                    work in a new way, revolutionizing Moore
+                    criticism; contributing to popular and
+                    scholarly understanding of the modernist
+                    period; and developing new tools for the
+                    digital editing and publication of
+                    handwritten materials. Its tools for
+                    research and for the sharing of
+                    resources are constantly expanding and
+                    under continuous development, as more
+                    notebooks go online and more resources
+                    become available to the MMDA team.</p>
+                <p>Moore’s notebooks offer extraordinary
+                    challenges for editors and digital
+                    designers because they include multiple
+                    genres, images (Moore sketched objects
+                    that interested her), genetic layers of
+                    text, and references to decades’ worth
+                    of popular and academic source
+                    materials. Especially her
+                    poetry-drafting notebooks provide
+                    evidence of her ongoing editing of
+                    earlier thoughts and phrasing. These
+                    fully edited and annotated notebooks
+                    suggest the deep cultural genesis of her
+                    poems: they constitute not nearly
+                    finished drafts of poems and essays
+                    (that is, pre-publication texts) but,
+                    instead, a rich and varied collection of
+                    notes from her reading, from overheard
+                    conversations, and from her observations
+                    at lectures, museums, concerts, and
+                    sporting events from which Moore drew
+                    the materials that went into her drafts
+                    and published work. Part commonplace
+                    book, part sketchbook, part reading
+                    diary, part travelogue, each of Moore’s
+                    notebooks offers an extraordinary window
+                    into the eclectic print and visual
+                    culture of the twentieth century and the
+                    ways in which one of America’s most
+                    innovative poets responded to her
+                    world.</p>
+                <p>The MMDA Notebooks Project addresses the
+                    special challenges and opportunities
+                    presented by these documents through
+                    diplomatic transcriptions and brief
+                    bibliographic and historical annotation.
+                    Moreover, each notebook is accompanied
+                    by an editor's introduction that
+                    discusses the special textual or
+                    bibliographic features of that
+                    particular notebook as well as aspects
+                    of its historical, literary, and
+                    cultural significance. Cumulatively,
+                    these notebooks make available an
+                    unparalleled record of a major modernist
+                    figure’s reading, thinking, citation,
+                    and composition processes.</p>
+                <p>The Notebooks Project also employs new
+                    intelligent tools, developed for this
+                    project, with which researchers in the
+                    humanities can interact with handwritten
+                    historical documents online. The MMDA
+                    uses a customized version of EVT version
+                    1.0 to publish digital editions of the
+                    Notebooks, as well as the base for a
+                    suite of in-browser manuscript editing
+                    tools being developed at the University
+                    at Buffalo to address the needs of the
+                    site's editorial team and its users.
+                    When completed, the MMDA hopes to make
+                    this integrated, open source platform
+                    for the production and publication of
+                    transcribed and annotated manuscript
+                    material available to other users of the
+                    EVT and the digital scholarly editing
+                    community. Through the collaboration of
+                    scholars in English, Computer Science
+                    and Engineering, and the Center for
+                    Unified Biometrics and Sensors (CUBS) at
+                    the University at Buffalo, we aim to
+                    create a complete editorial workflow
+                    solution for transcription and
+                    annotation of manuscript collections. </p>
+                <p>The <ref target="about/documentation.xml">Project Documentation</ref> page
+                    posts the MMDA editorial transcription
+                    guidelines and will soon publish our
+                    encoding schema.</p>
+            </div>
+            <!-- <div>
+            <head>Example of paragraph body text.</head>
+            <p>Marianne Moore (1887-1972) was among the
+               foremost modernist poets of the early
+               twentieth-century. Her work contributed to
+               the revolution in poetic form and conceptions
+               of poetry occurring during the 1910s and
+               1920s and she remained a poet of profound
+               reflection and innovative design throughout
+               her lifetime. In particular, Moore was among
+               the first to conceive the poem as constructed
+               through both language and visual design on
+               the page and she was the first Anglo-American
+               poet to divorce the poetic line from syntax.
+               While her peers such as T. S. Eliot, Ezra
+               Pound, William Carlos Williams, Wallace
+               Stevens, and H.D. often excoriated each
+               others’ work, all were profound admirers of
+               Moore’s thought and poetry (Leavell 2014;
+               Miller 1995). Moore was also significant to
+               modernism in her decades-long reviewing of
+               work by her contemporaries, her publication
+               of essays on aesthetic and cultural topics,
+               and in her editing of one of the premier
+               periodicals of modernist literature and art,
+                  <title>The Dial</title>, from
+               1925-1929.</p>
+            <p>Moore was awarded the Dial Prize, the
+               Pulitzer Prize, the Bollingen Prize, the
+               National Book Award, and the Gold Medal of
+               the National Institute of Arts and
+               Letters—among other awards. Additionally, she
+               was made Chevalier de l'ordre des Lettres
+               from France and received a Gold Medal Award
+               for Lifetime Achievement from the Poetry
+               Society. </p>
+            <p>Moore grew up first in Kirkland, Missouri,
+               then (after a brief period of instability) in
+               Carlisle, Pennsylvania, living with her
+               mother, Mary Warner Moore, and brother, John
+               Warner—called Warner. Her mother separated
+               from her husband, Moore’s father, before the
+               poet’s birth, and refused further contact
+               with him or his family. Moore and her mother
+               and brother were very close and engaged in
+               playful familial practices—like assigning
+               each other animal names taken from children’s
+               literature or events in their youth: Moore
+               herself was typically given a masculine
+               nomenclature, as Fangs, Gator, and later as
+               Rat—the poet-hero of <title>The Wind in the
+                  Willows</title>. After attending Bryn Mawr
+               College, one of the most rigorous colleges
+               for women at the turn of the century, Moore
+               spent a year working in upstate New York and
+               then returned to living with her mother in
+               Carlisle. The two Moore women later moved to
+               New Jersey and then New York, continuing to
+               live together until Mary Warner’s death in
+               1947. The relationship was strained in many
+               ways but Moore found ways to make it nourish
+               her poetry, or found ways through her poetry
+               to escape its tensions.</p>
+         </div>
+         <div>
+            <head>Examples of a centered, a right-justified,
+               and a left-justified image that should appear
+               to either side of the main text.</head>
+            <p>Here is a paragraph that should be followed
+               by an image center-justified below it at maximum width.</p>
+            <figure>
+               <figDesc>Front cover of Notebook
+                     07.02.03</figDesc>
+               <graphic width="100%" url="http://mmda-notebooks.us.reclaim.cloud/exist/apps/moore/resources/images/notebooks/nb07_02_03_0001_recto.jpg"/>
+            </figure>
+            <p>
+                    <figure rend="right">
+                  <figDesc>Front cover of Notebook
+                     07.02.03</figDesc>
+                  <graphic width="30%" url="http://mmda-notebooks.us.reclaim.cloud/exist/apps/moore/resources/images/notebooks/nb07_02_03_0001_recto.jpg"/>
+               </figure>Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph.. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the right of the
+               paragraph.</p>
+            <p>
+                    <figure rend="left">
+                  <figDesc>Front cover of Notebook
+                     07.02.03</figDesc>
+                  <graphic width="30%" url="http://mmda-notebooks.us.reclaim.cloud/exist/apps/moore/resources/images/notebooks/nb07_02_03_0001_recto.jpg"/>
+               </figure>Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph. Here is a paragraph with an image
+               that should be placed to the left of the
+               paragraph.</p>
+         </div>
+         <div>
+            <list rend="unordered bullet">
+               <head>Here is an example of an unordered list
+                  of two levels. Whether or not there are
+                  bullets should be set by the
+                  list@rend=bullet attribute, with the
+                  default being no bullet decorations if no
+                  value "bullet" value present.</head>
+               <head>People</head>
+               <item>Director <list>
+                     <item>
+                                <p>Cristanne Miller (2015 - ),
+                           SUNY Distinguished Professor and
+                           Edward H. Butler Professor of
+                           Literature, University at
+                           Buffalo</p>
+                        <p>Miller is an established Moore
+                           scholar and editor. Two of her
+                           monographs deal with Moore
+                           (Marianne Moore: Questions of
+                           Authority, Harvard University
+                           Press, 1995; Cultures of
+                           Modernism: Marianne Moore, Mina
+                           Loy, Else Lasker-Schüler. Gender
+                           and Literary Community in New
+                           York and Berlin, University of
+                           Michigan Press, 2005) and she was
+                           a co-editor of The Selected
+                           Letters of Marianne Moore (1997).
+                           Her experience in editing primary
+                           documents includes Words for the
+                           Hour: A New Anthology of Civil
+                           War Poetry (coedited with Faith
+                           Barrett, University of
+                           Massachusetts Press, 2005), Emily
+                           Dickinson’s Poems: As She
+                           Preserved Them (Harvard, 2016),
+                           which won the MLA Best Scholarly
+                           Edition Prize, and The Letters
+                           of Emily Dickinson (Harvard
+                           2024). Miller also serves on the
+                           Editorial Board of ModNets
+                           (http://www.modnets.org/
+                        ).</p>
+                            </item>
+                  </list>
+                    </item>
+               <item>Associate Directors <list>
+                     <item>
+                                <p> Elizabeth Gregory (Current
+                           Project Manager, 2015 - ), is the
+                           Taylor Professor of Gender &amp;
+                           Sexuality Studies, a Professor of
+                           English and Director of the
+                           Women’s, Gender and Sexuality
+                           Studies Program and the Institute
+                           for Research on Women, Gender and
+                           Sexuality, at the University of
+                           Houston.</p>
+                        <p>Gregory's books on Moore include
+                              <title>Apparition of Splendor:
+                              Marianne Moore Performing
+                              Democracy through Celebrity,
+                              1952-1970</title> (Rutgers
+                           University Press, 2021) and
+                              <title>Quotation and Modern
+                              American Poetry: "'Imaginary
+                              Gardens with Real
+                              Toads'"</title> (Texas
+                           A&amp;M/Rice University Press,
+                           1996), as well as two edited
+                           collections: <title>The Critical
+                              Response to Marianne
+                              Moore</title> (Praeger Press,
+                           2003) and (co-edited with Stacy
+                           Carson Hubbard)
+                              <title>21st-Century Marianne
+                              Moore: Essays from a Critical
+                              Renaissance</title> (Palgrave,
+                           2017).</p>
+                            </item>
+                     <item>
+                                <p>Luke Carson (2020 -; Datebook
+                           Series Editor, 2021 - ),
+                           Associate Professor of English,
+                           University of Victoria, BC</p>
+                        <p>Carson is the author of
+                              <title>Consumption and
+                              Depression in Gertrude Stein,
+                              Louis Zukofsky and Ezra
+                              Pound</title> (Palgrave
+                           Macmillan, 1999), "Republicanism
+                           and Leisure in Marianne Moore's
+                           Depression," and co-author (with
+                           Heather Cass White) of "Difficult
+                           Ground: Poetic Renunciation in
+                           Marianne Moore's 'Walking-Sticks
+                           and Paperweights and Watermarks'"
+                           and "A Variety of Hero: Marianne
+                           Moore's Romance." As the General
+                           Editor of ELS Editions, he
+                           oversaw the publication of two
+                           facsimile editions of Moore's
+                           poems, both edited by Heather
+                           Cass White: <title>A-Quiver with
+                              Significance: Marianne Moore
+                              1932–1936</title> and
+                              <title>Adversity and Grace:
+                              Marianne Moore
+                              1936–1941</title>. </p>
+                            </item>
+                     <item>
+                                <p>Technical Director, Nikolaus
+                           Wasmoen (2015 - ), Project
+                           Director and Manager for DH
+                           Faculty Projects, University at
+                           Buffalo, SUNY</p>
+                        <p>Wasmoen is completing his first
+                           book project, <title>Editorial
+                              Modernism: T. S. Eliot,
+                              Marianne Moore, Ezra
+                              Pound</title>. He is a
+                           Technical Board member of ModNets
+                           (previously Project Manager),
+                           former Digital Co-Editor of the
+                           Lili Elbe Digital Archive, a
+                           Consultant on Special Projects
+                           for the William Blake Archive,
+                           and served for three years as
+                           Education Director of the
+                           Association for Documentary
+                           Editing (ADE),
+                        2017–2019.</p>
+                            </item>
+                  </list>
+                    </item>
+            </list>
+         </div>
+         <div>
+            <head>Partial example of a sortable/filterable
+               table.</head>
+            <table rows="4" cols="6" xml:id="table1">
+               <head>Available Notebook Editions</head>
+               <row role="label">
+                  <cell role="data">Access</cell>
+                  <cell role="data">Start Date</cell>
+                  <cell role="data">End Date</cell>
+                  <cell role="data">Notebook Edition
+                     Number</cell>
+                  <cell role="data">Type</cell>
+                  <cell role="data">Extent</cell>
+               </row>
+               <row role="data">
+                  <cell role="label">
+                            <ref target="/mmda_nb07_01_04_viewerURL">Viewer</ref>|<ref target="/mmda_nb07_01_04_introURL">Introduction</ref>
+                        </cell>
+                  <cell role="data">1922</cell>
+                  <cell role="data">1930</cell>
+                  <cell role="data">Moore 07.04.04</cell>
+                  <cell role="data">Poetry notebook 1251/7:
+                     AMs</cell>
+                  <cell role="data">1 v. (133 p. in 63
+                     leaves) + 1 enclosure ; 15 x 23
+                     cm.</cell>
+               </row>
+               <row role="data">
+                  <cell role="label">
+                            <ref target="/mmda_nb07_01_04_viewerURL">Viewer</ref>|<ref target="/mmda_nb07_01_04_introURL">Introduction</ref>
+                        </cell>
+                  <cell role="data">1923</cell>
+                  <cell role="data">1923</cell>
+                  <cell role="data">Moore 07.01.04</cell>
+                  <cell role="data">Reading notebook 1251/7:
+                     AMs</cell>
+                  <cell role="data">1 v. (124 p. in 62
+                     leaves) ; 14 cm. (in case).</cell>
+               </row>
+               <row role="data">
+                  <cell role="label">
+                            <ref target="/mmda_nb07_01_04_viewerURL">Viewer</ref>|<ref target="/mmda_nb07_01_04_introURL">Introduction</ref>
+                        </cell>
+                  <cell role="data">1929</cell>
+                  <cell role="data">1940</cell>
+                  <cell role="data">Moore 07.03.11</cell>
+                  <cell role="data">Miscellaneous notebook
+                     1250/27 : AMs</cell>
+                  <cell role="data">1 v. (44 p. in 106
+                     leaves) + 3 enclosures ; 14 cm.</cell>
+               </row>
+               <row role="data">
+                  <cell role="label">
+                            <ref target="/mmda_nb07_01_04_viewerURL">Viewer</ref>|<ref target="/mmda_nb07_01_04_introURL">Introduction</ref>
+                        </cell>
+                  <cell role="data">1933 (ca.)</cell>
+                  <cell role="data">1940</cell>
+                  <cell role="data">Moore 07.04.07</cell>
+                  <cell role="data">Poetry notebook 1251/12
+                     : AMs</cell>
+                  <cell role="data">1 v. (38 p. in 27
+                     leaves) ; 21 x 11 cm.</cell>
+               </row>
+            </table>
+         </div> -->
+        </body>
+    </text>
+</TEI>

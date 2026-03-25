@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Introduction to Poetry Notebook
+               07.04.07</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For testing purposes only.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Compiled from MMDA webpage TEI Conversion
+               Files</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc n="1">essays</catDesc>
+               </category>
+               <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Introduction to Poetry Notebook
+               07.04.07</head>
+            <p rend="center">Heather Cass White</p>
+            <p rend="center"><ref target="../notebooks/nb07_04_07.xml?view=page&amp;odd=moore"><figure>
+                     <graphic width="25%" url="resources/images/moore/nb07_04_07_0001recto.jpg"/>
+                  </figure></ref>
+            </p>
+            <p rend="center"><ref target="../notebooks/nb07_04_07.xml?view=page&amp;odd=moore"><hi rend="bold underline">Go to Notebook Viewer</hi></ref></p>
+            <p> It is a truth universally acknowledged by those who have tried it that editing Marianne Moore is never simple. One always hopes it will be otherwise. Transcribing and annotating a notebook seemed, initially, to be as straightforward a Moore-related task as one could want. Notebook VII.04.07 contains draft material for poems almost exclusively, so I wasn’t worried about distinguishing Moore’s voice from voices she was quoting (as is required in a conversation notebook), or identifying an unduly large number of esoteric sources (as one has to do in a reading notebook). Moreover, the notebook is preserved in a series of numbered, high-quality scans that allow for powerful magnification, a better set-up for transcription even than access to the actual documents themselves. Best of all, the notebook is comparatively well-known, having been stably preserved and in use among visitors to the Moore Archive at the Rosenbach for nearly two decades. What could go wrong?</p>
+
+     <p>Initially nothing. The notebook is filled with notes and draft material related to Moore’s long poems of the mid 1930’s through the early 1940’s, revealing interesting sources and discarded lines for some of her most accomplished work. Page by page the notebook is filled with fascinating information. The difficulty began when I looked at the notebook as a whole to see what story it told about Moore’s process of composition over time. The more carefully I looked the less sense that story made. With the exception of periods preceding the publication of new collections, when she worked intensively on revising older poems, Moore tended to work on and publish poems in more or less orderly sequence. She kept detailed records of her daily activities (in minuscule, year-long “datebooks”), including what she was working on, that confirm it. For example, her datebook for 1934 shows that the order in which she worked on five poems corresponds to the order in which they were published (or at least, sent out for publication).</p>
+            <table rows="5" cols="3">
+ <row role="label">
+  <cell role="data">Datebook Month</cell>
+  <cell role="data">Poem in Progress</cell>
+  <cell role="data">First Publication</cell>
+ </row>
+ <row role="data">
+  <cell role="data">February</cell>
+  <cell role="data">“The Buffalo”</cell>
+  <cell role="data">November, 1934 (with “Nine Nectarines”)</cell>
+ </row>
+ <row role="data">
+  <cell role="data">March-April</cell>
+  <cell role="data">“The Frigate Pelican”</cell>
+  <cell role="data">July, 1934</cell>
+ </row>
+ <row role="data">
+  <cell role="data">May</cell>
+  <cell role="data">“Nine Nectarines and Other Porcelain”</cell>
+  <cell role="data">November, 1934 (with “The Buffalo”)</cell>
+ </row>
+ <row role="data">
+  <cell role="data">August-November</cell>
+  <cell role="data">“Bird-Witted”</cell>
+  <cell role="data">Sent November, 1934 (where it appears two years later)</cell>
+ </row>
+ <row role="data">
+     <cell role="data">December</cell>
+     <cell role="data">“Half Deity”</cell>
+     <cell role="data">January 1935</cell>
+ </row>
+</table>
+<p>The ordering of the draft material in the notebook, however, suggested wild jumps in chronology, as though she returned to intensive work on poems published several years before, and made significant progress on poems not to be published until several years in the future. For example, it seemed strange that an entire notebook page pertaining to “See in the Midst of Fair Leaves,” published in 1936, should precede seven pages of draft material for “The Frigate Pelican” and “Nine Nectarines and Other Porcelain,” both published in 1934. It was similarly hard to understand why eight images of material pertaining to “Nine Nectarines and Other Porcelain” and “The Buffalo” (also 1934) were the last-but-three images in a notebook ending with notes for “A Glass-Ribbed Nest” and “Rigorists,” both published in 1940. Such jumps, while not actually impossible, didn’t accord with Moore’s working habits as I knew them. This suggested either that the notebook was an artistic anomaly (exciting!) or that there had been human error in its preservation (ominous).</p>
+
+<p>Frustratingly, the latter turned out to be the case, for reasons detailed in Cristanne Miller’s essay “<ref target="../essays/millerHistoryOfMooreMaterials.xml?view=page&amp;odd=moore">A History of Moore Materials at the
+                  Rosenbach Museum &amp; Library and the
+                     <title>MMDA</title></ref>.” Not only were the pages significantly disordered in scanning, but a number of fragmentary pages had been left out entirely. Fortunately, Patricia Willis’s original typescript record of the notebook pages in the order she first saw them in 1969 still exists, and by cross-checking the scans against it I was able to restore an order that corresponds as closely as I am able to determine it to the original order in which Moore created them. All fragmentary pages, so labeled, have also been added back in.</p>
+
+<p>As a result the notebook here transcribed and reproduced is based on but not identical to the one scholars have been using at the Rosenbach in the time since the notebooks were first conserved by electronic scan. Correcting the record is a scholarly satisfaction in and of itself, but also permits subtler insights into Moore’s compositional process. With false temporal oddities removed, one can ponder the genuine strangenesses of sequence that remain. For example, <ref target="../notebooks/nb07_04_07.xml?view=page&amp;odd=moore&amp;root=3.4.4.8.4">page 4v(view)</ref> [RML 0004/PW 4], a page filled with material that eventually ended up in 1934’s “The Frigate Pelican” and “The Buffalo,” also contains the lines “all are naked / none is safe,” and “Satisfaction is lowly. How pure a thing is joy.” Moore’s readers will recognize these lines from “What Are Years?,” first published in 1940. “What Are Years?” is the title poem of <title>What Are Years</title> (1941), a book that marks a turning point in Moore’s work toward a more plain-spoken voice, in poems written for periodicals such as <title>The Nation</title> and <title>The Atlantic</title> with a wide general readership, espousing clear moral positions. Many scholars (including me) have written about the significance of “What Are Years?” as a poem in Moore’s new mode. The notebook evidence shows, however, that its most striking lines were on Moore’s mind since at least the early 1930s.</p>
+
+<p>Similarly, one will find, on <ref target="../notebooks/nb07_04_07.xml?view=page&amp;odd=moore&amp;root=3.4.4.38.4">page 19r(view)</ref> [RML 0015/PW18], the description of Cinderella’s mother’s willow (which finds a home in “Nine Nectarines and Other Porcelain,”) followed by “Tiger horse—camel-leopard' / the great camel-sparrow— / ' the tall bird aepeornis—extinct.” The tiger-horse rears up again as a description of a butterfly in 1935’s “Half Deity” (for which the notebook contains draft material), while the camel-sparrow and extinct aepeornis await their joyful resurrections in 1941’s “‘He Digeseth Harde Yron’” (not otherwise present in the notebook). So while it is still true to say that Moore worked on poems to completion, in sequence, it is also clear that she did not forget promising material she chose not to use in any given poem. Moreover, Moore worked in multiple notebooks simultaneously. While this notebook contains material that is almost exclusively explicit drafts of poems, other notebooks, such as <ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore">Miscellaneous Notebook 07.03.11</ref> edited by Cristanne Miller also present related material; <ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.74.4">pages 37v(view)</ref> and <ref target="../notebooks/nb07_03_11.xml?view=page&amp;odd=moore&amp;root=3.4.5.74.8">37r(view)</ref> of that notebook, for example, contain multiple lines and titles Moore used in poems of the mid 1930’s. A full portrait of Moore’s work on any given poem, then, will involve a reading of more than one kind of notebook at a time.</p>
+
+<p>Nevertheless, notebook 07.04.07 is a deep resource for understanding Moore’s thinking about many of her longest and most complex poems. Scattered throughout the notebook one will encounter prosody symbols; this evidence of her use of traditional metrical notation during composition may surprise readers who know Moore primarily for her syllabic stanzas. It also contains multiple instances where Moore notes internal and end rhymes by circling syllables, showing how active her ear stayed while she wrote. Page after page, the notebooks reveal a great deal of material that she used, and a considerable amount that she didn’t. If I had my wish she would have used more of those chosen-against lines. I would like to know what poem might have been written for the “untidy ostentatious semi-gentleman” who shows up more than once in draft material for “Camellia Sabina.” It is fun to think about the poem “The Buffalo” might have been if it had been written in the first person, containing the lines “I am not a buffalo, but a baby that has decided to cry,” as multiple notebook pages suggest it well might have. What happened to the “judicious young genius” that once looked like he might live on in “Nine Nectarines and Other Porcelain”? But then, might-have-beens have pleasures all their own, as does the realization that any given poem, however perfected and final it seems, resulted from a living, changing, human mind. How lucky we are to have this record of Moore’s.</p>
+
+ <table rows="58" cols="3">
+ <head>Notebook 07.04.07 Image File Renumbering Table</head>
+ <row role="label">
+  <cell role="data">RML Image File #</cell>
+  <cell role="data">PW Photocopy #</cell>
+  <cell role="data">MMDA Image File #</cell>
+ </row>
+ <row role="data">
+        <cell role="data">0001</cell>
+        <cell role="data">PW1</cell>
+        <cell role="data">r.0001</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0002</cell>
+        <cell role="data">PW2</cell>
+        <cell role="data">v.0002</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0003</cell>
+        <cell role="data">PW 3</cell>
+        <cell role="data">r.0003</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0004</cell>
+        <cell role="data">PW 4</cell>
+        <cell role="data">v.0004</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0029</cell>
+        <cell role="data">PW 5</cell>
+        <cell role="data">r.0005</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0030</cell>
+        <cell role="data">PW 6</cell>
+        <cell role="data">v.0006</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0031</cell>
+        <cell role="data">PW 7</cell>
+        <cell role="data">r.0007</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0032</cell>
+        <cell role="data">PW 8</cell>
+        <cell role="data">v.0008</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0033</cell>
+        <cell role="data">PW 9</cell>
+        <cell role="data">r.0009</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0034</cell>
+        <cell role="data">PW 10</cell>
+        <cell role="data">v.0010</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x5 side B</cell>
+        <cell role="data">PW 10</cell>
+        <cell role="data">r.0011</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x5 side A</cell>
+        <cell role="data">PW 11</cell>
+        <cell role="data">v.0012</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0035</cell>
+        <cell role="data">PW 12</cell>
+        <cell role="data">r.0013</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0036</cell>
+        <cell role="data">PW 13</cell>
+        <cell role="data">v.0014</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0037</cell>
+        <cell role="data">PW 14</cell>
+        <cell role="data">r.0015</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0038</cell>
+        <cell role="data">PW 15</cell>
+        <cell role="data">v.0016</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0017</cell>
+        <cell role="data">PW 16</cell>
+        <cell role="data">r.0017</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0018</cell>
+        <cell role="data">PW 17</cell>
+        <cell role="data">v.0018</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0015</cell>
+        <cell role="data">PW 18</cell>
+        <cell role="data">r.0019</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0016</cell>
+        <cell role="data">PW 19</cell>
+        <cell role="data">v.0020</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0013</cell>
+        <cell role="data">PW 20</cell>
+        <cell role="data">r.0021</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0014</cell>
+        <cell role="data">PW 21</cell>
+        <cell role="data">v.0022</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0011</cell>
+        <cell role="data">PW 22</cell>
+        <cell role="data">r.0023</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0012</cell>
+        <cell role="data">PW 23</cell>
+        <cell role="data">v.0024</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x2 side B</cell>
+        <cell role="data">PW 25</cell>
+        <cell role="data">r.0025</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x2 side A</cell>
+        <cell role="data">PW26</cell>
+        <cell role="data">v.0026</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x3 side A</cell>
+        <cell role="data">PW26</cell>
+        <cell role="data">r.0027</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x3 side B</cell>
+        <cell role="data">PW27</cell>
+        <cell role="data">v.0028</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x4 side B</cell>
+        <cell role="data">PW27</cell>
+        <cell role="data">v.0029</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x4 side A</cell>
+        <cell role="data">PW28A/B</cell>
+        <cell role="data">r.0030</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0007</cell>
+        <cell role="data">PW29</cell>
+        <cell role="data">r.0031</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0008</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">v.0032</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0009</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">r.0033</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0010</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">v.0034</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0019</cell>
+        <cell role="data">PW30</cell>
+        <cell role="data">r.0035</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0020</cell>
+        <cell role="data">PW31</cell>
+        <cell role="data">v.0036</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0023</cell>
+        <cell role="data">PW32</cell>
+        <cell role="data">r.0037</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0024</cell>
+        <cell role="data">PW33</cell>
+        <cell role="data">v.0038</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0025</cell>
+        <cell role="data">PW34</cell>
+        <cell role="data">r.0039</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0026</cell>
+        <cell role="data">PW35</cell>
+        <cell role="data">v.0040</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0021</cell>
+        <cell role="data">PW40</cell>
+        <cell role="data">r.0041</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0022</cell>
+        <cell role="data">n/a</cell>
+        <cell role="data">v.0042</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x1 Side A</cell>
+        <cell role="data">PW40C</cell>
+        <cell role="data">v.0043</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x1 side B</cell>
+        <cell role="data">PW43</cell>
+        <cell role="data">r.0044</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0027</cell>
+        <cell role="data">PW44</cell>
+        <cell role="data">r.0045</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0028</cell>
+        <cell role="data">PW45</cell>
+        <cell role="data">v.0046</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0005</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">r.0047</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0006</cell>
+        <cell role="data">n/a</cell>
+        <cell role="data">v.0048</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0039</cell>
+        <cell role="data">PW47</cell>
+        <cell role="data">r.0049</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0040</cell>
+        <cell role="data">PW48</cell>
+        <cell role="data">v.0050</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0041</cell>
+        <cell role="data">PW48</cell>
+        <cell role="data">r.0051</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0042</cell>
+        <cell role="data">PW49</cell>
+        <cell role="data">v.0052</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0043</cell>
+        <cell role="data">PW49</cell>
+        <cell role="data">r.0053</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0044</cell>
+        <cell role="data">n/a</cell>
+        <cell role="data">v.0054</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0047</cell>
+        <cell role="data">PW50</cell>
+        <cell role="data">r.0055</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x6 side A</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">r.0056</cell>
+    </row>
+    <row role="data">
+        <cell role="data">x6 side B</cell>
+        <cell role="data">PW none</cell>
+        <cell role="data">v.0057</cell>
+    </row>
+    <row role="data">
+        <cell role="data">0045</cell>
+        <cell role="data">n/a</cell>
+        <cell role="data">r.0058</cell>
+    </row>
+</table>
+
+
+         </div>
+      </body>
+   </text>
+</TEI>

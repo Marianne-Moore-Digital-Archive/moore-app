@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rights and Permissions</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="5">about</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Rights and permissions statement for
+                    use of material published on the
+                    MMDA</head>
+                <p>The MMDA adheres to the policy of Fair
+                    Use, which is part of US copyright law
+                    and a freedom guaranteed by the First
+                    Amendment. The Modern Language
+                    Association (among other scholarly
+                    organizations) “urges scholars and
+                    publishers to exercise their rights
+                    under the fair use doctrine.”
+                    Information about Fair Use legal rights
+                    and public domain are taken from:
+                    Cornell University Library <ref target="https://guides.library.cornell.edu/copyright/publicdomain">https://guides.library.cornell.edu/copyright/publicdomain</ref>.
+                    The Biographer’s International
+                    Organization <ref target="https://biographersinternational.org/about/fair-use-a-statement-on-best-practices-for-biographers/">https://biographersinternational.org/about/fair-use-a-statement-on-best-practices-for-biographers/</ref>
+                    ; and “Fair Use of Copyrighted Works” in
+                    the <title>MLA Style Manual and Guide to
+                        Scholarly Publishing</title>, 3rd
+                    ed., sec. 2.2.13.</p>
+                <p>Generally, Section 107 of the US
+                    copyright law defines “fair use”
+                    generously when it comes to criticism
+                    and scholarship because use for
+                    scholarly and teaching purposes poses no
+                    threat to the value of the copyrighted
+                    intellectual property. <hi rend="italic">Any use of copyrighted material with commercial repercussions must be approved explicitly by the Literary Executor</hi>. For Moore, this is David Moore. 24 East Main Street, Avon, CT 06001; dmoore@a1conflictresolver.com; office phone (860-674-0122).</p>
+                <p><hi rend="underline italic">Work can be cited without requesting permission if it falls under either of these two categories:</hi></p>
+                <list>
+                    <item><hi rend="bold">Public domain</hi>: for material not under copyright. Moore’s <hi rend="bold"><hi rend="italic">Poems</hi> (1921) and <hi rend="italic">Observations</hi> (1924/25) are in the public domain</hi>, as are first presentations of all poems published before December 31, 1929. <hi rend="italic">If you want to quote an entire Moore poem, if possible choose a version that is in the public domain.</hi></item>
+                    <item><hi rend="bold">Fair use</hi>: for material still under copyright, if the citation meets the criteria.</item></list>
+                <p><hi rend="bold">See below</hi> to determine whether the work you want to cite fits either.</p>
+                <p><hi rend="italic">For quotation or other use of material that does not constitute “Fair Use” and is still under copyright, you must contact the Moore Estate Literary Executor, David Moore (see above). </hi></p>
+            <head>General principles of fair use:</head>
+                <list>
+                    <item>Fair use is a right of the user to cite copyrighted material, particularly when it is used for non-profit educational or scholarly and research purposes. One may claim this right when quoting, paraphrasing, or summing up the expressions of others as part of a new work.</item>
+                    <item>Scholarly and critical works are highly transformative; they use parts of materials of others to create an original narrative that is more than the sum of its parts. They are new work.</item>
+                    <item>Fair use applies to words and images, whether published or previously unpublished.</item>
+                    <item><hi rend="italic">There are no specific word limits or poetry line limits on fair use</hi>. The crucial factors are:
+                        <list>
+                            <item>the amount and substantiality of material used in relation to the copyrighted work as a whole;</item>
+                            <item>the effect of the scholar’s use upon the potential market for or value of the copyrighted work—that is, there should be no clear harm to the economic interest of the copyright owner.</item>
+                    </list></item>
+                    <item>Fair use in published poetry works at the level of the poem, not the volume; quoting a substantial portion of a poem under copyright would not be considered fair use. Use only what’s needed to make your point if a poem remains under copyright.</item>
+                    <item>Fair use in notebooks works at the level of the notebook; quoting even an entire page (or lines from several pages) would fall under “fair use” unless the notebook is very short.</item>
+                    <item>Fair use is <hi rend="bold">not</hi> a privilege conveyed by a grant of permission from copyright holders or their agents. Fair use is part of a scholar’s First Amendment rights and may be utilized without contacting copyright holders.</item>
+                </list>
+            <head>General rules on PUBLIC DOMAIN</head>
+                <list>
+                    <item>Anything published on or before December 31, 1922, is in the public domain. (The Sonny Bono legislation of 1998 did not bring any of these works back under copyright.)</item>
+                    <item>In the US, books published before 1964 went into public domain IF they did not renew their copyrights within 28 years. Moore’s publishers renewed all eligible copyrights of books except for <title>Poems</title> and <title>Observations</title>.</item> 
+                    <item>Renewed copyrights run an additional 67 years (95 years total), rounded up to the end of the calendar year. Moore’s now-under-copyright volumes come into public domain 95 years after first publication. For example:
+                        <list>
+                            <item><title>Selected Poems</title> (1935)—in public domain as of 2030;</item>
+                            <item><title>What Are Years</title> (1941)—in public domain as of 2036;</item>
+                            <item><title>Collected Poems</title> (1951)—in public domain as of 2046.</item>
+                        </list></item>
+                    <item><hi rend="bold">Unpublished works</hi> are not in public domain until death of the author + 70 years – ie MM’s notebooks, unpublished letters, etc. <hi rend="bold">are under copyright until 2042</hi>.</item>
+                    <item>Work published outside the U.S. but in compliance with all US formalities (i.e., notice, renewal), goes into public domain 95 years after publication date—e.g., <title>The Pangolin</title> and anything first published by Faber &amp; Faber (<title>Selected Poems</title> was first published by MacMillan, then republished by Faber &amp; Faber). </item>
+                    <item>Minimally <hi rend="bold">revised poems</hi> do not constitute new works: for example, poems in <title>Observations</title> that are revised minimally in later collections remain in public domain in all versions; poems in <title>Observations</title> that are substantially revised in Moore’s later collections are only considered in the public domain as printed in <title>Observations</title>. This holds true for every first publication registered in copyright and later revisions. If you are unsure what constitutes minimal revision, best to cite the early version.</item>
+                </list>
+                <p>All material on the MMDA website that is not written by Moore herself is registered under Creative Commons and is in the public domain.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

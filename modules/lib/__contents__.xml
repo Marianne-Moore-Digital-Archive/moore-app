@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/modules/lib" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.261Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="util.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.272Z" modified="2026-03-04T15:59:27.272Z" filename="util.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api-odd.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.274Z" modified="2026-03-04T15:59:27.274Z" filename="api-odd.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.27Z" modified="2026-03-04T15:59:27.27Z" filename="api.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="epub.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.268Z" modified="2026-03-04T15:59:27.268Z" filename="epub.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api-dba.xql" skip="no" owner="tei" group="dba" mode="2745" created="2026-03-04T15:59:27.266Z" modified="2026-03-04T15:59:27.266Z" filename="api-dba.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pages.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.265Z" modified="2026-03-04T15:59:27.265Z" filename="pages.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="api.json" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.262Z" modified="2026-03-04T15:59:27.262Z" filename="api.json" mimetype="application/json">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="api" filename="api"/>
+</collection>

@@ -1,0 +1,66 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/about" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:53.602Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="studentResearch.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.197Z" modified="2026-03-04T15:59:55.197Z" filename="studentResearch.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="indexNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.819Z" modified="2026-03-04T15:59:55.819Z" filename="indexNotebooks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="documentation.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.816Z" modified="2026-03-04T15:59:55.816Z" filename="documentation.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboutMMDA.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.809Z" modified="2026-03-04T15:59:55.809Z" filename="aboutMMDA.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="newsletters.xml" skip="no" owner="admin" group="dba" mode="644" created="2026-03-16T19:00:12.408Z" modified="2026-03-16T19:02:06.543Z" filename="newsletters.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teaching.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.176Z" modified="2026-03-13T00:21:42.823Z" filename="teaching.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="donate.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.17Z" modified="2026-03-04T15:59:55.17Z" filename="donate.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="library.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.603Z" modified="2026-03-13T00:12:58.055Z" filename="library.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="permissions.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.785Z" modified="2026-03-13T00:27:15.046Z" filename="permissions.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboutPoems.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.325Z" modified="2026-03-04T15:59:55.325Z" filename="aboutPoems.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="poemsAboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.32Z" modified="2026-03-04T15:59:55.32Z" filename="poemsAboutMM.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="people.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.313Z" modified="2026-03-12T17:42:02.382Z" filename="people.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="articles.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.31Z" modified="2026-03-04T15:59:55.31Z" filename="articles.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="sources.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.302Z" modified="2026-03-04T15:59:55.302Z" filename="sources.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="bibliography.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.203Z" modified="2026-03-13T00:13:21.947Z" filename="bibliography.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="usefulSites.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.194Z" modified="2026-03-04T15:59:55.194Z" filename="usefulSites.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.189Z" modified="2026-03-04T15:59:55.189Z" filename="aboutMM.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboutNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.183Z" modified="2026-03-04T15:59:55.183Z" filename="aboutNotebooks.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="hardToFind.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.8Z" modified="2026-03-04T15:59:55.8Z" filename="hardToFind.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="context.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.793Z" modified="2026-03-04T15:59:55.793Z" filename="context.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.277Z" modified="2026-03-04T15:59:55.277Z" filename="image.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

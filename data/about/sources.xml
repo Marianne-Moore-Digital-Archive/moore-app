@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Moore's Sources</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="4">scholarship</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>As her notebooks show, Marianne Moore was
+                    a voracious reader of a wide variety of
+                    texts. Collected here are a relatively
+                    small selection of the primary sources
+                    that Moore quoted in her notebooks,
+                    organized by notebook. To contribute to
+                    this section, contact Cristanne Miller
+                    at ccmiller@buffalo.edu.</p>
+                <head>Poetry Notebooks</head>
+                <head>Notebook 07.04.04 (1922-1930)</head>
+                <p><ref target="resources/images/sources/MMsources/MountRainierBrochure.pdf"><figure>
+                            <graphic width="25%" url="resources/images/sources/MMsources/MountRainierBrochure.png"/>
+                        </figure>Mount Rainier National Park
+                        Brochure (Moore's annotated copy)
+                    </ref> Marianne Moore and her mother
+                    travelled to the state of Washington to
+                    visit her brother Warner in both 1922
+                    and 1923. In July of 1922, she spent two
+                    days on Mount Rainier and hiked with her
+                    brother to the Nisqually Glacier. These
+                    trips to the Northwest, and in
+                    particular her time on Mount Rainier,
+                    become the basis for her poem, “An
+                    Octopus.” This national park brochure of
+                    the “Rules and Regulations: Mount
+                    Rainier” (1922) is among her several
+                    sources for the poem, and of particular
+                    interest because it contains extensive
+                    marginalia showing Moore at work on her
+                    poem—including places where she uses
+                    cross-outs and interlineation to rewrite
+                    sentences of the brochure.</p>
+                <head>Notebook 07.01.04 (1923)</head>
+                <list>
+                    <item>P. 26: <ref target="resources/images/sources/MMsources/dugmore.pdf">Dugmore, Arthur Radclyffe.
+                            "Hunting Without Rifle: African
+                            Animals at Home Filmed For The
+                            'Wonderland' of Big Game."
+                            Illustrated London News (21
+                            April 1923):630-631.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/dugmore.png"/>
+                            </figure></ref></item>
+                    <item>P. 27: <ref target="resources/images/sources/MMsources/training.pdf">"Training For The Cambodian
+                            Royal Corps de Ballet at a
+                            Famous Temple: Pilgrim Dancers
+                            at Angkor." Illustrated London
+                            News (21 April 1923): 646-647.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/training.png"/>
+                            </figure></ref></item>
+                    <item>P. 33: <ref target="https://archive.org/details/britishfairyfolk00glov/page/n159/mode/2up">Glover, W. J., Ed. British
+                            Fairy and Folk Tales. London: A.
+                            &amp; C. Black,
+                        1920.</ref></item>
+                    <item>P. 36: <ref target="https://archive.org/details/answertoquestion00hunt/page/n1/mode/2up">Hunt, Leigh. An Answer To The
+                            Question 'What Is Poetry?'
+                            Including Remarks On
+                            Versification, edited by Albert
+                            S. Cook. Boston: Ginn &amp; Co.,
+                            1893.</ref></item>
+                    <item>P. 40: <ref target="https://books.google.com/books?id=DNgS1CdOFgoC&amp;lpg=PA99&amp;dq=barney%20hurst%20the%20water%20felt%20like%20burning%20ice&amp;pg=PA99">Hurst, S. B. H. Barney. New
+                            York: Harper &amp; Brothers,
+                            1923.</ref></item>
+                    <item>P. 40: <ref target="https://books.google.com/books?id=L1UiAQAAIAAJ&amp;lpg=PA536-IA23&amp;dq=lawrence's%20genius%20is%20maturing.%20As%20a%20critic%20of%20the%20London%20Times%20writes&amp;pg=PA536-IA23">Ad. for the Seltzer bookstore
+                            in the Dial 74.6, June 1923:
+                            vii. MM quotes from two reviews
+                            in the Seltzer ad, of D. H.
+                            Lawrence's The Captain's Doll
+                            (1923) and Ivan A. Bunin's The
+                            Gentleman From San Francisco,
+                            translated by Lawrence
+                            (1922).</ref></item>
+                    <item>P. 42: <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.32106019606703&amp;view=1up&amp;seq=175&amp;size=125&amp;q1=baseball">"To Fellow-Fans." The Outlook
+                            134 (13 June 1923):
+                            163-164.</ref></item>
+                    <item>P. 44: <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.32106019606703&amp;view=1up&amp;seq=200&amp;q1=shakespeare">Ridgway, Gertrude M. "The Book
+                            Table: The Tercentenary of The
+                            First Folio Shakespeare." The
+                            Outlook 134 (13 June 1923):
+                            188-190.</ref></item>
+                    <item>P. 47: <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.32106019606703&amp;view=1up&amp;seq=176&amp;q1=all+the+states">"Governor Smith Burns His
+                            Bridges." The Outlook 134 (13
+                            June 1923): 164.</ref></item>
+                    <item>P. 48: <ref target="https://archive.org/details/in.ernet.dli.2015.152998/page/n97/mode/2up?q=salutation">Traherne, Thomas. The Poetical
+                            Works of Thomas Traherne:
+                            1936?-1974 From The Original
+                            Manuscripts. Edited by Bertram
+                            Dobell. London: Bertram Dobell,
+                            1906.</ref></item>
+                </list>
+                <head>Notebook 07.02.02 (1930-1943)</head>
+                <list>
+                    <item>Starting p. 30v: <ref target="resources/images/sources/MMsources/fraser.pdf">Fraser, Maxwell. “The West
+                            Country.” Illustrated London
+                            News (21 June 1930): 30.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/fraser.png"/>
+                            </figure></ref></item>
+                    <item>Starting p. 48v: <ref target="resources/images/sources/MMsources/davis.pdf">Davis, Frank. “A Page for
+                            Collectors: More About The
+                            Unicorn.” Illustrated London
+                            News (4 April 1931): 572.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/davis.png"/>
+                            </figure></ref></item>
+                    <item>Starting p. 51v: <ref target="resources/images/sources/MMsources/willis.pdf">Willis, Helen. “Tennis
+                            Impressions.” Saturday Evening
+                            Post (4 April 1931): 13, 66, 69-70.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/willis.png"/>
+                            </figure></ref></item>
+                    <item>Starting p. 55r: <ref target="resources/images/sources/MMsources/roadToCulture.pdf">“The Road to Culture.” The
+                            Literary Digest (14 March 1931): 16-17.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/roadToCulture.png"/>
+                            </figure></ref></item>
+                    <item>Staring p. 119v: <ref target="resources/images/sources/MMsources/eisenstein.pdf">Eisenstein, Sergei M. “An
+                            American Tragedy.” Close-Up
+                            (June 1933): 109-124.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/eisenstein.png"/>
+                            </figure></ref></item>
+                </list>
+                <head>Notebook 07.04.05 (1960-1969)</head>
+                <list>
+                    <item>P. 19: <ref target="resources/images/sources/MMsources/StageActor.pdf">Stage Actor, Dies: Top Chinese
+                            Star Was Noted Female
+                            Impersonator.” <title>New York
+                              Times</title> (9 August 1961): 33.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/stageActor.png"/>
+                            </figure></ref>
+                    </item>
+                    <item>P. 56: <ref target="resources/images/sources/MMsources/radosta.pdf">Radosta, John. Rev. of
+                            Photographs, by Henri
+                            Cartier-Bresson. <title>New York
+                              Times</title> (23 September
+                            1963): 27.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/radosta.png"/>
+                            </figure></ref>
+                    </item>
+                    <item>P. 57: <ref target="resources/images/sources/MMsources/occasionemCognosce.pdf">Moore, Marianne.
+                              <title>Occasionem
+                              Cognosce</title>. Stinehour
+                            Press: May 1963. Limited Edition Version.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/occasionemCognosce.png"/>
+                            </figure></ref>
+                    </item>
+                    <item>P. 57: <ref target="resources/images/sources/MMsources/devlin.pdf">Devlin, John C. “Bronx Zoo Adds
+                            New Acts to Bill: Lion Cubs,
+                            Rare Opossum and Baby Raccoon
+                            Join Up.” New York Times (6
+                            August1963): 33.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/devlin.png"/>
+                            </figure></ref></item>
+                    <item>P. 88: <ref target="resources/images/sources/MMsources/artz.pdf">Artz, V. T. “Letters from Book
+                            Review Readers.” New York Times
+                            (7 May 1916): B197.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/artz.png"/>
+                            </figure></ref></item>
+                    <item>P. 128: <ref target="resources/images/sources/MMsources/radical.pdf">“Radical from Connecticut.”
+                            Time 76.8 (August 22, 1960): 36.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/radical.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/vanHouten.png">Van Houten, Norbert. The cover
+                            of “The Olympics: Sports Summit
+                            at Rome” (issue title). Newsweek
+                            (29 August 1960).<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/vanHouten.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/travellers.png">Ad for The Travellers Insurance
+                            Companies. Newsweek (29 August
+                            1960): 37.<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/travellers.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/northernPacific.png">Ad for Northern Pacific
+                            Railway. Newsweek (29 August
+                            1960): 76.<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/northernPacific.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/santaFe.png">Ad for Santa Fe Railway.
+                            Newsweek (29 August 1960): 44.<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/santaFe.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/firstNational.png">First National City Bank.
+                            Newsweek (29 August 1960): 58.<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/firstNational.png"/>
+                            </figure></ref></item>
+                    <item>P. 129: <ref target="resources/images/sources/MMsources/bankersTrust.png">Bankers Trust Company. Newsweek
+                            (29 August 1960): 1.<figure>
+                              <graphic width="40%" url="resources/images/sources/MMsources/bankersTrust.png"/>
+                            </figure></ref></item>
+                    <item>P. 130: <ref target="resources/images/sources/MMsources/alcoa.png">Ad for Alcoa Aluminum. Newsweek
+                            (August 22, 1960): 79.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/alcoa.png"/>
+                            </figure></ref></item>
+                    <item>P. 130: <ref target="resources/images/sources/MMsources/prattAndWhitney.png">Ad for Pratt &amp; Whitney
+                            Aircraft. Newsweek (August 22,
+                            1960): inside back cover.<figure>
+                              <graphic width="30%" url="resources/images/sources/MMsources/prattAndWhitney.png"/>
+                            </figure></ref></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>

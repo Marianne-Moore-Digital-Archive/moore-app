@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               <hi rend="bold">Context and History</hi>
+            </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>For testing purposes only.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Compiled from MMDA webpage TEI Conversion
+               Files</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <classDecl>
+            <taxonomy source="mmda">
+               <category source="mmda">
+                  <catDesc n="3">education</catDesc>
+               </category>
+               <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <p>Spanning from the late Nineteenth Century to
+               the early 1970s, Marianne Moore's life was
+               embedded in the turbulent history of
+               Modernity. Collected here are short articles
+               that link Moore (her life and her poetry) to
+               her context.</p>
+            <p>If you would like to submit an article to
+               this page, or add commentary or a note to an
+               existing piece, please email
+               ccmiller@buffalo.edu.</p>
+            <head>Flaunting it with Marianne Moore</head>
+            <p>By Benjamin Kahan (June 2019)</p>
+            <p rend="center"><ref target="https://www.youtube.com/watch?v=DPzlxaAvptA"><figure>
+                     <graphic width="50%" url="resources/images/moore/braniffAirlines.png"/>
+                  </figure></ref>
+            </p>
+            <p rend="center"><ref target="https://www.youtube.com/watch?v=DPzlxaAvptA">Watch on Youtube</ref></p>
+            <p>In 1952, Marianne Moore won the Bollingen
+               Prize, The National Book Award, and the
+               Pulitzer Prize and became something of a
+               household name.<note>On Moore’s fame, see
+                  Elizabeth Gregory, “Stamps, Money, Pop
+                  Culture, and Marianne Moore,”
+                     <title>Discourse</title> 17.1 (1994):
+                  132.</note> This 1969 airline commercial
+               featuring Moore capitalizes on her fame and
+               helps Braniff International’s sales to nearly
+               double. The “When You Got It, Flaunt It”
+               campaign was masterminded by legendary ad man
+               George Lois who describes it as:</p>
+            <p>"a zany, outrageous campaign that featured a
+               smorgasbord of the world’s oddest couples,
+               exchanging the screwiest and most
+               sophisticated chatter heard on television.
+               Our juxtaposition of unlikely couples was
+               unprecedented, creating the perception that
+               when you flew Braniff International, you
+               never knew who might be in the seat next to
+                  you."<note>George Lois,
+                     <title>$ellebrity</title> (New York and
+                  London: Phaidon Press, 2003), n. p.
+                  [50].</note></p>
+            <p>Bringing together unexpected pairs of
+               celebrities—Andy Warhol and Sonny Liston,
+               Whitey Ford and Salvador Dalí—Lois juxtaposes
+               Moore and the crime novelist Mickey Spillane,
+               suggesting in Lois’ words, “a famous, but not
+               great, writer, who dared even talking to such
+               a great woman.”<note>Personal correspondence
+                  with George Lois, March 6,
+               2019.</note></p>
+            <p>Moore’s appearance in this commercial is
+               particularly noteworthy because during this
+               late career moment her poetics sometimes
+               approximate, or at least stand proximate to,
+               advertising. For example, the final stanza of
+               her 1958 poem “The Arctic Ox” contains the
+               sentence: “If you fear that you are / reading
+               an advertisement / you are.” In the
+               commercial itself Spillane takes the
+               campaign’s tagline —“when you got it, flaunt
+               it”—as Moore’s own authorial creation telling
+               her, “You know, you got a way with words.”
+               This is one of the delights of the commercial
+               as we giggle along with Moore.<note>For an
+                  extended reading of the commercial, see
+                  Benjamin Kahan, <title>Celibacies:
+                     American Modernism and Sexual
+                     Life</title> (Durham: Duke University
+                  Press, 2013), 56-59.</note></p>
+            <head>Marianne Moore, Muhammad Ali, and Late
+               Night Talk Radio </head>
+            <p>By Linda Leavell with Elizabeth
+                  Gregory<note>Elizabeth Gregory spoke with
+                  Miles Kreuger in June 2018, and asked him
+                  to clarify several issues in my original
+                  anecdote. She has added those
+                  clarifications here. She also consulted
+                  George Plimpton, <title>Shadow
+                  Box</title>, (New York: Putnam’s, 1977),
+                  123-133.</note> (June 2018)</p>
+            <p><figure rend="right">
+                     <graphic width="50%" url="resources/images/moore/sitwell-ali.jpg"/>
+                  </figure>After <title>Holding On Upside Down</title> was published in
+               2013, I received a phone call from Miles
+               Kreuger, who runs the Institute of the
+               American Musical in Los Angeles.<note>Miles
+                  Kreuger does not use a computer. His
+                  contact information is: Institute of the
+                  American Musical, 121 N. Detroit St., Los
+                  Angeles, CA 90036, (323) 934-1221.</note>
+               He had seen my book in a bookstore and told
+               me that he knew how Marianne Moore came to
+               write the jacket notes for Muhammad Ali’s
+               album, <title>I Am the Greatest</title>. He asked me if I
+               had ever heard of “Long John” Nebel. I had
+               not. </p>
+            <p>Nebel hosted a talk show on WOR radio in New
+               York during the 1950s. At a time when
+               executives did not think they would have any
+               audience during the wee hours of the morning,
+               Nebel’s show played from midnight to 5:30
+               a.m. and proved surprisingly popular. Topics
+               included UFOs, voodoo, ghosts, and other
+               unexplained phenomena. WOR’s strong signal
+               reached more than half the national
+               population, and listeners would telegraph
+               comments and questions into the
+                  show.<note>“Long John Nebel,” Wikipedia.
+                  This article cites a biography of Nebel:
+                  Donald Bain, <title>Long John Nebel: Radio
+                     Talk King, Master Salesman, Magnificent
+                     Charlatan</title> (New York: Macmillan,
+                  1974).</note></p>
+            <p>In the 1960s Nebel moved the program to radio
+               station WNBC. Kreuger served as a frequent
+               guest on the show, which by this time
+               included a diverse range of topics including
+               politics, medicine, and theater.. In those
+               days you could phone in telegrams through
+               Western Union by dialing 0 for operator. A
+               Marianne Moore frequently telegraphed
+               questions to the show and Kreuger once asked
+               on the air if she was “the” Marianne Moore,
+               the poet. She telegraphed that she was. </p>
+            <p>A short time later, Kreuger suggested to
+               friends at Columbia Records, where he had
+               formerly worked, that Moore write the liner
+               notes for Cassius Clay’s comedy album, <title>I Am
+               the Greatest</title>. Columbia thought that would be
+               excellent; Kreuger called her (having found
+               her number in the phone book). She recognized
+               him from the radio and agreed. The album was
+               released in August 1963 with her notes on the
+               sleeve. Six months later Clay won the
+               national heavyweight championship, converted
+               to Islam, and changed his name to Muhammad
+               Ali. </p>
+            <p><title>I Am the Greatest</title> was nominated for a Grammy
+               in 1964 and is now regarded as a precursor to
+               rap. Like virtually every other white
+               American at the time, Moore did not recognize
+               the African tradition out of which Ali’s
+               rhymed taunts grew. And yet she lauds his
+               poetic expertise, praising him as a “master
+               of hyperbole” and “a master of concision”
+               Ultimately, she calls him “a smiling
+               pugilist.” </p>
+            <p>Moore and Ali first met face-to-face in 1967
+               at a party George Plimpton hosted at the
+               nightclub Toots Shor. The two were
+               photographed together composing a poem about
+               his upcoming fight with Ernie Terrell. </p>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

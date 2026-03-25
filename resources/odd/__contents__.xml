@@ -1,0 +1,45 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/odd" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.582Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="teipublisher_odds.xsd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.847Z" modified="2026-03-04T15:59:27.847Z" filename="teipublisher_odds.xsd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher_odds.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.838Z" modified="2026-03-04T15:59:27.838Z" filename="teipublisher_odds.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="moore.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.821Z" modified="2026-03-04T15:59:27.821Z" filename="moore.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="aboutNotebooks.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.815Z" modified="2026-03-04T15:59:27.815Z" filename="aboutNotebooks.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="teipublisher.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.77Z" modified="2026-03-04T15:59:27.77Z" filename="teipublisher.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="about.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.762Z" modified="2026-03-04T15:59:27.762Z" filename="about.odd" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="configuration.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.757Z" modified="2026-03-04T15:59:27.757Z" filename="configuration.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="template.odd.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.586Z" modified="2026-03-04T15:59:27.586Z" filename="template.odd.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ns1.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.834Z" modified="2026-03-04T15:59:27.834Z" filename="ns1.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tp.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.813Z" modified="2026-03-04T15:59:27.813Z" filename="tp.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.768Z" modified="2026-03-04T15:59:27.768Z" filename="moore.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="xml.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.761Z" modified="2026-03-04T15:59:27.761Z" filename="xml.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="teix.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.759Z" modified="2026-03-04T15:59:27.759Z" filename="teix.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="dcr.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.584Z" modified="2026-03-04T15:59:27.584Z" filename="dcr.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

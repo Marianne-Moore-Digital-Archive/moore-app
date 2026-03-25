@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/notebooks" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:55.94Z">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="nb07_01_04.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.632Z" modified="2026-03-04T15:59:56.632Z" filename="nb07_01_04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_04_04.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.237Z" modified="2026-03-04T15:59:56.237Z" filename="nb07_04_04.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_03_11.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:56.092Z" modified="2026-03-04T15:59:56.092Z" filename="nb07_03_11.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="nb07_04_07.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.941Z" modified="2026-03-13T00:05:26.145Z" filename="nb07_04_07.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

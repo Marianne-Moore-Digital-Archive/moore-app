@@ -1,0 +1,14 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:46.025Z">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="mm_bibliography_20240425.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.042Z" modified="2026-03-04T15:59:46.042Z" filename="mm_bibliography_20240425.pdf" mimetype="application/pdf">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="image.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.037Z" modified="2026-03-04T15:59:46.037Z" filename="image.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="teaching" filename="teaching"/>
+    <subcollection name="poemsAboutMM" filename="poemsAboutMM"/>
+    <subcollection name="hardToFind" filename="hardToFind"/>
+    <subcollection name="MMsources" filename="MMsources"/>
+    <subcollection name="students" filename="students"/>
+</collection>
