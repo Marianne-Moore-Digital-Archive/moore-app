@@ -1,75 +1,75 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/templates" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.3Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/templates" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.969Z">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="odd-editor.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.478Z" modified="2026-03-04T15:59:27.478Z" filename="odd-editor.html" mimetype="text/html">
+    <resource type="XMLResource" name="api.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.986Z" modified="2026-03-04T16:38:42.986Z" filename="api.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="upload-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.477Z" modified="2026-03-04T15:59:27.477Z" filename="upload-blocks.html" mimetype="text/html">
+    <resource type="XMLResource" name="bibliography-entry.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.971Z" modified="2026-03-04T16:38:42.971Z" filename="bibliography-entry.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="documents.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.474Z" modified="2026-03-04T15:59:27.474Z" filename="documents.html" mimetype="text/html">
+    <resource type="XMLResource" name="register-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.984Z" modified="2026-03-04T16:38:42.984Z" filename="register-blocks.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="bibliography.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.468Z" modified="2026-03-04T15:59:27.468Z" filename="bibliography.html" mimetype="text/html">
+    <resource type="XMLResource" name="bottom.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.983Z" modified="2026-03-04T16:38:42.983Z" filename="bottom.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="iiif-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.467Z" modified="2026-03-04T15:59:27.467Z" filename="iiif-blocks.html" mimetype="text/html">
+    <resource type="XMLResource" name="bibliography.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.117Z" modified="2026-03-04T16:38:43.117Z" filename="bibliography.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="menu.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.463Z" modified="2026-03-16T18:42:43.43Z" filename="menu.html" mimetype="text/html">
+    <resource type="XMLResource" name="index.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.979Z" modified="2026-03-04T16:38:42.979Z" filename="index.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="error-page.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.455Z" modified="2026-03-04T15:59:27.455Z" filename="error-page.html" mimetype="text/html">
+    <resource type="XMLResource" name="iiif-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.113Z" modified="2026-03-04T16:38:43.113Z" filename="iiif-blocks.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="browse.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.452Z" modified="2026-03-04T15:59:27.452Z" filename="browse.html" mimetype="text/html">
+    <resource type="XMLResource" name="menu.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.106Z" modified="2026-03-16T19:11:48.081Z" filename="menu.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="menu-mobile.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.445Z" modified="2026-03-04T15:59:27.445Z" filename="menu-mobile.html" mimetype="text/html">
+    <resource type="XMLResource" name="print-preview.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.976Z" modified="2026-03-04T16:38:42.976Z" filename="print-preview.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="place.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.444Z" modified="2026-03-04T15:59:27.444Z" filename="place.html" mimetype="text/html">
+    <resource type="XMLResource" name="people.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.974Z" modified="2026-03-04T16:38:42.974Z" filename="people.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="toolbar.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.441Z" modified="2026-03-04T15:59:27.441Z" filename="toolbar.html" mimetype="text/html">
+    <resource type="XMLResource" name="timeline-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.091Z" modified="2026-03-04T16:38:43.091Z" filename="timeline-blocks.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="search.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.438Z" modified="2026-03-04T15:59:27.438Z" filename="search.html" mimetype="text/html">
+    <resource type="XMLResource" name="person.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.973Z" modified="2026-03-04T16:38:42.973Z" filename="person.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="footer-mobile.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.435Z" modified="2026-03-04T15:59:27.435Z" filename="footer-mobile.html" mimetype="text/html">
+    <resource type="XMLResource" name="menu-mobile.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.086Z" modified="2026-03-04T16:38:43.086Z" filename="menu-mobile.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="api.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.336Z" modified="2026-03-04T15:59:27.336Z" filename="api.html" mimetype="text/html">
+    <resource type="XMLResource" name="place.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.083Z" modified="2026-03-04T16:38:43.083Z" filename="place.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="register-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.333Z" modified="2026-03-04T15:59:27.333Z" filename="register-blocks.html" mimetype="text/html">
+    <resource type="XMLResource" name="toolbar.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.077Z" modified="2026-03-19T17:22:52.024Z" filename="toolbar.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="bottom.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.331Z" modified="2026-03-04T15:59:27.331Z" filename="bottom.html" mimetype="text/html">
+    <resource type="XMLResource" name="search.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.075Z" modified="2026-03-04T16:38:43.075Z" filename="search.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="places.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.329Z" modified="2026-03-04T15:59:27.329Z" filename="places.html" mimetype="text/html">
+    <resource type="XMLResource" name="footer-mobile.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.069Z" modified="2026-03-04T16:38:43.069Z" filename="footer-mobile.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="footer.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.327Z" modified="2026-03-04T15:59:27.327Z" filename="footer.html" mimetype="text/html">
+    <resource type="XMLResource" name="places.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.982Z" modified="2026-03-04T16:38:42.982Z" filename="places.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="index.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.322Z" modified="2026-03-04T15:59:27.322Z" filename="index.html" mimetype="text/html">
+    <resource type="XMLResource" name="footer.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.98Z" modified="2026-03-04T16:38:42.98Z" filename="footer.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="print-preview.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.313Z" modified="2026-03-04T15:59:27.313Z" filename="print-preview.html" mimetype="text/html">
+    <resource type="XMLResource" name="error-page.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.099Z" modified="2026-03-04T16:38:43.099Z" filename="error-page.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="people.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.309Z" modified="2026-03-04T15:59:27.309Z" filename="people.html" mimetype="text/html">
+    <resource type="XMLResource" name="browse.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.094Z" modified="2026-03-04T16:38:43.094Z" filename="browse.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="person.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.307Z" modified="2026-03-04T15:59:27.307Z" filename="person.html" mimetype="text/html">
+    <resource type="XMLResource" name="odd-editor.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.126Z" modified="2026-03-04T16:38:43.126Z" filename="odd-editor.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="bibliography-entry.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.301Z" modified="2026-03-04T15:59:27.301Z" filename="bibliography-entry.html" mimetype="text/html">
+    <resource type="XMLResource" name="upload-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.123Z" modified="2026-03-04T16:38:43.123Z" filename="upload-blocks.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="timeline-blocks.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.45Z" modified="2026-03-04T15:59:27.45Z" filename="timeline-blocks.html" mimetype="text/html">
+    <resource type="XMLResource" name="documents.html" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.118Z" modified="2026-03-04T16:38:43.118Z" filename="documents.html" mimetype="text/html">
         <acl entries="0" version="1"/>
     </resource>
     <subcollection name="layouts" filename="layouts"/>

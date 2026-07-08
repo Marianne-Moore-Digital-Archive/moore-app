@@ -1,108 +1,108 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/MMsources" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:51.983Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/MMsources" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:39:03.064Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="occasionemCognosce.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.168Z" modified="2026-03-04T15:59:52.168Z" filename="occasionemCognosce.png" mimetype="image/png">
+    <resource type="BinaryResource" name="roadToCulture.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.785Z" modified="2026-03-04T16:39:03.785Z" filename="roadToCulture.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="northernPacific.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.798Z" modified="2026-03-04T15:59:52.798Z" filename="northernPacific.png" mimetype="image/png">
+    <resource type="BinaryResource" name="bankersTrust.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.781Z" modified="2026-03-04T16:39:03.781Z" filename="bankersTrust.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="artz.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.367Z" modified="2026-03-04T15:59:53.367Z" filename="artz.png" mimetype="image/png">
+    <resource type="BinaryResource" name="training.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.788Z" modified="2026-03-04T16:39:03.788Z" filename="training.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="MountRainierBrochure.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.841Z" modified="2026-03-04T15:59:52.841Z" filename="MountRainierBrochure.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="davis.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.124Z" modified="2026-03-04T16:39:03.124Z" filename="davis.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="training.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.517Z" modified="2026-03-04T15:59:53.517Z" filename="training.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="artz.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.776Z" modified="2026-03-04T16:39:03.776Z" filename="artz.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roadToCulture.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.513Z" modified="2026-03-04T15:59:53.513Z" filename="roadToCulture.png" mimetype="image/png">
+    <resource type="BinaryResource" name="artz.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.122Z" modified="2026-03-04T16:39:03.122Z" filename="artz.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="bankersTrust.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.399Z" modified="2026-03-04T15:59:53.399Z" filename="bankersTrust.png" mimetype="image/png">
+    <resource type="BinaryResource" name="roadToCulture.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.117Z" modified="2026-03-04T16:39:03.117Z" filename="roadToCulture.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="dugmore.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.685Z" modified="2026-03-04T15:59:52.685Z" filename="dugmore.png" mimetype="image/png">
+    <resource type="BinaryResource" name="eisenstein.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.107Z" modified="2026-03-04T16:39:03.107Z" filename="eisenstein.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="devlin.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.652Z" modified="2026-03-04T15:59:52.652Z" filename="devlin.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="MountRainierBrochure.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.093Z" modified="2026-03-04T16:39:03.093Z" filename="MountRainierBrochure.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="davis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.575Z" modified="2026-03-04T15:59:52.575Z" filename="davis.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="fraser.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.081Z" modified="2026-03-04T16:39:03.081Z" filename="fraser.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="radosta.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.495Z" modified="2026-03-04T15:59:52.495Z" filename="radosta.png" mimetype="image/png">
+    <resource type="BinaryResource" name="fraser.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.071Z" modified="2026-03-04T16:39:03.071Z" filename="fraser.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="prattAndWhitney.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.44Z" modified="2026-03-04T15:59:52.44Z" filename="prattAndWhitney.png" mimetype="image/png">
+    <resource type="BinaryResource" name="devlin.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.068Z" modified="2026-03-04T16:39:03.068Z" filename="devlin.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="occasionemCognosce.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.397Z" modified="2026-03-04T15:59:52.397Z" filename="occasionemCognosce.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="MountRainierBrochure.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.495Z" modified="2026-03-04T16:39:03.495Z" filename="MountRainierBrochure.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="StageActor.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.39Z" modified="2026-03-04T15:59:52.39Z" filename="StageActor.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="northernPacific.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.488Z" modified="2026-03-04T16:39:03.488Z" filename="northernPacific.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="willis.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.294Z" modified="2026-03-04T15:59:52.294Z" filename="willis.png" mimetype="image/png">
+    <resource type="BinaryResource" name="dugmore.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.472Z" modified="2026-03-04T16:39:03.472Z" filename="dugmore.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="willis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.211Z" modified="2026-03-04T15:59:52.211Z" filename="willis.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="alcoa.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.184Z" modified="2026-03-04T16:39:03.184Z" filename="alcoa.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="firstNational.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.204Z" modified="2026-03-04T15:59:52.204Z" filename="firstNational.png" mimetype="image/png">
+    <resource type="BinaryResource" name="santaFe.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.181Z" modified="2026-03-04T16:39:03.181Z" filename="santaFe.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="dugmore.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.091Z" modified="2026-03-04T15:59:52.091Z" filename="dugmore.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="eisenstein.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.168Z" modified="2026-03-04T16:39:03.168Z" filename="eisenstein.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="vanHouten.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.159Z" modified="2026-03-04T15:59:52.159Z" filename="vanHouten.png" mimetype="image/png">
+    <resource type="BinaryResource" name="travellers.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.164Z" modified="2026-03-04T16:39:03.164Z" filename="travellers.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="training.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.128Z" modified="2026-03-04T15:59:52.128Z" filename="training.png" mimetype="image/png">
+    <resource type="BinaryResource" name="stageActor.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.159Z" modified="2026-03-04T16:39:03.159Z" filename="stageActor.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="radosta.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.088Z" modified="2026-03-04T15:59:52.088Z" filename="radosta.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="dugmore.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.156Z" modified="2026-03-04T16:39:03.156Z" filename="dugmore.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="davis.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.054Z" modified="2026-03-04T15:59:52.054Z" filename="davis.png" mimetype="image/png">
+    <resource type="BinaryResource" name="radosta.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.153Z" modified="2026-03-04T16:39:03.153Z" filename="radosta.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="alcoa.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.121Z" modified="2026-03-04T15:59:52.121Z" filename="alcoa.png" mimetype="image/png">
+    <resource type="BinaryResource" name="devlin.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.47Z" modified="2026-03-04T16:39:03.47Z" filename="devlin.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="artz.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.051Z" modified="2026-03-04T15:59:52.051Z" filename="artz.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="davis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.454Z" modified="2026-03-04T16:39:03.454Z" filename="davis.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="santaFe.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.118Z" modified="2026-03-04T15:59:52.118Z" filename="santaFe.png" mimetype="image/png">
+    <resource type="BinaryResource" name="radosta.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.448Z" modified="2026-03-04T16:39:03.448Z" filename="radosta.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="roadToCulture.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.046Z" modified="2026-03-04T15:59:52.046Z" filename="roadToCulture.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="prattAndWhitney.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.437Z" modified="2026-03-04T16:39:03.437Z" filename="prattAndWhitney.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="fraser.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.99Z" modified="2026-03-04T15:59:51.99Z" filename="fraser.png" mimetype="image/png">
+    <resource type="BinaryResource" name="occasionemCognosce.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.427Z" modified="2026-03-04T16:39:03.427Z" filename="occasionemCognosce.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="eisenstein.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.106Z" modified="2026-03-04T15:59:52.106Z" filename="eisenstein.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="StageActor.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.425Z" modified="2026-03-04T16:39:03.425Z" filename="StageActor.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="eisenstein.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.034Z" modified="2026-03-04T15:59:52.034Z" filename="eisenstein.png" mimetype="image/png">
+    <resource type="BinaryResource" name="willis.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.283Z" modified="2026-03-04T16:39:03.283Z" filename="willis.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="travellers.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.101Z" modified="2026-03-04T15:59:52.101Z" filename="travellers.png" mimetype="image/png">
+    <resource type="BinaryResource" name="occasionemCognosce.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.216Z" modified="2026-03-04T16:39:03.216Z" filename="occasionemCognosce.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="stageActor.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.095Z" modified="2026-03-04T15:59:52.095Z" filename="stageActor.png" mimetype="image/png">
+    <resource type="BinaryResource" name="vanHouten.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.212Z" modified="2026-03-04T16:39:03.212Z" filename="vanHouten.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="MountRainierBrochure.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.018Z" modified="2026-03-04T15:59:52.018Z" filename="MountRainierBrochure.png" mimetype="image/png">
+    <resource type="BinaryResource" name="training.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.191Z" modified="2026-03-04T16:39:03.191Z" filename="training.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="fraser.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:52.003Z" modified="2026-03-04T15:59:52.003Z" filename="fraser.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="willis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.235Z" modified="2026-03-04T16:39:03.235Z" filename="willis.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="devlin.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.988Z" modified="2026-03-04T15:59:51.988Z" filename="devlin.png" mimetype="image/png">
+    <resource type="BinaryResource" name="firstNational.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.229Z" modified="2026-03-04T16:39:03.229Z" filename="firstNational.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="radical.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.985Z" modified="2026-03-04T15:59:51.985Z" filename="radical.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="radical.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.066Z" modified="2026-03-04T16:39:03.066Z" filename="radical.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

@@ -1,102 +1,108 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/moore" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:28.341Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/moore" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:44.603Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="nb07_03_11_0001.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.636Z" modified="2026-03-04T15:59:28.636Z" filename="nb07_03_11_0001.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_03_11_0036recto.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.12Z" modified="2026-03-04T16:38:45.12Z" filename="nb07_03_11_0036recto.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Moore_XII_03_05e.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.607Z" modified="2026-03-04T15:59:28.607Z" filename="Moore_XII_03_05e.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_04_07_0001recto.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.97Z" modified="2026-03-04T16:38:44.97Z" filename="nb07_04_07_0001recto.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="nb07_03_11_0036recto.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.517Z" modified="2026-03-04T15:59:28.517Z" filename="nb07_03_11_0036recto.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="rosenbach-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.968Z" modified="2026-03-04T16:38:44.968Z" filename="rosenbach-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="nb07_04_07_0001recto.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.434Z" modified="2026-03-04T15:59:28.434Z" filename="nb07_04_07_0001recto.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="MoorePhoto1.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.943Z" modified="2026-03-04T16:38:44.943Z" filename="MoorePhoto1.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="rosenbach-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.432Z" modified="2026-03-04T15:59:28.432Z" filename="rosenbach-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="mm-fish-notebook.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.863Z" modified="2026-03-04T16:38:44.863Z" filename="mm-fish-notebook.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="MoorePhoto1.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.426Z" modified="2026-03-04T15:59:28.426Z" filename="MoorePhoto1.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="braniffAirlines.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.829Z" modified="2026-03-04T16:38:44.829Z" filename="braniffAirlines.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="mm-fish-notebook.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.406Z" modified="2026-03-04T15:59:28.406Z" filename="mm-fish-notebook.png" mimetype="image/png">
+    <resource type="BinaryResource" name="sitwell-ali.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.821Z" modified="2026-03-04T16:38:44.821Z" filename="sitwell-ali.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="braniffAirlines.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.387Z" modified="2026-03-04T15:59:28.387Z" filename="braniffAirlines.png" mimetype="image/png">
+    <resource type="BinaryResource" name="Moore_XII_04_12.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.715Z" modified="2026-03-04T16:38:44.715Z" filename="Moore_XII_04_12.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sitwell-ali.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.385Z" modified="2026-03-04T15:59:28.385Z" filename="sitwell-ali.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_03_11_0036verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.708Z" modified="2026-03-04T16:38:44.708Z" filename="nb07_03_11_0036verso.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Moore_XII_04_12.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.374Z" modified="2026-03-04T15:59:28.374Z" filename="Moore_XII_04_12.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_02_02_0032_recto.jpg" skip="no" owner="admin" group="dba" mode="644" created="2026-05-13T15:42:19.884Z" modified="2026-05-13T15:42:19.884Z" filename="nb07_02_02_0032_recto.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="nb07_03_11_0036verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.372Z" modified="2026-03-04T15:59:28.372Z" filename="nb07_03_11_0036verso.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="notebook-spread-722.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.688Z" modified="2026-03-04T16:38:44.688Z" filename="notebook-spread-722.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="genreTagging.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.369Z" modified="2026-03-04T15:59:28.369Z" filename="genreTagging.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="uvic-mark-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.684Z" modified="2026-03-04T16:38:44.684Z" filename="uvic-mark-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="notebook-spread-722.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.366Z" modified="2026-03-04T15:59:28.366Z" filename="notebook-spread-722.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="mm-fish-notebook2.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.633Z" modified="2026-03-04T16:38:44.633Z" filename="mm-fish-notebook2.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="uvic-mark-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.364Z" modified="2026-03-04T15:59:28.364Z" filename="uvic-mark-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="turtle.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.625Z" modified="2026-03-04T16:38:44.625Z" filename="turtle.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="mm-fish-notebook2.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.348Z" modified="2026-03-04T15:59:28.348Z" filename="mm-fish-notebook2.png" mimetype="image/png">
+    <resource type="BinaryResource" name="NEH-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.609Z" modified="2026-03-04T16:38:44.609Z" filename="NEH-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="turtle.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.346Z" modified="2026-03-04T15:59:28.346Z" filename="turtle.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="genreTagging.jpg" skip="no" owner="admin" group="tei" mode="664" created="2026-05-21T20:10:42.091Z" modified="2026-05-21T20:10:42.091Z" filename="genreTagging.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="NEH-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.342Z" modified="2026-03-04T15:59:28.342Z" filename="NEH-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="nb07_02_03_0005_recto.jpg" skip="no" owner="admin" group="dba" mode="644" created="2026-06-03T14:08:19.149Z" modified="2026-06-03T14:08:19.149Z" filename="nb07_02_03_0005_recto.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="nb07_04_04_0002verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.72Z" modified="2026-03-04T15:59:28.72Z" filename="nb07_04_04_0002verso.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_04_04_0002verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.336Z" modified="2026-03-04T16:38:45.336Z" filename="nb07_04_04_0002verso.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="MoorePortrait.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.718Z" modified="2026-03-04T15:59:28.718Z" filename="MoorePortrait.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="MoorePortrait.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.331Z" modified="2026-03-04T16:38:45.331Z" filename="MoorePortrait.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="aboutMM_image3.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.711Z" modified="2026-03-04T15:59:28.711Z" filename="aboutMM_image3.jpeg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="aboutMM_image3.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.31Z" modified="2026-03-04T16:38:45.31Z" filename="aboutMM_image3.jpeg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="selectedPoemsCoverUK.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.708Z" modified="2026-03-04T15:59:28.708Z" filename="selectedPoemsCoverUK.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="selectedPoemsCoverUK.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.299Z" modified="2026-03-04T16:38:45.299Z" filename="selectedPoemsCoverUK.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Moore-logo-transparent-testing.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.705Z" modified="2026-03-04T15:59:28.705Z" filename="Moore-logo-transparent-testing.png" mimetype="image/png">
+    <resource type="BinaryResource" name="Moore-logo-transparent-testing.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.293Z" modified="2026-03-04T16:38:45.293Z" filename="Moore-logo-transparent-testing.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="nb07_01_04_0122verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.702Z" modified="2026-03-04T15:59:28.702Z" filename="nb07_01_04_0122verso.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="nb07_01_04_0122verso.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.287Z" modified="2026-03-04T16:38:45.287Z" filename="nb07_01_04_0122verso.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Moore_XII_02_32h.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.694Z" modified="2026-03-04T15:59:28.694Z" filename="Moore_XII_02_32h.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="Moore_XII_02_32h.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.269Z" modified="2026-03-04T16:38:45.269Z" filename="Moore_XII_02_32h.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="jerboa.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.692Z" modified="2026-03-04T15:59:28.692Z" filename="jerboa.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="jerboa.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.265Z" modified="2026-03-04T16:38:45.265Z" filename="jerboa.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="aboutMM_image1.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.684Z" modified="2026-03-04T15:59:28.684Z" filename="aboutMM_image1.jpeg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="aboutMM_image1.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.249Z" modified="2026-03-04T16:38:45.249Z" filename="aboutMM_image1.jpeg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="SUNY-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.682Z" modified="2026-03-04T15:59:28.682Z" filename="SUNY-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="SUNY-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.247Z" modified="2026-03-04T16:38:45.247Z" filename="SUNY-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="aboutMM_image2.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.673Z" modified="2026-03-04T15:59:28.673Z" filename="aboutMM_image2.jpeg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="aboutMM_image2.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.219Z" modified="2026-03-04T16:38:45.219Z" filename="aboutMM_image2.jpeg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="anteater.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.669Z" modified="2026-03-04T15:59:28.669Z" filename="anteater.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="anteater.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.212Z" modified="2026-03-04T16:38:45.212Z" filename="anteater.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="UH-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.663Z" modified="2026-03-04T15:59:28.663Z" filename="UH-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="UH-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.209Z" modified="2026-03-04T16:38:45.209Z" filename="UH-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="ub-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.659Z" modified="2026-03-04T15:59:28.659Z" filename="ub-100px.png" mimetype="image/png">
+    <resource type="BinaryResource" name="ub-100px.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.208Z" modified="2026-03-04T16:38:45.208Z" filename="ub-100px.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="mm-fish-notebook-cropped.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.644Z" modified="2026-03-04T15:59:28.644Z" filename="mm-fish-notebook-cropped.png" mimetype="image/png">
+    <resource type="BinaryResource" name="mm-fish-notebook-cropped.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.167Z" modified="2026-03-04T16:38:45.167Z" filename="mm-fish-notebook-cropped.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Moore-logo-transparent.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.641Z" modified="2026-03-04T15:59:28.641Z" filename="Moore-logo-transparent.png" mimetype="image/png">
+    <resource type="BinaryResource" name="Moore-logo-transparent.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.16Z" modified="2026-03-04T16:38:45.16Z" filename="Moore-logo-transparent.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nb07_03_11_0001.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.151Z" modified="2026-03-04T16:38:45.151Z" filename="nb07_03_11_0001.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="Moore_XII_03_05e.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.131Z" modified="2026-03-04T16:38:45.131Z" filename="Moore_XII_03_05e.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

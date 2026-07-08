@@ -1,45 +1,48 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/odd" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.582Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/odd" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:43.463Z">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="teipublisher_odds.xsd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.847Z" modified="2026-03-04T15:59:27.847Z" filename="teipublisher_odds.xsd" mimetype="application/xml">
+    <resource type="XMLResource" name="about.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.668Z" modified="2026-03-04T16:38:43.668Z" filename="about.odd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="teipublisher_odds.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.838Z" modified="2026-03-04T15:59:27.838Z" filename="teipublisher_odds.odd" mimetype="application/xml">
+    <resource type="XMLResource" name="configuration.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.659Z" modified="2026-03-04T16:38:43.659Z" filename="configuration.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="moore.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.821Z" modified="2026-03-04T15:59:27.821Z" filename="moore.odd" mimetype="application/xml">
+    <resource type="XMLResource" name="template.odd.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.469Z" modified="2026-03-04T16:38:43.469Z" filename="template.odd.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="aboutNotebooks.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.815Z" modified="2026-03-04T15:59:27.815Z" filename="aboutNotebooks.odd" mimetype="application/xml">
+    <resource type="XMLResource" name="teipublisher_odds.xsd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.778Z" modified="2026-03-04T16:38:43.778Z" filename="teipublisher_odds.xsd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="teipublisher.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.77Z" modified="2026-03-04T15:59:27.77Z" filename="teipublisher.odd" mimetype="application/xml">
+    <resource type="XMLResource" name="teipublisher_odds.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.768Z" modified="2026-03-04T16:38:43.768Z" filename="teipublisher_odds.odd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="about.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.762Z" modified="2026-03-04T15:59:27.762Z" filename="about.odd" mimetype="application/xml">
+    <resource type="XMLResource" name="moore.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.733Z" modified="2026-03-16T19:45:23.937Z" filename="moore.odd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="configuration.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.757Z" modified="2026-03-04T15:59:27.757Z" filename="configuration.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="aboutNotebooks.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.72Z" modified="2026-03-04T16:38:43.72Z" filename="aboutNotebooks.odd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="template.odd.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.586Z" modified="2026-03-04T15:59:27.586Z" filename="template.odd.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="teipublisher.odd" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.677Z" modified="2026-03-04T16:38:43.677Z" filename="teipublisher.odd" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="ns1.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.834Z" modified="2026-03-04T15:59:27.834Z" filename="ns1.tmp" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="xml.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.664Z" modified="2026-03-04T16:38:43.664Z" filename="xml.tmp" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="tp.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.813Z" modified="2026-03-04T15:59:27.813Z" filename="tp.css" mimetype="text/css">
+    <resource type="BinaryResource" name="teix.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.662Z" modified="2026-03-04T16:38:43.662Z" filename="teix.tmp" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.768Z" modified="2026-03-04T15:59:27.768Z" filename="moore.css" mimetype="text/css">
+    <resource type="BinaryResource" name="image.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.66Z" modified="2026-03-04T16:38:43.66Z" filename="image.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="xml.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.761Z" modified="2026-03-04T15:59:27.761Z" filename="xml.tmp" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="dcr.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.465Z" modified="2026-03-04T16:38:43.465Z" filename="dcr.tmp" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teix.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.759Z" modified="2026-03-04T15:59:27.759Z" filename="teix.tmp" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.675Z" modified="2026-05-21T20:06:12.902Z" filename="moore.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="dcr.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.584Z" modified="2026-03-04T15:59:27.584Z" filename="dcr.tmp" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="ns1.tmp" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.764Z" modified="2026-03-04T16:38:43.764Z" filename="ns1.tmp" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="tp.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.715Z" modified="2026-03-04T16:38:43.715Z" filename="tp.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

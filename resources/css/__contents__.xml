@@ -1,75 +1,78 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/css" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:53.559Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/css" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:39:03.822Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="menu.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.599Z" modified="2026-03-04T15:59:53.599Z" filename="menu.css" mimetype="text/css">
+    <resource type="BinaryResource" name="pico-ext.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.853Z" modified="2026-03-04T16:39:03.853Z" filename="pico-ext.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="pico-ext.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.598Z" modified="2026-03-04T15:59:53.598Z" filename="pico-ext.css" mimetype="text/css">
+    <resource type="BinaryResource" name="timeline.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.826Z" modified="2026-03-04T16:39:03.826Z" filename="timeline.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="print-preview.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.596Z" modified="2026-03-04T15:59:53.596Z" filename="print-preview.css" mimetype="text/css">
+    <resource type="BinaryResource" name="edition.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.851Z" modified="2026-03-04T16:39:03.851Z" filename="edition.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="edition.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.595Z" modified="2026-03-04T15:59:53.595Z" filename="edition.css" mimetype="text/css">
+    <resource type="BinaryResource" name="landing-page.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.832Z" modified="2026-03-04T16:39:03.832Z" filename="landing-page.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="palette-neutral.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.593Z" modified="2026-03-04T15:59:53.593Z" filename="palette-neutral.css" mimetype="text/css">
+    <resource type="BinaryResource" name="print.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.837Z" modified="2026-03-04T16:39:03.837Z" filename="print.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="jinks-components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.592Z" modified="2026-03-04T15:59:53.592Z" filename="jinks-components.css" mimetype="text/css">
+    <resource type="BinaryResource" name="palette-beige.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.834Z" modified="2026-03-04T16:39:03.834Z" filename="palette-beige.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="epub.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.59Z" modified="2026-03-04T15:59:53.59Z" filename="epub.css" mimetype="text/css">
+    <resource type="BinaryResource" name="menu.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.855Z" modified="2026-03-04T16:39:03.855Z" filename="menu.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="base.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.589Z" modified="2026-03-04T15:59:53.589Z" filename="base.css" mimetype="text/css">
+    <resource type="BinaryResource" name="toc.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.836Z" modified="2026-03-04T16:39:03.836Z" filename="toc.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="palette-blue.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.587Z" modified="2026-03-04T15:59:53.587Z" filename="palette-blue.css" mimetype="text/css">
+    <resource type="BinaryResource" name="palette-neutral.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.849Z" modified="2026-03-04T16:39:03.849Z" filename="palette-neutral.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="controls.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.586Z" modified="2026-03-04T15:59:53.586Z" filename="controls.css" mimetype="text/css">
+    <resource type="BinaryResource" name="pico-components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.842Z" modified="2026-03-04T16:39:03.842Z" filename="pico-components.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="pico-components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.584Z" modified="2026-03-04T15:59:53.584Z" filename="pico-components.css" mimetype="text/css">
+    <resource type="BinaryResource" name="print-preview.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.852Z" modified="2026-03-04T16:39:03.852Z" filename="print-preview.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.582Z" modified="2026-03-04T15:59:53.582Z" filename="components.css" mimetype="text/css">
+    <resource type="BinaryResource" name="base.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.846Z" modified="2026-03-04T16:39:03.846Z" filename="base.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="documents.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.58Z" modified="2026-03-04T15:59:53.58Z" filename="documents.css" mimetype="text/css">
+    <resource type="BinaryResource" name="epub.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.847Z" modified="2026-03-04T16:39:03.847Z" filename="epub.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="print.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.579Z" modified="2026-03-04T15:59:53.579Z" filename="print.css" mimetype="text/css">
+    <resource type="BinaryResource" name="controls.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.843Z" modified="2026-03-04T16:39:03.843Z" filename="controls.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="toc.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.577Z" modified="2026-03-04T15:59:53.577Z" filename="toc.css" mimetype="text/css">
+    <resource type="BinaryResource" name="palette-blue.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.845Z" modified="2026-03-04T16:39:03.845Z" filename="palette-blue.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="palette-moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.576Z" modified="2026-03-04T15:59:53.576Z" filename="palette-moore.css" mimetype="text/css">
+    <resource type="BinaryResource" name="registers-theme.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.823Z" modified="2026-03-04T16:39:03.823Z" filename="registers-theme.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="palette-beige.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.574Z" modified="2026-03-04T15:59:53.574Z" filename="palette-beige.css" mimetype="text/css">
+    <resource type="BinaryResource" name="palette-moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.835Z" modified="2026-03-04T16:39:03.835Z" filename="palette-moore.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="landing-page.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.573Z" modified="2026-03-04T15:59:53.573Z" filename="landing-page.css" mimetype="text/css">
+    <resource type="BinaryResource" name="layouts.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.83Z" modified="2026-03-04T16:39:03.83Z" filename="layouts.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="jinks-variables.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.571Z" modified="2026-03-04T15:59:53.571Z" filename="jinks-variables.css" mimetype="text/css">
+    <resource type="BinaryResource" name="palette-green.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.829Z" modified="2026-03-04T16:39:03.829Z" filename="palette-green.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="layouts.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.569Z" modified="2026-03-04T15:59:53.569Z" filename="layouts.css" mimetype="text/css">
+    <resource type="BinaryResource" name="jinks-components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.848Z" modified="2026-03-04T16:39:03.848Z" filename="jinks-components.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="palette-green.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.567Z" modified="2026-03-04T15:59:53.567Z" filename="palette-green.css" mimetype="text/css">
+    <resource type="BinaryResource" name="gridjs.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.828Z" modified="2026-03-04T16:39:03.828Z" filename="gridjs.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="registers-theme.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.56Z" modified="2026-03-04T15:59:53.56Z" filename="registers-theme.css" mimetype="text/css">
+    <resource type="BinaryResource" name="documents.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.839Z" modified="2026-03-04T16:39:03.839Z" filename="documents.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="timeline.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.565Z" modified="2026-03-04T15:59:53.565Z" filename="timeline.css" mimetype="text/css">
+    <resource type="BinaryResource" name="components.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.84Z" modified="2026-03-04T16:39:03.84Z" filename="components.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="jinks-theme.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.562Z" modified="2026-03-04T15:59:53.562Z" filename="jinks-theme.css" mimetype="text/css">
+    <resource type="BinaryResource" name="jinks-theme.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.825Z" modified="2026-03-04T16:39:03.825Z" filename="jinks-theme.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="jinks-variables.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.831Z" modified="2026-03-04T16:43:02.634Z" filename="jinks-variables.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

@@ -1,165 +1,165 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/hardToFind" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:46.769Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/sources/hardToFind" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:58.411Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="mm_bibliography_20161126.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.67Z" modified="2026-03-04T15:59:47.67Z" filename="mm_bibliography_20161126.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="back_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.028Z" modified="2026-03-04T16:39:00.028Z" filename="back_matter.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_molesworth.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.618Z" modified="2026-03-04T15:59:47.618Z" filename="sagetrieb_molesworth.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Steinman_modern_america_modernism_and_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.873Z" modified="2026-03-04T16:39:00.873Z" filename="Steinman_modern_america_modernism_and_MM.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_heuving.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.583Z" modified="2026-03-04T15:59:47.583Z" filename="sagetrieb_heuving.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="kappel_intro.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.648Z" modified="2026-03-04T16:39:00.648Z" filename="kappel_intro.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_nadel.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.517Z" modified="2026-03-04T15:59:47.517Z" filename="sagetrieb_nadel.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="costello_mm_and_bishop.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.444Z" modified="2026-03-04T16:39:00.444Z" filename="costello_mm_and_bishop.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Willis_MMandthePipesofPan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.484Z" modified="2026-03-04T15:59:47.484Z" filename="Willis_MMandthePipesofPan.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_wasserman.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.416Z" modified="2026-03-04T16:39:00.416Z" filename="sagetrieb_wasserman.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_merrin.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.459Z" modified="2026-03-04T15:59:47.459Z" filename="sagetrieb_merrin.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Holley.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.39Z" modified="2026-03-04T16:39:00.39Z" filename="Poesis_Holley.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Ostriker.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.679Z" modified="2026-03-04T15:59:47.679Z" filename="Poesis_Ostriker.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Nitchie.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.373Z" modified="2026-03-04T16:39:00.373Z" filename="Poesis_Nitchie.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Moran.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.304Z" modified="2026-03-04T15:59:51.304Z" filename="Poesis_Moran.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_costello.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.343Z" modified="2026-03-04T16:39:00.343Z" filename="sagetrieb_costello.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Miller_2.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.298Z" modified="2026-03-04T15:59:51.298Z" filename="Miller_2.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="CostelloMMwilddecorum.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.308Z" modified="2026-03-04T16:39:00.308Z" filename="CostelloMMwilddecorum.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Miller_4.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.293Z" modified="2026-03-04T15:59:51.293Z" filename="Miller_4.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="willis_road_to_paradise.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.101Z" modified="2026-03-04T16:39:00.101Z" filename="willis_road_to_paradise.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="holley_mm_and_model_stanza.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.216Z" modified="2026-03-04T15:59:51.216Z" filename="holley_mm_and_model_stanza.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_sielke.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:00.037Z" modified="2026-03-04T16:39:00.037Z" filename="sagetrieb_sielke.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_back_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.2Z" modified="2026-03-04T15:59:51.2Z" filename="sagetrieb_back_matter.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Moran.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.398Z" modified="2026-03-04T16:39:02.398Z" filename="Poesis_Moran.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Guest.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.164Z" modified="2026-03-04T15:59:51.164Z" filename="Poesis_Guest.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Miller_4.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.387Z" modified="2026-03-04T16:39:02.387Z" filename="Miller_4.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="lourdeaux_MM_and_psychoanalytic_paradigm.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.121Z" modified="2026-03-04T15:59:51.121Z" filename="lourdeaux_MM_and_psychoanalytic_paradigm.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_back_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.296Z" modified="2026-03-04T16:39:02.296Z" filename="sagetrieb_back_matter.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_graham.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.049Z" modified="2026-03-04T15:59:51.049Z" filename="sagetrieb_graham.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Guest.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.26Z" modified="2026-03-04T16:39:02.26Z" filename="Poesis_Guest.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Hogue_PluckedString.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.018Z" modified="2026-03-04T15:59:51.018Z" filename="Hogue_PluckedString.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="lourdeaux_MM_and_psychoanalytic_paradigm.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.158Z" modified="2026-03-04T16:39:02.158Z" filename="lourdeaux_MM_and_psychoanalytic_paradigm.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="rees_reality_of_imagination_in_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:50.93Z" modified="2026-03-04T15:59:50.93Z" filename="rees_reality_of_imagination_in_MM.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_graham.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.118Z" modified="2026-03-04T16:39:02.118Z" filename="sagetrieb_graham.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Miller_3.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:50.803Z" modified="2026-03-04T15:59:50.803Z" filename="Miller_3.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Hogue_PluckedString.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.115Z" modified="2026-03-04T16:39:02.115Z" filename="Hogue_PluckedString.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="slatin_MM_and_natural_historian.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:50.041Z" modified="2026-03-04T15:59:50.041Z" filename="slatin_MM_and_natural_historian.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="rees_reality_of_imagination_in_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:01.922Z" modified="2026-03-04T16:39:01.922Z" filename="rees_reality_of_imagination_in_MM.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Steinman_modern_america_modernism_and_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.77Z" modified="2026-03-04T15:59:49.77Z" filename="Steinman_modern_america_modernism_and_MM.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Miller_3.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:01.861Z" modified="2026-03-04T16:39:01.861Z" filename="Miller_3.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="kappel_intro.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.439Z" modified="2026-03-04T15:59:49.439Z" filename="kappel_intro.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="goodridge_MM_and_WCW.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.708Z" modified="2026-03-04T16:38:59.708Z" filename="goodridge_MM_and_WCW.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="costello_mm_and_bishop.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.216Z" modified="2026-03-04T15:59:49.216Z" filename="costello_mm_and_bishop.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Leavell_APS_2003.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.699Z" modified="2026-03-04T16:38:59.699Z" filename="Leavell_APS_2003.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_wasserman.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.185Z" modified="2026-03-04T15:59:49.185Z" filename="sagetrieb_wasserman.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Merrin_MM_Calvinism.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.06Z" modified="2026-03-04T16:39:03.06Z" filename="Merrin_MM_Calvinism.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Holley.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.155Z" modified="2026-03-04T15:59:49.155Z" filename="Poesis_Holley.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Miller_1.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.668Z" modified="2026-03-04T16:38:59.668Z" filename="Miller_1.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Nitchie.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.137Z" modified="2026-03-04T15:59:49.137Z" filename="Poesis_Nitchie.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_holley.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.919Z" modified="2026-03-04T16:39:02.919Z" filename="sagetrieb_holley.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_costello.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.108Z" modified="2026-03-04T15:59:49.108Z" filename="sagetrieb_costello.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Gelpi.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.489Z" modified="2026-03-04T16:38:59.489Z" filename="Poesis_Gelpi.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="CostelloMMwilddecorum.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:49.052Z" modified="2026-03-04T15:59:49.052Z" filename="CostelloMMwilddecorum.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_front_kearns.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.886Z" modified="2026-03-04T16:39:02.886Z" filename="sagetrieb_front_kearns.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="willis_road_to_paradise.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.809Z" modified="2026-03-04T15:59:48.809Z" filename="willis_road_to_paradise.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_goodridge.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.455Z" modified="2026-03-04T16:38:59.455Z" filename="sagetrieb_goodridge.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_sielke.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.751Z" modified="2026-03-04T15:59:48.751Z" filename="sagetrieb_sielke.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_frontmatter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.881Z" modified="2026-03-04T16:39:02.881Z" filename="Poesis_frontmatter.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="back_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.739Z" modified="2026-03-04T15:59:48.739Z" filename="back_matter.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sprout_MM_as_translator.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.253Z" modified="2026-03-04T16:38:59.253Z" filename="sprout_MM_as_translator.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_sullivan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.701Z" modified="2026-03-04T15:59:48.701Z" filename="sagetrieb_sullivan.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Wallace.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.795Z" modified="2026-03-04T16:39:02.795Z" filename="Poesis_Wallace.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="front_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.567Z" modified="2026-03-04T15:59:48.567Z" filename="front_matter.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Willis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.21Z" modified="2026-03-04T16:38:59.21Z" filename="Poesis_Willis.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Duncan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.504Z" modified="2026-03-04T15:59:48.504Z" filename="Poesis_Duncan.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="ross_fables.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.578Z" modified="2026-03-04T16:39:02.578Z" filename="ross_fables.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="goodridge_MM_and_WCW.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.322Z" modified="2026-03-04T15:59:48.322Z" filename="goodridge_MM_and_WCW.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Ostriker.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.177Z" modified="2026-03-04T16:38:59.177Z" filename="Poesis_Ostriker.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Leavell_APS_2003.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.295Z" modified="2026-03-04T15:59:48.295Z" filename="Leavell_APS_2003.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="moore_late_ver_oct.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.5Z" modified="2026-03-04T16:39:02.5Z" filename="moore_late_ver_oct.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Miller_1.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.157Z" modified="2026-03-04T15:59:48.157Z" filename="Miller_1.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="mm_bibliography_20161126.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.173Z" modified="2026-03-04T16:38:59.173Z" filename="mm_bibliography_20161126.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Gelpi.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.11Z" modified="2026-03-04T15:59:48.11Z" filename="Poesis_Gelpi.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Friedman.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.442Z" modified="2026-03-04T16:39:02.442Z" filename="Poesis_Friedman.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_goodridge.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:48.069Z" modified="2026-03-04T15:59:48.069Z" filename="sagetrieb_goodridge.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_molesworth.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.144Z" modified="2026-03-04T16:38:59.144Z" filename="sagetrieb_molesworth.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sprout_MM_as_translator.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.802Z" modified="2026-03-04T15:59:47.802Z" filename="sprout_MM_as_translator.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_heuving.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.045Z" modified="2026-03-04T16:38:59.045Z" filename="sagetrieb_heuving.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_Keller_and_Miller.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.354Z" modified="2026-03-04T15:59:47.354Z" filename="sagetrieb_Keller_and_Miller.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_nadel.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.998Z" modified="2026-03-04T16:38:58.998Z" filename="sagetrieb_nadel.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="schulman_MM_and_McKnight.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.281Z" modified="2026-03-04T15:59:47.281Z" filename="schulman_MM_and_McKnight.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Miller_2.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.393Z" modified="2026-03-04T16:39:02.393Z" filename="Miller_2.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_front_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.258Z" modified="2026-03-04T15:59:47.258Z" filename="sagetrieb_front_matter.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Willis_MMandthePipesofPan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.988Z" modified="2026-03-04T16:38:58.988Z" filename="Willis_MMandthePipesofPan.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_hickey.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.214Z" modified="2026-03-04T15:59:47.214Z" filename="sagetrieb_hickey.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_merrin.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.965Z" modified="2026-03-04T16:38:58.965Z" filename="sagetrieb_merrin.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="gregor_omissions_are_not_accidents.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.118Z" modified="2026-03-04T15:59:47.118Z" filename="gregor_omissions_are_not_accidents.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="holley_mm_and_model_stanza.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:02.309Z" modified="2026-03-04T16:39:02.309Z" filename="holley_mm_and_model_stanza.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="martin_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:46.77Z" modified="2026-03-04T15:59:46.77Z" filename="martin_MM.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_Keller_and_Miller.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.928Z" modified="2026-03-04T16:38:58.928Z" filename="sagetrieb_Keller_and_Miller.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Willis.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:47.728Z" modified="2026-03-04T15:59:47.728Z" filename="Poesis_Willis.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="schulman_MM_and_McKnight.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.802Z" modified="2026-03-04T16:38:58.802Z" filename="schulman_MM_and_McKnight.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Merrin_MM_Calvinism.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.979Z" modified="2026-03-04T15:59:51.979Z" filename="Merrin_MM_Calvinism.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_front_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.79Z" modified="2026-03-04T16:38:58.79Z" filename="sagetrieb_front_matter.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_holley.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.931Z" modified="2026-03-04T15:59:51.931Z" filename="sagetrieb_holley.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_hickey.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.75Z" modified="2026-03-04T16:38:58.75Z" filename="sagetrieb_hickey.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="sagetrieb_front_kearns.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.893Z" modified="2026-03-04T15:59:51.893Z" filename="sagetrieb_front_kearns.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="gregor_omissions_are_not_accidents.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.546Z" modified="2026-03-04T16:38:58.546Z" filename="gregor_omissions_are_not_accidents.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_frontmatter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.887Z" modified="2026-03-04T15:59:51.887Z" filename="Poesis_frontmatter.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="martin_MM.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:58.413Z" modified="2026-03-04T16:38:58.413Z" filename="martin_MM.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Wallace.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.78Z" modified="2026-03-04T15:59:51.78Z" filename="Poesis_Wallace.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="sagetrieb_sullivan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.962Z" modified="2026-03-04T16:38:59.962Z" filename="sagetrieb_sullivan.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="ross_fables.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.495Z" modified="2026-03-04T15:59:51.495Z" filename="ross_fables.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="slatin_MM_and_natural_historian.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:01.133Z" modified="2026-03-04T16:39:01.133Z" filename="slatin_MM_and_natural_historian.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore_late_ver_oct.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.42Z" modified="2026-03-04T15:59:51.42Z" filename="moore_late_ver_oct.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="front_matter.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.859Z" modified="2026-03-04T16:38:59.859Z" filename="front_matter.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="Poesis_Friedman.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:51.35Z" modified="2026-03-04T15:59:51.35Z" filename="Poesis_Friedman.pdf" mimetype="application/pdf">
+    <resource type="BinaryResource" name="Poesis_Duncan.pdf" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:59.817Z" modified="2026-03-04T16:38:59.817Z" filename="Poesis_Duncan.pdf" mimetype="application/pdf">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

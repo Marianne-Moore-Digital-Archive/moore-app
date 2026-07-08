@@ -1,42 +1,51 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/team" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:28.723Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images/team" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:45.342Z">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="user.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.76Z" modified="2026-03-04T15:59:28.76Z" filename="user.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="user.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.409Z" modified="2026-03-04T16:38:45.409Z" filename="user.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="anna.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.753Z" modified="2026-03-04T15:59:28.753Z" filename="anna.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="anna.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.402Z" modified="2026-03-04T16:38:45.402Z" filename="anna.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="malyszek.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.75Z" modified="2026-03-04T15:59:28.75Z" filename="malyszek.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="malyszek.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.4Z" modified="2026-03-04T16:38:45.4Z" filename="malyszek.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="julia.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.748Z" modified="2026-03-04T15:59:28.748Z" filename="julia.jpeg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="julia.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.399Z" modified="2026-03-04T16:38:45.399Z" filename="julia.jpeg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="helena.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.747Z" modified="2026-03-04T15:59:28.747Z" filename="helena.jpeg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="helena.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.398Z" modified="2026-03-04T16:38:45.398Z" filename="helena.jpeg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="wolfgang.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.744Z" modified="2026-03-04T15:59:28.744Z" filename="wolfgang.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="wolfgang.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.396Z" modified="2026-03-04T16:38:45.396Z" filename="wolfgang.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="gregory.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.741Z" modified="2026-03-04T15:59:28.741Z" filename="gregory.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="gregory.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.393Z" modified="2026-03-04T16:38:45.393Z" filename="gregory.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="wasmoen.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.738Z" modified="2026-03-04T15:59:28.738Z" filename="wasmoen.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="chakraborty.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.386Z" modified="2026-03-04T16:38:45.386Z" filename="chakraborty.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="miller.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.735Z" modified="2026-03-04T15:59:28.735Z" filename="miller.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="wasmoen.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.383Z" modified="2026-03-04T16:38:45.383Z" filename="wasmoen.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="johnson.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.732Z" modified="2026-03-04T15:59:28.732Z" filename="johnson.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="miller.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.38Z" modified="2026-03-04T16:38:45.38Z" filename="miller.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="magdalena.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.728Z" modified="2026-03-04T15:59:28.728Z" filename="magdalena.png" mimetype="image/png">
+    <resource type="BinaryResource" name="johnson.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.377Z" modified="2026-03-04T16:38:45.377Z" filename="johnson.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="lars.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.726Z" modified="2026-03-04T15:59:28.726Z" filename="lars.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="magdalena.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.374Z" modified="2026-03-04T16:38:45.374Z" filename="magdalena.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="carson.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.725Z" modified="2026-03-04T15:59:28.725Z" filename="carson.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="lars.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.373Z" modified="2026-03-04T16:38:45.373Z" filename="lars.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="carson.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.371Z" modified="2026-03-04T16:38:45.371Z" filename="carson.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="nashar.jpeg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.346Z" modified="2026-03-04T16:38:45.346Z" filename="nashar.jpeg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="felin.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:45.344Z" modified="2026-03-04T16:38:45.344Z" filename="felin.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

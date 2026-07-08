@@ -1,30 +1,30 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/fonts" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:27.544Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/fonts" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:43.282Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-600.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.578Z" modified="2026-03-04T15:59:27.578Z" filename="inter-v19-latin_latin-ext-600.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.458Z" modified="2026-03-04T16:38:43.458Z" filename="inter-v19-latin_latin-ext-italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="JunicodeVF-Roman.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.567Z" modified="2026-03-04T15:59:27.567Z" filename="JunicodeVF-Roman.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-500italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.294Z" modified="2026-03-04T16:38:43.294Z" filename="inter-v19-latin_latin-ext-500italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="JunicodeVF-Italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.555Z" modified="2026-03-04T15:59:27.555Z" filename="JunicodeVF-Italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-600.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.41Z" modified="2026-03-04T16:38:43.41Z" filename="inter-v19-latin_latin-ext-600.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-regular.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.553Z" modified="2026-03-04T15:59:27.553Z" filename="inter-v19-latin_latin-ext-regular.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="JunicodeVF-Roman.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.343Z" modified="2026-03-04T16:38:43.343Z" filename="JunicodeVF-Roman.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-500italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.551Z" modified="2026-03-04T15:59:27.551Z" filename="inter-v19-latin_latin-ext-500italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="JunicodeVF-Italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.302Z" modified="2026-03-04T16:38:43.302Z" filename="JunicodeVF-Italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="font.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.55Z" modified="2026-03-04T15:59:27.55Z" filename="font.css" mimetype="text/css">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-regular.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.298Z" modified="2026-03-04T16:38:43.298Z" filename="inter-v19-latin_latin-ext-regular.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-500.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.548Z" modified="2026-03-04T15:59:27.548Z" filename="inter-v19-latin_latin-ext-500.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="font.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.291Z" modified="2026-03-04T16:38:43.291Z" filename="font.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-600italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.545Z" modified="2026-03-04T15:59:27.545Z" filename="inter-v19-latin_latin-ext-600italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-500.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.287Z" modified="2026-03-04T16:38:43.287Z" filename="inter-v19-latin_latin-ext-500.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:27.58Z" modified="2026-03-04T15:59:27.58Z" filename="inter-v19-latin_latin-ext-italic.woff2" mimetype="application/octet-stream">
+    <resource type="BinaryResource" name="inter-v19-latin_latin-ext-600italic.woff2" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:43.283Z" modified="2026-03-04T16:38:43.283Z" filename="inter-v19-latin_latin-ext-600italic.woff2" mimetype="application/octet-stream">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

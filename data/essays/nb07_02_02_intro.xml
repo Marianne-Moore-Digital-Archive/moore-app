@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Introduction to Reading Notebook 07.02.02</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="1">essays</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head rend="center">“Voracity”: Introduction to Reading Notebook 07.02.02, 1930-1943</head>
+                <p rend="center">Jeff Westover</p>
+                <p rend="center"><ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.64.10">
+                        <figure>
+                            <graphic width="20%" url="resources/images/moore/nb07_02_02_0032_recto.jpg"/>
+                        </figure></ref>
+                </p>
+                <p rend="center"><ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.2.4"><hi rend="bold underline">Go to Notebook Viewer</hi></ref></p>
+                <p>Arthur James Balfour claimed that “an
+                    impotent voracity for desultory
+                    information” is a “most desirable, and a
+                    not too common, form of mental appetite”
+                        (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.134.8">Notebook 07.02.02, p. 67r</ref>).
+                    Marianne Moore recorded this statement
+                    in the 460-page reading notebook she
+                    maintained from 1930 to 1943. Based on
+                    the varied content of the notebook and
+                    the wide range of subjects in her
+                    poetry, it is not hard to see why she
+                    took the trouble to record this idea. It
+                    provides as good an epigraph for the
+                    notebook as any. After all, she had
+                    claimed in the 1924 version of “Poetry”
+                    that even “business documents” are
+                    “important” (<title>New
+                        Collected</title> 27). The notebook
+                    entry actually involves two sources, for
+                    Moore is quoting someone (Balfour) who
+                    is quoting someone else (Frederic
+                    Harrison) in order to rebut and correct
+                    him. The quotation also brings to mind
+                    the playful title of a short poem Moore
+                    first published in 1947, “Voracities and
+                    Verities Sometimes are Interacting”
+                        (<title>Spearhead</title>, New
+                    Directions, 1947: <title>New
+                        Collected</title> 182). </p>
+                <p>Voracity certainly is the word. The
+                    notebook features entries on subjects
+                    ranging from contemporary film to
+                    meticulous descriptions of exotic and
+                    ordinary animals, from information about
+                    female tennis players and authors to
+                    excerpts on ethics and politics, from
+                    inventories of period furniture and
+                    varieties of wood to catalogues of
+                    music, from book reviews and
+                    advertisements to notes on mottoes and
+                    heraldry, and from ancient Egyptian
+                    artefacts to the history and techniques
+                    of typesetting. As in her poems, the
+                    notes shift abruptly from one richly
+                    detailed topic to another without
+                    warning or transition, leaving one to
+                    wonder about the motives and
+                    circumstances behind the notes and the
+                    manner and order in which they were
+                    collected over time. In short, the
+                    notebook is encyclopedic in scope and
+                    chronological in its arrangement,
+                    following what she picks up to read at
+                    any given moment. </p>
+                <p>Many of the subjects are familiar enough
+                    to fans of Moore’s writing, but some may
+                    seem more obscure though not surprising,
+                    given her reputation for wide-ranging
+                    and detailed knowledge, often on
+                    recondite subjects. The notebook gives a
+                    sense of how this knowledge was obtained
+                    and perhaps retained, though not how it
+                    was consulted when she drafted her
+                    poems. </p>
+                <p>While miscellaneous in its overall
+                    compass, the notebook provides material
+                    relevant to the composition of the
+                    following poems, all of which were
+                    published in the 1930s except the last
+                    four: “The Student”
+                        (<title>Poetry</title>, 1932), "No
+                    Swan So Fine" (<title>Poetry</title>,
+                    1932), “The Jerboa” (<title>Hound &amp;
+                        Horn</title>, 1932), “Camellia
+                    Sabina” (<title>Active
+                    Anthology</title>, 1933), “The Plumet
+                    Basilisk” (<title>Active
+                        Anthology</title>, 1933), “The
+                    Frigate Pelican” (<title>The
+                        Criterion</title> 1934), “The
+                    Buffalo” (<title>Poetry</title>, 1934),
+                    “Nine Nectarines and Other Porcelain”
+                        (<title>Poetry</title>, 1934),
+                    “Walking-Sticks and Paperweights and
+                    Watermarks” (<title>Poetry</title>,
+                    1936), “Half Deity”
+                        (<title>Direction</title>, 1935),
+                    “Smooth Gnarled Crape Myrtle”
+                        (<title>New English Weekly</title>,
+                    1935), “Virginia Britannia” (<title>Life
+                        and Letters Today</title>, 1935),
+                    “The Paper Nautilus” (as “A Glass-Ribbed
+                    Nest” in the <title>Kenyon
+                        Review</title>, 1940), “In Distrust
+                    of Merits” (<title>Nation</title>,
+                    1943), “Logic and ‘The Magic Flute’”
+                        (<title>Shenandoa</title>, 1956), “O
+                    To Be a Dragon” (<title>Sequoia</title>,
+                    1957), and “Leonardo da Vinci’s”
+                        (<title>New Yorker</title>, 1959).
+                    It also features notes relevant to
+                    essays published from the 1930s through
+                    the 1950s, including “Charlotte Brontë”
+                    (1932), “Feeling and Precision” (1944),
+                    “Humility, Concentration, and Gusto”
+                    (1949), and “Idiosyncrasy and Technique”
+                    (1958). </p>
+                <p>A few issues that stand out in this
+                    notebook include (1) the tensions
+                    between the drive to know and the
+                    limitations of human knowledge; (2) the
+                    visual and material aspects of some
+                    forms of language; and (3) aesthetics
+                    and culture. In terms of my first issue,
+                    the drive to know and the contingencies
+                    that thwart it, Moore’s quotation of
+                    Albert Einstein in “The Student” that
+                    “Science is never finished” sums up well
+                    her own quest for knowledge (<title>New
+                        Collected</title> 95).
+                    Unsurprisingly, the idea of science, or
+                    knowledge, being unfinished is
+                    demonstrated in the notes on animal
+                    behavior and anatomy. Readers will
+                    recognize this interest in her animal
+                    poems and her frequent epistolary
+                    references to animal films, zoos,
+                    circuses, and museums of natural
+                    history. The animals she studies include
+                    various kinds of insects, birds,
+                    amphibians, mammals, and fish. Her
+                    interest extends to flora as well as
+                    fauna, including notes for “Camellia
+                    Sabina” and “Nine Nectarines and Other
+                    Porcelain.” Moore also records amusing
+                    scenes from fiction and biography,
+                    striking details about the social life
+                    of Victorian England, and catchy phrases
+                    from conversations. </p>
+                <p>Different passages in the notebook attest
+                    to Moore’s focus on the limitations on
+                    human knowledge, limitations based on
+                    the complexity and scale of the cosmos,
+                    theological ideas about human nature,
+                    and the contingency of categories. For
+                    example, in an article about Roger and
+                    Francis Bacon in <title>Scientific
+                        Monthly</title> by Sanford Fernando,
+                    a physicist who taught at Stanford,
+                    Moore singles out the following passage
+                    about the medieval scholar Roger Bacon’s
+                    view of “the fallibility of human
+                    reason”: </p>
+                <lg>
+                    <l>it is certain that never, before God is seen face to face, shall a man know</l>
+                    <l>anything with final certainty. It is impossible therefore for a man to attain</l>
+                    <l>perfect knowledge in this life, &amp; it is exceedingly difficult for him to</l>
+                    <l>attain perfect truth, &amp; he is very prone &amp; disposed toward whatever is</l>
+                    <l>false &amp; empty; wherefore man ought not to boast of his knowledge. (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.558.4">220v-220r</ref>)</l>
+                </lg>
+                <p/>
+                <p>This excerpt squares with a traditional
+                    Christian emphasis on humility as a
+                    virtue. But it appears in a popular
+                    article by a professional scientist who
+                    singles out Bacon for his emphasis on
+                    the importance of evidence-based
+                    reasoning. At the same time that Moore
+                    demonstrates her appetite for learning
+                    about a variety of topics, she testifies
+                    to her belief about the inadequacies of
+                    human understanding in such passages.
+                    This conflicting attitude toward knowing
+                    things seems in keeping with Moore’s
+                    poetic values of intensive detail, spry
+                    syntax, and restraint. In the poems of
+                    the thirties, as in the earlier poems
+                    “The Octopus” and “Marriage,” she
+                    sometimes offers a bewildering array of
+                    images and ideas. This can arouse a kind
+                    of exhilaration in the reader, but it
+                    also points to the challenges of sorting
+                    out significance. Perhaps it also
+                    cautions readers to acknowledge the
+                    complexity, diversity, and contradictory
+                    aspects of experience in order to avoid
+                    oversimplifying them. </p>
+                <p>In another notebook entry, Moore records
+                    the following excerpt from Rule of the
+                    Road, a 1937 book by Anne Byrd Payson:
+                    “It may be that certainty is too static
+                    for human development &amp; that minds
+                    devel. best in uncertainty, that trying
+                    to find truth is better than than
+                    leaning hard on demonstrable fact.”
+                        (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.596.4">230r</ref>) </p>
+                <p>Payson’s statement resembles John Keats’s
+                    definition of negative capability as
+                    living with uncertainty “without any
+                    irritable reaching after facts and
+                    reason.” It also parallels the theme of
+                    victory over adversity at the heart of
+                    some of the Latin mottoes Moore records
+                    in this notebook, including one used in
+                    a printer’s mark: “Veritas virescit
+                    vulnere” (“when wounded, truth just gets
+                    fresher”). </p>
+                <p>Moore wrote an extensive series of notes
+                    about typography and printing—an
+                    interest especially relevant to
+                    “Walking-Sticks, Paperweights, and
+                    Watermarks.” The passages about typeface
+                    reflect Moore’s personal aesthetics and
+                    presumably her earlier editorial work at
+                        <title>The Dial</title>. Similar
+                    notes about heraldry also attest to a
+                    concern with language and visual
+                    rhetoric, with visual details and their
+                    beauty, and with processes of
+                    signification. The notes often reflect
+                    Moore’s sense in “The Steeple-Jack” that
+                    “it is a privilege to see so / much
+                    profusion” (<title>New Collected</title>
+                    93). They also reflect the sharp shifts
+                    in reference evident in “The Jerboa,”
+                    “The Plumet Basilisk,” and “The Frigate
+                    Pelican.” In these and other of Moore’s
+                    poems, trains of modifiers build to
+                    climaxes that accentuate and energize
+                    the nouns they modify. The exuberance
+                    that these modifiers convey is matched
+                    by the bewilderment and potential
+                    confusion associated with complex syntax
+                    and shifting metonymic associations. </p>
+                <p>As I have hinted, the notebook often
+                    reflects Moore’s keen interest in flora
+                    and fauna. It contains extensive
+                    excerpts about jerboas and similar
+                    rodents from “Smaller Mammals of North
+                    America” by Edward W. Nelson, which
+                    appeared in the May 1918 issue of the
+                        <title>National Geographic</title>
+                        (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.170.8">85r-89v</ref>). There is also an
+                    array of notes from <title>The
+                        Illustrated London News</title>.
+                    Similar notes and drawings about
+                    amphibians and flora are relevant to
+                    “The Plumet Basilisk” (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.56.4">28r-29v</ref>; <ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.184.4">92v-93r</ref>; <ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.216.4">108v-110v</ref>). Given Moore’s
+                    penchant for fusing the human and animal
+                    worlds in her poems, many of her notes
+                    on culture are also relevant to “The
+                    Jerboa” and “The Plumet Basilisk.” For
+                    example, notes about cultural artifacts
+                    from ancient Egypt are also germane to
+                    “The Jerboa” (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.192.8">96r-97v</ref>; <ref target="..//notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.196.4">98v-99v</ref>), and the annotations
+                    to the notebook indicate with precision
+                    the original sources, some of which
+                    Moore shared in her published notes to
+                    her poems. The notebook entries reflect
+                    Moore’s sustained study of biology and
+                    material culture, documenting some of
+                    the sources she drew upon to renew and
+                    recast the traditions of the bestiary
+                    and animal fable in her great animal
+                    poems. The notebook is a treasure trove
+                    of sources and information Moore drew
+                    upon to develop these two major poems,
+                    but its miscellaneous nature also omits
+                    sources Moore credited, including
+                    Raymond L. Ditmars’ <title>Strange
+                        Animals I Have Known</title> and
+                    George Jennison’s <title>Animals for
+                        Show and Pleasure in Ancient
+                        Rome</title>. </p>
+                <p>Many of the entries in this notebook
+                    focus on women’s experience and their
+                    achievements in the fields of
+                    literature, sports, or the arts. There
+                    are extensive notes about “Tennis
+                    Impressions” by Helen Wills, a major
+                    female tennis star of the 1930s (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.102.4">51v-54v</ref>). She also takes
+                    notes about women writers who lived in
+                    the eighteenth and nineteenth centuries,
+                    including notes on a biography of
+                    Charlotte Brontë and lively excerpts
+                    from <title>Memories of Victorian
+                        England</title> by Lucy Bethia
+                    Walford (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.208.10">104r-105r</ref>) as well as
+                        <title>Fanney Burney and Her
+                        Friends</title> (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.248.4">124v-125v</ref>). In addition, she
+                    tracks ads for an edition of
+                        <title>Silas Marner</title> by
+                    George Eliot and Sarah Josepha Hale’s
+                        <title>Woman’s Record, Or Sketches
+                        of All Distinguished Women From the
+                        Creation to the Present Time</title>
+                    (1853).</p>
+                <p>In the extensive notes she takes about
+                    typography, papermaking, and book
+                    design, Moore focuses on the materiality
+                    of the signifier and its aesthetic
+                    effects. She also suggests the
+                    connection between the tools required
+                    for printed representation and the style
+                    of meaning they convey. In particular,
+                    one of Moore’s sources addresses the
+                    role of margins in printed matter,
+                    including William Morris’s view of them
+                    and his Kelmscott Press. In
+                    “Walking-Sticks,” Moore focuses on the
+                    interaction between the physical
+                    qualities of paper, words, and even
+                    letters, both in the sense of the
+                    alphabet and epistolary communication.
+                    Like so many of her poems about art,
+                    “Walking-Sticks and Paperweights and
+                    Watermarks” extols the aesthetic
+                    pleasures aroused by objects. The poem
+                    does so in order to assess their meaning
+                    and value. </p>
+                <p>Similarly, Moore’s cluster of notes on
+                    “The Principles of Film Form,” an
+                    article by Sergei Eisenstein, focus on
+                    the need to refresh and clarify the
+                    perceptions of film-viewers. (Moore also
+                    took notes about other articles featured
+                    in <title>Close-Up</title>, including
+                    Eisenstein’s “An American Tragedy.”) I
+                    associate this process with the poet’s
+                    more scattered notes about culture and
+                    the aesthetic experience. In one passage
+                    from her notes, Eisenstein argues that
+                    “Montage is not an idea recounted by
+                    pieces following each other, but an idea
+                    that arises in the collision [boldface
+                    in original] of two pieces independent
+                    of one another. The Dynamic Principle.)
+                    2 independent ideographical signs
+                    (“Shots”) placed in juxtaposition,
+                    explode to a new concept.” (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.122.8">61r</ref>) </p>
+                <p>Through her strategic use of boldface and
+                    underlining, Moore calls attention to
+                    the conflict and synthesis at work in
+                    Eisenstein’s conception of montage. A
+                    collision of ideas and images occurs in
+                    many of Moore’s more challenging poems.
+                    So does the goal of improving or
+                    heightening the perception of her
+                    readers, which is similarly in keeping
+                    with Eisenstein’s goal in his praise of
+                    what he calls the “dynamic principle”:
+                    “I regard the appearance of new concepts
+                    &amp; percepts arising in the conflict
+                    between usual appearance &amp; special
+                    representation as xactly a dynamic
+                    occurrence The dynamisation of the
+                    perception—a dynamization of the
+                    “traditional apprehension” into a new
+                    apprehension.” (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.124.4">62v</ref>) </p>
+                <p>A passage quoted in a separate part of
+                    the notebook seems related to
+                    Eisenstein’s claims here about “a new
+                    apprehension”: “Culture (acc to Prof
+                    Shaw) is not a mere decoration of the
+                    mind, but a means of interpreting
+                    oneself to oneself. . . . "the awakening
+                    of your consciousness to the . . . value
+                    of a life habitually taken for granted."
+                    It does not consist in the number of
+                    things you know.” (<ref target="../notebooks/nb07_02_02.xml?view=page&amp;odd=moore&amp;root=3.4.2.110.4">55r</ref>)</p>
+                <p>This passage turns from the tallying of
+                    facts to an assessment of their use and
+                    value, defining culture as a means for
+                    growth and understanding. The act of
+                    “interpreting oneself to oneself”
+                    emphasizes culture as an action, as a
+                    mode of self-cultivation. In this
+                    respect it parallels the aesthetic ideal
+                    of the nurturing maternal embrace in
+                    “The Paper Nautilus.” As Heather Cass
+                    White has argued, “The Paper Nautilus”
+                    displaced “The Pangolin” as a general
+                    statement of poetic value when Moore
+                    chose to put it at the end of
+                        <title>What are Years</title>,
+                    moving “The Pangolin” from that position
+                    in her previous book (<title>Adversity
+                        &amp; Grace</title> xix). Moreover,
+                    the central theme of “The Paper
+                    Nautilus,” along with the poem’s
+                    reference to paper, aligns it with
+                    “Walking-Sticks and Paperweights and
+                    Watermarks” by focusing on the general
+                    significance of making and enjoying art. </p>
+                <p>This notebook’s pervasive concern with
+                    the value of aesthetic experience and
+                    the desirability of acquiring it echoes
+                    in several poems. In its extraordinary
+                    range and diversity of subject matter,
+                    the notebook shows Moore’s robust
+                    conception of culture and the complex
+                    nature of knowledge. It documents the
+                    scope of her learning as well as the
+                    network of connections between her
+                    poetry and other cultural forms,
+                    including cinema, the arts and crafts,
+                    sports, and music. The notebook is
+                    marked by the abundance she praises in
+                    “The Jerboa,” and it reflects her deep
+                    devotion to popular science. Finally, it
+                    suggests that her poetry is of a piece
+                    with the living world it depicts with
+                    such gusto. </p>
+                <p rend="center">Works Cited</p>
+                <p>Moore, Marianne. <title>New Collected
+                        Poems</title>. edited by Heather
+                    Cass White. Farrar, Straus and Giroux,
+                    2017. </p>
+                <p>Moore, Marianne. <title>Adversity and
+                        Grace</title>. edited by Heather
+                    Cass White. ELS Editions, 2012. </p>
+                <p/>
+                <p rend="center"><hi rend="i">MMDA Editorial Team comment</hi></p>
+                <p>In scanning this notebook to create
+                    digital images of its pages, the
+                    Rosenbach was inconsistent in scanning
+                    open-face (verso-recto) or single verso
+                    or recto pages. Consequently, although
+                    all pages of the manuscript are
+                    represented here, there are occasional
+                    gaps in the numbering sequence, as
+                    listed under Notebook Description. There
+                    are no missing pages, just missing recto
+                    or verso numbers.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

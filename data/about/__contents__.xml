@@ -1,66 +1,63 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/about" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:53.602Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/data/about" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:39:03.857Z">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="studentResearch.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.197Z" modified="2026-03-04T15:59:55.197Z" filename="studentResearch.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="teaching.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.378Z" modified="2026-03-04T16:39:04.378Z" filename="teaching.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="indexNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.819Z" modified="2026-03-04T15:59:55.819Z" filename="indexNotebooks.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="aboutNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.383Z" modified="2026-03-04T16:39:04.383Z" filename="aboutNotebooks.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="documentation.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.816Z" modified="2026-03-04T15:59:55.816Z" filename="documentation.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="aboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.388Z" modified="2026-03-04T16:39:04.388Z" filename="aboutMM.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="aboutMMDA.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.809Z" modified="2026-03-04T15:59:55.809Z" filename="aboutMMDA.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="usefulSites.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.392Z" modified="2026-03-04T16:39:04.392Z" filename="usefulSites.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="newsletters.xml" skip="no" owner="admin" group="dba" mode="644" created="2026-03-16T19:00:12.408Z" modified="2026-03-16T19:02:06.543Z" filename="newsletters.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="library.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:03.858Z" modified="2026-03-04T16:39:03.858Z" filename="library.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="teaching.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.176Z" modified="2026-03-13T00:21:42.823Z" filename="teaching.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="studentResearch.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.394Z" modified="2026-03-04T16:39:04.394Z" filename="studentResearch.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="donate.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.17Z" modified="2026-03-04T15:59:55.17Z" filename="donate.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="bibliography.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.397Z" modified="2026-03-04T16:39:04.397Z" filename="bibliography.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="library.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:53.603Z" modified="2026-03-13T00:12:58.055Z" filename="library.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="sources.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.453Z" modified="2026-03-04T16:39:04.453Z" filename="sources.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="permissions.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.785Z" modified="2026-03-13T00:27:15.046Z" filename="permissions.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="articles.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.46Z" modified="2026-03-04T16:39:04.46Z" filename="articles.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="aboutPoems.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.325Z" modified="2026-03-04T15:59:55.325Z" filename="aboutPoems.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="people.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.463Z" modified="2026-03-12T17:41:06.073Z" filename="people.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="poemsAboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.32Z" modified="2026-03-04T15:59:55.32Z" filename="poemsAboutMM.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="poemsAboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.468Z" modified="2026-03-04T16:39:04.468Z" filename="poemsAboutMM.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="people.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.313Z" modified="2026-03-12T17:42:02.382Z" filename="people.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="aboutPoems.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.471Z" modified="2026-03-04T16:39:04.471Z" filename="aboutPoems.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="articles.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.31Z" modified="2026-03-04T15:59:55.31Z" filename="articles.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="permissions.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.65Z" modified="2026-03-04T16:39:04.65Z" filename="permissions.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="sources.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.302Z" modified="2026-03-04T15:59:55.302Z" filename="sources.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="context.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.656Z" modified="2026-03-04T16:39:04.656Z" filename="context.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="bibliography.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.203Z" modified="2026-03-13T00:13:21.947Z" filename="bibliography.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="hardToFind.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.661Z" modified="2026-03-04T16:39:04.661Z" filename="hardToFind.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="usefulSites.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.194Z" modified="2026-03-04T15:59:55.194Z" filename="usefulSites.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="aboutMMDA.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.668Z" modified="2026-03-04T16:39:04.668Z" filename="aboutMMDA.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="aboutMM.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.189Z" modified="2026-03-04T15:59:55.189Z" filename="aboutMM.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="documentation.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.672Z" modified="2026-03-04T16:39:04.672Z" filename="documentation.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="aboutNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.183Z" modified="2026-03-04T15:59:55.183Z" filename="aboutNotebooks.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="indexNotebooks.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.674Z" modified="2026-03-04T16:39:04.674Z" filename="indexNotebooks.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="hardToFind.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.8Z" modified="2026-03-04T15:59:55.8Z" filename="hardToFind.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="newsletters.xml" skip="no" owner="admin" group="dba" mode="644" created="2026-03-16T19:20:54.176Z" modified="2026-03-16T19:20:54.176Z" filename="newsletters.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="context.xml" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.793Z" modified="2026-03-04T15:59:55.793Z" filename="context.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="BinaryResource" name="image.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:55.277Z" modified="2026-03-04T15:59:55.277Z" filename="image.png" mimetype="image/png">
+    <resource type="BinaryResource" name="image.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:39:04.441Z" modified="2026-03-04T16:39:04.441Z" filename="image.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

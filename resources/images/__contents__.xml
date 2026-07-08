@@ -1,102 +1,102 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:28.096Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/resources/images" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:44.104Z">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="wm_no_bg.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.338Z" modified="2026-03-04T15:59:28.338Z" filename="wm_no_bg.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="wm_no_bg.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.591Z" modified="2026-03-04T16:38:44.591Z" filename="wm_no_bg.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="jinntec.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.336Z" modified="2026-03-04T15:59:28.336Z" filename="jinntec.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="jinntec.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.535Z" modified="2026-03-04T16:38:44.535Z" filename="jinntec.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="icon.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.335Z" modified="2026-03-04T15:59:28.335Z" filename="icon.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="icon.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.528Z" modified="2026-03-04T16:38:44.528Z" filename="icon.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="tei-publisher-logo-contrast-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.3Z" modified="2026-03-04T15:59:28.3Z" filename="tei-publisher-logo-contrast-color.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="tei-publisher-logo-contrast-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.443Z" modified="2026-03-04T16:38:44.443Z" filename="tei-publisher-logo-contrast-color.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="by.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.293Z" modified="2026-03-04T15:59:28.293Z" filename="by.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="by.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.427Z" modified="2026-03-04T16:38:44.427Z" filename="by.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="github.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.287Z" modified="2026-03-04T15:59:28.287Z" filename="github.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="github.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.413Z" modified="2026-03-04T16:38:44.413Z" filename="github.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="tei-with-text.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.28Z" modified="2026-03-04T15:59:28.28Z" filename="tei-with-text.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="tei-with-text.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.403Z" modified="2026-03-04T16:38:44.403Z" filename="tei-with-text.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="sa.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.275Z" modified="2026-03-04T15:59:28.275Z" filename="sa.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="sa.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.388Z" modified="2026-03-04T16:38:44.388Z" filename="sa.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="tei-publisher-logo-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.274Z" modified="2026-03-04T15:59:28.274Z" filename="tei-publisher-logo-color.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="tei-publisher-logo-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.387Z" modified="2026-03-04T16:38:44.387Z" filename="tei-publisher-logo-color.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="cc.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.267Z" modified="2026-03-04T15:59:28.267Z" filename="cc.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="cc.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.375Z" modified="2026-03-04T16:38:44.375Z" filename="cc.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="arrow-right.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.264Z" modified="2026-03-04T15:59:28.264Z" filename="arrow-right.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="arrow-right.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.37Z" modified="2026-03-04T16:38:44.37Z" filename="arrow-right.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="e-editiones-logo-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.241Z" modified="2026-03-04T15:59:28.241Z" filename="e-editiones-logo-color.svg" mimetype="image/svg+xml">
+    <resource type="XMLResource" name="e-editiones-logo-color.svg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.303Z" modified="2026-03-04T16:38:44.303Z" filename="e-editiones-logo-color.svg" mimetype="image/svg+xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="triangle-background.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.328Z" modified="2026-03-04T15:59:28.328Z" filename="triangle-background.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="triangle-background.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.506Z" modified="2026-03-04T16:38:44.506Z" filename="triangle-background.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="icarus-painting.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.325Z" modified="2026-03-04T15:59:28.325Z" filename="icarus-painting.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="icarus-painting.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.5Z" modified="2026-03-04T16:38:44.5Z" filename="icarus-painting.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="mael_tsang.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.305Z" modified="2026-03-04T15:59:28.305Z" filename="mael_tsang.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="mael_tsang.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.459Z" modified="2026-03-04T16:38:44.459Z" filename="mael_tsang.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="typewriter-on-books.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.302Z" modified="2026-03-04T15:59:28.302Z" filename="typewriter-on-books.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="typewriter-on-books.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.447Z" modified="2026-03-04T16:38:44.447Z" filename="typewriter-on-books.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon-24.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.298Z" modified="2026-03-04T15:59:28.298Z" filename="favicon-24.png" mimetype="image/png">
+    <resource type="BinaryResource" name="favicon-24.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.438Z" modified="2026-03-04T16:38:44.438Z" filename="favicon-24.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon-64.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.296Z" modified="2026-03-04T15:59:28.296Z" filename="favicon-64.png" mimetype="image/png">
+    <resource type="BinaryResource" name="favicon-64.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.434Z" modified="2026-03-04T16:38:44.434Z" filename="favicon-64.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="body-bg.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.295Z" modified="2026-03-04T15:59:28.295Z" filename="body-bg.png" mimetype="image/png">
+    <resource type="BinaryResource" name="body-bg.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.429Z" modified="2026-03-04T16:38:44.429Z" filename="body-bg.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="paper-texture.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.29Z" modified="2026-03-04T15:59:28.29Z" filename="paper-texture.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="paper-texture.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.421Z" modified="2026-03-04T16:38:44.421Z" filename="paper-texture.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="abstract-1.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.288Z" modified="2026-03-04T15:59:28.288Z" filename="abstract-1.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="abstract-1.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.414Z" modified="2026-03-04T16:38:44.414Z" filename="abstract-1.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon.ico" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.282Z" modified="2026-03-04T15:59:28.282Z" filename="favicon.ico" mimetype="image/vnd.microsoft.icon">
+    <resource type="BinaryResource" name="favicon.ico" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.406Z" modified="2026-03-04T16:38:44.406Z" filename="favicon.ico" mimetype="image/vnd.microsoft.icon">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="typewriter.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.277Z" modified="2026-03-04T15:59:28.277Z" filename="typewriter.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="typewriter.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.392Z" modified="2026-03-04T16:38:44.392Z" filename="typewriter.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon-16.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.272Z" modified="2026-03-04T15:59:28.272Z" filename="favicon-16.png" mimetype="image/png">
+    <resource type="BinaryResource" name="favicon-16.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.385Z" modified="2026-03-04T16:38:44.385Z" filename="favicon-16.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="library.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.269Z" modified="2026-03-04T15:59:28.269Z" filename="library.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="library.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.377Z" modified="2026-03-04T16:38:44.377Z" filename="library.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon-32.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.266Z" modified="2026-03-04T15:59:28.266Z" filename="favicon-32.png" mimetype="image/png">
+    <resource type="BinaryResource" name="favicon-32.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.371Z" modified="2026-03-04T16:38:44.371Z" filename="favicon-32.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="favicon-48.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.263Z" modified="2026-03-04T15:59:28.263Z" filename="favicon-48.png" mimetype="image/png">
+    <resource type="BinaryResource" name="favicon-48.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.343Z" modified="2026-03-04T16:38:44.343Z" filename="favicon-48.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="tei-dark.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.257Z" modified="2026-03-04T15:59:28.257Z" filename="tei-dark.png" mimetype="image/png">
+    <resource type="BinaryResource" name="tei-dark.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.31Z" modified="2026-03-04T16:38:44.31Z" filename="tei-dark.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="hero.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.129Z" modified="2026-03-04T15:59:28.129Z" filename="hero.png" mimetype="image/png">
+    <resource type="BinaryResource" name="hero.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.146Z" modified="2026-03-04T16:38:44.146Z" filename="hero.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="header-bg.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.121Z" modified="2026-03-04T15:59:28.121Z" filename="header-bg.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="header-bg.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.136Z" modified="2026-03-04T16:38:44.136Z" filename="header-bg.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="map_light.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.105Z" modified="2026-03-04T15:59:28.105Z" filename="map_light.png" mimetype="image/png">
+    <resource type="BinaryResource" name="map_light.png" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.116Z" modified="2026-03-04T16:38:44.116Z" filename="map_light.png" mimetype="image/png">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="old-globe.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.101Z" modified="2026-03-04T15:59:28.101Z" filename="old-globe.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="old-globe.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.109Z" modified="2026-03-04T16:38:44.109Z" filename="old-globe.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="abstract-2.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T15:59:28.098Z" modified="2026-03-04T15:59:28.098Z" filename="abstract-2.jpg" mimetype="image/jpeg">
+    <resource type="BinaryResource" name="abstract-2.jpg" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:44.105Z" modified="2026-03-04T16:38:44.105Z" filename="abstract-2.jpg" mimetype="image/jpeg">
         <acl entries="0" version="1"/>
     </resource>
     <subcollection name="moore" filename="moore"/>

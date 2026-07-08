@@ -1,111 +1,111 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/transform" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:57.1Z">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/moore/transform" version="1" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.827Z">
     <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="moore-latex.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:05.597Z" modified="2026-03-04T16:00:05.597Z" filename="moore-latex.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-web.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.832Z" modified="2026-03-04T16:39:07.284Z" filename="teipublisher-web.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-fo-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:04.831Z" modified="2026-03-04T16:00:04.831Z" filename="moore-fo-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.852Z" modified="2026-03-04T16:39:07.293Z" filename="teipublisher-web-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:04.829Z" modified="2026-03-04T16:00:04.829Z" filename="moore-fo-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-web-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.886Z" modified="2026-03-04T16:39:07.295Z" filename="teipublisher-web-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-print-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:58.798Z" modified="2026-03-04T15:59:58.798Z" filename="teipublisher-print-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-print.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.873Z" modified="2026-03-04T16:39:08.069Z" filename="teipublisher-print.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:58.796Z" modified="2026-03-04T15:59:58.796Z" filename="teipublisher-print-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.871Z" modified="2026-03-04T16:39:08.077Z" filename="teipublisher-print-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-print.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:58.789Z" modified="2026-03-04T15:59:58.789Z" filename="teipublisher-print.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-print-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.836Z" modified="2026-03-04T16:39:08.079Z" filename="teipublisher-print-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-web-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:58.002Z" modified="2026-03-04T15:59:58.002Z" filename="teipublisher-web-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-fo.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.862Z" modified="2026-03-04T16:39:08.797Z" filename="teipublisher-fo.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:58.001Z" modified="2026-03-04T15:59:58.001Z" filename="teipublisher-web-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.855Z" modified="2026-03-04T16:39:08.804Z" filename="teipublisher-fo-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-web.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:57.99Z" modified="2026-03-04T15:59:57.99Z" filename="teipublisher-web.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-fo-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.861Z" modified="2026-03-04T16:39:08.806Z" filename="teipublisher-fo-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:05.604Z" modified="2026-03-04T16:00:05.604Z" filename="moore-latex-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-latex.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.883Z" modified="2026-03-04T16:39:09.563Z" filename="teipublisher-latex.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-latex-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:05.606Z" modified="2026-03-04T16:00:05.606Z" filename="moore-latex-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.838Z" modified="2026-03-04T16:39:09.57Z" filename="teipublisher-latex-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-epub.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:06.431Z" modified="2026-03-04T16:00:06.431Z" filename="moore-epub.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-latex-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.845Z" modified="2026-03-04T16:39:09.572Z" filename="teipublisher-latex-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore.css" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:03.028Z" modified="2026-03-04T16:00:06.438Z" filename="moore.css" mimetype="text/css">
+    <resource type="BinaryResource" name="teipublisher-epub.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.842Z" modified="2026-03-04T16:39:10.393Z" filename="teipublisher-epub.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:06.44Z" modified="2026-03-04T16:00:06.44Z" filename="moore-epub-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.83Z" modified="2026-03-04T16:39:10.399Z" filename="teipublisher.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-epub-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:06.443Z" modified="2026-03-04T16:00:06.443Z" filename="moore-epub-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.857Z" modified="2026-03-04T16:39:10.401Z" filename="teipublisher-epub-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="about-web.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:07.259Z" modified="2026-03-04T16:00:07.259Z" filename="about-web.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="teipublisher-epub-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.89Z" modified="2026-03-04T16:39:10.404Z" filename="teipublisher-epub-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-fo.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:04.817Z" modified="2026-03-04T16:00:04.817Z" filename="moore-fo.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-web.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.892Z" modified="2026-03-04T16:39:11.185Z" filename="moore-web.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="about.css" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:07.264Z" modified="2026-03-04T16:00:07.264Z" filename="about.css" mimetype="text/css">
+    <resource type="BinaryResource" name="moore-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.85Z" modified="2026-03-04T16:39:11.195Z" filename="moore-web-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-print-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:04.066Z" modified="2026-03-04T16:00:04.066Z" filename="moore-print-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-web-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.835Z" modified="2026-03-04T16:39:11.197Z" filename="moore-web-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="about-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:07.266Z" modified="2026-03-04T16:00:07.266Z" filename="about-web-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-print.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.828Z" modified="2026-03-04T16:39:12.011Z" filename="moore-print.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:00.666Z" modified="2026-03-04T16:00:00.666Z" filename="teipublisher-latex-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.877Z" modified="2026-03-04T16:39:12.019Z" filename="moore-print-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="about-web-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:07.268Z" modified="2026-03-04T16:00:07.268Z" filename="about-web-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-print-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.848Z" modified="2026-03-04T16:39:12.021Z" filename="moore-print-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-latex.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:00.658Z" modified="2026-03-04T16:00:00.658Z" filename="teipublisher-latex.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-fo.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.879Z" modified="2026-03-04T16:39:12.782Z" filename="moore-fo.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-fo-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:59.593Z" modified="2026-03-04T15:59:59.593Z" filename="teipublisher-fo-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.847Z" modified="2026-03-04T16:39:12.789Z" filename="moore-fo-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-fo-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T15:59:59.592Z" modified="2026-03-04T15:59:59.592Z" filename="teipublisher-fo-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-fo-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.865Z" modified="2026-03-04T16:39:12.792Z" filename="moore-fo-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-fo.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:59.584Z" modified="2026-03-04T15:59:59.584Z" filename="teipublisher-fo.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-latex.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.881Z" modified="2026-03-04T16:39:13.583Z" filename="moore-latex.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-print-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:04.064Z" modified="2026-03-04T16:00:04.064Z" filename="moore-print-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-latex-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.889Z" modified="2026-03-04T16:39:13.591Z" filename="moore-latex-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-print.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:04.056Z" modified="2026-03-04T16:00:04.056Z" filename="moore-print.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-latex-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.875Z" modified="2026-03-04T16:39:13.593Z" filename="moore-latex-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-web-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:03.032Z" modified="2026-03-04T16:00:03.032Z" filename="moore-web-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-epub.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.858Z" modified="2026-03-04T16:39:14.454Z" filename="moore-epub.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:03.03Z" modified="2026-03-04T16:00:03.03Z" filename="moore-web-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.866Z" modified="2026-03-04T16:39:14.459Z" filename="moore.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="moore-web.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:03.022Z" modified="2026-03-04T16:00:03.022Z" filename="moore-web.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.867Z" modified="2026-03-04T16:39:14.462Z" filename="moore-epub-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-epub-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:01.831Z" modified="2026-03-04T16:00:01.831Z" filename="teipublisher-epub-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="moore-epub-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.84Z" modified="2026-03-04T16:39:14.464Z" filename="moore-epub-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-epub-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:00:01.829Z" modified="2026-03-04T16:00:01.829Z" filename="teipublisher-epub-main.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="about-web.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.869Z" modified="2026-03-04T16:39:15.254Z" filename="about-web.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher.css" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T15:59:57.997Z" modified="2026-03-04T16:00:01.827Z" filename="teipublisher.css" mimetype="text/css">
+    <resource type="BinaryResource" name="about.css" skip="no" owner="tei" group="tei" mode="664" created="2026-03-04T16:38:42.895Z" modified="2026-03-04T16:39:15.26Z" filename="about.css" mimetype="text/css">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-epub.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:01.822Z" modified="2026-03-04T16:00:01.822Z" filename="teipublisher-epub.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="about-web-main.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.887Z" modified="2026-03-04T16:39:15.263Z" filename="about-web-main.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="BinaryResource" name="teipublisher-latex-module.xql" skip="no" owner="tei" group="tei" mode="644" created="2026-03-04T16:00:00.667Z" modified="2026-03-04T16:00:00.667Z" filename="teipublisher-latex-module.xql" mimetype="application/xquery">
+    <resource type="BinaryResource" name="about-web-module.xql" skip="no" owner="tei" group="tei" mode="775" created="2026-03-04T16:38:42.853Z" modified="2026-03-04T16:39:15.266Z" filename="about-web-module.xql" mimetype="application/xquery">
         <acl entries="0" version="1"/>
     </resource>
 </collection>

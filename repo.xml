@@ -11,4 +11,4 @@
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
     <permissions user="tei" group="tei" mode="rw-rw-r--"/>
-<deployed>2026-03-04T15:59:56.824Z</deployed></meta>
+<deployed>2026-03-04T16:39:06.199Z</deployed></meta>

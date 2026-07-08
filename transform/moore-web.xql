@@ -932,7 +932,7 @@ declare function model:apply($config as map(*), $input as node()*) {
                             if (lg[@type = ('vertical', 'sideways')]) then
                                 html:block($config, ., ("tei-div", "tei-div2", css:map-rend-to-class(.)), .)                                => model:map($node, $trackIds)
                             else
-                                $config?apply($config, ./node())
+                                html:block($config, ., ("tei-div", "tei-div3", css:map-rend-to-class(.)), .)                                => model:map($node, $trackIds)
                     case element(graphic) return
                         html:graphic($config, ., ("tei-graphic", "tei-graphic1", css:map-rend-to-class(.)), ., @url, @width, @height, @scale, desc)                        => model:map($node, $trackIds)
                     case element(ref) return

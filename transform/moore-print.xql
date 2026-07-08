@@ -838,7 +838,7 @@ declare function model:apply($config as map(*), $input as node()*) {
                             if (lg[@type = ('vertical', 'sideways')]) then
                                 html:block($config, ., ("tei-div", "tei-div2", css:map-rend-to-class(.)), .)
                             else
-                                $config?apply($config, ./node())
+                                html:block($config, ., ("tei-div", "tei-div3", css:map-rend-to-class(.)), .)
                     case element(graphic) return
                         html:graphic($config, ., ("tei-graphic", "tei-graphic1", css:map-rend-to-class(.)), ., @url, @width, @height, @scale, desc)
                     case element(ref) return

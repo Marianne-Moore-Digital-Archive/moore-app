@@ -62,6 +62,9 @@
       }, {
         "url" : "about/usefulSites.xml",
         "id" : "Useful Sites"
+      }, {
+        "url" : "about/newsletters.xml",
+        "id" : "MM Newsletters"
       } ],
       "id" : "Scholarship"
     }, {
@@ -104,7 +107,7 @@
       } ],
       "id" : "About the Archive"
     }, {
-      "url" : "about/donate.xml",
+      "url" : "donate.xml",
       "id" : "Donate"
     } ],
     "login" : true,
@@ -195,13 +198,9 @@
           "value" : "title",
           "key" : "browse.title"
         }, {
-          "label" : "Author",
-          "value" : "author",
-          "key" : "browse.author"
-        }, {
           "label" : "Date",
           "value" : "date",
-          "key" : "browse.date"
+          "key" : "Date"
         } ],
         "default" : "title"
       },
