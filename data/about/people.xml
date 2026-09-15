@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -33,9 +32,11 @@
                 <head>Director</head>
                 <list rend="unordered">
                     <item>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/miller.jpg"/>
-                            </figure><hi rend="bold">Cristanne Miller</hi> (2015 -
+                            </figure>
+                            <hi rend="bold">Cristanne Miller</hi> (2015 -
                             ), SUNY Distinguished Professor
                             and Edward H. Butler Professor
                             of Literature, University at
@@ -77,9 +78,11 @@
                 <head>Associate Directors</head>
                 <list rend="unordered">
                     <item>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/gregory.jpg"/>
-                            </figure><hi rend="bold">Elizabeth Gregory</hi>
+                            </figure>
+                            <hi rend="bold">Elizabeth Gregory</hi>
                             (Current Project Manager, 2015 -
                             ), is the Taylor Professor of
                             Gender &amp; Sexuality Studies,
@@ -113,9 +116,11 @@
                             2017).</p>
                     </item>
                     <item>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/carson.jpg"/>
-                            </figure><hi rend="bold">Luke Carson</hi> (2020 -; Datebook
+                            </figure>
+                            <hi rend="bold">Luke Carson</hi> (2020 -; Datebook
                             Series Editor, 2021 - ), Associate Professor of English, University of Victoria, BC</p>
                         <p>Carson is the author of
                               <title>Consumption and
@@ -147,24 +152,20 @@
                 <head>Technical Team</head>
                 <list>
                     <item>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/wasmoen.jpg"/>
-                            </figure><hi rend="bold">Technical Director, Nikolaus Wasmoen</hi> (2015 - ), Project Director and Manager for
+                            </figure>
+                            <hi rend="bold">Technical Director, Nikolaus Wasmoen</hi> (2015 - ), Project Director and Manager for
                             DH Faculty Projects, University at Buffalo, SUNY</p>
-                        <p>Wasmoen directs and manages digital scholarship research
-                            projects for faculty in the College of Arts and Sciences at
-                            the University at Buffalo. He has served on a wide range of
-                            digital humanities projects including as a Technical Board
-                            member of ModNets (previously Project Manager), Digital
-                            Co-Editor of the Lili Elbe Digital Archive, a Consultant on
-                            Special Projects for the William Blake Archive, and Education
-                            Director of the Association for Documentary Editing (ADE),
-                            2017–2019.</p>
+                        <p>Nikolaus Wasmoen is currently Acquisitions Editor for Gale Primary Sources at Cengage and CO-PI, with Cristanne Miller, of the NEH-funded grant project "Marianne Moore’s Notebooks: A Dynamic Record of Poetry in the Making and of Twentieth-Century Culture." Nikolaus has previously served on a wide range of digital humanities projects, including as a Technical Board member of ModNets (previously Project Manager), Digital Co-Editor of the Lili Elbe Digital Archive, a Consultant on Special Projects for the William Blake Archive, and Education Director of the Association for Documentary Editing (ADE), 2017–2019. He received his PhD in English from the University of Rochester.</p>
                     </item>
                     <item>
-                        <p><hi rend="bold">Associate Technical Director, Juniper Johnson</hi> (they/them) (2024
+                        <p>
+                            <hi rend="bold">Associate Technical Director, Juniper Johnson</hi> (they/them) (2024
                             - ), English PhD Candidate at Northeastern University</p>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/johnson.jpg"/>
                             </figure>Johnson's dissertation,
                             "Organizing Bodies of
@@ -191,7 +192,18 @@
                             Black London Digital
                             Almanac.</p>
                     </item>
-                    <item><hi rend="bold">OCR and Site Construction Director, Srirangaraj (Ranga) Setlur</hi>, Principal Research Scientist, Center
+                     <item>
+                        <p>
+                            <hi rend="bold">Assistant Technical Director, Aaron VanSteinberg</hi> (he/him) (2026
+                            - ), English PhD Candidate at University at Buffalo, SUNY</p>
+                        <p>
+                            <figure rend="right">
+                              <graphic width="20%" url="resources/images/team/vansteinberg.jpg"/>
+                            </figure>Aaron VanSteinberg is a doctoral candidate in English at SUNY Buffalo. Alongside Cristanne Miller and Claire Tranchino, he is an editor of <title>Ludic Pleasures: Reviews on Poetry, Poetics, and Culture by Tyrone Williams</title>(SUNY Press, 2026).
+</p>
+                    </item>
+                    <item>
+                        <hi rend="bold">OCR and Site Construction Director, Srirangaraj (Ranga) Setlur</hi>, Principal Research Scientist, Center
                         for Unified Biometrics and Sensors
                         (CUBS) and the Center of Excellence
                         for Document Analysis and Recogntion
@@ -209,7 +221,8 @@
                         also been awarded the University at
                         Buffalo Outstanding Research
                         Award.</item>
-                    <item><hi rend="bold">Systems Administrator and Web Developer, Ed Sobczak</hi>, Center for
+                    <item>
+                        <hi rend="bold">Systems Administrator and Web Developer, Ed Sobczak</hi>, Center for
                         Unified Biometrics and Sensors
                         (CUBS) and the Center of Excellence
                         for Document Analysis and Recogntion
@@ -233,7 +246,8 @@
                 </list>
                 <head>Guest Notebook Editor, 07.02.02 Reading Notebook, 1930-43 (with Robin Schulze and Cristanne Miller)</head>
                 <list>
-                    <item><hi rend="bold">Jeffrey Westover</hi>, Associate
+                    <item>
+                        <hi rend="bold">Jeffrey Westover</hi>, Associate
                         Professor of English, Boise State
                         University. Westover's publications
                         on Moore include editing <title>Marianne Moore and the
@@ -247,29 +261,37 @@
                 </list>
                 <head>Bibliographic Consultant</head>
                 <list>
-                    <item><hi rend="bold">Aurore Clavier</hi>, Maître de
+                    <item>
+                        <hi rend="bold">Aurore Clavier</hi>, Maître de
                         conférences - Littérature américaine, Université de Lille</item>
                 </list>
                 <head>Recent Notebook Proofreaders</head>
                 <list>
-                    <item><hi rend="bold">Emily Setina</hi>, Associate Professor at University of
+                    <item>
+                        <hi rend="bold">Emily Setina</hi>, Associate Professor at University of
                         Nevada, Las Vegas</item>
-                    <item><hi rend="bold">Stacy Hubbard</hi>, Associate Professor at
+                    <item>
+                        <hi rend="bold">Stacy Hubbard</hi>, Associate Professor at
                         University at Buffalo, SUNY</item>
-                    <item><hi rend="bold">Roger Gilbert</hi>, Professor Cornell
+                    <item>
+                        <hi rend="bold">Roger Gilbert</hi>, Professor Cornell
                         University</item>
-                    <item><hi rend="bold">Heather White</hi>, Professor University of
+                    <item>
+                        <hi rend="bold">Heather White</hi>, Professor University of
                         Alabama</item>
                 </list>
                 <head>Current Research and Editorial
                     Assistants</head>
                 <list>
-                    <item><hi rend="bold">Chiaki S. Bems</hi> RTU Rīga Business
+                    <item>
+                        <hi rend="bold">Chiaki S. Bems</hi> RTU Rīga Business
                         School (RBS)</item>
-                    <item><hi rend="bold">Aaron VanSteinberg</hi>, PhD student
+                    <item>
+                        <hi rend="bold">Aaron VanSteinberg</hi>, PhD student
                         University at Buffalo, SUNY English
                         Department, Poetics Program</item>
-                    <item><hi rend="bold">Holly Ponce</hi>, PhD student University at Delaware,
+                    <item>
+                        <hi rend="bold">Holly Ponce</hi>, PhD student University at Delaware,
                         English Department</item>
                 </list>
                 <head>TEI Publisher Developers</head>
