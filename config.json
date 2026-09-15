@@ -93,9 +93,15 @@
         "url" : "about/people.xml",
         "id" : "People"
       }, {
-        "url" : "about/documentation.xml",
-        "id" : "Project Documentation"
+        "url" : "about/transcription.xml",
+        "id" : "Transcription Guidelines"
       }, {
+        "url" : "about/technical.xml",
+        "id" : "Technical Information"
+      }, {
+        "url" : "about/howToUse.xml",
+        "id" : "How to Use Notebook Viewer"
+      },{
         "url" : "about/articles.xml",
         "id" : "Articles About the Archive"
       }, {
