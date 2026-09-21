@@ -1,5 +1,6 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -113,7 +114,7 @@
                               <title>21st-Century Marianne
                               Moore: Essays from a Critical
                               Renaissance</title> (Palgrave,
-                            2017).</p>
+                            2017). She’s also the author of <title>The Real Domestic Product: How Birth Control Built Equality (and Why the Future of the Economy and the Planet Depends on It)</title> (MIT Press, 2026).</p>
                     </item>
                     <item>
                         <p>
@@ -159,38 +160,6 @@
                             <hi rend="bold">Technical Director, Nikolaus Wasmoen</hi> (2015 - ), Project Director and Manager for
                             DH Faculty Projects, University at Buffalo, SUNY</p>
                         <p>Nikolaus Wasmoen is currently Acquisitions Editor for Gale Primary Sources at Cengage and CO-PI, with Cristanne Miller, of the NEH-funded grant project "Marianne Moore’s Notebooks: A Dynamic Record of Poetry in the Making and of Twentieth-Century Culture." Nikolaus has previously served on a wide range of digital humanities projects, including as a Technical Board member of ModNets (previously Project Manager), Digital Co-Editor of the Lili Elbe Digital Archive, a Consultant on Special Projects for the William Blake Archive, and Education Director of the Association for Documentary Editing (ADE), 2017–2019. He received his PhD in English from the University of Rochester.</p>
-                    </item>
-                    <item>
-                        <p>
-                            <hi rend="bold">Associate Technical Director, Juniper Johnson</hi> (they/them) (2024
-                            - ), English PhD Candidate at Northeastern University</p>
-                        <p>
-                            <figure rend="right">
-                              <graphic width="20%" url="resources/images/team/johnson.jpg"/>
-                            </figure>Johnson's dissertation,
-                            "Organizing Bodies of
-                            Knowledge," explores the use of
-                            computational text analysis to
-                            study and trace classifications
-                            of gender, disability, and
-                            sexuality in nineteenth century
-                            medicine and literary discourse.
-                            As an interdisciplinary scholar
-                            with expertise in digital
-                            pedagogy and project
-                            development, they have
-                            previously worked with the Early
-                            Caribbean Digital Archive, Women
-                            Writers Project + Women Writers
-                            Vector Toolkit, Digital
-                            Integration Teaching Initiative
-                            for the NULab for Texts, Maps,
-                            and Networks, the Primary Source
-                            Cooperative, the Homosaurus
-                            Project, the Mapping Black
-                            London Project, and the Early
-                            Black London Digital
-                            Almanac.</p>
                     </item>
                      <item>
                         <p>
@@ -287,12 +256,9 @@
                         <hi rend="bold">Chiaki S. Bems</hi> RTU Rīga Business
                         School (RBS)</item>
                     <item>
-                        <hi rend="bold">Aaron VanSteinberg</hi>, PhD student
-                        University at Buffalo, SUNY English
-                        Department, Poetics Program</item>
-                    <item>
-                        <hi rend="bold">Holly Ponce</hi>, PhD student University at Delaware,
+                        <hi rend="bold">Holly Ponce</hi>, PhD Student, University at Delaware,
                         English Department</item>
+                    <item> <hi rend="bold">Adam Ray Wagner</hi>, PhD Student, University at Buffalo, SUNY</item>
                 </list>
                 <head>TEI Publisher Developers</head>
                 <list>
@@ -307,6 +273,7 @@
                     <item>Associate Editor, Heather Cass White, Professor of English, University of Alabama, Tuscaloosa (2015-2022)</item>
                     <item>Project Editor and Manager, Claire Nashar, PhD, Department of English, UB (2015-2019)</item>
                     <item>Image Photographer for Moore Datebooks at RML, Matthew Shelton, Instructor, Rowan University, PhD, Department of English, University of Connecticut (2021)</item>
+                    <item>Associate Technical Director, Juiper Johnson, PhD candidate, Department of English, Northeastern University (2024-2026)</item>
                     </list>
                 <head>Past Editorial and Programming Assistants</head>
                 <list>
