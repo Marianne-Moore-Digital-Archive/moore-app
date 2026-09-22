@@ -182,6 +182,11 @@ people, places, organizations etc */
     text-align: justify;
 }
 
+/* Adding bold class */
+
+.bold {
+    font-weight: bold;
+}
 
 /* external styles not found: /about.css */
 
