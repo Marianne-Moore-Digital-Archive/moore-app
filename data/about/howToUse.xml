@@ -1,0 +1,66 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>How to Use the MMDA Notebook Viewer</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>For testing purposes only.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Compiled from MMDA webpage TEI Conversion
+                    Files</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc n="7">about</catDesc>
+                    </category>
+                    <!-- For test purposes, changing the catDesc attribute and content value 
+                  should change the section and the ordering of the item within the section,
+                  e.g. this would make this the 1st page under the about section. -->
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Navigation Instructions</head>
+                <p><figure><graphic width="100%" url="resources/images/moore/MMDA-Navigation.jpg"/></figure></p>
+                <p>The landing page for <ref target="">Notebook Viewer</ref> gives a left-hand column indicating the Genre of NBs on line. Clicking on any genre calls up the NBs in that category. As the number of NBs published online increases, this may prevent your having to browse to find a NB or category of NB you seek.</p>
+                <p><hi rend="bold">Clicking on any NB descriptor title (e.g. 07.02.02 | Reading 1930 – 1943)</hi>  calls up a page split into 3 columns and with a blue header box over the central column.You can change the relative space allotted to any column, and zoom in or out of the transcription (TS) and manuscript (MS) columns. There is also a bar across the top of the page containing site-wide links.</p>
+                <p><hi rend="bold">Left column</hi> titled Contents allows you to move directly to the page you seek. To reduce the size of this column, hover your cursor over the right-hand border and move that border to the left. You cannot entirely remove the column from view.</p>
+                <p><hi rend="bold">Central column</hi> shows a TS of that NB page. If MM did not write on that page, it will say “No handwriting on this page.” The MMDA does not transcribe preprinted material.</p>
+                <p><hi rend="bold">Right column</hi> shows the corresponding MS page. Clicking either on a page number (left column) or on the Central Blue Box circled options, to page forwards or backwards, will change both the TS and the MS page.</p>
+                <list rend="bulleted">
+                    <item>To remove the MS page from view, click on the right-pointing arrow at the top of this column; to return the MS to view, click on the left-pointing arrow on the far right side.</item>
+                    <item>To zoom in or out of the MS, use the circled + or -  options in this right column OR click on the MS—which will enlarge it.</item>
+                    <item>To give the MS column a larger portion of the viewer page, hover your cursor over the left-border of the MS column and move the column border.</item>
+                    <item>In the upper right corner of the MS box is a small box with a red-bordered section. As you move your cursor to see different parts of the MS, this red border shows where you are relative to the whole MS page: e.g., at the top, bottom, far left side, etc.</item>
+                </list>
+                <p>The <hi rend="bold">Blue box</hi> over central columns provides:</p>
+                <list>
+                    <item>The number, category, and dates of the NB chosen.</item>
+                    <item>The name of the notebook editor.</item>
+                </list>
+                <p>The <hi rend="bold">“Show More”</hi> button takes you to a pop out blue page with:</p>
+                <list>
+                    <item>Database information about the notebook.</item>
+                    <item>A link to “Notebook Editor’s Introduction”: THIS LINK WILL EVENTUALLY BE MOVED TO THE BLUE BOX to make it easier to find.</item>
+                    <item>A formal description of the NB and list of all MM publications relevant to it.</item>
+                    <item>A color-coding key to explain colored lines appearing in the left margin when MM writes in a genre different from that of the NB as a whole—e.g., takes reading notes in a poetry drafting NB. THIS KEY WILL EVENTUALLY BE MOVED TO THE BLUE BOX although the description will remain in the  “Show More” box.</item>
+                    <item>List of all people involved in the production of the NB, including proofreaders, technical and editorial assistants, and others.</item>
+                    <item>To close this pop out box, click again on “Show More.”</item>
+                </list>
+                <p>Both within the Blue Box on the notebook viewing page and in the pop out “Show More” box, a View TEI XML link will eventually show all viewers the encoding schema for a NB (at present, only MMDA editors and staff have this password-protected access).</p>
+                <p>Greater than and less than symbols are used to scroll forwards or backwards.</p>
+                <p>Zoom features +  -   controlling the size of the TS, not the MS.</p>
+                <p><hi rend="bold">Dark Blue Bar</hi> across the top of the page: most of this bar gives links duplicating those on the MMDA home page, taking you to other areas in the site. However to the far right, there is a <hi rend="bold">Enter Query </hi>search box. A search word entered here will initiate a search for that item through all NBs published in the MMDA. Eventually, the search will be extended to include all other MMDA materials, including editors’ Introductions and the <hi rend="italics">Marianne Moore Newsletters.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>
