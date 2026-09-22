@@ -1,6 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -162,13 +162,12 @@
                         <p>Nikolaus Wasmoen is currently Acquisitions Editor for Gale Primary Sources at Cengage and CO-PI, with Cristanne Miller, of the NEH-funded grant project "Marianne Moore’s Notebooks: A Dynamic Record of Poetry in the Making and of Twentieth-Century Culture." Nikolaus has previously served on a wide range of digital humanities projects, including as a Technical Board member of ModNets (previously Project Manager), Digital Co-Editor of the Lili Elbe Digital Archive, a Consultant on Special Projects for the William Blake Archive, and Education Director of the Association for Documentary Editing (ADE), 2017–2019. He received his PhD in English from the University of Rochester.</p>
                     </item>
                      <item>
-                        <p>
+                        <p><figure rend="right">
+                              <graphic width="20%" url="resources/images/team/vansteinberg.jpg"/>
+                            </figure>
                             <hi rend="bold">Assistant Technical Director, Aaron VanSteinberg</hi> (he/him) (2026
                             - ), English PhD Candidate at University at Buffalo, SUNY</p>
-                        <p>
-                            <figure rend="right">
-                              <graphic width="20%" url="resources/images/team/vansteinberg.jpg"/>
-                            </figure>Aaron VanSteinberg is a doctoral candidate in English at SUNY Buffalo. Alongside Cristanne Miller and Claire Tranchino, he is an editor of <title>Ludic Pleasures: Reviews on Poetry, Poetics, and Culture by Tyrone Williams</title>(SUNY Press, 2026).
+                        <p>Aaron VanSteinberg is a doctoral candidate in English at SUNY Buffalo. Alongside Cristanne Miller and Claire Tranchino, he is an editor of <title>Ludic Pleasures: Reviews on Poetry, Poetics, and Culture by Tyrone Williams</title>(SUNY Press, 2026).
 </p>
                     </item>
                     <item>
