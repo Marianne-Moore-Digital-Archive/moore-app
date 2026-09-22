@@ -102,7 +102,7 @@
         "url" : "about/technical.xml",
         "id" : "Technical Information"
       }, {
-        "url" : "essays/howToUse.xml",
+        "url" : "about/howToUse.xml",
         "id" : "How to Use Notebook Viewer"
       }, {
         "url" : "about/articles.xml",
