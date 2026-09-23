@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -162,12 +162,13 @@
                         <p>Nikolaus Wasmoen is currently Acquisitions Editor for Gale Primary Sources at Cengage and CO-PI, with Cristanne Miller, of the NEH-funded grant project "Marianne Moore’s Notebooks: A Dynamic Record of Poetry in the Making and of Twentieth-Century Culture." Nikolaus has previously served on a wide range of digital humanities projects, including as a Technical Board member of ModNets (previously Project Manager), Digital Co-Editor of the Lili Elbe Digital Archive, a Consultant on Special Projects for the William Blake Archive, and Education Director of the Association for Documentary Editing (ADE), 2017–2019. He received his PhD in English from the University of Rochester.</p>
                     </item>
                      <item>
-                        <p><figure rend="right">
+                        <p>
+                            <figure rend="right">
                               <graphic width="20%" url="resources/images/team/vansteinberg.jpg"/>
                             </figure>
                             <hi rend="bold">Assistant Technical Director, Aaron VanSteinberg</hi> (he/him) (2026
                             - ), English PhD Candidate at University at Buffalo, SUNY</p>
-                        <p>Aaron VanSteinberg is a doctoral candidate in English at SUNY Buffalo. Alongside Cristanne Miller and Claire Tranchino, he is an editor of <title>Ludic Pleasures: Reviews on Poetry, Poetics, and Culture by Tyrone Williams</title>(SUNY Press, 2026).
+                        <p>Aaron VanSteinberg is a doctoral candidate in English at the University at Buffalo, SUNY. He is an editor of <title>Ludic Pleasures: Reviews on Poetry, Poetics, and Culture by Tyrone Williams</title> (with Cristanne Miller and Claire Tranchino) (SUNY Press, 2026).
 </p>
                     </item>
                     <item>
@@ -199,8 +200,6 @@
                 </list>
                 <head>Advisory Board Members</head>
                 <list>
-                    <item>Rachel Blau DuPlessis, Poet, Emerita Professor of Literature and
-                        Creative Writing, Temple University</item>
                     <item>Susan K. Cahn, Professor of History, University at Buffalo
                         SUNY</item>
                     <item>Elizabeth Fuller, Rosenbach Museum and Library, Collection
@@ -212,28 +211,22 @@
                     <item>Patricia Willis, Emerita Elizabeth Wakeman Dwight Curator of the Collection of American Literature at
                         the Beinecke Library, Yale University</item>
                 </list>
-                <head>Guest Notebook Editor, 07.02.02 Reading Notebook, 1930-43 (with Robin Schulze and Cristanne Miller)</head>
+                <head>Guest Notebook Editors</head>
                 <list>
                     <item>
                         <hi rend="bold">Jeffrey Westover</hi>, Associate
                         Professor of English, Boise State
-                        University. Westover's publications
-                        on Moore include editing <title>Marianne Moore and the
-                            Archives: From Material Culture
-                            to the Digital Humanities</title> (Clemson,
-                        2024); a chapter on the poet in
-                            <title>The Colonial Moment:
-                            Discoveries and Settlements in
-                            Modern American Poetry</title> (2004); and various articles.
+                        University. 07.02.02, Reading Notebook, 1930-43. Published Spring 2026. 
                     </item>
-                </list>
-                <head>Bibliographic Consultant</head>
-                <list>
                     <item>
-                        <hi rend="bold">Aurore Clavier</hi>, Maître de
-                        conférences - Littérature américaine, Université de Lille</item>
+                        <hi rend="bold">Robin Shulze</hi>, Professor of English and Dean of the College of Arts and Sciences (2017-2024), Professor of Communications (2024-present). 07.12.08, Reading Notebook, 1913/14-1916.</item>
+                    <item>
+                        <hi rend="bold">Fiona Green</hi>, University Associate Professor in American Literature, Cambridge University. 07.03.12, Conversation/Miscellaneous, 1929-1932.</item>
+                    <item>
+                        <hi rend="bold">Jennifer Leader</hi>, Professor of English, Mt. San Antonio College. 07.08.03, Bible Study Notebook, 1913-1915.</item>
                 </list>
-                <head>Recent Notebook Proofreaders</head>
+               
+                <head>Notebook Proofreaders</head>
                 <list>
                     <item>
                         <hi rend="bold">Emily Setina</hi>, Associate Professor at University of
@@ -248,7 +241,7 @@
                         <hi rend="bold">Heather White</hi>, Professor University of
                         Alabama</item>
                 </list>
-                <head>Current Research and Editorial
+                <head>Research and Editorial
                     Assistants</head>
                 <list>
                     <item>
@@ -257,7 +250,15 @@
                     <item>
                         <hi rend="bold">Holly Ponce</hi>, PhD Student, University at Delaware,
                         English Department</item>
+                        <item> <hi rend="bold">Alana Murphy</hi>, PhD Student, University at Buffalo, SUNY</item>
                     <item> <hi rend="bold">Adam Ray Wagner</hi>, PhD Student, University at Buffalo, SUNY</item>
+                    
+                </list>
+                 <head>Bibliographic Consultant</head>
+                <list>
+                    <item>
+                        <hi rend="bold">Aurore Clavier</hi>, Maître de
+                        conférences - Littérature américaine, Université de Lille</item>
                 </list>
                 <head>TEI Publisher Developers</head>
                 <list>
@@ -273,6 +274,8 @@
                     <item>Project Editor and Manager, Claire Nashar, PhD, Department of English, UB (2015-2019)</item>
                     <item>Image Photographer for Moore Datebooks at RML, Matthew Shelton, Instructor, Rowan University, PhD, Department of English, University of Connecticut (2021)</item>
                     <item>Associate Technical Director, Juiper Johnson, PhD candidate, Department of English, Northeastern University (2024-2026)</item>
+                    <item>Advisory Board Member, Rachel Blau DuPlessis, Poet, Emerita Professor of Literature and
+                        Creative Writing, Temple University</item>
                     </list>
                 <head>Past Editorial and Programming Assistants</head>
                 <list>
