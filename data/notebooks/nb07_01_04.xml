@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">f <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Notebook 07.01.04</title>
+            <title>Notebook 07.01.04 | Reading 1923</title>
             <author>Marianne Moore</author>
             <editor>
                <persName>Cristanne Miller</persName>
@@ -84,7 +83,7 @@
                   <institution>Rosenbach Museum and
                      Library</institution>
                   <repository>Marianne Moore Collection
-                     (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                     (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                   <idno>VII.01.04</idno>
                </msIdentifier>
                <p><ref target="../essays/nb07_01_04_intro.xml">Notebook Editor's
