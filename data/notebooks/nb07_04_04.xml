@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,7 +67,7 @@
                     <msIdentifier>
                         <settlement>Philadelphia, PA</settlement>
                         <institution>Rosenbach Museum and Library</institution>
-                        <repository>Marianne Moore Collection (https://rosenbach.org/collection/marianne-moore-collection/)</repository>
+                        <repository>Marianne Moore Collection (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
                         <idno>VII.04.04</idno>
                     </msIdentifier>
                     <p><ref target="../essays/nb07_04_04_intro.xml">Notebook Editor's Introduction</ref></p>
