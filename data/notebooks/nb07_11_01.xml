@@ -1,0 +1,766 @@
+<?xml-model href="tei_mmda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="tei_mmda.isosch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Notebook 07.11.01 Draft Sample</title>
+                <author>Marianne Moore</author>
+                <editor>
+                    <persName>Cristanne Miller</persName>
+                    <note>Notebook Editor</note>
+                </editor>
+                <respStmt>
+                    <persName>Nikolaus Wasmoen</persName>
+                    <resp>Digital Editor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Juniper Johnson</persName>
+                    <resp>Associate Digital Editor</resp>
+                </respStmt>
+                <respStmt>
+                    <persName>Edward J. Sobczak</persName>
+                    <resp>Web Administrator</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Marianne Moore Digital
+                    Archive</publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p>This work is licensed under a
+                            Creative Commons
+                            Attribution-NonCommercial-ShareAlike
+                            4.0 International License
+                            (BY-NC-SA 4.0).</p>
+                        <p>The MMDA does not own the
+                            copyright to material presented
+                            on the MMDA. You do not need
+                            permission to use this material
+                            for in-class teaching purposes,
+                            school projects and assignments,
+                            blog posts, or brief
+                            non-commercial uses. Any other
+                            copying, distribution, or
+                            publication of previously
+                            unpublished Moore writing must
+                            receive permission from the
+                            Literary Estate of Marianne
+                            Moore, Literary Executor David
+                            M. Moore,
+                            dmoore@a1conflictresolver.com.</p>
+                        <p>Commercial use: For images and
+                            transcriptions of manuscripts,
+                            please contact Executor and
+                            Administrator of the Marianne
+                            Moore Literary Estate David M.
+                            Moore,
+                            dmoore@a1conflictresolver.com.</p>
+                    </licence>
+                </availability>
+                <idno>07.11.01</idno>
+                <date>April 29, 2026</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Philadelphia,
+                            PA</settlement>
+                        <institution>Rosenbach Museum and
+                            Library</institution>
+                        <repository>Marianne Moore
+                            Collection
+                            (<ref target="https://www.rosenbach.org/collections/marianne-moore">https://www.rosenbach.org/collections/marianne-moore</ref>)</repository>
+                        <idno>VII.11.01</idno>
+                    </msIdentifier>
+                    <p>
+                        <ref target="../essays/nb07_11_01_intro.xml">Notebook Editor's
+                            Introduction</ref>
+                    </p>
+                    <p>TBD.</p>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <origDate from="1920-01-01" to="1955-12-31">1920-1955</origDate>
+            </creation>
+        </profileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy source="mmda">
+                    <category source="mmda">
+                        <catDesc>notebooks</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+            <classDecl>
+                <taxonomy>
+                    <category xml:id="genre">
+                        <catDesc>Conversation</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="image" xml:id="nb07_11_01_0001_text">
+                <pb facs="nb07_11_01_0001_recto.jpg"/>
+                <lg>
+                    <l n="01">   <note>RML librarians write M3/250 and 1250/25 in pencil.</note>Ads—Flexide marathon belts for men</l>
+                    <l n="02">              gay— gallop collapsible hand bags  Saks &amp; Co —</l>
+                    <l n="03">   Shutter green   Venetian fuschia</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0002_text">
+                <pb facs="nb07_11_01_0002_recto.jpg"/>
+                <lg>
+                    <l n="01">               myself To T.C. Wilson<note>T.C. (Theodore Carl) Wilson (1912-1950) poet and critic; an acquaintance of MM.</note>  Jan 5 1935</l>
+                    <l n="02">   I am earnest in wishing for my friends that a letter </l>
+                    <l n="03">   will never be written me when circumstances must be</l>
+                    <l n="04">   compelled in order to write it or when rest would be better.</l>
+                    <l n="05">   Noone whom I value &amp; wish I could help, owes me</l>
+                    <l n="06">   a letter. And for myself, I have resolved to trust</l>
+                    <l n="07">   friends to understand unsatisfactoriness or complete</l>
+                    <l n="08">   silence. A just reason is not misunderstood.</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0003_text">
+                <pb facs="nb07_11_01_0003_recto.jpg"/>
+                <lg>
+                    <l n="01">   I'm a quiet prisoner—women seem unfit men seem brutish</l>
+                    <l n="02">  </l>
+                    <l n="03">   Freud takes the obvious view. That men and women complement</l>
+                    <l n="04">   each other in the sense that they are not of the same sex, we've known</l>
+                    <l n="05">   ever since we could stand up in our cradles. It's a point that doesn't</l>
+                    <l n="06">   need to be laboured.  The practical phase of the matter is that </l>
+                    <l n="07">   men miss in women something that they have {unclear}in{/unclear} themselves</l>
+                    <l n="08">   and women miss in men something that they have in themselves,</l>
+                    <l n="09">   or perhaps I ought to say the exceptional man misses in the </l>
+                    <l n="10">  average woman something that he has in himself &amp; the exceptional woman </l>
+                    <l n="11">  misses in the average man “ “  she “ “    herself. I have</l>
+                    <l n="12">  noticed that men praise their wives for what are</l>
+                    <l n="13">  supposedly exclusively masculine virtues—Marjorie drives</l>
+                    <l n="14">                     passed a better traffic exam </l>
+                    <l n="15">  the car better than I do—Maud made out my income</l>
+                    <l n="16">  tax. I couldn't make one of those things out to save my</l>
+                    <l n="17">               unless I went</l>
+                    <l n="18">  life. <del>I'd have to go</del>   to a dept. store or a bank and got</l>
+                    <l n="19">  somebody to help me.</l>
+                    <l n="20">         Francois will do that |  I'm <del>can't put</del> not in your place but</l>
+                    <l n="21">                       ought to do</l>
+                    <l n="22"> I know what you :  Katherine Morris: (Fred) you're too refined. I can't</l>
+                    <l n="23">  imagine you on terms w any fellow.</l>
+                    <l n="24">        “Most thoughtful person she has ever seen. The remarkable</l>
+                    <l n="25">                               not his feminine handiness </l>
+                    <l n="26">  thing about him is ^ that he knows something about life</l>
+                    <l n="27">  he feels that the division of words into mas. &amp; fem. {unclear}wds{/unclear} is </l>
+                    <l n="28">  secondary that labels hamper one that with all that </l>
+                    <l n="29">  we all have to bear, if we can help each other in small</l>
+                    <l n="30">  ways, it is good to do it                     not conscious of one's integrity</l>
+                    <l n="31">         —one must feel complementary to a person—for one can't </l>
+                    <l n="32">.didn't wish him to be attached to me for I hate unhappiness.  </l>
+                    <l n="33">    Playing w fire is {^a^} great <del>sport</del> deal of fun—Coal oil torch</l>
+                    <l n="34">    w a wick in it.</l>
+                    <l n="35">    I am not patrician I <del>am</del> notice people's faces—I am likely </l>
+                    <l n="36">    to recognize the postman when I see him in civilian's clothes</l>
+                    <l n="37">  11/10 5 1921<note>MM is not writing on pages consecutively in this notebook; notes beginning page [[]] are from 1920</note>  </l>
+                    <l n="38">     Dr. Watson<note>James Sibley Watson (1894-1982), American physician, patron of the arts, and publisher, part owner of <title>The Dial</title> and a good friend of MM.</note>—its wise of him to wear grey and not cocoanut</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0004_text">
+                <pb facs="nb07_11_01_0004_recto.jpg"/>
+                <lg type="vertical">
+                    <l n="v01">  See McAlmon<note>Robert McAlmon (1895-1956), American writer, poet, publisher and long-time acquaintance of MM. Mole is MWM.</note> in Mole's book</l>
+                </lg>
+                <lg>
+                    <l n="01">   brown—the color that he is—Its not well to match</l>
+                    <l n="02">   one's coloring too exactly.                                      4</l>
+                    <l n="03">   If I smoked—Id want to smoke <del>at</del> in the library or at </l>
+                    <l n="04">     a <del>concert or</del> lecture or a wedding.</l>
+                    <l n="05">   Dr. Wilson—How he ever crawled under “the cloth” &amp; into </l>
+                    <l n="06">   the pulpit, I don't know.</l>
+                    <l n="07">   When I'm w somebody I d<del>etest</del>islike I am so aloof I hardly know what</l>
+                    <l n="08">   is being said—like a bird—my eyelid comes down over</l>
+                    <l n="09">                                                              all there is</l>
+                    <l n="10">  my eye occasionally and that's <del>the only thing there is </del>to </l>
+                    <l n="11">  show that I'm alive.</l>
+                    <l n="12">  Dekker<note>Thomas Dekker (1572-1625), prolific English dramatist and pamphleteer. </note> is right about it: the fruits of one's brain if remarkable</l>
+                    <l n="13">                                                                    in the case of most people</l>
+                    <l n="14">  needn't die—and one's children will—but <del>the</del> intellectual</l>
+                    <l n="15">  children &amp; the love of God are not enough, they want something</l>
+                    <l n="16">  more concrete</l>
+                    <l n="17">      see Logan Smiths Treasury<note>Logan Pearsall Smith, editor <title>A Treasury of English Prose</title>, collecting prose of all kinds by famous authors. Boston: Houghton Mifflin, 1920. </note></l>
+                    <l n="18">  Emerson—There are eyes that <del>ca</del>tell you no more than blueberries</l>
+                    <l n="19">  and there are eyes that are like a stack of bayonets.<note>MM paraphrases from Ralph Waldo Emerson's <title>The Conduct of Life</title>, first published 1860. MM and MWM owned two books of Emerson's essays. See [[MM Library Index]]</note></l>
+                    <l n="20">  Richard A.<note>Possibly Richard Aldington (1892-1962), poet, novelist, and publisher, among the early Imagist poets and married to MM's friend H.D., although the couple had separated before the end of WWI. </note>  <hi rend="u">His heroics are the kind that you would expect</hi></l>
+                    <l n="21">  to meet w in a low tavern—A woman is justified</l>
+                    <l n="22">  owning a revolver—a man isn't.</l>
+                    <l n="23">  If Ezra<note>Ezra Pound (1885-1972), American poet who emigrated to England in 1908; he first wrote to MM in 1918 and they became good friends through correspondence; they did not meet until 1939.</note> or anyone else decides to abandon me I just thing[sic]</l>
+                    <l n="24">  there's another old chestnut fallen off the tree. I</l>
+                    <l n="25">  have more <del>of the</del> time that I badly need.</l>
+                    <l n="26">  Dec 11 '21                a thing</l>
+                    <l n="27">  Mothers are pathetic &amp; old maids are a nightmare but what</l>
+                    <l n="28">  is one to do?</l>
+                    <l n="29">  If one sent <del>what</del>,m  unvarnished words what one thinks</l>
+                    <l n="30">  of the unvarnished human being; the result isn't anything</l>
+                    <l n="31">  anyone would like to frame. </l>
+                    <l n="32">  Dec 19—1921   Charlie Chaplin<note>Charlie Chaplin (1889-1977). American comic actor, filmmaker, and composer, whom MM admired. </note> – 17! what an age! I hope my</l>
+                    <l n="33">  2nd childhood won't progress till I'm 17 again though its well </l>
+                    <l n="34">  enough to have been there—</l>
+                    <l n="35">  Dec 25  Quiller Couch—the art of reading<note>Sir Arthur Quiller-Couch (1863-1944), Cornish writer who published under the pen name Q. <title>On The Art of Reading</title>, University of Cambridge Press, 1920.</note>—R.C—</l>
+                    <l n="36">  has an aristocratic mind—he doesn't protest, says </l>
+                    <l n="37">  you acknowledge defeat when you admit that the</l>
+                    <l n="38">  argument has 2 sides</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0005_text">
+                <pb facs="nb07_11_01_0005_recto.jpg"/>
+                <lg>
+                    <l n="01"> Jan22 1922   </l>
+                    <l n="02">   Mr. Nagle knows I'm no rude fancier—<note>Edward Nagle (1893-1963) American artist, Harvard friend of Scofield Thayer and contributor to <title>The Dial</title>.</note></l>
+                    <l n="03"> 5  The English.  H. James<note>Henry James (1843-1916). American novelist. MM greatly admired James, as she indicates in “Henry James as a Characteristic American”; <title>Hound and Horn</title> 1934. </note> has one exaggerated sentimental  </l>
+                    <l n="04">   feeling about them. They live to hunt—I don't see</l>
+                    <l n="05">   that there's much dis<del>parity</del>fference between the hare that</l>
+                    <l n="06">   is shot by an Englishman &amp; the Englishman that is</l>
+                    <l n="07">   shot<del>s</del> by a German—</l>
+                    <l n="08">   circus  April 11 1922  mules tails like topiary work 4 tassels</l>
+                    <l n="09">   black horse clipped in squares— Reading for adolescents.</l>
+                    <l n="10">  cf N. Douglas<note>Probably Norman Douglas (1868-1952) British essayist and novelist.</note>  How Plato hated a fact. I may be an</l>
+                    <l n="11">  octogenarian adolescent but I am not thinking</l>
+                    <l n="12">  of discarding Plato.</l>
+                    <l n="13">  He wanted (a chaperone)—was afraid I mt think he was concentrating</l>
+                    <l n="14">  on me.</l>
+                    <l n="15">   <hi rend="pencil">I feel about marriage as I do about the west—the <del>oway</del></hi></l>
+                    <l n="16">  <hi rend="pencil">overrated, much advertised irredmediableness of it</hi></l>
+                    <l n="17">  <hi rend="pencil">but I like [shorthand “the”] taxis—the taxi drivers are respectful</hi></l>
+                    <l n="18">  <hi rend="pencil">&amp; their cars inspire respect—</hi></l>
+                    <l n="19">  Dos Passos<note>John Dos Passos (1896-1970). American novelist.</note>  lacks substance. Fine nerves</l>
+                    <l n="20">  but fine nerves are the curse of the</l>
+                    <l n="21">  world past and present. His focus tails</l>
+                    <l n="22">  off. Starts w a ha<del>h</del>shish dream, the sort</l>
+                    <l n="23">  of thing you'd like to have happen {unclear}or boffer{/unclear} if you</l>
+                    <l n="24">  were an Oriental and it all evaporates</l>
+                    <l n="25">  leaving you to feel, where am I!</l>
+                    <l n="26">  tobacco colored crepe de china</l>
+                    <l n="27">  Boys w tops, running a hand under them as they</l>
+                    <l n="28">  were just pigeons.</l>
+                    <l n="29">  Putty colored coats tied at the side with a satin florist's </l>
+                    <l n="30">    bow &amp; covered with mother goose rhymes in Egypt </l>
+                </lg>
+                <lg type="vertical">
+                    <l n="v01">                                     Egyptian</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0006_text">
+                <pb facs="nb07_11_01_0006_recto.jpg"/>
+                <lg>
+                    <l n="01">   B Roscoe  I liked him—I hadn't foreseen these</l>
+                    <l n="02">     retossings of the old confetti.</l>
+                    <l n="03">   The Greeks were emotionally sensitive, their </l>
+                    <l n="04"> hearts were hard<note>This line appears in “An Octopus,” first published, <title>Observations</title> (1924); MM includes the reference to Hyde in her notes to the poem.</note>—  see Hyde    5 great philosophies<note>Hyde, William de Witt (1858-1917). <title>The Five Great Philosophies of Life</title>. Macmillan, 1911.</note></l>
+                    <l n="05">   The Counterplot Mirrlees<note>Hope Mirrlees (1887-1978). <title>The Counterplot</title> was her second of three novels. London &amp; Glasgow: W. Collins Sons &amp; Co., 1924.</note> // writers upheaval</l>
+                    <l n="06">   condition parading as an analysis</l>
+                    <l n="07">   </l>
+                    <l n="08">   April 12 NY Times Bk review  a Spanish detail </l>
+                    <l n="09">                                                                  a <hi rend="u">donkey</hi>.</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0007_text">
+                <pb facs="nb07_11_01_0007_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0008_text">
+                <pb facs="nb07_11_01_0008_recto.jpg"/>
+                <lg>
+                    <l n="01">   May 22 1920 <note>MM &amp; MWM take Naval hospital boat through Panama Canal to California, to see Warner. This is the first of 3 trips they make across the country to see Warner, visiting him in Bremerton, WA in 1922 and 1923.</note>  Masts— //  the rich life of the earth</l>
+                    <l n="02">             is still in them.</l>
+                    <l n="03">       Gilbert Seldes<note>Gilbert Seldes (1893-1970) American cultural critic, served as drama critic for <title>The Dial</title> (1922-24) and was managing editor 1922-1923; MM became managing editor in 1925, then editor-in-chief.</note> writing without revising: A man</l>
+                    <l n="04">   would rather be seen in his evening clothes <del>but</del> than </l>
+                    <l n="05">   when he is preparing to put them on but one sees</l>
+                    <l n="06">   more of the man in the latter attitude.</l>
+                    <l n="07">   The pipe – its appearance robs it of half its iniquity</l>
+                    <l n="08">   the refinement of the cigarette makes it worse.</l>
+                    <l n="09">   L. Featherstone<note>Unidentified.</note>: young rats: they look just</l>
+                    <l n="10">  like little bulldogs.</l>
+                    <l n="11">  * to mess attendant. And boy—You'll come</l>
+                    <l n="12">  back; we may need you.</l>
+                    <l n="13">  I like Boston. I hated to leave it</l>
+                    <l n="14">  almost as much as I hated to leave N. York</l>
+                    <l n="15">  The staterooms will be ready Sunday.</l>
+                    <l n="16">  They're being painted. I'm doing it myself</l>
+                    <l n="17">  that's why it takes so long. Theyre going to  </l>
+                    <l n="18">  have lingerie figured hangings—b{?=2}</l>
+                    <l n="19">  what color would you like.</l>
+                    <l n="20">  * Darkies – If you're considerate they</l>
+                    <l n="21">  take advantage of you. I buy a dozen</l>
+                    <l n="22">  of a thing at a time. I guess I'm </l>
+                    <l n="23">  extravagant but then I don't have to </l>
+                    <l n="24">  think about it—So I don't miss a thing</l>
+                    <l n="25">  right away, but when you see someone going     4</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0009_text">
+                <pb facs="nb07_11_01_0009_recto.jpg"/>
+                <lg>
+                    <l n="01">          wearing           w</l>
+                    <l n="02">   around with a coat ^ your name on it, you</l>
+                    <l n="03">   begin to get suspicious.</l>
+                    <l n="04">   Miss Crisp – He's witty “isn't he – a little </l>
+                    <l n="05">   sea-goin'.”</l>
+                    <l n="06">   Blue jacket to sick goat: take it easy bill.</l>
+                    <l n="07">   A white mouse won't jump off you—(other mice</l>
+                    <l n="08">   will)  Yes a <hi rend="u">regular</hi> mouse will.</l>
+                    <l n="09">   L Featherstone: Washington is a </l>
+                    <l n="10">  wonderful state, You'll be surprised when</l>
+                    <l n="11">  you see those ferries one behind the other</l>
+                    <l n="12">                    <hi rend="pencil">plumline</hi></l>
+                    <l n="13">  straight as a <del>plummet</del> but I like the</l>
+                    <l n="14">  Times building better.</l>
+                    <l n="15">                                   nice</l>
+                    <l n="16">  L.F. The French are nice but I don't</l>
+                    <l n="17">  like them.</l>
+                    <l n="18">  Mole  See those boys their backs blowing</l>
+                    <l n="19">  out like blimps.</l>
+                    <l n="20">  white uniforms.  You feel more comfortable,</l>
+                    <l n="21">  don't you?</l>
+                    <l n="22">  Yes but I don't feel safer. I'd like to</l>
+                    <l n="23">  know when they're going to get this laundry</l>
+                    <l n="24">  going.</l>
+                    <l n="25">  L .F.  Cock fights: one time in the Philippines</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0010_text">
+                <pb facs="nb07_11_01_0010_recto.jpg"/>
+                <lg>
+                    <l n="01">   they had a young eagle; they called it</l>
+                    <l n="02">   an American rooster; it killed</l>
+                    <l n="03">   all the roosters down there &amp; they made a </l>
+                    <l n="04">   lot of money on it. A rooster is a very</l>
+                    <l n="05">   game bird. It'll fight just like a man.</l>
+                    <l n="06">   Mrs. Caples: darky servant: Miss Anna, your lover </l>
+                    <l n="07">  has come.</l>
+                    <l n="08">   Cora go and get some ammonia. Miss Lena</l>
+                    <l n="09">                                         goan</l>
+                    <l n="10">   I don't never think ahm goin gon remember</l>
+                    <l n="11">  that name—(well then think of pneumonia)</l>
+                    <l n="12">  L.F.  No Im not leaving the ship. I'm</l>
+                    <l n="13">  going to go off the ship &amp; you're leaving</l>
+                    <l n="14">  me. Pardon me, but I couldn't</l>
+                    <l n="15">  help it.</l>
+                    <l n="16">  June 12  Rainy. (paying for mangoes)  You</l>
+                    <l n="17">  Ain' goin to wong me like that are you?</l>
+                    <l n="18">  All right come on paw buttafly.</l>
+                    <l n="19">  Small marine: (chameleons) At Saint Cross,</l>
+                    <l n="20">  he used to catch them &amp; put them on</l>
+                    <l n="21">  the screens when we went to bed. &amp; they'd</l>
+                    <l n="22">  catch mosqitoes. I've seen a chameleon</l>
+                    <l n="23">  catch a cockroach as big as himself</l>
+                    <l n="24">  &amp; eat it, head wings and all.</l>
+                    <l n="25">  My goodness, I don't know how</l>
+                    <l n="26">  they do it  Youd think they'd swell   5</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0011_text">
+                <pb facs="nb07_11_01_0011_recto.jpg"/>
+                <lg>
+                    <l n="01">   out but they didn't at all.</l>
+                    <l n="02">   Monkies, Alfred, Dumbell, Martine.</l>
+                    <l n="03">   Maxon—Come on Alfred you know you</l>
+                    <l n="04">   don't mean a word of it.</l>
+                    <l n="05">   wait till I get you on the boat deck,</l>
+                    <l n="06">   Come here jackanapes let the lady see the monkey</l>
+                    <l n="07">   Robinson. <del>I'd</del> Ahd like to know when this</l>
+                    <l n="08">   inspections gone to be pulled off. Ahve</l>
+                    <l n="09">   been manicurin' this pink for the last</l>
+                    <l n="10">  2 days.</l>
+                    <l n="11">  Put your soul right down on it.</l>
+                    <l n="12">  port screens. You're talking too much—</l>
+                    <l n="13">  You ought to help me instead of tellin' me.</l>
+                    <l n="14">  I'm helpin' you <hi rend="u">when</hi> I'm tellin' you.</l>
+                    <l n="15">  Dr Harman. I've enjoyed the cruise with</l>
+                    <l n="16">  you Mrs. W.<note>Possibly Mrs. Walker, mentioned elsewhere</note></l>
+                    <l n="17">  Dr Kennedy. A journalist was visiting the</l>
+                    <l n="18">  Philippines &amp; he said, my! think of being able</l>
+                    <l n="19">  to look at all this &amp; enjoy it without having to</l>
+                    <l n="20">  describe it.</l>
+                    <l n="21">  Dr Harris. Just think the people on the </l>
+                    <l n="22">  east coast are sound asleep. Our time is</l>
+                    <l n="23">  7 hours ahead of theirs. {unclear}No its isn't it{/unclear}</l>
+                    <l n="24">  I was figuring on Eng time but they're asleep</l>
+                </lg>
+                <lg type="vertical">
+                    <l n="v01"> 4. Bells – “<hi rend="u">Ice</hi> <hi rend="u">Cream</hi>”!</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0012_text">
+                <pb facs="nb07_11_01_0012_recto.jpg"/>
+                <lg>
+                    <l n="01">   anyhow.</l>
+                    <l n="02">     Mrs. Dorsey. The girls tease me about</l>
+                    <l n="03">   paying too much for things. Say I never get anything</l>
+                    <l n="04">   for nothing. But Dr. Dorsey, said, this time</l>
+                    <l n="05">   you <hi rend="u">did</hi> get something for nothing. You got the</l>
+                    <l n="06">   little elephant for nothing. I paid four dollars</l>
+                    <l n="07">   for them.</l>
+                    <l n="08">   Dr. K's story. Twas a Sunday—when we left Sodom on</l>
+                    <l n="09">   the Hudson, &amp; good ship &amp; a select passenger list.</l>
+                    <l n="10">  The harmonies of the wind in the rigging—the throbbing</l>
+                    <l n="11">  note of eternal sadness. The subdued bass</l>
+                    <l n="12">                                                  the</l>
+                    <l n="13">  of the parted wave and hiss of ^ spray.</l>
+                    <l n="14">  The reinforced concrete mattress &amp; vitrified pillow</l>
+                    <l n="15">  seem of downy consistence.</l>
+                    <l n="16">  Port au Prince. A sad leak in the {unclear}plans{/unclear} of the</l>
+                    <l n="17">  Prohibitionist – the tinkle of ice, the astringent</l>
+                    <l n="18">  lemon, assisted by his little brother,</l>
+                    <l n="19">  the lime who in time will find se<note>This may be an abbreviation for “himself.”</note> in good</l>
+                    <l n="20">  society   They speak a very bad French,</l>
+                    <l n="21">  &amp; had great difficulty in understanding the</l>
+                    <l n="22">  pure Parisian I learned in Scotland last</l>
+                    <l n="23">  winter.  From Haiti, we wafted east to </l>
+                    <l n="24">  San Juan, P.R.  Disappointment despair,</l>
+                    <l n="25">  <del>tears</del> curses; we were not permitted to go</l>
+                    <l n="26">  ashore. &amp; had a bitter experience of viewing</l>
+                    <l n="27">  the attractive city against the moonlight.</l>
+                    <l n="28">  St Thomas. The eye sees pink then vermilion</l>
+                    <l n="29"> Virgin Islands 25 million dollars for these islands seem </l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0013_text">
+                <pb facs="nb07_11_01_0013_recto.jpg"/>
+                <lg>
+                    <l n="01">   to be far from a bargain  There is a pretty</l>
+                    <l n="02">   cemetery but connoisseur as I am</l>
+                    <l n="03">   I would not advise the gov't to</l>
+                    <l n="04">   pay so much for it. We now head for</l>
+                    <l n="05">   the Spanish main &amp; the big Ditch</l>
+                    <l n="06">   Colon on the Atlantic side looks attractive from</l>
+                    <l n="07">   the water but is too low &amp; flat. The entrance to</l>
+                    <l n="08">   the Canal <del>looks</del> is like going into a small river</l>
+                    <l n="09">   of the jungle.  Too bad there is no attempt to</l>
+                    <l n="10">  heighten the effect by pillars in concrete.</l>
+                    <l n="11">  Woolworth Ford or Annette Kelleman</l>
+                    <l n="12">      The finished aspect of the canal conceals</l>
+                    <l n="13">  all trace of the effort &amp; difficulties that</l>
+                    <l n="14">  beset the engineers &amp; tends to minimize</l>
+                    <l n="15">  the work done. We lock &amp; delock our way</l>
+                    <l n="16">  over the 45 miles <del>&amp; every moment</del> the </l>
+                    <l n="17">  locks empty at the rate of 2 feet a minute.</l>
+                    <l n="18">  That means that we were free of a lock</l>
+                    <l n="19">  in 15 minutes.</l>
+                    <l n="20">  Balboa.  Dr. Murry. I was so hot last</l>
+                    <l n="21">  night, I thought I'd died &amp; gone to the wrong </l>
+                    <l n="22">  country. (to mess boy) now go in there. There's</l>
+                    <l n="23">  your work &amp; don't you slide out of here till it's done.</l>
+                    <l n="24">  Steward, yr boys are all here &amp; if they don't</l>
+                    <l n="25">  do the work, you'll have to do it.</l>
+                    <l n="26">  Miss Crisp—I don't want a ‘ape. I want a parrot</l>
+                    <l n="27">  Monkeys are dirty but parrots are clean.</l>
+                    <l n="28">  I feel sorry for that poor fellow in that </l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0014_text">
+                <pb facs="nb07_11_01_0014_recto.jpg"/>
+                <lg>
+                    <l n="01">   little basket (crow's nest)  It must be awful</l>
+                    <l n="02">   up there when it rains.</l>
+                    <l n="03">   I tell you when I'm at home an' I'm not </l>
+                    <l n="04">   feelin' good, it takes an awful lot to keep me</l>
+                    <l n="05">   amused.</l>
+                    <l n="06">   African golf.  I want to see me money: if you</l>
+                    <l n="07">   pack that money up, it's between me an' you.</l>
+                    <l n="08">   2          1</l>
+                    <l n="09">   Nothing is more uninteresting than a bird at a </l>
+                    <l n="10">  distance.  close at hand, it is a little world.</l>
+                    <l n="11">  Mrs Caples: I've had so much responsibility</l>
+                    <l n="12">  placed upon me, I don't get excited.</l>
+                    <l n="13">  Seamen: where the hells that bucket of sand.</l>
+                    <l n="14">  who's the guy walked away with that thing?</l>
+                    <l n="15"> {unclear}Shool{/unclear} this way as far as you can.</l>
+                    <l n="16">  Seagulls: I bet you could lasso one of</l>
+                    <l n="17">  them things.</l>
+                    <l n="18">  Mrs. Smith: Oh Mrs. Emerson—There's a </l>
+                    <l n="19">  monstrous amount of seagulls out here.</l>
+                    <l n="20">  Mrs. Smith—you've just woke up haven't you?</l>
+                    <l n="21">     I've been awake for several hours.</l>
+                    <l n="22">  Oh is that so? It wasn't noticeable.</l>
+                    <l n="23">  Mrs. Walker: Arcade Depot. Los A. 20 hrs. to</l>
+                    <l n="24">  S. Fran. I suppose they're more slower</l>
+                    <l n="25">  because of the hot climate. . . . well we</l>
+                    <l n="26">  have to say something to content our</l>
+                    <l n="27">  minds with.</l>
+                </lg>
+                <lg type="vertical">
+                    <l n="v01"> eating ice cream / {unclear}Rainey{/unclear}  Whose that?  Those seamens?</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0015_text">
+                <pb facs="nb07_11_01_0015_recto.jpg"/>
+                <lg>
+                    <l n="01">   R H Underwood chauffeur, smoking</l>
+                    <l n="02">   cigar w a bend</l>
+                    <l n="03">   in the middle of it.</l>
+                    <l n="04">  2 (I gathered in 5000 a week during the</l>
+                    <l n="05">   influenza epidemic left 7:10 arrived 8 min</l>
+                    <l n="06">   of 8 at arcade depot.) 1 (I can take you</l>
+                    <l n="07">   <del>on</del> Loss (30 miles)           45 miles an hr)</l>
+                    <l n="08">   Mrs. W.  I've heard of people who moved in</l>
+                    <l n="09">    the night but I feel as if we were beating </l>
+                    <l n="10">  our meal ticket. </l>
+                    <l n="11">  woman in a white hat made us lose the</l>
+                    <l n="12">  train. The agent would look worried ask</l>
+                    <l n="13">  a question and look at a book &amp; write</l>
+                    <l n="14">  a little—and finally she said w the</l>
+                    <l n="15">  utmost hauteur now don't you</l>
+                    <l n="16">  mark that for today. I'm not going</l>
+                    <l n="17">  to use it till tomorrow.</l>
+                    <l n="18">  See April 24</l>
+                    <l n="19">  </l>
+                    <l n="20">  Monroe. June 21 1923<note>MM repeats this conversation with greater detail on page 0025.</note></l>
+                    <l n="21">                   an</l>
+                    <l n="22"> Fran Frankan—<del>my he</del> O Mr Veeler,</l>
+                    <l n="23">  I can cook   My husbands they always </l>
+                    <l n="24">  never want to go out to eat.</l>
+                    <l n="25">  Papagalo. (parrot)  (Mrs. Marshall</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0016_text">
+                <pb facs="nb07_11_01_0016_recto.jpg"/>
+                <lg>
+                    <l n="01">   talks so much – <del>S</del>He said “Shut up.”) 1 (But</l>
+                    <l n="02">   so fond.         Sometimes I</l>
+                    <l n="03">   have to take Nellie and go out to walk)</l>
+                    <l n="04">                      say I</l>
+                    <l n="05">   Sometimes I ^ am tired &amp; they say, I will</l>
+                    <l n="06">   do everything you need only put the pepper</l>
+                    <l n="07">   and the salt.</l>
+                    <l n="08">   <del>Badger</del>  Mole. We're billygoated about so much this </l>
+                    <l n="09">   must be a railway centre.<note>MM and MWM are visiting Warner (“Badger”) in California.</note></l>
+                    <l n="10">     The hay country mts a dirty purple—Sunkist </l>
+                    <l n="11">  oranges—poor fellows—orange raisers—we get</l>
+                    <l n="12">  || them more easily than he does.</l>
+                    <l n="13">  Little Boy. Ive got a kitty and a mother kitty. I</l>
+                    <l n="14">  had 4 kitties—one mother and 4 kitties;</l>
+                    <l n="15">  3 ran away but I've got one and we had a dog,</l>
+                    <l n="16">  Tigs—and he ran away. We were going to</l>
+                    <l n="17">  get rid of him for he'd go to the hen house and</l>
+                    <l n="18">  suck eggs. We put red pepper on one but he</l>
+                    <l n="19">  enjoyed it so much, he ate it anyhow—and then</l>
+                    <l n="20">  just went and got a drink</l>
+                    <l n="21">      Do you suppose there's a dining car on this</l>
+                    <l n="22">  train?  We could get out and get something to</l>
+                    <l n="23">  eat and then we'd have no train. We</l>
+                    <l n="24">  could never catch it, though generally I </l>
+                    <l n="25">  can run faster than anybody and catch a bus</l>
+                    <l n="26">  or a jitney—anything I like</l>
+                    <l n="27">     Where did you sleep? I slept in upper 3</l>
+                    <l n="28">  Where do you think my mother is? I think</l>
+                    <l n="29">  she's in the wash room.) I <hi rend="u">know</hi> she is,</l>
+                    <l n="30">  but what do you think she's doing?</l>
+                    <l n="31">  There are sometimes a good many people   8</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0017_text">
+                <pb facs="nb07_11_01_0017_recto.jpg"/>
+                <lg>
+                    <l n="01">   there and she may have to wait. There were</l>
+                    <l n="02">   two of them but</l>
+                    <l n="03">   they came out and left it to her.--  (She</l>
+                    <l n="04">      the room</l>
+                    <l n="05">   came back looking unworthy of such offspring</l>
+                    <l n="06">   Mrs Walker—there were a good many officers on</l>
+                    <l n="07">   that ship that weren't gentlemens whatever.</l>
+                    <l n="08">   he hardly ever came in to see how we were getting</l>
+                    <l n="09">   on and I never never spoke to him,.</l>
+                    <l n="10">         Did you know Dr. Willard?   Yes</l>
+                    <l n="11">  Yes indeed he was a very bright man—I believe</l>
+                    <l n="12">  in massage—the American people are so full</l>
+                    <l n="13">  of nervousness.</l>
+                    <l n="14">  My husband is on the Asceola—sea going tug. </l>
+                    <l n="15">  I was standing at the corner when I saw you.</l>
+                    <l n="16">  I went to a transfer place and then to the</l>
+                    <l n="17">  Amer. Express and it was closed and I</l>
+                    <l n="18">  felt terrible foolish and then I saw you.</l>
+                    <l n="19">  || I thought she must have just been married</l>
+                    <l n="20">  || I didn't see how a pearl ring like that</l>
+                    <l n="21">  could last more than a month.</l>
+                    <l n="22">  The man in the taxi said he'd take a steamer</l>
+                    <l n="23">  trunk—(taxis)  I call them jitney's</l>
+                    <l n="24">  that's what they are. I wish they could</l>
+                    <l n="25">  see some of those black and white taxis at the</l>
+                    <l n="26">  Penna. Station. They come out of there just</l>
+                    <l n="27">  like cockroaches . . .</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0018_text">
+                <pb facs="nb07_11_01_0018_recto.jpg"/>
+                <lg>
+                    <l n="01">      Sometime in May 1920 Miss Weniger. Modern magazines—They're</l>
+                    <l n="02">   just like chickweed—oh those—the Play boy and the village magazines they're</l>
+                    <l n="03">   worse than chickweed.</l>
+                    <l n="04">   Porter, you threw my coat down. I don't like </l>
+                    <l n="05">that. I'm an awful old maid--</l>
+                    <l n="06">   Porter—well if you are, its your own fault,</l>
+                    <l n="07">   Mrs. Caples. You know they say there are 2 things</l>
+                    <l n="08">   that'll change a man's destination in life--a</l>
+                    <l n="09">   banana peelin' an a woman—I mean a lady.</l>
+                    <l n="10">   Eucalyptus tree—ascends w a branch sometimes</l>
+                    <l n="11">  that turns back on itself and comes up parallel </l>
+                    <l n="12">  with the trunk on the opposite side fr the one</l>
+                    <l n="13">  on which it started.</l>
+                    <l n="14">  Constance. Midshipmen look like a special kind</l>
+                    <l n="15">  of police.</l>
+                    <l n="16">  B. missed the owl &amp; the lark &amp; caught the </l>
+                    <l n="17">  snail.</l>
+                    <l n="18">  (I'd like to see that toad.) There's a convention</l>
+                    <l n="19">  C.  the climate is delightful and all that but</l>
+                    <l n="20">  you wish the people wouldn't talk as if they'd made it.</l>
+                    <l n="21">  Badger. Peberdy<note>Possibly Wilfred Montague Peberdy (?-1959), enlisted in the USS Navy 1917, with a M.D. from Yale Medical School; a colleague of JWM's.</note>—He's a very smooth article at the table</l>
+                    <l n="22">  Talcum powder in Balboa commissary—You're</l>
+                    <l n="23">  about getting bed rock down there.</l>
+                    <l n="24">  June 8. Mr. McClosky—there are 4 kinds</l>
+                    <l n="25">   big <del>r</del>Royal &amp; little Royal—White Royal and a </l>
+                    <l n="26">  Red Royal—and then there are all kinds of</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0019_text">
+                <pb facs="nb07_11_01_0019_recto.jpg"/>
+                <lg>
+                    <l n="01">   grafts.</l>
+                    <l n="02">   Do the grafts make them better?</l>
+                    <l n="03">   No, Imagination, but they sell for you. You know</l>
+                    <l n="04">   you have an animal and it gives the</l>
+                    <l n="05">   best milk in the country and it isn't classed.</l>
+                    <l n="06">   You can't sell it, but if its classed, it'll bring</l>
+                    <l n="07">   a big penny. I've had cots and they're</l>
+                    <l n="08">  the best you'd find anywhere but if they</l>
+                    <l n="09">   knew they weren't grafted, they wouldn't buy.</l>
+                    <l n="10">   That a sheepskin? I thought so.</l>
+                    <l n="11">  That's a grand thing to spread down.</l>
+                    <l n="12">  </l>
+                    <l n="13">  Goats mouths like a knife cut in a piece of</l>
+                    <l n="14">  leather.</l>
+                    <l n="15">  Seals—like lambs without heads.</l>
+                    <l n="16">  San Carlos hotel San José. It is expected</l>
+                    <l n="17">  that guests of the hotel shall not appear</l>
+                    <l n="18">  in the corridors unless fully clothed—</l>
+                    <l n="19">  Kimona's, pajamas, shirt sleeves and</l>
+                    <l n="20">  night lingerie are out of place and</l>
+                    <l n="21">  and are positively not permitted in lobby.</l>
+                    <l n="22">  </l>
+                    <l n="23">  Kate – greek theatre  It doesn't look like</l>
+                    <l n="24">  the same place—when that Micklestein</l>
+                    <l n="25">  spoke last night. (Maeterlinck)</l>
+                    <l n="26">  Badger. We thought we'd go and see</l>
+                    <l n="27">  the bears. We'd heard about how they</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0020_text">
+                <pb facs="nb07_11_01_0020_recto.jpg"/>
+                <lg>
+                    <l n="01">   come out at night to the garbage heaps and</l>
+                    <l n="02">   stood on their hind legs and how</l>
+                    <l n="03">   their eyes shone and all that.</l>
+                    <l n="04">   </l>
+                    <l n="05">   Tamalpais Rd.<note>Tamalpais is a street in Berkeley, CA, leading into Mount Tamalpais in Marin Hills. The Mount Tamalpais and Muir Woods Railway (improving the 1896 original railway) was in booming business in 1920. </note> I thought it a form of loss</l>
+                    <l n="06">   then. Now I like thinking of it.</l>
+                    <l n="07">   Dr. Cobb. I saw a nice little flock of badgers</l>
+                    <l n="08">   in Arizona--  disintegrated granite roadbed</l>
+                    <l n="09">   Volker   Kennedy   Frank Wright's house.<note>Frank Lloyd Wright (1867-1959), American architect who revolutionized house design to harmonize organically with the landscape. He began his career in California, and his first major design was the Hollyhock House, Mayan Revival block house, north of Los Angeles. </note></l>
+                    <l n="10">     Its dark as the deuce.</l>
+                    <l n="11">  horse—You pull him up and he'll rise that</l>
+                    <l n="12">  way and give you the finest feeling ever.</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0021_text">
+                <pb facs="nb07_11_01_0021_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0022_text">
+                <pb facs="nb07_11_01_0022_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0023_text">
+                <pb facs="nb07_11_01_0023_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0024_text">
+                <pb facs="nb07_11_01_0024_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0025_text">
+                <pb facs="nb07_11_01_0025_recto.jpg"/>
+                <lg>
+                    <l n="01">[No handwriting on this page.]</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0026_text">
+                <pb facs="nb07_11_01_0026_recto.jpg"/>
+                <lg>
+                    <l n="01">   H.D.<note>Hilda Doolittle [H.D., 1886-1961] was an American poet, fiction writer, film maker, and close friend of MM. On September 12, 1920 MM and MWM spent several hours with H.D. and Bryher (Winifred Ellerman) at the Belmont Hotel in NY. Perdita is H.D.'s daughter, with Richard Aldington.</note> Sept 13, 1920  Do you like children Marianne?</l>
+                    <l n="02">   (A few.)  Of course, they're difficult.</l>
+                    <l n="03">   Her name is Perdita—English people are</l>
+                    <l n="04">   frightfully conservative about names and when I</l>
+                    <l n="05">   say her name is Perdita, if they are very much</l>
+                    <l n="06">   frightened, I say that's not really her name. Her</l>
+                    <l n="07">   name is Francis.</l>
+                    <l n="08">   Dial—Oh, is this about the bunny?</l>
+                    <l n="09">   DH. Lawrence's Bunny</l>
+                    <l n="10">         Adolf</l>
+                    <l n="11">  Mole: Its almost as if she had kidnapped a baby instead of </l>
+                    <l n="12">                                                had one    13</l>
+                </lg>
+            </div>
+            <div type="image" xml:id="nb07_11_01_0027_text">
+                <pb facs="nb07_11_01_0027_recto.jpg"/>
+                <lg>
+                    <l n="01">   September 1920  Daisy<note>Daisy Anderson, neighbor at St. Luke's Place and friend of the Moores and the Howard family.</note>—landladies at 45th St. They</l>
+                    <l n="02">   look like lidless birds of prey.</l>
+                    <l n="03">            I heard you</l>
+                    <l n="04">   Miss H.—pounding the typewriter . . . Mole. Novices like to</l>
+                    <l n="05">   talk about their work like will wimble who was jilted by a </l>
+                    <l n="06">   duchess<note>Line used “Novices” (<title>The Dial</title> February 1923); in <title>Observations</title> (1924), MM corrected this line to read “Will Honeycomb.” Both Wimble and Honeycomb were characters in Addison and Steele's <title>Spectator</title> (1711-1712), but MM mis-remembered Wimble as representing city life—perhaps because of her mother's remark.</note></l>
+                    <l n="07">                hear you've been ill? Oh yes. </l>
+                    <l n="08">   Edwin<note>Edwin Howard (1896-1982) American architect and semi-professional photographer; son of Edith Howard, who attended the St. Mary Institute with MWM in Kirkwood, MO. Sisters are Gladys and Richard. The Moores and Howards were close personal friends.</note>, I ^ went to the {unclear}Renna{/unclear} Hotel for dinner last week with </l>
+                    <l n="09">   a bunch of boys—by way of an inexpensive place to eat.</l>
+                    <l n="10">  had lobster cocktail &amp; Long Is duck and salad</l>
+                    <l n="11">  ice cream and big coffees. I thought I'd regret</l>
+                    <l n="12">  I ate it all but I thought if I didn't, it'd regret it</l>
+                    <l n="13">  more—but I didn't. Arthur was awake all night</l>
+                    <l n="14">  He gave me all the medicine in Aunt Daisy's medicine</l>
+                    <l n="15">  cabinet—I wanted him to go to sleep but he wouldn't.</l>
+                    <l n="16">  H: He groaned so terribly I couldn't.</l>
+                    <l n="17">  Camembert cheese—Edwin:  O look. Its <title>crawling</title>!</l>
+                    <l n="18">  Day View cat on grass—Daisy: Isn't that cat dreadful—</l>
+                    <l n="19">  It looks deformed—why it looks like a sea lion.</l>
+                    <l n="20"> Arthur: It looks as if it had fins, anyhow.</l>
+                    <l n="21"> <del> Edwin</del>. I thought that was funny in the Widow—</l>
+                    <l n="22">                                                                                                      large</l>
+                    <l n="23">  about the grapefruit—{unclear}aren't{/unclear} <del>oh look at</del> those ^ grapefruit?  </l>
+                    <l n="24"> It wouldn't take many of those to make a dozen would it.</l>
+                    <l n="25">  Yes. I made it up so I think its rather funny.</l>
+                    <l n="26">  We like those ignorant jokes.</l>
+                    <l n="27">  Sept. 16 ^1920^ Mr. Thayer<note>Scofield Thayer (1889-1982) American patron of the arts and publisher of the <title>Dial</title> (1919-1929); MM became the editor in 1925. She and Thayer met in 1919.</note>. I think he was <del>rude</del>s  a little </l>
+                    <l n="28">  under constraint. – Mole: He felt the newness</l>
+                    <l n="29">  of the situation badly--</l>
+                    <l n="30">  Pach. –  I   hope he has money—he is the sort</l>
+                    <l n="31">  that could never sell the {unclear}string{/unclear} he has to grip--</l>
+                    <l n="32">                                 to  the world</l>
+                    <l n="33">  there are so few of them. It hardly <title>is</title> a sort.</l>
+                    <l n="34">  Alfred—neither mind our manners—</l>
+                    <l n="35">  or MCD.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
