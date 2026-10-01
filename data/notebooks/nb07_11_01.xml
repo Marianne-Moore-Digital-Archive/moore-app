@@ -104,7 +104,7 @@
     <text>
         <body>
             <div type="image" xml:id="nb07_11_01_0001_text">
-                <pb facs="nb07_11_01_0001_recto.jpg"/>
+                <pb facs="nb07_11_01_0001_recto.jpg" xml:id="0001r"/>
                 <lg>
                     <l n="01">   <note>RML librarians write M3/250 and 1250/25 in pencil.</note>Ads—Flexide marathon belts for men</l>
                     <l n="02">              gay— gallop collapsible hand bags  Saks &amp; Co —</l>
@@ -112,7 +112,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0002_text">
-                <pb facs="nb07_11_01_0002_recto.jpg"/>
+                <pb facs="nb07_11_01_0002_recto.jpg" xml:id="0002r"/>
                 <lg>
                     <l n="01">               myself To T.C. Wilson<note>T.C. (Theodore Carl) Wilson (1912-1950) poet and critic; an acquaintance of MM.</note>  Jan 5 1935</l>
                     <l n="02">   I am earnest in wishing for my friends that a letter </l>
@@ -125,7 +125,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0003_text">
-                <pb facs="nb07_11_01_0003_recto.jpg"/>
+                <pb facs="nb07_11_01_0003_recto.jpg" xml:id="0003r"/>
                 <lg>
                     <l n="01">   I'm a quiet prisoner—women seem unfit men seem brutish</l>
                     <l n="02">  </l>
@@ -168,7 +168,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0004_text">
-                <pb facs="nb07_11_01_0004_recto.jpg"/>
+                <pb facs="nb07_11_01_0004_recto.jpg" xml:id="0004r"/>
                 <lg type="vertical">
                     <l n="v01">  See McAlmon<note>Robert McAlmon (1895-1956), American writer, poet, publisher and long-time acquaintance of MM. Mole is MWM.</note> in Mole's book</l>
                 </lg>
@@ -214,7 +214,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0005_text">
-                <pb facs="nb07_11_01_0005_recto.jpg"/>
+                <pb facs="nb07_11_01_0005_recto.jpg" xml:id="0005r"/>
                 <lg>
                     <l n="01"> Jan22 1922   </l>
                     <l n="02">   Mr. Nagle knows I'm no rude fancier—<note>Edward Nagle (1893-1963) American artist, Harvard friend of Scofield Thayer and contributor to <title>The Dial</title>.</note></l>
@@ -252,7 +252,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0006_text">
-                <pb facs="nb07_11_01_0006_recto.jpg"/>
+                <pb facs="nb07_11_01_0006_recto.jpg" xml:id="0006r"/>
                 <lg>
                     <l n="01">   B Roscoe  I liked him—I hadn't foreseen these</l>
                     <l n="02">     retossings of the old confetti.</l>
@@ -266,13 +266,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0007_text">
-                <pb facs="nb07_11_01_0007_recto.jpg"/>
+                <pb facs="nb07_11_01_0007_recto.jpg" xml:id="0007r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0008_text">
-                <pb facs="nb07_11_01_0008_recto.jpg"/>
+                <pb facs="nb07_11_01_0008_recto.jpg" xml:id="0008r"/>
                 <lg>
                     <l n="01">   May 22 1920 <note>MM &amp; MWM take Naval hospital boat through Panama Canal to California, to see Warner. This is the first of 3 trips they make across the country to see Warner, visiting him in Bremerton, WA in 1922 and 1923.</note>  Masts— //  the rich life of the earth</l>
                     <l n="02">             is still in them.</l>
@@ -302,7 +302,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0009_text">
-                <pb facs="nb07_11_01_0009_recto.jpg"/>
+                <pb facs="nb07_11_01_0009_recto.jpg" xml:id="0009r"/>
                 <lg>
                     <l n="01">          wearing           w</l>
                     <l n="02">   around with a coat ^ your name on it, you</l>
@@ -332,7 +332,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0010_text">
-                <pb facs="nb07_11_01_0010_recto.jpg"/>
+                <pb facs="nb07_11_01_0010_recto.jpg" xml:id="0010r"/>
                 <lg>
                     <l n="01">   they had a young eagle; they called it</l>
                     <l n="02">   an American rooster; it killed</l>
@@ -363,7 +363,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0011_text">
-                <pb facs="nb07_11_01_0011_recto.jpg"/>
+                <pb facs="nb07_11_01_0011_recto.jpg" xml:id="0011r"/>
                 <lg>
                     <l n="01">   out but they didn't at all.</l>
                     <l n="02">   Monkies, Alfred, Dumbell, Martine.</l>
@@ -395,7 +395,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0012_text">
-                <pb facs="nb07_11_01_0012_recto.jpg"/>
+                <pb facs="nb07_11_01_0012_recto.jpg" xml:id="0012r"/>
                 <lg>
                     <l n="01">   anyhow.</l>
                     <l n="02">     Mrs. Dorsey. The girls tease me about</l>
@@ -429,7 +429,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0013_text">
-                <pb facs="nb07_11_01_0013_recto.jpg"/>
+                <pb facs="nb07_11_01_0013_recto.jpg" xml:id="0013r"/>
                 <lg>
                     <l n="01">   to be far from a bargain  There is a pretty</l>
                     <l n="02">   cemetery but connoisseur as I am</l>
@@ -462,7 +462,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0014_text">
-                <pb facs="nb07_11_01_0014_recto.jpg"/>
+                <pb facs="nb07_11_01_0014_recto.jpg" xml:id="0014r"/>
                 <lg>
                     <l n="01">   little basket (crow's nest)  It must be awful</l>
                     <l n="02">   up there when it rains.</l>
@@ -497,7 +497,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0015_text">
-                <pb facs="nb07_11_01_0015_recto.jpg"/>
+                <pb facs="nb07_11_01_0015_recto.jpg" xml:id="0015r"/>
                 <lg>
                     <l n="01">   R H Underwood chauffeur, smoking</l>
                     <l n="02">   cigar w a bend</l>
@@ -527,7 +527,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0016_text">
-                <pb facs="nb07_11_01_0016_recto.jpg"/>
+                <pb facs="nb07_11_01_0016_recto.jpg" xml:id="0016r"/>
                 <lg>
                     <l n="01">   talks so much – <del>S</del>He said “Shut up.”) 1 (But</l>
                     <l n="02">   so fond.         Sometimes I</l>
@@ -563,7 +563,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0017_text">
-                <pb facs="nb07_11_01_0017_recto.jpg"/>
+                <pb facs="nb07_11_01_0017_recto.jpg" xml:id="0017r"/>
                 <lg>
                     <l n="01">   there and she may have to wait. There were</l>
                     <l n="02">   two of them but</l>
@@ -595,7 +595,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0018_text">
-                <pb facs="nb07_11_01_0018_recto.jpg"/>
+                <pb facs="nb07_11_01_0018_recto.jpg" xml:id="0018r"/>
                 <lg>
                     <l n="01">      Sometime in May 1920 Miss Weniger. Modern magazines—They're</l>
                     <l n="02">   just like chickweed—oh those—the Play boy and the village magazines they're</l>
@@ -626,7 +626,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0019_text">
-                <pb facs="nb07_11_01_0019_recto.jpg"/>
+                <pb facs="nb07_11_01_0019_recto.jpg" xml:id="0019r"/>
                 <lg>
                     <l n="01">   grafts.</l>
                     <l n="02">   Do the grafts make them better?</l>
@@ -658,7 +658,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0020_text">
-                <pb facs="nb07_11_01_0020_recto.jpg"/>
+                <pb facs="nb07_11_01_0020_recto.jpg" xml:id="0020r"/>
                 <lg>
                     <l n="01">   come out at night to the garbage heaps and</l>
                     <l n="02">   stood on their hind legs and how</l>
@@ -675,37 +675,37 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0021_text">
-                <pb facs="nb07_11_01_0021_recto.jpg"/>
+                <pb facs="nb07_11_01_0021_recto.jpg" xml:id="0021r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0022_text">
-                <pb facs="nb07_11_01_0022_recto.jpg"/>
+                <pb facs="nb07_11_01_0022_recto.jpg" xml:id="0022r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0023_text">
-                <pb facs="nb07_11_01_0023_recto.jpg"/>
+                <pb facs="nb07_11_01_0023_recto.jpg" xml:id="0023r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0024_text">
-                <pb facs="nb07_11_01_0024_recto.jpg"/>
+                <pb facs="nb07_11_01_0024_recto.jpg" xml:id="0024r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0025_text">
-                <pb facs="nb07_11_01_0025_recto.jpg"/>
+                <pb facs="nb07_11_01_0025_recto.jpg" xml:id="0025r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0026_text">
-                <pb facs="nb07_11_01_0026_recto.jpg"/>
+                <pb facs="nb07_11_01_0026_recto.jpg" xml:id="0026r"/>
                 <lg>
                     <l n="01">   H.D.<note>Hilda Doolittle [H.D., 1886-1961] was an American poet, fiction writer, film maker, and close friend of MM. On September 12, 1920 MM and MWM spent several hours with H.D. and Bryher (Winifred Ellerman) at the Belmont Hotel in NY. Perdita is H.D.'s daughter, with Richard Aldington.</note> Sept 13, 1920  Do you like children Marianne?</l>
                     <l n="02">   (A few.)  Of course, they're difficult.</l>
@@ -722,7 +722,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_11_01_0027_text">
-                <pb facs="nb07_11_01_0027_recto.jpg"/>
+                <pb facs="nb07_11_01_0027_recto.jpg" xml:id="0027r"/>
                 <lg>
                     <l n="01">   September 1920  Daisy<note>Daisy Anderson, neighbor at St. Luke's Place and friend of the Moores and the Howard family.</note>—landladies at 45th St. They</l>
                     <l n="02">   look like lidless birds of prey.</l>
