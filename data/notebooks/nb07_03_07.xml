@@ -109,7 +109,7 @@
     <text>
         <body>
             <div type="image" xml:id="nb07_03_07_0001_text">
-                <pb facs="nb07_03_07_0001_recto.jpg" n="0001_recto"/>
+                <pb facs="nb07_03_07_0001_recto.jpg" xml:id="p0001r"/>
                 <!--<desc>[Outside front cover.]</desc>-->
                 <lg>
                     <l n="01"/>
@@ -120,7 +120,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0002_text">
-                <pb facs="nb07_03_07_0002_verso.jpg" n="0002_verso"/>
+                <pb facs="nb07_03_07_0002_verso.jpg" xml:id="p0002v"/>
                 <!--<desc>[Inside front cover.] &amp;lt;!MM places a curly bracket to the left of lines
                 09-10.!&amp;gt;</desc>-->
                 <lg>
@@ -162,7 +162,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0003_text">
-                <pb facs="nb07_03_07_0003_recto.jpg" n="0003_recto"/>
+                <pb facs="nb07_03_07_0003_recto.jpg" xml:id="p0003r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"/>
@@ -181,7 +181,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0004_text">
-                <pb facs="nb07_03_07_0004_verso.jpg" n="0004_verso"/>
+                <pb facs="nb07_03_07_0004_verso.jpg" xml:id="p0004v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!Square brackets enclose lines 03-07 on the left
                 and 03-06 on the right.!&amp;gt;</desc>-->
                 <lg>
@@ -225,7 +225,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0005_text">
-                <pb facs="nb07_03_07_0005_recto.jpg" n="0005_recto"/>
+                <pb facs="nb07_03_07_0005_recto.jpg" xml:id="p0005r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Wells, Carolyn. <title>The Emily Emmins Papers</title> (see earlier note).</note>more magnificent statue of S. in our own Library</l>
@@ -268,7 +268,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0006_text">
-                <pb facs="nb07_03_07_0006_verso.jpg" n="0006_verso"/>
+                <pb facs="nb07_03_07_0006_verso.jpg" xml:id="p0006v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Wells, Carolyn. <title>The Emily Emmins Papers</title> (see earlier note).</note>"Where Pepys 'made mighty merry'."</l>
@@ -305,7 +305,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0007_text">
-                <pb facs="nb07_03_07_0007_recto.jpg" n="0007_recto"/>
+                <pb facs="nb07_03_07_0007_recto.jpg" xml:id="p0007r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line at line 16 runs right under the words
                 but is not underlining; the line of line 18 is double.!&amp;gt;</desc>-->
                 <lg>
@@ -342,7 +342,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0008_text">
-                <pb facs="nb07_03_07_0008_verso.jpg" n="0008_verso"/>
+                <pb facs="nb07_03_07_0008_verso.jpg" xml:id="p0008v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 26 and 28 are
                 doubled.!&amp;gt;</desc>-->
                 <lg>
@@ -380,7 +380,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0009_text">
-                <pb facs="nb07_03_07_0009_recto.jpg" n="0009_recto"/>
+                <pb facs="nb07_03_07_0009_recto.jpg" xml:id="p0009r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 11 is doubled.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Wharton, Anne H. <title>An English Honeymoon</title> (see earlier note).</note>Martineau—Coleridge, Southey, the</l>
@@ -419,7 +419,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0010_text">
-                <pb facs="nb07_03_07_0010_verso.jpg" n="0010_verso"/>
+                <pb facs="nb07_03_07_0010_verso.jpg" xml:id="p0010v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Wharton, Anne H. <title>An English Honeymoon</title> (see earlier note).</note>Barry Cornwall on Harley Street</l>
@@ -456,7 +456,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0011_text">
-                <pb facs="nb07_03_07_0011_recto.jpg" n="0011_recto"/>
+                <pb facs="nb07_03_07_0011_recto.jpg" xml:id="p0011r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!MWM draws three pyramid-like roof decorations
                 after the text on line 03. The line on line 18 is doubled and the one at line 35 is
                 wavy.!&amp;gt;</desc>-->
@@ -500,7 +500,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0012_text">
-                <pb facs="nb07_03_07_0012_verso.jpg" n="0012_verso"/>
+                <pb facs="nb07_03_07_0012_verso.jpg" xml:id="p0012v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Wharton, Anne H. <title>An English Honeymoon</title> (see earlier
@@ -542,7 +542,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0013_text">
-                <pb facs="nb07_03_07_0013_recto.jpg" n="0013_recto"/>
+                <pb facs="nb07_03_07_0013_recto.jpg" xml:id="p0013r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line drawn on line 14 is wavy. MWM places a
                 line to the left of lines 16-17.!&amp;gt;</desc>-->
                 <lg>
@@ -581,7 +581,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0014_text">
-                <pb facs="nb07_03_07_0014_verso.jpg" n="0014_verso"/>
+                <pb facs="nb07_03_07_0014_verso.jpg" xml:id="p0014v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>James, Henry. <title>English Hours</title> (see earlier note).</note>was a shelter and a point of view.</l>
@@ -621,7 +621,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0015_text">
-                <pb facs="nb07_03_07_0015_recto.jpg" n="0015_recto"/>
+                <pb facs="nb07_03_07_0015_recto.jpg" xml:id="p0015r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>James, Henry. <title>English Hours</title> (see earlier note).</note>the smoky sky."</l>
@@ -659,7 +659,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0016_text">
-                <pb facs="nb07_03_07_0016_verso.jpg" n="0016_verso"/>
+                <pb facs="nb07_03_07_0016_verso.jpg" xml:id="p0016v"/>
                 <!--<desc>[Page-level Description]&amp;lt;!MWM encloses the two phrases after "Chester" on
                 lines 01 and 02 in a left parenthesis. Lines 22 and 23 are enclosed within
                 parentheses.!&amp;gt;</desc>-->
@@ -698,7 +698,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0017_text">
-                <pb facs="nb07_03_07_0017_recto.jpg" n="0017_recto"/>
+                <pb facs="nb07_03_07_0017_recto.jpg" xml:id="p0017r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>James, Henry. <title>English Hours</title> (see earlier note).</note>and sturdily built—as if the masons had</l>
@@ -735,7 +735,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0018_text">
-                <pb facs="nb07_03_07_0018_verso.jpg" n="0018_verso"/>
+                <pb facs="nb07_03_07_0018_verso.jpg" xml:id="p0018v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 23 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>James, Henry. <title>English Hours</title> (see earlier note).</note>we have. A large appetite for holidays,</l>
@@ -773,7 +773,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0019_text">
-                <pb facs="nb07_03_07_0019_recto.jpg" n="0019_recto"/>
+                <pb facs="nb07_03_07_0019_recto.jpg" xml:id="p0019r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A square bracket is placed to the left of the
                 text on the right hand side of lines 08-11. The first underline on line 13 is
                 wavy.!&amp;gt;</desc>-->
@@ -817,7 +817,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0020_text">
-                <pb facs="nb07_03_07_0020_verso.jpg" n="0020_verso"/>
+                <pb facs="nb07_03_07_0020_verso.jpg" xml:id="p0020v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!After "Wood" on line 05 there is what seems to
                 be an erasure that has left marks. There is a ligature above the "ae" of  "Athenae"
                 on line 12.!&amp;gt;</desc>-->
@@ -858,7 +858,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0021_text">
-                <pb facs="nb07_03_07_0021_recto.jpg" n="0021_recto"/>
+                <pb facs="nb07_03_07_0021_recto.jpg" xml:id="p0021r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A curly bracket is placed to the left of lines 26
                 and 27.!&amp;gt;</desc>-->
                 <lg>
@@ -901,7 +901,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0022_text">
-                <pb facs="nb07_03_07_0022_verso.jpg" n="0022_verso"/>
+                <pb facs="nb07_03_07_0022_verso.jpg" xml:id="p0022v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Lang, Andrew. <title>Oxford</title> (see earlier note). </note>London—in the Temple where are two of the four</l>
@@ -938,7 +938,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0023_text">
-                <pb facs="nb07_03_07_0023_recto.jpg" n="0023_recto"/>
+                <pb facs="nb07_03_07_0023_recto.jpg" xml:id="p0023r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The underlining on lines 20 and 26 is
                 double.!&amp;gt;</desc>-->
                 <lg>
@@ -975,7 +975,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0024_text">
-                <pb facs="nb07_03_07_0024_verso.jpg" n="0024_verso"/>
+                <pb facs="nb07_03_07_0024_verso.jpg" xml:id="p0024v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 10 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Unsigned review. <title>Vogue</title> (see earlier note).</note>men are about as fit for flying as for thinking".</l>
@@ -1012,7 +1012,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0025_text">
-                <pb facs="nb07_03_07_0025_recto.jpg" n="0025_recto"/>
+                <pb facs="nb07_03_07_0025_recto.jpg" xml:id="p0025r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 21 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01" rend="verse"> <note>Procter, Adelaide. Hymn 290 in <title>Hymns of the Kingdom of God</title> (see earlier note).</note>That thorns remain;</l>
@@ -1049,7 +1049,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0026_text">
-                <pb facs="nb07_03_07_0026_verso.jpg" n="0026_verso"/>
+                <pb facs="nb07_03_07_0026_verso.jpg" xml:id="p0026v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 32 and 34 are connected with
                 a diagonal swoop. A vertical stroke is drawn to the left of lines 35-37, separating
                 "Newbolt" from what is under the line.!&amp;gt;</desc>-->
@@ -1094,7 +1094,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0027_text">
-                <pb facs="nb07_03_07_0027_recto.jpg" n="0027_recto"/>
+                <pb facs="nb07_03_07_0027_recto.jpg" xml:id="p0027r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">  March 20, 1919.</l>
@@ -1128,7 +1128,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0028_text">
-                <pb facs="nb07_03_07_0028_verso.jpg" n="0028_verso"/>
+                <pb facs="nb07_03_07_0028_verso.jpg" xml:id="p0028v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="prose"><note>Wharton, Edith. "The Intellectual Honesty of the French" (see earlier note).</note>intellectual honesty lead them to distrust</l>
@@ -1161,7 +1161,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0029_text">
-                <pb facs="nb07_03_07_0029_recto.jpg" n="0029_recto"/>
+                <pb facs="nb07_03_07_0029_recto.jpg" xml:id="p0029r"/>
                 <!--<desc>[Page-level Description]  </desc>-->
                 <lg>
                     <l n="01">______</l>
@@ -1202,7 +1202,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0030_text">
-                <pb facs="nb07_03_07_0030_verso.jpg" n="0030_verso"/>
+                <pb facs="nb07_03_07_0030_verso.jpg" xml:id="p0030v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A left curly bracket encloses the words following
                 the page numbers on lines 29-30.!&amp;gt;</desc>-->
                 <lg>
@@ -1239,7 +1239,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0031_text">
-                <pb facs="nb07_03_07_0031_recto.jpg" n="0031_recto"/>
+                <pb facs="nb07_03_07_0031_recto.jpg" xml:id="p0031r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A vertical line or curly bracket is drawn to the
                 left of the left parenthesis on line 29.!&amp;gt;</desc>-->
                 <lg>
@@ -1281,7 +1281,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0032_text">
-                <pb facs="nb07_03_07_0032_verso.jpg" n="0032_verso"/>
+                <pb facs="nb07_03_07_0032_verso.jpg" xml:id="p0032v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">    <note>Burke, Edmund. <title>Reflections on the Revolution in France</title> (see earlier note).</note>discredit in every way those who did not</l>
@@ -1319,7 +1319,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0033_text">
-                <pb facs="nb07_03_07_0033_recto.jpg" n="0033_recto"/>
+                <pb facs="nb07_03_07_0033_recto.jpg" xml:id="p0033r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> <note>Burke, Edmund. <title>Reflections on the Revolution in France</title> (see earlier note).</note>sing nor say. As usefully as those who</l>
@@ -1360,7 +1360,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0034_text">
-                <pb facs="nb07_03_07_0034_verso.jpg" n="0034_verso"/>
+                <pb facs="nb07_03_07_0034_verso.jpg" xml:id="p0034v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 18 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"> <note>Burke, Edmund. <title>Reflections on the Revolution in France</title> (see earlier note).</note>them; they are now involved, through a labyrinth</l>
@@ -1400,7 +1400,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0035_text">
-                <pb facs="nb07_03_07_0035_recto.jpg" n="0035_recto"/>
+                <pb facs="nb07_03_07_0035_recto.jpg" xml:id="p0035r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 10 is double. The text on lines
                 10 and following is written over an earlier transcription of the same text that was
                 washed off.!&amp;gt;</desc>-->
@@ -1443,7 +1443,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0036_text">
-                <pb facs="nb07_03_07_0036_verso.jpg" n="0036_verso"/>
+                <pb facs="nb07_03_07_0036_verso.jpg" xml:id="p0036v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">  Mr. Douglas Hyde's The Love Songs of Connacht<note>Hyde, Douglas, ed. and trans. <title>The Love Songs of Connacht Being the Fourth Chapter of the Songs of Connaught</title>. Colum refers to this collection of West Ireland songs in a note to "An Drinaun Dronn" at the end of <title>Wild  Earth</title>.</note></l>
@@ -1478,7 +1478,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0037_text">
-                <pb facs="nb07_03_07_0037_recto.jpg" n="0037_recto"/>
+                <pb facs="nb07_03_07_0037_recto.jpg" xml:id="p0037r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse">          <note>Colum, Padraic. <title>Wild Earth</title> (see earlier note).</note>Polonius and the Ballad Singers.</l>
@@ -1521,7 +1521,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0038_text">
-                <pb facs="nb07_03_07_0038_verso.jpg" n="0038_verso"/>
+                <pb facs="nb07_03_07_0038_verso.jpg" xml:id="p0038v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse">     <note>Colum, Padraic. <title>Wild Earth</title> (see earlier note).</note>Thyself, lonely in the dark,</l>
@@ -1562,7 +1562,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0039_text">
-                <pb facs="nb07_03_07_0039_recto.jpg" n="0039_recto"/>
+                <pb facs="nb07_03_07_0039_recto.jpg" xml:id="p0039r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse">   <note>Colum, Padraic. <title>Wild Earth</title> (see earlier note).</note>Those even brows, that hair like gold,</l>
@@ -1605,7 +1605,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0040_text">
-                <pb facs="nb07_03_07_0040_verso.jpg" n="0040_verso"/>
+                <pb facs="nb07_03_07_0040_verso.jpg" xml:id="p0040v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A newspaper article on New York is taped onto
                 the right-hand side of the page.!&amp;gt;</desc>-->
                 <lg>
@@ -1640,7 +1640,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0041_text">
-                <pb facs="nb07_03_07_0041_recto.jpg" n="0041_recto"/>
+                <pb facs="nb07_03_07_0041_recto.jpg" xml:id="p0041r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The parenthesis on line 14 continues into the
                 line on line 16. The line on line 20 is double.!&amp;gt;</desc>-->
                 <lg>
@@ -1675,7 +1675,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0042_text">
-                <pb facs="nb07_03_07_0042_verso.jpg" n="0042_verso"/>
+                <pb facs="nb07_03_07_0042_verso.jpg" xml:id="p0042v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Leith, Mrs. Disney . <title>Algernon Charles Swinburne</title> (see earlier note).</note>"Looking at her" little feet in a ray of</l>
@@ -1713,7 +1713,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0043_text">
-                <pb facs="nb07_03_07_0043_recto.jpg" n="0043_recto"/>
+                <pb facs="nb07_03_07_0043_recto.jpg" xml:id="p0043r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A curly bracket is placed to the left of lines
                 07-08. The lines on lines 19 and 23 are double.!&amp;gt;</desc>-->
                 <lg>
@@ -1758,7 +1758,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0044_text">
-                <pb facs="nb07_03_07_0044_verso.jpg" n="0044_verso"/>
+                <pb facs="nb07_03_07_0044_verso.jpg" xml:id="p0044v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 26 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Benson, E. F. <title>Up and Down</title> (see earlier note).</note>By dint of saying it aloud I caught the gist</l>
@@ -1790,7 +1790,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0045_text">
-                <pb facs="nb07_03_07_0045_recto.jpg" n="0045_recto"/>
+                <pb facs="nb07_03_07_0045_recto.jpg" xml:id="p0045r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> 485 Hymn in <bibl rend="begin"/>"Hymns of the Kingdom of God"</l>
@@ -1832,7 +1832,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0046_text">
-                <pb facs="nb07_03_07_0046_verso.jpg" n="0046_verso"/>
+                <pb facs="nb07_03_07_0046_verso.jpg" xml:id="p0046v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 25 is double.!&amp;gt;</desc>-->
                 <lg type="sideways">
                     <l n="v01">                Copied in December.</l>
@@ -1870,7 +1870,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0047_text">
-                <pb facs="nb07_03_07_0047_recto.jpg" n="0047_recto"/>
+                <pb facs="nb07_03_07_0047_recto.jpg" xml:id="p0047r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse">      <note>Masefield, John. <title>Reynard the Fox</title> (se earlier note).</note>New pink, white cords, &amp; glossy tops</l>
@@ -1912,7 +1912,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0048_text">
-                <pb facs="nb07_03_07_0048_verso.jpg" n="0048_verso"/>
+                <pb facs="nb07_03_07_0048_verso.jpg" xml:id="p0048v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A wavy vertical line is drawn to the left of the
                 asterisk on line 09 down to line 13. The stroke deleting "There" on line 13 is
                 continued into a line indicating a stanza break. The line on line 39 drops down
@@ -1961,7 +1961,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0049_text">
-                <pb facs="nb07_03_07_0049_recto.jpg" n="0049_recto"/>
+                <pb facs="nb07_03_07_0049_recto.jpg" xml:id="p0049r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">     <note>Robinson, E. A. "Flammonde" (see earlier note).</note>(Same volume as above)</l>
@@ -1998,7 +1998,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0050_text">
-                <pb facs="nb07_03_07_0050_verso.jpg" n="0050_verso"/>
+                <pb facs="nb07_03_07_0050_verso.jpg" xml:id="p0050v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 14 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"> ____________________________________________</l>
@@ -2034,7 +2034,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0051_text">
-                <pb facs="nb07_03_07_0051_recto.jpg" n="0051_recto"/>
+                <pb facs="nb07_03_07_0051_recto.jpg" xml:id="p0051r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 04 and 09 are
                 double.!&amp;gt;</desc>-->
                 <lg>
@@ -2076,7 +2076,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0052_text">
-                <pb facs="nb07_03_07_0052_verso.jpg" n="0052_verso"/>
+                <pb facs="nb07_03_07_0052_verso.jpg" xml:id="p0052v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Gilman, Benjamin Ives. <title>Museum Ideals</title> (see earlier note).</note>So largely is the world what the artists make of it for</l>
@@ -2115,7 +2115,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0053_text">
-                <pb facs="nb07_03_07_0053_recto.jpg" n="0053_recto"/>
+                <pb facs="nb07_03_07_0053_recto.jpg" xml:id="p0053r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Chesterton, G. K. "The New Renascence" (see earlier note).</note>symbolism of heaven and hell. I have fullest</l>
@@ -2151,7 +2151,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0054_text">
-                <pb facs="nb07_03_07_0054_verso.jpg" n="0054_verso"/>
+                <pb facs="nb07_03_07_0054_verso.jpg" xml:id="p0054v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines at lines 06 and 17 are double. The
                 bibliographical information on Housman's book on the right-hand side of lines 25-29
                 is separated from the date and title on the left-hand side with a wavy
@@ -2193,7 +2193,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0055_text">
-                <pb facs="nb07_03_07_0055_recto.jpg" n="0055_recto"/>
+                <pb facs="nb07_03_07_0055_recto.jpg" xml:id="p0055r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse"><note>Housman, Laurence. <title>Selected Poems</title> (see earlier note).</note>That thou couldst beg this boon as thy</l>
@@ -2233,7 +2233,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0056_text">
-                <pb facs="nb07_03_07_0056_verso.jpg" n="0056_verso"/>
+                <pb facs="nb07_03_07_0056_verso.jpg" xml:id="p0056v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse"><note>Housman, Laurence. <title>Selected Poems</title> (see earlier note).</note>Hailed Life in death,</l>
@@ -2273,7 +2273,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0057_text">
-                <pb facs="nb07_03_07_0057_recto.jpg" n="0057_recto"/>
+                <pb facs="nb07_03_07_0057_recto.jpg" xml:id="p0057r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 08 and 32 are
                 double.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -2315,7 +2315,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0058_text">
-                <pb facs="nb07_03_07_0058_verso.jpg" n="0058_verso"/>
+                <pb facs="nb07_03_07_0058_verso.jpg" xml:id="p0058v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">We returned to New York / August 9, 1920</l>
@@ -2351,7 +2351,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0059_text">
-                <pb facs="nb07_03_07_0059_recto.jpg" n="0059_recto"/>
+                <pb facs="nb07_03_07_0059_recto.jpg" xml:id="p0059r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A curving line separates the date on the left of
                 lines 03-04 from the date on line 05.!&amp;gt;</desc>-->
                 <lg>
@@ -2383,7 +2383,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0060_text">
-                <pb facs="nb07_03_07_0060_verso.jpg" n="0060_verso"/>
+                <pb facs="nb07_03_07_0060_verso.jpg" xml:id="p0060v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The underlining on line 03 is
                 double.!&amp;gt;</desc>-->
                 <lg>
@@ -2421,7 +2421,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0061_text">
-                <pb facs="nb07_03_07_0061_recto.jpg" n="0061_recto"/>
+                <pb facs="nb07_03_07_0061_recto.jpg" xml:id="p0061r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 22 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01">  From <bibl rend="begin"/>Willie Benét's<note target="benét">Benét, William Rose [1886-1950]. American poet, literary critic, and editor of <hi rend="italics">The Literary Review</hi>.</note> paper "The Literary Review"—Jan. 22, 1921</l>
@@ -2458,7 +2458,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0062_text">
-                <pb facs="nb07_03_07_0062_verso.jpg" n="0062_verso"/>
+                <pb facs="nb07_03_07_0062_verso.jpg" xml:id="p0062v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The underlining of line 01 has a vertical upward
                 stroke on the left. The stroke and underlining of line 08 are wavy.!&amp;gt;</desc>-->
                 <lg>
@@ -2494,7 +2494,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0063_text">
-                <pb facs="nb07_03_07_0063_recto.jpg" n="0063_recto"/>
+                <pb facs="nb07_03_07_0063_recto.jpg" xml:id="p0063r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A contoured line is drawn around the publication
                 information on lines 16-18.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -2531,7 +2531,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0064_text">
-                <pb facs="nb07_03_07_0064_verso.jpg" n="0064_verso"/>
+                <pb facs="nb07_03_07_0064_verso.jpg" xml:id="p0064v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">Perhaps this is is very soft fibre.</l>
@@ -2572,7 +2572,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0065_text">
-                <pb facs="nb07_03_07_0065_recto.jpg" n="0065_recto"/>
+                <pb facs="nb07_03_07_0065_recto.jpg" xml:id="p0065r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 15 is double. A vertical line
                 is drawn between the numbers on the left and the following text on lines
                 18-21.!&amp;gt;</desc>-->
@@ -2606,7 +2606,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0066_text">
-                <pb facs="nb07_03_07_0066_verso.jpg" n="0066_verso"/>
+                <pb facs="nb07_03_07_0066_verso.jpg" xml:id="p0066v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Van Doren, Mark. "Women of Wit" (see earlier note).</note>would have prized them well. Twentieth-</l>
@@ -2637,7 +2637,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0067_text">
-                <pb facs="nb07_03_07_0067_recto.jpg" n="0067_recto"/>
+                <pb facs="nb07_03_07_0067_recto.jpg" xml:id="p0067r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!Left parentheses extend as lines under lines 03,
                 06, 10, 13. The line on line 20 is double.!&amp;gt;</desc>-->
                 <lg>
@@ -2672,7 +2672,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0068_text">
-                <pb facs="nb07_03_07_0068_verso.jpg" n="0068_verso"/>
+                <pb facs="nb07_03_07_0068_verso.jpg" xml:id="p0068v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 08 and 16 are double. The
                 lines on lines 18 and 25 conclude with a vertical stroke upwards to the lines (at
                 lines 16 and 22) across the page. The "s" on line 26 is crossed out in
@@ -2712,7 +2712,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0069_text">
-                <pb facs="nb07_03_07_0069_recto.jpg" n="0069_recto"/>
+                <pb facs="nb07_03_07_0069_recto.jpg" xml:id="p0069r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">            March 15, 1922                                   March 9, 1922   </l>
@@ -2751,7 +2751,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0070_text">
-                <pb facs="nb07_03_07_0070_verso.jpg" n="0070_verso"/>
+                <pb facs="nb07_03_07_0070_verso.jpg" xml:id="p0070v"/>
                 <!--<desc>[Page-level Description] </desc>-->
                 <lg>
                     <lg>
@@ -2795,7 +2795,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0071_text">
-                <pb facs="nb07_03_07_0071_recto.jpg" n="0071_recto"/>
+                <pb facs="nb07_03_07_0071_recto.jpg" xml:id="p0071r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The stroke at the beginning of line 05 is
                 wavy.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -2835,7 +2835,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0072_text">
-                <pb facs="nb07_03_07_0072_verso.jpg" n="0072_verso"/>
+                <pb facs="nb07_03_07_0072_verso.jpg" xml:id="p0072v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 13 is double.!&amp;gt;</desc>-->
                 <lg>
                     <lg>
@@ -2872,7 +2872,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0073_text">
-                <pb facs="nb07_03_07_0073_recto.jpg" n="0073_recto"/>
+                <pb facs="nb07_03_07_0073_recto.jpg" xml:id="p0073r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">  <note>Newton, Edward A. <title>A Magnificent Farce</title> (see earlier note).</note>p 58. "Why did I not buy it? I should</l>
@@ -2907,7 +2907,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0074_text">
-                <pb facs="nb07_03_07_0074_verso.jpg" n="0074_verso"/>
+                <pb facs="nb07_03_07_0074_verso.jpg" xml:id="p0074v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 14 is double.!&amp;gt;</desc>-->
                 <lg>
                     <lg>
@@ -2940,7 +2940,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0075_text">
-                <pb facs="nb07_03_07_0075_recto.jpg" n="0075_recto"/>
+                <pb facs="nb07_03_07_0075_recto.jpg" xml:id="p0075r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!Newspaper insert in top left
                 corner.!&amp;gt;</desc>-->
                 <lg>
@@ -2977,7 +2977,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0076_text">
-                <pb facs="nb07_03_07_0076_verso.jpg" n="0076_verso"/>
+                <pb facs="nb07_03_07_0076_verso.jpg" xml:id="p0076v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Burroughs, John. <title>My Boyhood</title> (see earlier note).</note>clarifies the reason, stirs the conscience, and</l>
@@ -3011,7 +3011,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0077_text">
-                <pb facs="nb07_03_07_0077_recto.jpg" n="0077_recto"/>
+                <pb facs="nb07_03_07_0077_recto.jpg" xml:id="p0077r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 06 and 12 are
                 double.!&amp;gt;</desc>-->
                 <lg>
@@ -3066,7 +3066,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0078_text">
-                <pb facs="nb07_03_07_0078_verso.jpg" n="0078_verso"/>
+                <pb facs="nb07_03_07_0078_verso.jpg" xml:id="p0078v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A a curved line encloses the date on the top
                 left corner.!&amp;gt;</desc>-->
                 <lg>
@@ -3100,7 +3100,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0079_text">
-                <pb facs="nb07_03_07_0079_recto.jpg" n="0079_recto"/>
+                <pb facs="nb07_03_07_0079_recto.jpg" xml:id="p0079r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The parentheses on line 14 also include the
                 additions below on lines 15 and 16.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -3141,7 +3141,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0080_text">
-                <pb facs="nb07_03_07_0080_verso.jpg" n="0080_verso"/>
+                <pb facs="nb07_03_07_0080_verso.jpg" xml:id="p0080v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Sherman, Stuart P. "Point of View" (see earlier note).</note>champions I have been quoting.'</l>
@@ -3179,7 +3179,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0081_text">
-                <pb facs="nb07_03_07_0081_recto.jpg" n="0081_recto"/>
+                <pb facs="nb07_03_07_0081_recto.jpg" xml:id="p0081r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 22 curves upward at either end
                 to meet the line on line 20 and enclose the phrase before the date.!&amp;gt;</desc>-->
                 <lg>
@@ -3214,7 +3214,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0082_text">
-                <pb facs="nb07_03_07_0082_verso.jpg" n="0082_verso"/>
+                <pb facs="nb07_03_07_0082_verso.jpg" xml:id="p0082v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 19 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><bibl rend="begin"/>Forum for     Stolen Fire. Margaret Widdemar<note>Widdemer, Margaret. "Stolen Fire." <title>The Forum</title> 69 (January 1923): 1107.</note><note target="widdemer">Widdemer, Margaret [1884-1978]. American poet.</note></l>
@@ -3252,7 +3252,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0083_text">
-                <pb facs="nb07_03_07_0083_recto.jpg" n="0083_recto"/>
+                <pb facs="nb07_03_07_0083_recto.jpg" xml:id="p0083r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse"> <note>[Chalmers, Patrick R.] "The Little Young Lambs" (see earlier note).</note>Oh, he piped 'em a derry down derry,</l>
@@ -3288,7 +3288,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0084_text">
-                <pb facs="nb07_03_07_0084_verso.jpg" n="0084_verso"/>
+                <pb facs="nb07_03_07_0084_verso.jpg" xml:id="p0084v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!On line 9 "In the Subway" is circled. The line
                 on line 11 is doubled.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -3329,7 +3329,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0085_text">
-                <pb facs="nb07_03_07_0085_recto.jpg" n="0085_recto"/>
+                <pb facs="nb07_03_07_0085_recto.jpg" xml:id="p0085r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 03 curves up at the end to
                 enclose the date. The line on line 07 is double.!&amp;gt;</desc>-->
                 <lg>
@@ -3368,7 +3368,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0086_text">
-                <pb facs="nb07_03_07_0086_verso.jpg" n="0086_verso"/>
+                <pb facs="nb07_03_07_0086_verso.jpg" xml:id="p0086v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 12 and 19 are double. MWM
                 draws a four-leaf clover on the right-hand side of the text on lines
                 24-26.!&amp;gt;</desc>-->
@@ -3405,7 +3405,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0087_text">
-                <pb facs="nb07_03_07_0087_recto.jpg" n="0087_recto"/>
+                <pb facs="nb07_03_07_0087_recto.jpg" xml:id="p0087r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Simonson, Lucy Clarke. "Nature and Human Nature" (see earlier note).</note>A farmer and his wife separated because of a</l>
@@ -3440,7 +3440,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0088_text">
-                <pb facs="nb07_03_07_0088_verso.jpg" n="0088_verso"/>
+                <pb facs="nb07_03_07_0088_verso.jpg" xml:id="p0088v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A parenthesis is drawn to the left of the title
                 and date on lines 04-05.! A wavy line is drawn at an angle to the left of the title
                 on lines 19-20, concluding with the line on line 21.!&amp;gt;&amp;gt;</desc>-->
@@ -3478,7 +3478,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0089_text">
-                <pb facs="nb07_03_07_0089_recto.jpg" n="0089_recto"/>
+                <pb facs="nb07_03_07_0089_recto.jpg" xml:id="p0089r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 18 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01" rend="verse">   <note>Slosson, Edwin E. "The Influence of the Sugar Power in History" (see earlier note).</note>Nature and man can never be fast friends,</l>
@@ -3513,7 +3513,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0090_text">
-                <pb facs="nb07_03_07_0090_verso.jpg" n="0090_verso"/>
+                <pb facs="nb07_03_07_0090_verso.jpg" xml:id="p0090v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 08, 14 and 19 are
                 double,!&amp;gt;</desc>-->
                 <lg>
@@ -3550,7 +3550,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0091_text">
-                <pb facs="nb07_03_07_0091_recto.jpg" n="0091_recto"/>
+                <pb facs="nb07_03_07_0091_recto.jpg" xml:id="p0091r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A parentheses is placed to the left of the text
                 and after the page number on lines 08-09.!&amp;gt;</desc>-->
                 <lg>
@@ -3592,7 +3592,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0092_text">
-                <pb facs="nb07_03_07_0092_verso.jpg" n="0092_verso"/>
+                <pb facs="nb07_03_07_0092_verso.jpg" xml:id="p0092v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <lg>
@@ -3635,7 +3635,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0093_text">
-                <pb facs="nb07_03_07_0093_recto.jpg" n="0093_recto"/>
+                <pb facs="nb07_03_07_0093_recto.jpg" xml:id="p0093r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">208 <note>Hardy, Thomas. <title>A Laodicean</title> (see earlier note).</note>It was the darkest of November weather, when</l>
@@ -3674,7 +3674,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0094_text">
-                <pb facs="nb07_03_07_0094_verso.jpg" n="0094_verso"/>
+                <pb facs="nb07_03_07_0094_verso.jpg" xml:id="p0094v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 19 is double.!&amp;gt;</desc>-->
                 <lg>
                     <lg>
@@ -3715,7 +3715,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0095_text">
-                <pb facs="nb07_03_07_0095_recto.jpg" n="0095_recto"/>
+                <pb facs="nb07_03_07_0095_recto.jpg" xml:id="p0095r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 19 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01">                                      1924</l>
@@ -3754,7 +3754,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0096_text">
-                <pb facs="nb07_03_07_0096_verso.jpg" n="0096_verso"/>
+                <pb facs="nb07_03_07_0096_verso.jpg" xml:id="p0096v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 13 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Williams-Ellis, A. "Animal Kingdom" (see earlier note).</note>had come to its invariable, stupid, humiliating</l>
@@ -3792,7 +3792,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0097_text">
-                <pb facs="nb07_03_07_0097_recto.jpg" n="0097_recto"/>
+                <pb facs="nb07_03_07_0097_recto.jpg" xml:id="p0097r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A wavy vertical stroke is placed after the date
                 and the number on lines 22-23.!&amp;gt;</desc>-->
                 <lg>
@@ -3833,7 +3833,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0098_text">
-                <pb facs="nb07_03_07_0098_verso.jpg" n="0098_verso"/>
+                <pb facs="nb07_03_07_0098_verso.jpg" xml:id="p0098v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">   <note>Bok, Edward W. "When Money is King" (see earlier note).</note>then questionings, and the fall of the house</l>
@@ -3869,7 +3869,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0099_text">
-                <pb facs="nb07_03_07_0099_recto.jpg" n="0099_recto"/>
+                <pb facs="nb07_03_07_0099_recto.jpg" xml:id="p0099r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> Oct. 26, 1924.</l>
@@ -3904,7 +3904,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0100_text">
-                <pb facs="nb07_03_07_0100_verso.jpg" n="0100_verso"/>
+                <pb facs="nb07_03_07_0100_verso.jpg" xml:id="p0100v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The underlining on lines 03 and 04 are doubled,
                 in the first case with a wavy line.!&amp;gt;</desc>-->
                 <lg>
@@ -3942,7 +3942,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0101_text">
-                <pb facs="nb07_03_07_0101_recto.jpg" n="0101_recto"/>
+                <pb facs="nb07_03_07_0101_recto.jpg" xml:id="p0101r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">  <note>Waite, A. E. <title>Lamps of Western Mysticism</title> (see earlier note).</note>Matthew Arnold says to leave the cross</l>
@@ -3981,7 +3981,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0102_text">
-                <pb facs="nb07_03_07_0102_verso.jpg" n="0102_verso"/>
+                <pb facs="nb07_03_07_0102_verso.jpg" xml:id="p0102v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Waite, A. E. <title>Lamps of Western Mysticism</title> (see earlier note).</note>otherwise to abide in separation. The</l>
@@ -4019,7 +4019,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0103_text">
-                <pb facs="nb07_03_07_0103_recto.jpg" n="0103_recto"/>
+                <pb facs="nb07_03_07_0103_recto.jpg" xml:id="p0103r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> <note>Waite, Arthur Edward. <title>Lamps of Western Mysticism</title> (see earlier note).</note>If the Kingdom of Heaven is found</l>
@@ -4058,7 +4058,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0104_text">
-                <pb facs="nb07_03_07_0104_verso.jpg" n="0104_verso"/>
+                <pb facs="nb07_03_07_0104_verso.jpg" xml:id="p0104v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 20 and 28 conclude with a
                 vertical upward stroke to contain the names within a rectangle. The line on line 36
                 is double.!&amp;gt;</desc>-->
@@ -4101,7 +4101,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0105_text">
-                <pb facs="nb07_03_07_0105_recto.jpg" n="0105_recto"/>
+                <pb facs="nb07_03_07_0105_recto.jpg" xml:id="p0105r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">        The Man Nobody Knows </l>
@@ -4135,7 +4135,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0106_text">
-                <pb facs="nb07_03_07_0106_verso.jpg" n="0106_verso"/>
+                <pb facs="nb07_03_07_0106_verso.jpg" xml:id="p0106v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 19 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01">    Christmas 1924. <bibl rend="begin"/><hi rend="underline">Lies<bibl rend="end"/></hi><note>Studdert Kennedy, G. A. <title>Lies!</title> (New York : George H. Doran, 1909).</note><note target="studdert">Studdert Kennedy, Geoffrey Anketell [1883-1929]. English Anglican priest; chaplain at the Western Front in First World War.</note></l>
@@ -4169,7 +4169,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0107_text">
-                <pb facs="nb07_03_07_0107_recto.jpg" n="0107_recto"/>
+                <pb facs="nb07_03_07_0107_recto.jpg" xml:id="p0107r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A vertical line or curly bracket drawn to the
                 left of lines 08-11 ends in a rightward stroke under the first word of line 11. The
                 line on line 16 is double.!&amp;gt;</desc>-->
@@ -4204,7 +4204,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0108_text">
-                <pb facs="nb07_03_07_0108_verso.jpg" n="0108_verso"/>
+                <pb facs="nb07_03_07_0108_verso.jpg" xml:id="p0108v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> May 20. <bibl rend="begin"/>Outlook, 1925.<bibl rend="end"/><note>[Unsigned.] "Our Guest, the Dean." A prefatory editorial comment to P. W. Wilson's article in the same issue: "Dean Inge: Fortunate Apostle of Gloom." <title>The Outlook: An Illustrated Weekly of Current Life</title> 140:3 (May 20, 1925).</note></l>
@@ -4213,7 +4213,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0109_text">
-                <pb facs="nb07_03_07_0109_recto.jpg" n="0109_recto"/>
+                <pb facs="nb07_03_07_0109_recto.jpg" xml:id="p0109r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 28 is double. The parenthesis
                 on line 30 continues rightward under "1925" to the right margin.!&amp;gt;</desc>-->
                 <lg>
@@ -4256,7 +4256,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0110_text">
-                <pb facs="nb07_03_07_0110_verso.jpg" n="0110_verso"/>
+                <pb facs="nb07_03_07_0110_verso.jpg" xml:id="p0110v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 20 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"> <note>The first nineteen lines of this page are in MM's handwriting.</note><hi rend="pencilbegin"/>From <bibl rend="begin"/>Walter Hayward N. Y. Times Feb. 14, 1926<bibl rend="begin"/><note>Hayward, Walter B. "Wintry Atlantic Tests Man's Courage." <title>New York <hi rend="italics">Times</hi></title> (February 6, 1926).</note></l>
@@ -4294,7 +4294,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0111_text">
-                <pb facs="nb07_03_07_0111_recto.jpg" n="0111_recto"/>
+                <pb facs="nb07_03_07_0111_recto.jpg" xml:id="p0111r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on line 14 are double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"> <note>Watson, Blanche, ed. <title>Gandhi And Non-Violent Resistance</title> (see earlier note).</note>p 237 "Free from the fear of kings, people, caste,</l>
@@ -4329,7 +4329,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0112_text">
-                <pb facs="nb07_03_07_0112_verso.jpg" n="0112_verso"/>
+                <pb facs="nb07_03_07_0112_verso.jpg" xml:id="p0112v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> <note>Griffiths, William. "A Prayer for a Friend Out of Sight" (see earlier note).</note>and grant us a sense of her nearness, in such</l>
@@ -4365,7 +4365,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0113_text">
-                <pb facs="nb07_03_07_0113_recto.jpg" n="0113_recto"/>
+                <pb facs="nb07_03_07_0113_recto.jpg" xml:id="p0113r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A vertical stroke to the left of the title and
                 date on lines 01-02 continues into a line to the right edge of the
                 page.!&amp;gt;</desc>-->
@@ -4407,7 +4407,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0114_text">
-                <pb facs="nb07_03_07_0114_verso.jpg" n="0114_verso"/>
+                <pb facs="nb07_03_07_0114_verso.jpg" xml:id="p0114v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A square bracket is placed to the left of lines
                 08-15.!&amp;gt;</desc>-->
                 <lg>
@@ -4446,7 +4446,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0115_text">
-                <pb facs="nb07_03_07_0115_recto.jpg" n="0115_recto"/>
+                <pb facs="nb07_03_07_0115_recto.jpg" xml:id="p0115r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 03 and 06 are double. The
                 line on line 08 concludes in a vertical stroke up to the double line on line
                 06.!&amp;gt;</desc>-->
@@ -4487,7 +4487,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0116_text">
-                <pb facs="nb07_03_07_0116_verso.jpg" n="0116_verso"/>
+                <pb facs="nb07_03_07_0116_verso.jpg" xml:id="p0116v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Barker, Virgil. "A Trans-Atlantic Chronicle" (see earlier note).</note>imagined to fit into the sort of life which must even</l>
@@ -4541,7 +4541,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0117_text">
-                <pb facs="nb07_03_07_0117_recto.jpg" n="0117_recto"/>
+                <pb facs="nb07_03_07_0117_recto.jpg" xml:id="p0117r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The lines on lines 11 and 28 are
                 double.!&amp;gt;</desc>-->
                 <lg>
@@ -4596,7 +4596,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0118_text">
-                <pb facs="nb07_03_07_0118_verso.jpg" n="0118_verso"/>
+                <pb facs="nb07_03_07_0118_verso.jpg" xml:id="p0118v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 08 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>"Our Booking Office" (see earlier note).</note>for pirates."</l>
@@ -4632,7 +4632,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0119_text">
-                <pb facs="nb07_03_07_0119_recto.jpg" n="0119_recto"/>
+                <pb facs="nb07_03_07_0119_recto.jpg" xml:id="p0119r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 14 is double. A wavy vertical
                 line is drawn to the left of the quotation on lines 17-21.!&amp;gt;</desc>-->
                 <lg>
@@ -4668,7 +4668,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0120_text">
-                <pb facs="nb07_03_07_0120_verso.jpg" n="0120_verso"/>
+                <pb facs="nb07_03_07_0120_verso.jpg" xml:id="p0120v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">  Medieval Architecture p. 7 of</l>
@@ -4704,7 +4704,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0121_text">
-                <pb facs="nb07_03_07_0121_recto.jpg" n="0121_recto"/>
+                <pb facs="nb07_03_07_0121_recto.jpg" xml:id="p0121r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">     From <bibl rend="begin"/>the Spectator of Jan. 22, 1927<bibl rend="end"/></l>
@@ -4739,7 +4739,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0122_text">
-                <pb facs="nb07_03_07_0122_verso.jpg" n="0122_verso"/>
+                <pb facs="nb07_03_07_0122_verso.jpg" xml:id="p0122v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><bibl rend="begin"/>N. Y. Times of</l>
@@ -4777,7 +4777,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0123_text">
-                <pb facs="nb07_03_07_0123_recto.jpg" n="0123_recto"/>
+                <pb facs="nb07_03_07_0123_recto.jpg" xml:id="p0123r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">   <bibl rend="begin"/>Current Events April 25, 1927<bibl rend="end"/><note>Probably the weekly paper for secondary school children published by the American Education Press since 1902.</note></l>
@@ -4811,7 +4811,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0124_text">
-                <pb facs="nb07_03_07_0124_verso.jpg" n="0124_verso"/>
+                <pb facs="nb07_03_07_0124_verso.jpg" xml:id="p0124v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 32 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Croce, Benedetto. <title>An Autobiography</title> (see earlier note). </note>person the falsity of that pedagogic theory</l>
@@ -4846,7 +4846,7 @@
                 <lg type="vertical"> </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0125_text">
-                <pb facs="nb07_03_07_0125_recto.jpg" n="0125_recto"/>
+                <pb facs="nb07_03_07_0125_recto.jpg" xml:id="p0125r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!Wavering vertical lines are drawn to the left of
                 each column on lines 01-05.!&amp;gt;</desc>-->
                 <lg>
@@ -4887,7 +4887,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0126_text">
-                <pb facs="nb07_03_07_0126_verso.jpg" n="0126_verso"/>
+                <pb facs="nb07_03_07_0126_verso.jpg" xml:id="p0126v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A ligature connects the "a" and "e" of
                 "Athenaeum."!&amp;gt;</desc>-->
                 <lg>
@@ -4926,7 +4926,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0127_text">
-                <pb facs="nb07_03_07_0127_recto.jpg" n="0127_recto"/>
+                <pb facs="nb07_03_07_0127_recto.jpg" xml:id="p0127r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01" rend="verse"><note>Coffin and Vernon. <title>Hymns of the Kingdom of God</title> (see earlier note). </note>No peace my wand’ring soul shall see;</l>
@@ -4964,7 +4964,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0128_text">
-                <pb facs="nb07_03_07_0128_verso.jpg" n="0128_verso"/>
+                <pb facs="nb07_03_07_0128_verso.jpg" xml:id="p0128v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> <note>This page is in MM's handwriting.</note>Douglas L Martyn</l>
@@ -4996,7 +4996,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0129_text">
-                <pb facs="nb07_03_07_0129_recto.jpg" n="0129_recto"/>
+                <pb facs="nb07_03_07_0129_recto.jpg" xml:id="p0129r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"> <note>Lubbock, Percy. <title>The Region Cloud</title> (see earlier note).</note>_________</l>
@@ -5030,7 +5030,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0130_text">
-                <pb facs="nb07_03_07_0130_verso.jpg" n="0130_verso"/>
+                <pb facs="nb07_03_07_0130_verso.jpg" xml:id="p0130v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A vertical stroke is placed to the left of the
                 text on lines 08-10.!&amp;gt;</desc>-->
                 <lg>
@@ -5067,7 +5067,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0131_text">
-                <pb facs="nb07_03_07_0131_recto.jpg" n="0131_recto"/>
+                <pb facs="nb07_03_07_0131_recto.jpg" xml:id="p0131r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Riggs, Austen Fox. <title>Intelligent Living</title> (see earlier note). All but that last two lines on this page are in MM's handwriting.</note>to generation, it seems, is marked in just</l>
@@ -5093,7 +5093,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0132_text">
-                <pb facs="nb07_03_07_0132_verso.jpg" n="0132_verso"/>
+                <pb facs="nb07_03_07_0132_verso.jpg" xml:id="p0132v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The parentheses on line 09 include the name
                 above on line 08.!&amp;gt;</desc>-->
                 <lg type="sideways">
@@ -5143,7 +5143,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0133_text">
-                <pb facs="nb07_03_07_0133_recto.jpg" n="0133_recto"/>
+                <pb facs="nb07_03_07_0133_recto.jpg" xml:id="p0133r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A wavering parenthesis is placed to the left of
                 lines 02-05 and one is placed to the left of lines 07-08. A parenthesis is placed to
                 the left of the column of text on the right of lines 21 and 22. The parenthesis on
@@ -5194,7 +5194,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0134_text">
-                <pb facs="nb07_03_07_0134_verso.jpg" n="0134_verso"/>
+                <pb facs="nb07_03_07_0134_verso.jpg" xml:id="p0134v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">            Owen Davis in his book <hi rend="underline">I'd like</hi></l>
@@ -5234,7 +5234,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0135_text">
-                <pb facs="nb07_03_07_0135_recto.jpg" n="0135_recto"/>
+                <pb facs="nb07_03_07_0135_recto.jpg" xml:id="p0135r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">        Copied May 26, 1931</l>
@@ -5276,7 +5276,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0136_text">
-                <pb facs="nb07_03_07_0136_verso.jpg" n="0136_verso"/>
+                <pb facs="nb07_03_07_0136_verso.jpg" xml:id="p0136v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Church, Richard."The Prince of Journalists" (see earlier note).</note>enriched &amp; enlivened by immortal comparisons.</l>
@@ -5314,7 +5314,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0137_text">
-                <pb facs="nb07_03_07_0137_recto.jpg" n="0137_recto"/>
+                <pb facs="nb07_03_07_0137_recto.jpg" xml:id="p0137r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Church, Richard."The Prince of Journalists" (see earlier note). </note>wonder that Keats attending Hazlitt's lectures,</l>
@@ -5355,7 +5355,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0138_text">
-                <pb facs="nb07_03_07_0138_verso.jpg" n="0138_verso"/>
+                <pb facs="nb07_03_07_0138_verso.jpg" xml:id="p0138v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg type="sideways">
                     <l n="v01">                                                                        May 26, 1931</l>
@@ -5397,7 +5397,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0139_text">
-                <pb facs="nb07_03_07_0139_recto.jpg" n="0139_recto"/>
+                <pb facs="nb07_03_07_0139_recto.jpg" xml:id="p0139r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Chesterton, G. K. "Our Note Book" (see earlier note).</note>from being crude, even when they were new.</l>
@@ -5435,7 +5435,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0140_text">
-                <pb facs="nb07_03_07_0140_verso.jpg" n="0140_verso"/>
+                <pb facs="nb07_03_07_0140_verso.jpg" xml:id="p0140v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The date on lines 35 and 36 is enclosed with a
                 half circle.!&amp;gt;</desc>-->
                 <lg>
@@ -5482,7 +5482,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0141_text">
-                <pb facs="nb07_03_07_0141_recto.jpg" n="0141_recto"/>
+                <pb facs="nb07_03_07_0141_recto.jpg" xml:id="p0141r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The underlining on line 07 continues into a
                 rectangle around the word.!&amp;gt;</desc>-->
                 <lg>
@@ -5525,7 +5525,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0142_text">
-                <pb facs="nb07_03_07_0142_verso.jpg" n="0142_verso"/>
+                <pb facs="nb07_03_07_0142_verso.jpg" xml:id="p0142v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 26 is double.!&amp;gt;</desc>-->
                 <lg>
                     <l n="01"><note>Eberlein, Harold D. <title>Little Known England</title> (see earlier note).</note>more noble, so many gates it has, some whereof are</l>
@@ -5558,7 +5558,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0143_text">
-                <pb facs="nb07_03_07_0143_recto.jpg" n="0143_recto"/>
+                <pb facs="nb07_03_07_0143_recto.jpg" xml:id="p0143r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!Within the four points of the numbers on lines
                 02 and 05 is a drawing of what appears to be an owl.!&amp;gt;</desc>-->
                 <lg>
@@ -5593,7 +5593,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0144_text">
-                <pb facs="nb07_03_07_0144_verso.jpg" n="0144_verso"/>
+                <pb facs="nb07_03_07_0144_verso.jpg" xml:id="p0144v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Benson, E. F. <title>Henry James: Letters to A. C. Benson and Auguste Monod</title> (see earlier note).</note>In your so romantic home you give so much</l>
@@ -5633,7 +5633,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0145_text">
-                <pb facs="nb07_03_07_0145_recto.jpg" n="0145_recto"/>
+                <pb facs="nb07_03_07_0145_recto.jpg" xml:id="p0145r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Benson, E. F. <title>Henry James: Letters to A. C. Benson and Auguste Monod</title> (see earlier note).</note>my visit to Addington? and the noble</l>
@@ -5673,7 +5673,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0146_text">
-                <pb facs="nb07_03_07_0146_verso.jpg" n="0146_verso"/>
+                <pb facs="nb07_03_07_0146_verso.jpg" xml:id="p0146v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01"><note>Benson, E. F. <title>Henry James: Letters to A. C. Benson and Auguste Monod</title> (see earlier note).</note>pray my sympathy may reach you. You are</l>
@@ -5711,7 +5711,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0147_text">
-                <pb facs="nb07_03_07_0147_recto.jpg" n="0147_recto"/>
+                <pb facs="nb07_03_07_0147_recto.jpg" xml:id="p0147r"/>
                 <!--<desc>[Page-level Description] &amp;lt;!A left parenthesis is placed to the left of the
                 text on lines 18-20.!&amp;gt;</desc>-->
                 <lg>
@@ -5759,7 +5759,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0148_text">
-                <pb facs="nb07_03_07_0148_verso.jpg" n="0148_verso"/>
+                <pb facs="nb07_03_07_0148_verso.jpg" xml:id="p0148v"/>
                 <!--<desc>[Page-level Description] &amp;lt;!The line on line 02 curves up at the right end
                 to meet the top of the page. The line on line 07 passes under and through the date.
                 The line on line 11 curves up at either end as parentheses.!&amp;gt;</desc>-->
@@ -5796,7 +5796,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0149_text">
-                <pb facs="nb07_03_07_0149_recto.jpg" n="0149_recto"/>
+                <pb facs="nb07_03_07_0149_recto.jpg" xml:id="p0149r"/>
                 <!--<desc>[Page-level Description]  </desc>-->
                 <lg>
                     <l n="01">  <note>"Atheism is to Be Punished As a Crime in Germany." <title>The Literary Digest International Book Review</title> 112 (see earlier note).</note>worships be granted to all men in all nations</l>
@@ -5836,7 +5836,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0150_text">
-                <pb facs="nb07_03_07_0150_verso.jpg" n="0150_verso"/>
+                <pb facs="nb07_03_07_0150_verso.jpg" xml:id="p0150v"/>
                 <!--<desc>[Page-level Description] <desc>&amp;lt;!A parenthesis is placed to the left of the
                     title and date on lines 13-14.!&amp;gt;</desc></desc>-->
                 <lg>
@@ -5858,91 +5858,91 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0151_text">
-                <pb facs="nb07_03_07_0151_recto.jpg" n="0151_recto"/>
+                <pb facs="nb07_03_07_0151_recto.jpg" xml:id="p0151r"/>
                 <!--<desc>[Inside back cover. No writing on this page]</desc>-->
                 <lg>
                     <l n="01">[Inside back cover. No writing on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0152_text">
-                <pb facs="nb07_03_07_0152_verso.jpg" n="0152_verso"/>
+                <pb facs="nb07_03_07_0152_verso.jpg" xml:id="p0152v"/>
                 <!--<desc>[Back cover. No writing.]</desc>-->
                 <lg>
                     <l n="01">[Back cover. No writing on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0153_text">
-                <pb facs="nb07_03_07_0153_recto.jpg" n="0153_recto"/>
+                <pb facs="nb07_03_07_0153_recto.jpg" xml:id="p0153r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure in front cover.]<note>This appears to be a sewing pattern for a collar.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0154_text">
-                <pb facs="nb07_03_07_0154_verso.jpg" n="0154_verso"/>
+                <pb facs="nb07_03_07_0154_verso.jpg" xml:id="p0154v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 35r.]<note>Reverend Edwin Alfred Rumball (1881-1954). Former minister of First Unitarian Church in Rochester, N.Y., later known as an authority on rare Bibles as A. R. Rumball-Petre.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0155_text">
-                <pb facs="nb07_03_07_0155_recto.jpg" n="0155_recto"/>
+                <pb facs="nb07_03_07_0155_recto.jpg" xml:id="p0155r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure taped to 40v.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0156_text">
-                <pb facs="nb07_03_07_0156_verso.jpg" n="0156_verso"/>
+                <pb facs="nb07_03_07_0156_verso.jpg" xml:id="p0156v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 45r.]<note>From New York Times, Dec. 4, 1927.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0157_text">
-                <pb facs="nb07_03_07_0157_recto.jpg" n="0157_recto"/>
+                <pb facs="nb07_03_07_0157_recto.jpg" xml:id="p0157r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 61r.]<note>Brooklyn Eagle, Feb. 17, 1947, p. 5.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0158_text">
-                <pb facs="nb07_03_07_0158_verso.jpg" n="0158_verso"/>
+                <pb facs="nb07_03_07_0158_verso.jpg" xml:id="p0158v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 61r.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0159_text">
-                <pb facs="nb07_03_07_0159_recto.jpg" n="0159_recto"/>
+                <pb facs="nb07_03_07_0159_recto.jpg" xml:id="p0159r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 61r.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0160_text">
-                <pb facs="nb07_03_07_0160_verso.jpg" n="0160_verso"/>
+                <pb facs="nb07_03_07_0160_verso.jpg" xml:id="p0160v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 89r.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0161_text">
-                <pb facs="nb07_03_07_0161_recto.jpg" n="0161_recto"/>
+                <pb facs="nb07_03_07_0161_recto.jpg" xml:id="p0161r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure facing p. 103r.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0162_text">
-                <pb facs="nb07_03_07_0162_verso.jpg" n="0162_verso"/>
+                <pb facs="nb07_03_07_0162_verso.jpg" xml:id="p0162v"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosure in back cover.]<note>A poem by M. Hedderwick Browne published in, among other places, the religious periodical <hi rend="italics">Good Words</hi> 42 (1901): 694.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_03_07_0163_text">
-                <pb facs="nb07_03_07_0163_recto.jpg" n="0163_recto"/>
+                <pb facs="nb07_03_07_0163_recto.jpg" xml:id="p0163r"/>
                 <!--<desc>[Page-level Description]</desc>-->
                 <lg>
                     <l n="01">[Enclosures in back cover.]<note>The two shapes appear to be sewing patterns.</note></l>

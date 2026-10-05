@@ -73,14 +73,14 @@
    <text>
       <body>
          <div type="image" xml:id="nb07_02_03_0001_text">
-            <pb facs="nb07_02_03_0001_recto.jpg" n="0001-recto"/>
+            <pb facs="nb07_02_03_0001_recto.jpg" xml:id="p0001r"/>
 <!--            <desc>[Outside front cover.]</desc>-->
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0002_text">
-            <pb facs="nb07_02_03_0002_verso.jpg" n="0002-verso"/>
+            <pb facs="nb07_02_03_0002_verso.jpg" xml:id="p0002v"/>
             <!-- <desc>[Inside front cover.]</desc> -->
             <lg>
                <l n="01"> <hi rend="pencil">1250/4</hi><note>These numbers were entered by Rosenbach staff before they moved to the roman numeral system (VII.02.03 for this notebook).</note></l>
@@ -91,7 +91,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0003_text">
-            <pb facs="nb07_02_03_0003_recto.jpg" n="0003-recto"/>
+            <pb facs="nb07_02_03_0003_recto.jpg" xml:id="p0003r"/>
             <lg>
                <l n="01"/>
                <l n="02">      <hi rend="pencil">Exeter   Carhart &amp; McGhee   Magic Casements</hi></l>
@@ -111,13 +111,13 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0004_text">
-            <pb facs="nb07_02_03_0004_verso.jpg" n="0004-verso"/>
+            <pb facs="nb07_02_03_0004_verso.jpg" xml:id="p0004v"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0005_text">
-            <pb facs="nb07_02_03_0005_recto.jpg" n="0005-recto"/>
+            <pb facs="nb07_02_03_0005_recto.jpg" xml:id="p0005r"/>
             <!-- <desc> The underlining of lines 10-11 is in
                         pencil. MM places a right curly bracket to the left of "Plato" at the end of
                         lines 10 and 11.</desc> -->
@@ -158,7 +158,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0006_text">
-            <pb facs="nb07_02_03_0006_verso.jpg" n="0006-verso"/>
+            <pb facs="nb07_02_03_0006_verso.jpg" xml:id="p0006v"/>
             <!-- <desc> MM circles the numbers 1, 2, 3 and 4 in
                         lines 01-05.</desc> -->
             <lg>
@@ -199,7 +199,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0007_text">
-            <pb facs="nb07_02_03_0007_recto.jpg" n="0007-recto"/>
+            <pb facs="nb07_02_03_0007_recto.jpg" xml:id="p0007r"/>
             <!-- <desc> MM places a curly bracket to the left of
                         the two phrases beginning "partly by" that end lines 07 and
                         08.</desc> -->
@@ -237,7 +237,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0008_text">
-            <pb facs="nb07_02_03_0008_verso.jpg" n="0008-verso"/>
+            <pb facs="nb07_02_03_0008_verso.jpg" xml:id="p0008v"/>
             <!-- <desc> MM places a curly bracket to the right
                         of the six words (from "plot" to "song") listed in lines 10-15. MM circles
                         the numbers 1, 2, and 3 in lines 23-25.</desc> -->
@@ -275,7 +275,7 @@
                <l n="31">    Neither would a very small creature be beautiful nor one 1000 miles long.</l>
                <l n="32">   <del>s</del>So with plots: they must be easily taken in by the memory.</l>
             </lg>
-            <pb facs="nb07_02_03_0009_recto.jpg" n="0009-recto"/>
+            <pb facs="nb07_02_03_0009_recto.jpg" xml:id="p0009r"/>
             <!-- <desc> MM draws two parallel vertical strokes
                         to the left of the text on lines 17-18. She places a curly bracket to the
                         right of the words of the first half of lines 17-18 and a curly bracket to
@@ -318,7 +318,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0010_text">
-            <pb facs="nb07_02_03_0010_verso.jpg" n="0010-verso"/>
+            <pb facs="nb07_02_03_0010_verso.jpg" xml:id="p0010v"/>
             <lg type="sideways">
                <l n="v01"><!-- desc: lines 18-01, left margin, written as two rows of script-->                                  <hi rend="pencil">a not really bad man w a certain defect or two</hi></l>
                <l n="v02">                                       <hi rend="pencil">falls into misfortune</hi></l>
@@ -358,7 +358,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0011_text">
-            <pb facs="nb07_02_03_0011_recto.jpg" n="0011-recto"/>
+            <pb facs="nb07_02_03_0011_recto.jpg" xml:id="p0011r"/>
             <!-- <desc> MM places a curly bracket pointing to
                         the word "plot" to the left of the four words listed at the beginning of
                         lines 18-21. She places curly bracket to the right of the first two words
@@ -403,7 +403,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0012_text">
-            <pb facs="nb07_02_03_0012_verso.jpg" n="0012-verso"/>
+            <pb facs="nb07_02_03_0012_verso.jpg" xml:id="p0012v"/>
             <!-- <desc> In line 03 MM draws a series of
                         individual strokes beneath the underlining. Parentheses enclose the phrases
                         at the ends of lines 08 and 09. She places a curly bracket to the right of
@@ -454,7 +454,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0013_text">
-            <pb facs="nb07_02_03_0013_recto.jpg" n="0013-recto"/>
+            <pb facs="nb07_02_03_0013_recto.jpg" xml:id="p0013r"/>
             <!-- <desc>  A vertical bar is placed to the left of
                         lines 09-10. MM draws a series of x's through the underlining on line
                         31.</desc> -->
@@ -502,7 +502,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0014_text">
-            <pb facs="nb07_02_03_0014_verso.jpg" n="0014-verso"/>
+            <pb facs="nb07_02_03_0014_verso.jpg" xml:id="p0014v"/>
             <lg type="sideways">
                <l n="v01"><!-- desc: lines 32-27, left margin, written as two rows of script--><hi rend="pencil">Nature</hi></l>
                <l n="v02"><hi rend="pencil">sys<hi rend="underline">tematic</hi></hi></l>
@@ -544,7 +544,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0015_text">
-            <pb facs="nb07_02_03_0015_recto.jpg" n="0015-recto"/>
+            <pb facs="nb07_02_03_0015_recto.jpg" xml:id="p0015r"/>
             <!-- <desc> The underlining of line 01 is in red
                         pencil. In line 14 the "5" is doubly underlined. MM circles the number 1 on
                         line 15 and the numbers from 2 to 5 on lines 19-22. A curly bracket connects
@@ -589,7 +589,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0016_text">
-            <pb facs="nb07_02_03_0016_verso.jpg" n="0016-verso"/>
+            <pb facs="nb07_02_03_0016_verso.jpg" xml:id="p0016v"/>
             <lg type="sideways">
                <l n="v01"><!-- desc: lines 25-22, left margin-->                   <hi rend="pencil">Enthral</hi>
                     </l>
@@ -630,7 +630,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0017_text">
-            <pb facs="nb07_02_03_0017_recto.jpg" n="0017-recto"/>
+            <pb facs="nb07_02_03_0017_recto.jpg" xml:id="p0017r"/>
             <!-- <desc> MM draws a vertical bar in pencil to the
                         left of lines 15-17. In line 17 the underlining is triple and in pencil. In
                         line 18 the underlining is double.</desc> -->
@@ -675,7 +675,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0018_text">
-            <pb facs="nb07_02_03_0018_verso.jpg" n="0018-verso"/>
+            <pb facs="nb07_02_03_0018_verso.jpg" xml:id="p0018v"/>
             <!-- <desc> Underlining of line 21 is in red
                         pencil.</desc> -->
             <lg>
@@ -717,7 +717,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0019_text">
-            <pb facs="nb07_02_03_0019_recto.jpg" n="0019-recto"/>
+            <pb facs="nb07_02_03_0019_recto.jpg" xml:id="p0019r"/>
 <!--            <desc> MM underlines lines 01-02 and marks a-->
 <!--               double bar to the left of the text with red-->
 <!--               pencil. She places a vertical bar to the left-->
@@ -753,7 +753,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0020_text">
-            <pb facs="nb07_02_03_0020_verso.jpg" n="0020-verso"/>
+            <pb facs="nb07_02_03_0020_verso.jpg" xml:id="p0020v"/>
             <!-- <desc> MM draws an arrow down from "Tarsus" in
                         line 13 to the end of the word "dedicated" on line 14. The underlining in
                         line 24 is in pencil. MM draws a curly bracket to connect the words listed
@@ -795,7 +795,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0021_text">
-            <pb facs="nb07_02_03_0021_recto.jpg" n="0021-recto"/>
+            <pb facs="nb07_02_03_0021_recto.jpg" xml:id="p0021r"/>
             <!-- <desc> MM connects lines 05-06 with a left
                         parenthesis. She places two vertical bars in pencil to the left of the page
                         number for lines 07-08. From lines 10-12 MM draws a line to set off the
@@ -845,7 +845,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0022_text">
-            <pb facs="nb07_02_03_0022_verso.jpg" n="0022-verso"/>
+            <pb facs="nb07_02_03_0022_verso.jpg" xml:id="p0022v"/>
             <!-- <desc> MM draws a vertical bar in pencil to the left of the text on lines 23-25.</desc> -->
             <lg type="sideways">
                <l n="v01"><!-- desc: lines 26-22, left margin--><hi rend="pencil">Hyperbole</hi></l>
@@ -879,7 +879,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0023_text">
-            <pb facs="nb07_02_03_0023_recto.jpg" n="0023-recto"/>
+            <pb facs="nb07_02_03_0023_recto.jpg" xml:id="p0023r"/>
 <!--            <desc> The underlining of line 8 is in pencil.-->
 <!--               MM draws a vertical bar in pencil to the left-->
 <!--               of the text on lines 30-32. The five vertical-->
@@ -926,7 +926,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0024_text">
-            <pb facs="nb07_02_03_0024_verso.jpg" n="0024-verso"/>
+            <pb facs="nb07_02_03_0024_verso.jpg" xml:id="p0024v"/>
             <lg type="sideways">
                <l n="v01"><!-- desc: lines 13-10, left margin-->                                                     <hi rend="pencil">redoubling</hi></l>
             </lg>
@@ -967,7 +967,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0025_text">
-            <pb facs="nb07_02_03_0025_recto.jpg" n="0025-recto"/>
+            <pb facs="nb07_02_03_0025_recto.jpg" xml:id="p0025r"/>
             <!-- <desc> The underlining in line 21 is
                         double.</desc> -->
             <lg>
@@ -1006,7 +1006,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0026_text">
-            <pb facs="nb07_02_03_0026_verso.jpg" n="0026-verso"/>
+            <pb facs="nb07_02_03_0026_verso.jpg" xml:id="p0026v"/>
             <!-- <desc> The underlining in lines 09, 11 and 12
                         is double. MM draws two short slashes in the middle of the double underline
                         of line 12.</desc> -->
@@ -1042,7 +1042,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0027_text">
-            <pb facs="nb07_02_03_0027_recto.jpg" n="0027-recto"/>
+            <pb facs="nb07_02_03_0027_recto.jpg" xml:id="p0027r"/>
             <!-- <desc> The word "brutally" on line 09 is
                         contained within two long slashes. MM places a curly bracket to the left of
                         the text of lines 18-21.</desc> -->
@@ -1078,7 +1078,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0028_text">
-            <pb facs="nb07_02_03_0028_verso.jpg" n="0028-verso"/>
+            <pb facs="nb07_02_03_0028_verso.jpg" xml:id="p0028v"/>
             <!-- <desc> MM places a curly bracket to the left of
                         the phrase "The graceful and / The plain" across lines 15 and 16. The
                         underlining of line 17 and line 28 is double. MM circles the numbers 1 and 2
@@ -1120,7 +1120,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0029_text">
-            <pb facs="nb07_02_03_0029_recto.jpg" n="0029-recto"/>
+            <pb facs="nb07_02_03_0029_recto.jpg" xml:id="p0029r"/>
             <lg>
                <l n="01">      <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>symbolic expressions are forcible      yr cicalas shall c<add>h</add>irp from the</l>
                <l n="02">                                               ground (trees hewn down)</l>
@@ -1156,7 +1156,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0030_text">
-            <pb facs="nb07_02_03_0030_verso.jpg" n="0030-verso"/>
+            <pb facs="nb07_02_03_0030_verso.jpg" xml:id="p0030v"/>
             <!-- <desc> MM places a curly bracket to the left of
                         the phrases listed at the end of lines 04-06.</desc> -->
             <lg>
@@ -1196,7 +1196,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0031_text">
-            <pb facs="nb07_02_03_0031_recto.jpg" n="0031-recto"/>
+            <pb facs="nb07_02_03_0031_recto.jpg" xml:id="p0031r"/>
             <lg>
                <l n="01">      <note>Fyfe, W. Hamilton, and Roberts, W. Rhys, eds. <hi rend="italics">Aristotle,</hi> The Poetics<hi rend="italics">; "Longinus":</hi> On the Sublime<hi rend="italics">; Demetrius,</hi> On Style (see earlier note).</note>By use of "yon" the pride of Craterus is rebuked.</l>
                <l n="02"> 481   with language it is as with a lump of wax, <add>out</add> of which one will mould a dog, another</l>
@@ -1216,7 +1216,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0032_text">
-            <pb facs="nb07_02_03_0032_verso.jpg" n="0032-verso"/>
+            <pb facs="nb07_02_03_0032_verso.jpg" xml:id="p0032v"/>
             <lg>
                <l n="01">            <bibl corresp="nb07_02_03_0032_verso_l01_bibl"/>The Songs of Robert Burns         Burns b. 1759</l>
                <l n="02">         Now First Printed w. the Melodies for which they were Written</l>
@@ -1254,7 +1254,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0033_text">
-            <pb facs="nb07_02_03_0033_recto.jpg" n="0033-recto"/>
+            <pb facs="nb07_02_03_0033_recto.jpg" xml:id="p0033r"/>
             <!-- <desc> In line 09 "strathspeys" is doubly
                         underlined. MM draws a vertical line to the right of lines
                         17-19.</desc> -->
@@ -1293,7 +1293,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0034_text">
-            <pb facs="nb07_02_03_0034_verso.jpg" n="0034-verso"/>
+            <pb facs="nb07_02_03_0034_verso.jpg" xml:id="p0034v"/>
             <!-- <desc> The underlining in lines 09 and 10 is
                         double.</desc> -->
             <lg>
@@ -1333,7 +1333,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0035_text">
-            <pb facs="nb07_02_03_0035_recto.jpg" n="0035-recto"/>
+            <pb facs="nb07_02_03_0035_recto.jpg" xml:id="p0035r"/>
             <!-- <desc>[Page-level Description] </desc> -->
             <lg>
                <l n="01">    <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>He undertook the cost of printing &amp; publishing. Burns</l>
@@ -1370,7 +1370,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0036_text">
-            <pb facs="nb07_02_03_0036_verso.jpg" n="0036-verso"/>
+            <pb facs="nb07_02_03_0036_verso.jpg" xml:id="p0036v"/>
             <!-- <desc> In line 01 "Auld Lang Syne" is doubly
                         underlined. In line 25 MM draws a line under and to the left of "thairfor"
                         to connect it to the text above.</desc> -->
@@ -1415,7 +1415,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0037_text">
-            <pb facs="nb07_02_03_0037_recto.jpg" n="0037-recto"/>
+            <pb facs="nb07_02_03_0037_recto.jpg" xml:id="p0037r"/>
             <!-- <desc> MM doubly underlines the capital "T" and
                         "W" on line 04. The dash opening line 05 is wavy.</desc> -->
             <lg>
@@ -1457,7 +1457,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0038_text">
-            <pb facs="nb07_02_03_0038_verso.jpg" n="0038-verso"/>
+            <pb facs="nb07_02_03_0038_verso.jpg" xml:id="p0038v"/>
             <!-- <desc> Parentheses enclose "weaver" and
                         "webster" across lines 02 and 03. MM draws musical notes on lines
                         11-12.</desc> -->
@@ -1497,7 +1497,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0039_text">
-            <pb facs="nb07_02_03_0039_recto.jpg" n="0039-recto"/>
+            <pb facs="nb07_02_03_0039_recto.jpg" xml:id="p0039r"/>
             <lg>
                <l n="01" rend="verse"> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No 250  p. 225   The Jolly Beggars</l>
                <l n="02" rend="verse">           A pigmy scraper wi’ his fiddle,</l>
@@ -1534,7 +1534,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0040_text">
-            <pb facs="nb07_02_03_0040_verso.jpg" n="0040-verso"/>
+            <pb facs="nb07_02_03_0040_verso.jpg" xml:id="p0040v"/>
             <lg>
                <l n="01" rend="verse">   p. 369<note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No 51  Adown winding Nith I did wander.</l>
                <l n="02" rend="verse"/>
@@ -1575,7 +1575,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0041_text">
-            <pb facs="nb07_02_03_0041_recto.jpg" n="0041-recto"/>
+            <pb facs="nb07_02_03_0041_recto.jpg" xml:id="p0041r"/>
             <lg>
                <l n="01">                             <add>(clothes)</add></l>
                <l n="02">   385 <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>No 103  Now Nature cleeds the flowery lea. Tune:</l>
@@ -1614,7 +1614,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0042_text">
-            <pb facs="nb07_02_03_0042_verso.jpg" n="0042-verso"/>
+            <pb facs="nb07_02_03_0042_verso.jpg" xml:id="p0042v"/>
             <!-- <desc> In line 29, "Dances" is doubly
                         underlined and "Cuckoo's" partly so.</desc> -->
             <lg>
@@ -1652,7 +1652,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0043_text">
-            <pb facs="nb07_02_03_0043_recto.jpg" n="0043-recto"/>
+            <pb facs="nb07_02_03_0043_recto.jpg" xml:id="p0043r"/>
             <!-- <desc> MM's underlining on lines 20-21 is a
                         series of strokes.</desc> -->
             <lg>
@@ -1696,7 +1696,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0044_text">
-            <pb facs="nb07_02_03_0044_verso.jpg" n="0044-verso"/>
+            <pb facs="nb07_02_03_0044_verso.jpg" xml:id="p0044v"/>
             <!-- <desc> MM encloses the two words at the end of
                         lines 04 and 05 in curly brackets. She doubly underlines the title in line
                         08.</desc> -->
@@ -1737,7 +1737,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0045_text">
-            <pb facs="nb07_02_03_0045_recto.jpg" n="0045-recto"/>
+            <pb facs="nb07_02_03_0045_recto.jpg" xml:id="p0045r"/>
             <lg>
                <l n="01"> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>This Dunlop Manuscript, incomplete, is in the possession of</l>
                <l n="02"> Mrs. Pruyn</l>
@@ -1778,7 +1778,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0046_text">
-            <pb facs="nb07_02_03_0046_verso.jpg" n="0046-verso"/>
+            <pb facs="nb07_02_03_0046_verso.jpg" xml:id="p0046v"/>
             <lg>
                <l n="01">         454<note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>  264  <hi rend="underline">The Curse</hi>, written after the Union was</l>
                <l n="02">              completed . . .</l>
@@ -1823,7 +1823,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0047_text">
-            <pb facs="nb07_02_03_0047_recto.jpg" n="0047-recto"/>
+            <pb facs="nb07_02_03_0047_recto.jpg" xml:id="p0047r"/>
             <lg>
                <l n="01"> <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>479 No 319 Ken ye ought o’ Captain Grose?    Captain Grose the</l>
                <l n="02">       Antiquarian who visited the South of Scotland to inspect the ruins</l>
@@ -1862,7 +1862,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0048_text">
-            <pb facs="nb07_02_03_0048_verso.jpg" n="0048-verso"/>
+            <pb facs="nb07_02_03_0048_verso.jpg" xml:id="p0048v"/>
             <lg>
                <l n="01">    <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note><del>It</del> I have not ascertained whether Burns communicated to</l>
                <l n="02">     Riddell the ballad of Tam Lin, or vice versa.</l>
@@ -1908,7 +1908,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0049_text">
-            <pb facs="nb07_02_03_0049_recto.jpg" n="0049-recto"/>
+            <pb facs="nb07_02_03_0049_recto.jpg" xml:id="p0049r"/>
             <!-- <desc> MM doubly underlines title in line
                         11.</desc> -->
             <lg>
@@ -1950,7 +1950,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0050_text">
-            <pb facs="nb07_02_03_0050_verso.jpg" n="0050-verso"/>
+            <pb facs="nb07_02_03_0050_verso.jpg" xml:id="p0050v"/>
             <lg>
                <l n="01">  <note>Dick, James C., ed. <hi rend="italics">The Songs of Robert Burns</hi> (see earlier note).</note>230  No 254:</l>
                <l n="02" rend="verse">        Amang the trees, where humming bees</l>
@@ -1960,7 +1960,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0051_text">
-            <pb facs="nb07_02_03_0051_recto.jpg" n="0051-recto"/>
+            <pb facs="nb07_02_03_0051_recto.jpg" xml:id="p0051r"/>
             <!-- <desc> The underlining of 02 and 08 is doubled.
                         She adds a wavy line beneath the underlining in blue pencil line
                         21.</desc> -->
@@ -2004,7 +2004,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0052_text">
-            <pb facs="nb07_02_03_0052_verso.jpg" n="0052-verso"/>
+            <pb facs="nb07_02_03_0052_verso.jpg" xml:id="p0052v"/>
             <!-- <desc> The line drawn on line 19 is wavy. MM
                         circles the "4" in line 26. She draws a red vertical bar to the left of the
                         text on lines 32-35. The underlining of line 34 is doubled with a wavy
@@ -2049,7 +2049,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0053_text">
-            <pb facs="nb07_02_03_0053_recto.jpg" n="0053-recto"/>
+            <pb facs="nb07_02_03_0053_recto.jpg" xml:id="p0053r"/>
             <!-- <desc> MM draws a vertical bar in red pencil to
                         the left of lines 06-08. The underlining in line 07 is in red pencil. The
                         "i" of "Piazza" in line 18 is dotted with red pencil. The "a" of "case" in
@@ -2099,7 +2099,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0054_text">
-            <pb facs="nb07_02_03_0054_verso.jpg" n="0054-verso"/>
+            <pb facs="nb07_02_03_0054_verso.jpg" xml:id="p0054v"/>
             <!-- <desc> MM draws short slashes through the
                         underlining of the four words on line 10. The underlining of the words on
                         lines 11, 22, and 23 is doubled with a wavy line.</desc> -->
@@ -2140,7 +2140,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0055_text">
-            <pb facs="nb07_02_03_0055_recto.jpg" n="0055-recto"/>
+            <pb facs="nb07_02_03_0055_recto.jpg" xml:id="p0055r"/>
             <!-- <desc> MM rewrites an ellipsis under another
                         one in line 11. The page at the end of lines 29-31 is water stained. MM has
                         gone over the blurred words in darker ink and has done the same for words
@@ -2185,7 +2185,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0056_text">
-            <pb facs="nb07_02_03_0056_verso.jpg" n="0056-verso"/>
+            <pb facs="nb07_02_03_0056_verso.jpg" xml:id="p0056v"/>
             <!-- <desc> MM draws a red vertical bar to the left
                         of the text on lines 01-02. She draws two wavy lines through lines 17-19 to
                         include the added word below.</desc> -->
@@ -2228,7 +2228,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0057_text">
-            <pb facs="nb07_02_03_0057_recto.jpg" n="0057-recto"/>
+            <pb facs="nb07_02_03_0057_recto.jpg" xml:id="p0057r"/>
             <!-- <desc> MM draws a vertical bar in pencil to the
                         left of the text on lines 10-11. The underlining of line 32 is doubled with
                         a wavy line.</desc> -->
@@ -2269,7 +2269,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0058_text">
-            <pb facs="nb07_02_03_0058_verso.jpg" n="0058-verso"/>
+            <pb facs="nb07_02_03_0058_verso.jpg" xml:id="p0058v"/>
             <!-- <desc> The underlining of line 07 is doubled
                         with a wavy line. The underlining of the deleted word on line 29 is doubled
                         with a wavy line.</desc> -->
@@ -2310,7 +2310,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0059_text">
-            <pb facs="nb07_02_03_0059_recto.jpg" n="0059-recto"/>
+            <pb facs="nb07_02_03_0059_recto.jpg" xml:id="p0059r"/>
             <lg>
                <l n="01">    <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note>more deeply wondering, to the really sentient.</l>
                <l n="02"> 62   There wouldn't simply be his suffering—of which we might soon</l>
@@ -2349,7 +2349,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0060_text">
-            <pb facs="nb07_02_03_0060_verso.jpg" n="0060-verso"/>
+            <pb facs="nb07_02_03_0060_verso.jpg" xml:id="p0060v"/>
             <!-- <desc> The underlining in lines 16-17 is in red
                         pencil. The first instance of the word "are" in line 16 is underlined doubly
                         with a wavy line.</desc> -->
@@ -2393,7 +2393,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0061_text">
-            <pb facs="nb07_02_03_0061_recto.jpg" n="0061-recto"/>
+            <pb facs="nb07_02_03_0061_recto.jpg" xml:id="p0061r"/>
             <!-- <desc> A light stroke is drawn through the word
                         "thick" in line 22.</desc> -->
             <lg>
@@ -2435,7 +2435,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0062_text">
-            <pb facs="nb07_02_03_0062_verso.jpg" n="0062-verso"/>
+            <pb facs="nb07_02_03_0062_verso.jpg" xml:id="p0062v"/>
             <!-- <desc>[Page-level Description]  </desc> -->
             <lg>
                <l n="01">      <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note>Miriam . . . in a complexity of relations finer than any</l>
@@ -2481,7 +2481,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0063_text">
-            <pb facs="nb07_02_03_0063_recto.jpg" n="0063-recto"/>
+            <pb facs="nb07_02_03_0063_recto.jpg" xml:id="p0063r"/>
             <!-- <desc> A long opening parenthesis is
                             faintly drawn to the left of the text on lines 19-25 and a small faint
                             circle is placed to the left of it. MM draws a vertical bar in pencil to
@@ -2526,7 +2526,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0064_text">
-            <pb facs="nb07_02_03_0064_verso.jpg" n="0064-verso"/>
+            <pb facs="nb07_02_03_0064_verso.jpg" xml:id="p0064v"/>
             <!-- <desc> <desc><desc>A long opening parenthesis
                                 is faintly drawn to the left of the text on lines 04-06 and a small
                                 faint circle is placed to the left of it. In line 19 a long concave
@@ -2572,7 +2572,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0065_text">
-            <pb facs="nb07_02_03_0065_recto.jpg" n="0065-recto"/>
+            <pb facs="nb07_02_03_0065_recto.jpg" xml:id="p0065r"/>
             <!-- <desc> MM draws a vertical bar in pencil to the
                         left of the main text on lines 03-06. She places an opening parenthesis to
                         the left of the text of lines 07-08. She draws two vertical bars in pencil
@@ -2613,7 +2613,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0066_text">
-            <pb facs="nb07_02_03_0066_verso.jpg" n="0066-verso"/>
+            <pb facs="nb07_02_03_0066_verso.jpg" xml:id="p0066v"/>
             <!-- <desc> MM draws a vertical bar in pencil to the
                         left of the text of lines 15-19.</desc> -->
             <lg>
@@ -2655,7 +2655,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0067_text">
-            <pb facs="nb07_02_03_0067_recto.jpg" n="0067-recto"/>
+            <pb facs="nb07_02_03_0067_recto.jpg" xml:id="p0067r"/>
             <lg>
                <l n="01">      155     <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note>To criticize is to appreciate, to appropriate, to take</l>
                <l n="02">               intellectual possession, to establish in fine a relation with</l>
@@ -2691,7 +2691,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0068_text">
-            <pb facs="nb07_02_03_0068_verso.jpg" n="0068-verso"/>
+            <pb facs="nb07_02_03_0068_verso.jpg" xml:id="p0068v"/>
             <!-- <desc> The underlining of lines 01, 16, 19 and
                         23 is doubled with a wavy line.</desc> -->
             <lg>
@@ -2734,7 +2734,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0069_text">
-            <pb facs="nb07_02_03_0069_recto.jpg" n="0069-recto"/>
+            <pb facs="nb07_02_03_0069_recto.jpg" xml:id="p0069r"/>
             <!-- <desc>[Page-level Description] </desc> -->
             <lg>
                <l n="01"> <del>165</del>167 <note>James, Henry. <hi rend="italics">The Art of the Novel</hi> (see earlier note).</note>The state of being conspicuous involved . . . a recognition</l>
@@ -2773,7 +2773,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0070_text">
-            <pb facs="nb07_02_03_0070_verso.jpg" n="0070-verso"/>
+            <pb facs="nb07_02_03_0070_verso.jpg" xml:id="p0070v"/>
             <!-- <desc> The underlining of lines 03 and 23 is
                         doubled with a wavy line. An arrow beginning at "The Liar" in line 24 curves
                         downward to point to the first words of line 27.</desc> -->
@@ -2812,7 +2812,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0071_text">
-            <pb facs="nb07_02_03_0071_recto.jpg" n="0071-recto"/>
+            <pb facs="nb07_02_03_0071_recto.jpg" xml:id="p0071r"/>
             <!-- <desc> The underlining of lines 02, 16, 21, and
                         31 is doubled with a wavy line.</desc> -->
             <lg type="sideways">
@@ -2859,7 +2859,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0072_text">
-            <pb facs="nb07_02_03_0072_verso.jpg" n="0072-verso"/>
+            <pb facs="nb07_02_03_0072_verso.jpg" xml:id="p0072v"/>
             <!-- <desc> The underlining of lines 02, 04, and 11
                         is doubled with a wavy line.  MM places two sets of two vertical strokes
                         through the line on line 13.</desc> -->
@@ -2903,7 +2903,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0073_text">
-            <pb facs="nb07_02_03_0073_recto.jpg" n="0073-recto"/>
+            <pb facs="nb07_02_03_0073_recto.jpg" xml:id="p0073r"/>
             <!-- <desc> The underlining of lines 05 and 15 and 
                         is doubled with a wavy line. MM draws a vertical line to the left of the
                         text on lines 13-15.</desc> -->
@@ -2941,7 +2941,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0074_text">
-            <pb facs="nb07_02_03_0074_verso.jpg" n="0074-verso"/>
+            <pb facs="nb07_02_03_0074_verso.jpg" xml:id="p0074v"/>
             <!-- <desc> "Figure in the Carpet" is faintly
                         legible in erased pencil to the left of the text on lines 12-13 and to the
                         right of that MM draws a left curly bracket with pencil. She draws a
@@ -2985,7 +2985,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0075_text">
-            <pb facs="nb07_02_03_0075_recto.jpg" n="0075-recto"/>
+            <pb facs="nb07_02_03_0075_recto.jpg" xml:id="p0075r"/>
             <!-- <desc> The underlining of line 21 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3025,7 +3025,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0076_text">
-            <pb facs="nb07_02_03_0076_verso.jpg" n="0076-verso"/>
+            <pb facs="nb07_02_03_0076_verso.jpg" xml:id="p0076v"/>
             <!-- <desc> The underlining in lines 06 and 10-11 is
                         in red pencil.</desc> -->
             <lg>
@@ -3064,7 +3064,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0077_text">
-            <pb facs="nb07_02_03_0077_recto.jpg" n="0077-recto"/>
+            <pb facs="nb07_02_03_0077_recto.jpg" xml:id="p0077r"/>
             <!-- <desc> MM places a vertical bar to the left of
                         the text on lines 06-09 in red pencil. The underlining of line 27 is double.
                         Beneath the "M" after the page number on line 38 is a convex arc in red
@@ -3106,7 +3106,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0078_text">
-            <pb facs="nb07_02_03_0078_verso.jpg" n="0078-verso"/>
+            <pb facs="nb07_02_03_0078_verso.jpg" xml:id="p0078v"/>
             <!-- <desc> The underlining of lines 15-16 is in red
                         pencil.</desc> -->
             <lg>
@@ -3151,7 +3151,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0079_text">
-            <pb facs="nb07_02_03_0079_recto.jpg" n="0079-recto"/>
+            <pb facs="nb07_02_03_0079_recto.jpg" xml:id="p0079r"/>
             <!-- <desc> An opening parenthesis in red pencil is
                         placed to the left of the text on lines 02-03. A vertical stroke in red
                         pencil is placed to the left of the text on lines 04-06. The underlining of
@@ -3192,7 +3192,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0080_text">
-            <pb facs="nb07_02_03_0080_verso.jpg" n="0080-verso"/>
+            <pb facs="nb07_02_03_0080_verso.jpg" xml:id="p0080v"/>
             <!-- <desc> The underlining in lines 06, 10, 15, and
                         25 are doubled with a wavy line. The underlining of line 14 has four dots
                         beneath it.</desc> -->
@@ -3228,7 +3228,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0081_text">
-            <pb facs="nb07_02_03_0081_recto.jpg" n="0081-recto"/>
+            <pb facs="nb07_02_03_0081_recto.jpg" xml:id="p0081r"/>
             <!-- <desc> The underlining of lines 03-05 and 09-10
                         is in red pencil. The underlining in lines 12 and 20 is doubled with a wavy
                         line. MM places a vertical bar to the left of the text on lines 09-10. She
@@ -3271,7 +3271,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0082_text">
-            <pb facs="nb07_02_03_0082_verso.jpg" n="0082-verso"/>
+            <pb facs="nb07_02_03_0082_verso.jpg" xml:id="p0082v"/>
             <!-- <desc> The underlining of lines 04, 05, 24,
                         26-28, 33 and 34 is in red pencil. In line 05 the "is" in red pencil is
                         overwritten in regular pencil. The underlining in lines 11 and 14 is doubled
@@ -3314,7 +3314,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0083_text">
-            <pb facs="nb07_02_03_0083_recto.jpg" n="0083-recto"/>
+            <pb facs="nb07_02_03_0083_recto.jpg" xml:id="p0083r"/>
             <!-- <desc> The underlining of line 17 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3352,7 +3352,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0084_text">
-            <pb facs="nb07_02_03_0084_verso.jpg" n="0084-verso"/>
+            <pb facs="nb07_02_03_0084_verso.jpg" xml:id="p0084v"/>
             <!-- <desc> The underlining of line 11 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3394,7 +3394,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0085_text">
-            <pb facs="nb07_02_03_0085_recto.jpg" n="0085-recto"/>
+            <pb facs="nb07_02_03_0085_recto.jpg" xml:id="p0085r"/>
             <!-- <desc> The underlining of line 07 is doubled.
                         The underlining of line 28 is doubled with a wavy line.</desc> -->
             <lg>
@@ -3438,7 +3438,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0086_text">
-            <pb facs="nb07_02_03_0086_verso.jpg" n="0086-verso"/>
+            <pb facs="nb07_02_03_0086_verso.jpg" xml:id="p0086v"/>
             <!-- <desc> Two parallel vertical bars are placed to
                         the left of the text on lines 12-14. The underlining of line 20 is double.
                         An opening parenthesis is placed to the left of the text on lines 26-27. The
@@ -3482,7 +3482,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0087_text">
-            <pb facs="nb07_02_03_0087_recto.jpg" n="0087-recto"/>
+            <pb facs="nb07_02_03_0087_recto.jpg" xml:id="p0087r"/>
             <!-- <desc> The underlining of lines o6 and 28 is
                         doubled with a wavy line.</desc> -->
             <lg type="sideways">
@@ -3528,7 +3528,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0088_text">
-            <pb facs="nb07_02_03_0088_verso.jpg" n="0088-verso"/>
+            <pb facs="nb07_02_03_0088_verso.jpg" xml:id="p0088v"/>
             <!-- <desc> The underlining of lines 13 and 20 is
                         doubled with a wavy line.</desc> -->
             <lg>
@@ -3567,7 +3567,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0089_text">
-            <pb facs="nb07_02_03_0089_recto.jpg" n="0089-recto"/>
+            <pb facs="nb07_02_03_0089_recto.jpg" xml:id="p0089r"/>
             <!-- <desc> The underlining of lines 17, 22, and 31
                         is doubled with a wavy line. The underlining of line 23 is a wavy
                         line.</desc> -->
@@ -3611,7 +3611,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0090_text">
-            <pb facs="nb07_02_03_0090_verso.jpg" n="0090-verso"/>
+            <pb facs="nb07_02_03_0090_verso.jpg" xml:id="p0090v"/>
             <!-- <desc> The underlining of lines 12, 17 and 34
                         is doubled with a wavy line.</desc> -->
             <lg>
@@ -3655,7 +3655,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0091_text">
-            <pb facs="nb07_02_03_0091_recto.jpg" n="0091-recto"/>
+            <pb facs="nb07_02_03_0091_recto.jpg" xml:id="p0091r"/>
             <!-- <desc> MM places a curly bracket to the left of
                         "the tenor &amp;" and "the vehicle" at the end of lines 11-12. The
                         underlining of lines 23, 26 and 27 is doubled with a wavy
@@ -3700,7 +3700,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0092_text">
-            <pb facs="nb07_02_03_0092_verso.jpg" n="0092-verso"/>
+            <pb facs="nb07_02_03_0092_verso.jpg" xml:id="p0092v"/>
             <!-- <desc> The underlining of line 02 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3743,7 +3743,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0093_text">
-            <pb facs="nb07_02_03_0093_recto.jpg" n="0093-recto"/>
+            <pb facs="nb07_02_03_0093_recto.jpg" xml:id="p0093r"/>
             <!-- <desc> The underlining of line 30 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3787,7 +3787,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0094_text">
-            <pb facs="nb07_02_03_0094_verso.jpg" n="0094-verso"/>
+            <pb facs="nb07_02_03_0094_verso.jpg" xml:id="p0094v"/>
             <!-- <desc> The underlining of line 01 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -3830,7 +3830,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0095_text">
-            <pb facs="nb07_02_03_0095_recto.jpg" n="0095-recto"/>
+            <pb facs="nb07_02_03_0095_recto.jpg" xml:id="p0095r"/>
             <!-- <desc> The marginal note on lines 24-25 is
                         circled, as is the asterisk. MM draws an arrow along line 24 from the
                         asterisk to the end of the first third of the page.</desc> -->
@@ -3875,7 +3875,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0096_text">
-            <pb facs="nb07_02_03_0096_verso.jpg" n="0096-verso"/>
+            <pb facs="nb07_02_03_0096_verso.jpg" xml:id="p0096v"/>
             <!-- <desc> The underlining of lines 05 and 14-15 is
                         doubled with a wavy line. Opening parentheses are placed to the left of the
                         text on lines 28-29 and 32-34.</desc> -->
@@ -3921,7 +3921,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0097_text">
-            <pb facs="nb07_02_03_0097_recto.jpg" n="0097-recto"/>
+            <pb facs="nb07_02_03_0097_recto.jpg" xml:id="p0097r"/>
             <!-- <desc> The underlining of lines 11, 22, and 27
                         is doubled with a wavy line.</desc> -->
             <lg type="sideways">
@@ -3969,7 +3969,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0098_text">
-            <pb facs="nb07_02_03_0098_verso.jpg" n="0098-verso"/>
+            <pb facs="nb07_02_03_0098_verso.jpg" xml:id="p0098v"/>
             <!-- <desc> MM places two vertical bars to the left
                         of the text on lines 25-27.</desc> -->
             <lg>
@@ -4011,7 +4011,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0099_text">
-            <pb facs="nb07_02_03_0099_recto.jpg" n="0099-recto"/>
+            <pb facs="nb07_02_03_0099_recto.jpg" xml:id="p0099r"/>
             <!-- <desc> The underlining of line 15 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -4054,7 +4054,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0100_text">
-            <pb facs="nb07_02_03_0100_recto.jpg" n="0100-recto"/>
+            <pb facs="nb07_02_03_0100_recto.jpg" xml:id="p0100r"/>
             <!-- <desc> The underlining of line 23 is
                         doubled.</desc> -->
             <lg>
@@ -4096,7 +4096,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0101_text">
-            <pb facs="nb07_02_03_0101_recto.jpg" n="0101-recto"/>
+            <pb facs="nb07_02_03_0101_recto.jpg" xml:id="p0101r"/>
             <!-- <desc> The underlining of line 06 is doubled
                         with a wavy line. MM draws a vertical bar to the left of the text on lines
                         10-11 and 25-26 and another one to the right of lines 19-20.</desc> -->
@@ -4138,7 +4138,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0102_text">
-            <pb facs="nb07_02_03_0102_verso.jpg" n="0102-verso"/>
+            <pb facs="nb07_02_03_0102_verso.jpg" xml:id="p0102v"/>
             <!-- <desc> The underlining of line 17 is doubled.
                         MM draws two vertical bars in pencil to the left of the text on lines 19-21.
                         The underlining of lines 24 and 25 is doubled with a wavy
@@ -4179,7 +4179,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0103_text">
-            <pb facs="nb07_02_03_0103_recto.jpg" n="0103-recto"/>
+            <pb facs="nb07_02_03_0103_recto.jpg" xml:id="p0103r"/>
             <!-- <desc> The underlining of line 36 is doubled
                         with a wavy line.</desc> -->
             <lg>
@@ -4228,7 +4228,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0104_text">
-            <pb facs="nb07_02_03_0104_verso.jpg" n="0104-verso"/>
+            <pb facs="nb07_02_03_0104_verso.jpg" xml:id="p0104v"/>
             <!-- <desc> The underlining of lines 05 and 09 is
                         doubled with a wavy line. MM draws two vertical bars in pencil to the left
                         of the text on lines 25-26.!</desc> -->
@@ -4276,7 +4276,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0105_text">
-            <pb facs="nb07_02_03_0105_recto.jpg" n="0105-recto"/>
+            <pb facs="nb07_02_03_0105_recto.jpg" xml:id="p0105r"/>
             <!-- <desc> The underlining of line 20 is
                         doubled.</desc> -->
             <lg>
@@ -4319,7 +4319,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0106_text">
-            <pb facs="nb07_02_03_0106_verso.jpg" n="0106-verso"/>
+            <pb facs="nb07_02_03_0106_verso.jpg" xml:id="p0106v"/>
             <!-- <desc> The underlining of line 01 is wavy. The
                         numbers 1, 2, and 3 in lines 08-10 are circled.</desc> -->
             <lg>
@@ -4366,7 +4366,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0107_text">
-            <pb facs="nb07_02_03_0107_recto.jpg" n="0107-recto"/>
+            <pb facs="nb07_02_03_0107_recto.jpg" xml:id="p0107r"/>
             <!-- <desc> An opening parenthesis or curved arrow
                         begins at the double vertical bars of line 06 and is placed to the left of
                         the text on lines 07-10. Parentheses enclose the text of lines 21-22. The
@@ -4409,7 +4409,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0108_text">
-            <pb facs="nb07_02_03_0108_verso.jpg" n="0108-verso"/>
+            <pb facs="nb07_02_03_0108_verso.jpg" xml:id="p0108v"/>
             <!-- <desc> The underlining of lines 03 and 09 is
                         doubled with a wavy line. The underlining of lines 04, 21 and 32 is a wavy
                         line. MM draws double vertical bars in pencil to the left of the text on
@@ -4455,7 +4455,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0109_text">
-            <pb facs="nb07_02_03_0109_recto.jpg" n="0109-recto"/>
+            <pb facs="nb07_02_03_0109_recto.jpg" xml:id="p0109r"/>
             <!-- <desc> MM draws a wavy vertical line to the
                         left of the text on lines 33-36.</desc> -->
             <lg>
@@ -4501,7 +4501,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0110_text">
-            <pb facs="nb07_02_03_0110_verso.jpg" n="0110-verso"/>
+            <pb facs="nb07_02_03_0110_verso.jpg" xml:id="p0110v"/>
             <!-- <desc> The underlining of line 01 is wavy. The
                         underlining of line 27 is doubled with a wavy line. The underlining of line
                         31 is doubled with a series of strokes.</desc> -->
@@ -4544,7 +4544,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0111_text">
-            <pb facs="nb07_02_03_0111_recto.jpg" n="0111-recto"/>
+            <pb facs="nb07_02_03_0111_recto.jpg" xml:id="p0111r"/>
             <!-- <desc> The underlining of lines  11, 29, and 30
                         is doubled with a wavy line. Water stains blur the ink in spots towards the
                         ends of lines 20-25. MM draws double vertical bars to the left of the text
@@ -4590,7 +4590,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0112_text">
-            <pb facs="nb07_02_03_0112_verso.jpg" n="0112-verso"/>
+            <pb facs="nb07_02_03_0112_verso.jpg" xml:id="p0112v"/>
             <!-- <desc> An arrow-like line points to the left in
                         the left margin of line 06. A curly bracket is placed to the right of the
                         verse on lines 15-17. The underlining of lines 26, 28, and 32 is doubled
@@ -4637,7 +4637,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0113_text">
-            <pb facs="nb07_02_03_0113_recto.jpg" n="0113-recto"/>
+            <pb facs="nb07_02_03_0113_recto.jpg" xml:id="p0113r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The-->
 <!--               underlining of lines 01, 03, 18, 19, and 22-->
 <!--               is doubled with a wavy line. Opening-->
@@ -4681,7 +4681,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0114_text">
-            <pb facs="nb07_02_03_0114_verso.jpg" n="0114-verso"/>
+            <pb facs="nb07_02_03_0114_verso.jpg" xml:id="p0114v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws-->
 <!--               two vertical bars in pencil to the left of-->
 <!--               lines 10-13. The arrow on line 10 aligns with-->
@@ -4723,7 +4723,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0115_text">
-            <pb facs="nb07_02_03_0115_recto.jpg" n="0115-recto"/>
+            <pb facs="nb07_02_03_0115_recto.jpg" xml:id="p0115r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM-->
 <!--               places a left square bracket to the left of-->
 <!--               the text on lines 06-07. She draws two sets-->
@@ -4774,7 +4774,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0116_text">
-            <pb facs="nb07_02_03_0116_verso.jpg" n="0116-verso"/>
+            <pb facs="nb07_02_03_0116_verso.jpg" xml:id="p0116v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws-->
 <!--               two vertical bars to the left of the text on-->
 <!--               lines 11-12 and 21-22.!&amp;gt;</desc>-->
@@ -4821,7 +4821,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0117_text">
-            <pb facs="nb07_02_03_0117_recto.jpg" n="0117-recto"/>
+            <pb facs="nb07_02_03_0117_recto.jpg" xml:id="p0117r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The-->
 <!--               underlining of line 01 is wavy. MM draws two-->
 <!--               vertical bars in pencil to the left of the-->
@@ -4873,7 +4873,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0118_text">
-            <pb facs="nb07_02_03_0118_verso.jpg" n="0118-verso"/>
+            <pb facs="nb07_02_03_0118_verso.jpg" xml:id="p0118v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The-->
 <!--               underlining of lines 10 and 21 is doubled-->
 <!--               with a wavy line, as is the underlining of-->
@@ -4918,7 +4918,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0119_text">
-            <pb facs="nb07_02_03_0119_recto.jpg" n="0119-recto"/>
+            <pb facs="nb07_02_03_0119_recto.jpg" xml:id="p0119r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                two vertical bars in pencil to the left of
                the text on lines 11-12. The underlining of
@@ -4961,7 +4961,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0120_text">
-            <pb facs="nb07_02_03_0120_verso.jpg" n="0120-verso"/>
+            <pb facs="nb07_02_03_0120_verso.jpg" xml:id="p0120v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 03 is doubled. MM draws
                an arrow diagonally down to the right from
@@ -5007,7 +5007,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0121_text">
-            <pb facs="nb07_02_03_0121_recto.jpg" n="0121-recto"/>
+            <pb facs="nb07_02_03_0121_recto.jpg" xml:id="p0121r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of lines 07 and 08 is doubled
                with a wavy line. MM draws a vertical bar in
@@ -5050,7 +5050,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0122_text">
-            <pb facs="nb07_02_03_0122_verso.jpg" n="0122-verso"/>
+            <pb facs="nb07_02_03_0122_verso.jpg" xml:id="p0122v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                two short diagonal strokes through the middle
                of the line drawn across line
@@ -5084,7 +5084,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0123_text">
-            <pb facs="nb07_02_03_0123_recto.jpg" n="0123-recto"/>
+            <pb facs="nb07_02_03_0123_recto.jpg" xml:id="p0123r"/>
             <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 09 is doubled with a wavy
                line. The underlining of line 20 is in
@@ -5125,7 +5125,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0124_text">
-            <pb facs="nb07_02_03_0124_verso.jpg" n="0124-verso"/>
+            <pb facs="nb07_02_03_0124_verso.jpg" xml:id="p0124v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a vertical bar in pencil to the left from the
                page number on line 01 to line o5. She places
@@ -5177,7 +5177,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0125_text">
-            <pb facs="nb07_02_03_0125_recto.jpg" n="0125-recto"/>
+            <pb facs="nb07_02_03_0125_recto.jpg" xml:id="p0125r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                two squares in pencil shaded with diagonal
                lines to the left of the column of page
@@ -5238,7 +5238,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0126_text">
-            <pb facs="nb07_02_03_0126_verso.jpg" n="0126-verso"/>
+            <pb facs="nb07_02_03_0126_verso.jpg" xml:id="p0126v"/>
 <!--            <desc>[Page-level Description] <desc>&amp;lt;!MM
                   places two long curly brackets in pencil
                   to the left of the text on lines 21-14 and
@@ -5288,7 +5288,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0127_text">
-            <pb facs="nb07_02_03_0127_recto.jpg" n="0127-recto"/>
+            <pb facs="nb07_02_03_0127_recto.jpg" xml:id="p0127r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a curly bracket in pencil to the left of the
                text on lines 05-10, and it continues under
@@ -5345,7 +5345,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0128_text">
-            <pb facs="nb07_02_03_0128_verso.jpg" n="0128-verso"/>
+            <pb facs="nb07_02_03_0128_verso.jpg" xml:id="p0128v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket in pencil to the left
                of the text on lines 07-12. She draws an
@@ -5397,7 +5397,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0129_text">
-            <pb facs="nb07_02_03_0129_recto.jpg" n="0129-recto"/>
+            <pb facs="nb07_02_03_0129_recto.jpg" xml:id="p0129r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a rectangle around "Neue Gedichte / 1907-08
                Gedichte" in the middle of lines 14-15. In
@@ -5447,7 +5447,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0130_text">
-            <pb facs="nb07_02_03_0130_verso.jpg" n="0130-verso"/>
+            <pb facs="nb07_02_03_0130_verso.jpg" xml:id="p0130v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!On the
                left side of the text, in a vertical column
                between the "1" and "4" of lines 03 and 04,
@@ -5497,7 +5497,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0131_text">
-            <pb facs="nb07_02_03_0131_recto.jpg" n="0131-recto"/>
+            <pb facs="nb07_02_03_0131_recto.jpg" xml:id="p0131r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!A
                penstroke runs diagonally through the "us" of
                "bound" in line 03. A set of parentheses
@@ -5544,7 +5544,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0132_text">
-            <pb facs="nb07_02_03_0132_verso.jpg" n="0132-verso"/>
+            <pb facs="nb07_02_03_0132_verso.jpg" xml:id="p0132v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a vertical bar in pencil to the left of the
                text on lines 19-22. The word "ANGEL" in the
@@ -5590,7 +5590,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0133_text">
-            <pb facs="nb07_02_03_0133_recto.jpg" n="0133-recto"/>
+            <pb facs="nb07_02_03_0133_recto.jpg" xml:id="p0133r"/>
      <!--       <desc>[Page-level Description] &amp;lt;!In
                pencil, MM places a left curly bracket
                between the marginal note and the text of
@@ -5655,7 +5655,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0134_text">
-            <pb facs="nb07_02_03_0134_verso.jpg" n="0134-verso"/>
+            <pb facs="nb07_02_03_0134_verso.jpg" xml:id="p0134v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 05 is doubled with a wavy
                line. The underlining of lines 10, 12 and 15
@@ -5679,7 +5679,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0135_text">
-            <pb facs="nb07_02_03_0135_recto.jpg" n="0135-recto"/>
+            <pb facs="nb07_02_03_0135_recto.jpg" xml:id="p0135r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The text
                on the far right of lines 08-10 is circled.
                The underlining of line 25 is doubled and
@@ -5733,7 +5733,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0136_text">
-            <pb facs="nb07_02_03_0136_verso.jpg" n="0136-verso"/>
+            <pb facs="nb07_02_03_0136_verso.jpg" xml:id="p0136v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a vertical line in two parts from line 06 to
                line 12, separating the two sets of verse. A
@@ -5786,7 +5786,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0137_text">
-            <pb facs="nb07_02_03_0137_recto.jpg" n="0137-recto"/>
+            <pb facs="nb07_02_03_0137_recto.jpg" xml:id="p0137r"/>
             <!--<desc>[Page-level Description] &amp;lt;!Faint
                opening parentheses are placed to the left of
                the bibliographical information on the right
@@ -5832,13 +5832,13 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0138_text">
-            <pb facs="nb07_02_03_0138_verso.jpg" n="0138-verso"/>
+            <pb facs="nb07_02_03_0138_verso.jpg" xml:id="p0138v"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0139_text">
-            <pb facs="nb07_02_03_0139_recto.jpg" n="0139-recto"/>
+            <pb facs="nb07_02_03_0139_recto.jpg" xml:id="p0139r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!A faint
                vertical bar is drawn to the left of lines
                29-32.!&amp;gt;</desc>-->
@@ -5878,7 +5878,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0140_text">
-            <pb facs="nb07_02_03_0140_verso.jpg" n="0140-verso"/>
+            <pb facs="nb07_02_03_0140_verso.jpg" xml:id="p0140v"/>
             <lg>
                <l n="01"> <note>Fry, Roger. <hi rend="italics">Stéphane Mallarmé: Poems</hi> (see earlier note).</note>. . . and the sentence advances, dissolves, unfettered by</l>
                <l n="02">      anything precise or heavy . . . we gain in movement</l>
@@ -5912,7 +5912,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0141_text">
-            <pb facs="nb07_02_03_0141_recto.jpg" n="0141-recto"/>
+            <pb facs="nb07_02_03_0141_recto.jpg" xml:id="p0141r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a line across line 08, distinct from the
                underlining of line 7, and crosses it in the
@@ -5946,13 +5946,13 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0142_text">
-            <pb facs="nb07_02_03_0142_verso.jpg" n="0142-verso"/>
+            <pb facs="nb07_02_03_0142_verso.jpg" xml:id="p0142v"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0143_text">
-            <pb facs="nb07_02_03_0143_recto.jpg" n="0143-recto"/>
+            <pb facs="nb07_02_03_0143_recto.jpg" xml:id="p0143r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a short squiggly line to the left of the text
                on line 05 and a longer one to the left of
@@ -5994,7 +5994,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0144_text">
-            <pb facs="nb07_02_03_0144_verso.jpg" n="0144-verso"/>
+            <pb facs="nb07_02_03_0144_verso.jpg" xml:id="p0144v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 15 is doubled with a
                squiggly line.!&amp;gt;</desc>-->
@@ -6033,7 +6033,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0145_text">
-            <pb facs="nb07_02_03_0145_recto.jpg" n="0145-recto"/>
+            <pb facs="nb07_02_03_0145_recto.jpg" xml:id="p0145r"/>
             <lg type="sideways">
                <l n="v01"><hi rend="underline">Lives</hi> 9 Birkbeck Hill l. 330</l>
             </lg>
@@ -6070,7 +6070,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0146_text">
-            <pb facs="nb07_02_03_0146_verso.jpg" n="0146-verso"/>
+            <pb facs="nb07_02_03_0146_verso.jpg" xml:id="p0146v"/>
             <lg>
                <l n="01">   <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi> (see earlier note).</note>¶ To judge which of these two are in the right; we ought to</l>
                <l n="02">    consider the end that People propose in writing Love-Verses:</l>
@@ -6106,7 +6106,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0147_text">
-            <pb facs="nb07_02_03_0147_recto.jpg" n="0147-recto"/>
+            <pb facs="nb07_02_03_0147_recto.jpg" xml:id="p0147r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!Across
                lines 30-31, the sentence in the left margin
                is enclosed in parentheses.!&amp;gt;</desc>-->
@@ -6147,7 +6147,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0148_text">
-            <pb facs="nb07_02_03_0148_verso.jpg" n="0148-verso"/>
+            <pb facs="nb07_02_03_0148_verso.jpg" xml:id="p0148v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                an arrow leftward on line 04 from the word
                "Letter" to "moonshine." She draws an arrow
@@ -6193,7 +6193,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0149_text">
-            <pb facs="nb07_02_03_0149_recto.jpg" n="0149-recto"/>
+            <pb facs="nb07_02_03_0149_recto.jpg" xml:id="p0149r"/>
             <lg>
                <l n="01">   <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi> (see earlier note).</note>Yeats’s Leda poem—Leda &amp; the Swan.</l>
                <l n="02" rend="verse">30  From silver spouts the grateful liquors glide,</l>
@@ -6230,7 +6230,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0150_text">
-            <pb facs="nb07_02_03_0150_verso.jpg" n="0150-verso"/>
+            <pb facs="nb07_02_03_0150_verso.jpg" xml:id="p0150v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket to the right of the
                text on lines 21-23.!&amp;gt;</desc>-->
@@ -6271,7 +6271,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0151_text">
-            <pb facs="nb07_02_03_0151_recto.jpg" n="0151-recto"/>
+            <pb facs="nb07_02_03_0151_recto.jpg" xml:id="p0151r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!There
                may be a superscript "3" above "675" on line
                26.!&amp;gt;</desc>-->
@@ -6312,7 +6312,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0152_text">
-            <pb facs="nb07_02_03_0152_verso.jpg" n="0152-verso"/>
+            <pb facs="nb07_02_03_0152_verso.jpg" xml:id="p0152v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket to the right of the
                text on lines 22-25.!&amp;gt;</desc>-->
@@ -6349,7 +6349,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0153_text">
-            <pb facs="nb07_02_03_0153_recto.jpg" n="0153-recto"/> 
+            <pb facs="nb07_02_03_0153_recto.jpg" xml:id="p0153r"/> 
             <lg>
                <l n="01"> 114  <note>Tillotson, Geoffrey. <hi rend="italics">On the Poetry of Pope</hi> (see earlier note).</note>as [his] subject lies a good deal out of our world,   <add>...</add></l>
                <l n="02">      [his style] has a particular propriety in those parts of the poem (can</l>
@@ -6385,7 +6385,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0154_text">
-            <pb facs="nb07_02_03_0154_verso.jpg" n="0154-verso"/>
+            <pb facs="nb07_02_03_0154_verso.jpg" xml:id="p0154v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket to the left of the
                text on lines 31-34.!&amp;gt;</desc>-->
@@ -6426,7 +6426,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0155_text">
-            <pb facs="nb07_02_03_0155_recto.jpg" n="0155-recto"/>
+            <pb facs="nb07_02_03_0155_recto.jpg" xml:id="p0155r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket to the left of the
                text on lines 01-02. She places a right curly
@@ -6472,7 +6472,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0156_text">
-            <pb facs="nb07_02_03_0156_verso.jpg" n="0156-verso"/>
+            <pb facs="nb07_02_03_0156_verso.jpg" xml:id="p0156v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!From the
                beginning of the word "business" on line 17,
                MM draws a line to the left that, as it
@@ -6516,7 +6516,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0157_text">
-            <pb facs="nb07_02_03_0157_recto.jpg" n="0157-recto"/>
+            <pb facs="nb07_02_03_0157_recto.jpg" xml:id="p0157r"/>
             <lg type="sideways">
                <l n="v01"><!--[vertical line] desc: lines 16-08, left margin-->                                         imagination is a kind of life</l>
             </lg>
@@ -6556,7 +6556,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0158_text">
-            <pb facs="nb07_02_03_0158_verso.jpg" n="0158-verso"/>
+            <pb facs="nb07_02_03_0158_verso.jpg" xml:id="p0158v"/>
             <lg>
                <l n="01">     <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>of democracy.</l>
                <l n="02">  x   The common reader does not live by trends alone; he reads books</l>
@@ -6593,7 +6593,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0159_text">
-            <pb facs="nb07_02_03_0159_recto.jpg" n="0159-recto"/>
+            <pb facs="nb07_02_03_0159_recto.jpg" xml:id="p0159r"/>
             <lg>
                <l n="01">   <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>w. the moral depth of Hawthorne or Melville.</l>
                <l n="02">xiii    one of my chief convictions: that works of art can be best</l>
@@ -6630,7 +6630,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0160_text">
-            <pb facs="nb07_02_03_0160_verso.jpg" n="0160-verso"/>
+            <pb facs="nb07_02_03_0160_verso.jpg" xml:id="p0160v"/>
             <lg>
                <l n="01">     <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>and moreover it is conquered slowly &amp; unpredictably.</l>
                <l n="02">      We do not demand a civilization made to order any more</l>
@@ -6667,7 +6667,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0161_text">
-            <pb facs="nb07_02_03_0161_recto.jpg" n="0161-recto"/>
+            <pb facs="nb07_02_03_0161_recto.jpg" xml:id="p0161r"/>
             <lg>
                <l n="01">  XIX      <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>J. W. Beach     The Method of Henry James (1918)</l>
                <l n="02">             H L. Mencken, The Amer Lang. 1919, revised 1936</l>
@@ -6704,7 +6704,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0162_text">
-            <pb facs="nb07_02_03_0162_verso.jpg" n="0162-verso"/>
+            <pb facs="nb07_02_03_0162_verso.jpg" xml:id="p0162v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places two vertical bars to the left of the
                text and after the marginal note on lines
@@ -6744,7 +6744,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0163_text">
-            <pb facs="nb07_02_03_0163_recto.jpg" n="0163-recto"/>
+            <pb facs="nb07_02_03_0163_recto.jpg" xml:id="p0163r"/>
             <lg>
                <l n="01">     <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>As. Henry James was to remark in his study of Hawthorne</l>
                <l n="02">      introspection, thanks to the want of other entertainment, played</l>
@@ -6785,7 +6785,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0164_text">
-            <pb facs="nb07_02_03_0164_verso.jpg" n="0164-verso"/>
+            <pb facs="nb07_02_03_0164_verso.jpg" xml:id="p0164v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places two vertical bars to the left of the
                text on lines 05-07.!&amp;gt;</desc>-->
@@ -6826,7 +6826,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0165_text">
-            <pb facs="nb07_02_03_0165_recto.jpg" n="0165-recto"/>
+            <pb facs="nb07_02_03_0165_recto.jpg" xml:id="p0165r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!Starting
                after the "E:" of line 14 and placing it
                after the marginal note of line 18, MM draws
@@ -6863,13 +6863,13 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0166_text">
-            <pb facs="nb07_02_03_0166_verso.jpg" n="0166-verso"/>
+            <pb facs="nb07_02_03_0166_verso.jpg" xml:id="p0166v"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0167_text">
-            <pb facs="nb07_02_03_0167_recto.jpg" n="0167-recto"/>
+            <pb facs="nb07_02_03_0167_recto.jpg" xml:id="p0167r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining on line 04 is
                double.!&amp;gt;</desc>-->
@@ -6906,7 +6906,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0168_text">
-            <pb facs="nb07_02_03_0168_verso.jpg" n="0168-verso"/>
+            <pb facs="nb07_02_03_0168_verso.jpg" xml:id="p0168v"/>
             <lg>
                <l n="01">   33         <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>Em. in his essay on ‘The Poet’  The etymologist finds the</l>
                <l n="02">               deadest word<del>s</del> to have been once a brilliant picture. Lang.</l>
@@ -6942,7 +6942,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0169_text">
-            <pb facs="nb07_02_03_0169_recto.jpg" n="0169-recto"/>
+            <pb facs="nb07_02_03_0169_recto.jpg" xml:id="p0169r"/>
             <lg>
                <l n="01">   <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>that he cld hear every day in the street or workshop.</l>
                <l n="02">38  E’s continual joy in the homeliest speech, . . . or in the understatements</l>
@@ -6980,7 +6980,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0170_text">
-            <pb facs="nb07_02_03_0170_verso.jpg" n="0170-verso"/>
+            <pb facs="nb07_02_03_0170_verso.jpg" xml:id="p0170v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a vertical bar to the right of the marginal
                note on line 21 and the left of the text on
@@ -7023,7 +7023,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0171_text">
-            <pb facs="nb07_02_03_0171_recto.jpg" n="0171-recto"/>
+            <pb facs="nb07_02_03_0171_recto.jpg" xml:id="p0171r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a vertical bar to the left of the text
                on lines 01-02 and another between the
@@ -7071,7 +7071,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0172_text">
-            <pb facs="nb07_02_03_0172_verso.jpg" n="0172-verso"/>
+            <pb facs="nb07_02_03_0172_verso.jpg" xml:id="p0172v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                encloses "indifferent" and "identical?" in
                curly brackets on lines 17-18. She draws two
@@ -7113,7 +7113,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0173_text">
-            <pb facs="nb07_02_03_0173_recto.jpg" n="0173-recto"/>
+            <pb facs="nb07_02_03_0173_recto.jpg" xml:id="p0173r"/>
             <lg>
                <l n="01">    <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>making argument that makes a <del>poet</del> poem'</l>
                <l n="02">        E.: “Everything in the universe goes by indirection.”</l>
@@ -7152,7 +7152,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0174_text">
-            <pb facs="nb07_02_03_0174_verso.jpg" n="0174-verso"/>
+            <pb facs="nb07_02_03_0174_verso.jpg" xml:id="p0174v"/>
             <lg>
                <l n="01">68   <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>ordered skills of the preacher. ... the rhetorician’s ‘principle</l>
                <l n="02">                                           of iteration.' ?</l>
@@ -7189,7 +7189,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0175_text">
-            <pb facs="nb07_02_03_0175_recto.jpg" n="0175-recto"/>
+            <pb facs="nb07_02_03_0175_recto.jpg" xml:id="p0175r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!There is
                an unrecognizable glyph above the "E" of
                "Edward" at the beginning of line
@@ -7237,7 +7237,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0176_text">
-            <pb facs="nb07_02_03_0176_verso.jpg" n="0176-verso"/>
+            <pb facs="nb07_02_03_0176_verso.jpg" xml:id="p0176v"/>
             <lg>
                <l n="01">  <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>T.E.             Hulme has demanded: "There are then 2 things to</l>
                <l n="02">HULME distinguish; first the particular faculty of mind to see things</l>
@@ -7273,7 +7273,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0177_text">
-            <pb facs="nb07_02_03_0177_recto.jpg" n="0177-recto"/>
+            <pb facs="nb07_02_03_0177_recto.jpg" xml:id="p0177r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!An arrow
                points to the right from the end of the text
                on line 30.!&amp;gt;</desc>-->
@@ -7316,7 +7316,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0178_text">
-            <pb facs="nb07_02_03_0178_verso.jpg" n="0178-verso"/>
+            <pb facs="nb07_02_03_0178_verso.jpg" xml:id="p0178v"/>
             <lg>
                <l n="01" rend="verse">108     <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>cf Emerson   How much, preventing God, how much I owe</l>
                <l n="02" rend="verse">                      To the defences thou hast round me set;</l>
@@ -7355,7 +7355,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0179_text">
-            <pb facs="nb07_02_03_0179_recto.jpg" n="0179-recto"/>
+            <pb facs="nb07_02_03_0179_recto.jpg" xml:id="p0179r"/>
             <lg>
                <l n="01">    <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>matching of good <del>&amp; evil</del> against evil, which was foreign to E’s temperament.</l>
                <l n="02">     Their compressed form resulted from her need to resolve conflicts</l>
@@ -7390,7 +7390,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0180_text">
-            <pb facs="nb07_02_03_0180_verso.jpg" n="0180-verso"/>
+            <pb facs="nb07_02_03_0180_verso.jpg" xml:id="p0180v"/>
             <lg>
                <l n="01"> 122 <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>He grew momentarily fascinated by the scholastic</l>
                <l n="02">      strain in Browne, which asserted that a thing may be</l>
@@ -7426,7 +7426,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0181_text">
-            <pb facs="nb07_02_03_0181_recto.jpg" n="0181-recto"/>
+            <pb facs="nb07_02_03_0181_recto.jpg" xml:id="p0181r"/>
             <lg>
                <l n="01">                <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note). </note>The Metaphysical Strain</l>
                <l n="02"> 130  Melville’s aim in this particular parable (the warp is ‘chance, free will</l>
@@ -7461,7 +7461,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0182_text">
-            <pb facs="nb07_02_03_0182_verso.jpg" n="0182-verso"/>
+            <pb facs="nb07_02_03_0182_verso.jpg" xml:id="p0182v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a short arrow from the first word on line 24
                to "Coleridge" on line 25.!&amp;gt;</desc>-->
@@ -7498,7 +7498,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0183_text">
-            <pb facs="nb07_02_03_0183_recto.jpg" n="0183-recto"/>
+            <pb facs="nb07_02_03_0183_recto.jpg" xml:id="p0183r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                second underlining of line 06 is double. An
                arrow points from the page number on line 08
@@ -7539,7 +7539,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0184_text">
-            <pb facs="nb07_02_03_0184_verso.jpg" n="0184-verso"/>
+            <pb facs="nb07_02_03_0184_verso.jpg" xml:id="p0184v"/>
             <lg>
                <l n="01">      <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>would see no evil.—But what did Christ see? He saw what</l>
                <l n="02">       made him weep . . . . To annihilate all this nonsense read</l>
@@ -7576,7 +7576,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0185_text">
-            <pb facs="nb07_02_03_0185_recto.jpg" n="0185-recto"/>
+            <pb facs="nb07_02_03_0185_recto.jpg" xml:id="p0185r"/>
             <lg>
                <l n="01">     <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note><del>H</del> Melville</l>
                <l n="02">  190  became aware that there can be no authentic style unless it</l>
@@ -7612,7 +7612,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0186_text">
-            <pb facs="nb07_02_03_0186_verso.jpg" n="0186-verso"/>
+            <pb facs="nb07_02_03_0186_verso.jpg" xml:id="p0186v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                an arrow from the end of and under line 03
                back to the beginning of line 06. Another
@@ -7657,7 +7657,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0187_text">
-            <pb facs="nb07_02_03_0187_recto.jpg" n="0187-recto"/>
+            <pb facs="nb07_02_03_0187_recto.jpg" xml:id="p0187r"/>
             <lg>
                <l n="01">   229  <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>H. in Coverdale ...<add>must remember</add>C. is not Hawthorne any more</l>
                <l n="02">         than Prufrock is Eliot,—that in each case the author has</l>
@@ -7694,7 +7694,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0188_text">
-            <pb facs="nb07_02_03_0188_verso.jpg" n="0188-verso"/>
+            <pb facs="nb07_02_03_0188_verso.jpg" xml:id="p0188v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a bold vertical bar after the right marginal
                note and before the text on lines
@@ -7737,7 +7737,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0189_text">
-            <pb facs="nb07_02_03_0189_recto.jpg" n="0189-recto"/>
+            <pb facs="nb07_02_03_0189_recto.jpg" xml:id="p0189r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 27 is in red
                pencil.!&amp;gt;</desc>-->
@@ -7777,7 +7777,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0190_text">
-            <pb facs="nb07_02_03_0190_verso.jpg" n="0190-verso"/>
+            <pb facs="nb07_02_03_0190_verso.jpg" xml:id="p0190v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places five question marks vertically within
                lines 25-27.!&amp;gt;</desc>-->
@@ -7815,7 +7815,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0191_text">
-            <pb facs="nb07_02_03_0191_recto.jpg" n="0191-recto"/>
+            <pb facs="nb07_02_03_0191_recto.jpg" xml:id="p0191r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a curly bracket to the right of the
                right marginal note on lines 33-34 and an
@@ -7860,7 +7860,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0192_text">
-            <pb facs="nb07_02_03_0192_verso.jpg" n="0192-verso"/>
+            <pb facs="nb07_02_03_0192_verso.jpg" xml:id="p0192v"/>
             <lg>
                <l n="01">386    <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>Whitman . . . by developing his interest in oratory into a new kind</l>
                <l n="02">        of lyrical speech.</l>
@@ -7894,7 +7894,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0193_text">
-            <pb facs="nb07_02_03_0193_recto.jpg" n="0193-recto"/>
+            <pb facs="nb07_02_03_0193_recto.jpg" xml:id="p0193r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!The
                underlining of line 04 is
                double.!&amp;gt;</desc>-->
@@ -7935,7 +7935,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0194_text">
-            <pb facs="nb07_02_03_0194_verso.jpg" n="0194-verso"/>
+            <pb facs="nb07_02_03_0194_verso.jpg" xml:id="p0194v"/>
             <lg>
                <l n="01">               <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>WHITMAN  <del>517</del>   Whitman:</l>
                <l n="02">517</l>
@@ -7971,7 +7971,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0195_text">
-            <pb facs="nb07_02_03_0195_recto.jpg" n="0195-recto"/>
+            <pb facs="nb07_02_03_0195_recto.jpg" xml:id="p0195r"/>
             <lg>
                <l n="01">       <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>not all of whose meaning is at first obvious, &amp; who leaves</l>
                <l n="02">        you much to desire,          to xplain, to study, much to</l>
@@ -8011,7 +8011,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0196_text">
-            <pb facs="nb07_02_03_0196_verso.jpg" n="0196-verso"/>
+            <pb facs="nb07_02_03_0196_verso.jpg" xml:id="p0196v"/>
             <lg>
                <l n="01">      <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>as the wind &amp; the sea   [the winds &amp; the seas] ??</l>
                <l n="02">564    If poetry’s origin is to be found in the dance, in the rise &amp;</l>
@@ -8048,7 +8048,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0197_text">
-            <pb facs="nb07_02_03_0197_recto.jpg" n="0197-recto"/>
+            <pb facs="nb07_02_03_0197_recto.jpg" xml:id="p0197r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a vertical bar to the left of the text on
                lines 25-29.!&amp;gt;</desc>-->
@@ -8088,7 +8088,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0198_text">
-            <pb facs="nb07_02_03_0198_verso.jpg" n="0198-verso"/>
+            <pb facs="nb07_02_03_0198_verso.jpg" xml:id="p0198v"/>
             <lg>
                <l n="01">  618  <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>He could create this ‘sanity of atmosphere,’ as he called it, most</l>
                <l n="02">        limpidly &amp; unerringly when he was dealing w. sex, ‘the enclosing</l>
@@ -8127,7 +8127,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0199_text">
-            <pb facs="nb07_02_03_0199_recto.jpg" n="0199-recto"/>
+            <pb facs="nb07_02_03_0199_recto.jpg" xml:id="p0199r"/>
             <lg>
                <l n="01">    <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>fluviatile flowers, seen of Indians only, made</l>
                <l n="02">     beautiful the Lord knows why, to swim there! I could</l>
@@ -8163,7 +8163,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0200_text">
-            <pb facs="nb07_02_03_0200_verso.jpg" n="0200-verso"/>
+            <pb facs="nb07_02_03_0200_verso.jpg" xml:id="p0200v"/>
             <lg>
                <l n="01">             <note>Matthiessen, F. O. <hi rend="italics">American Renaissance</hi> (see earlier note).</note>Full Circle</l>
                <l n="02">          Melville . . . poured out his praise to ‘the great God absolute,</l>
@@ -8206,7 +8206,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0201_text">
-            <pb facs="nb07_02_03_0201_recto.jpg" n="0201-recto"/>
+            <pb facs="nb07_02_03_0201_recto.jpg" xml:id="p0201r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a square bracket to the left of the
                lext on lines 03-05, and extends the upper
@@ -8254,7 +8254,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0202_text">
-            <pb facs="nb07_02_03_0202_verso.jpg" n="0202-verso"/>
+            <pb facs="nb07_02_03_0202_verso.jpg" xml:id="p0202v"/>
             <lg>
                <l n="01">    <note>Richards, Grant. <hi rend="italics">Housman</hi> (see earlier note).</note>Grant Richards quotes Professor Fletcher   Appendix III p 399</l>
                <l n="02">                                Notes &amp; Queries.</l>
@@ -8285,7 +8285,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0203_text">
-            <pb facs="nb07_02_03_0203_recto.jpg" n="0203-recto"/>
+            <pb facs="nb07_02_03_0203_recto.jpg" xml:id="p0203r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                a diagram right after the left margin of
                lines 14-19. The first, after the word
@@ -8335,7 +8335,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0204_text">
-            <pb facs="nb07_02_03_0204_verso.jpg" n="0204-verso"/>
+            <pb facs="nb07_02_03_0204_verso.jpg" xml:id="p0204v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a left opening parenthesis to the left
                of the text and the right of the number 2 on
@@ -8379,7 +8379,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0205_text">
-            <pb facs="nb07_02_03_0205_recto.jpg" n="0205-recto"/>
+            <pb facs="nb07_02_03_0205_recto.jpg" xml:id="p0205r"/>
             <lg>
                <l n="01"> <note>Clinton-Baddeley, V. C. <hi rend="italics">Words for Music</hi> (see earlier note). </note>followed of any, many hundred years after, until the <hi rend="underline">Huns</hi></l>
                <l n="02">  &amp; <hi rend="underline">Gothians</hi> &amp; other barbarous nations of ignorance &amp; rude singularity</l>
@@ -8415,7 +8415,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0206_text">
-            <pb facs="nb07_02_03_0206_verso.jpg" n="0206-verso"/>
+            <pb facs="nb07_02_03_0206_verso.jpg" xml:id="p0206v"/>
             <lg>
                <l n="01">    <note>Clinton-Baddeley, V. C. <hi rend="italics">Words for Music</hi> (see earlier note). </note>was that the whole performance of a poem should be dedicated to the</l>
                <l n="02">     service of the words. He was at bitter war . . . with all who imagined</l>
@@ -8454,7 +8454,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0207_text">
-            <pb facs="nb07_02_03_0207_recto.jpg" n="0207-recto"/>
+            <pb facs="nb07_02_03_0207_recto.jpg" xml:id="p0207r"/>
             <lg>
                <l n="01"> <note>Edmonds, J. M. <hi rend="italics">Lyra Graeca</hi> (see earlier note). </note>Marm. Par. 36.    <foreign xml:lang="grc">ἀφ᾽ οὗ Σαπφὼ ἐκ Μντιλήνης</foreign></l>
                <l n="02"> <foreign xml:lang="grc">εἰς Σικελίαν επλενσα      ςετη ΗΗΗ ΔΔΔ ΙΙΙΙ</foreign><note>This is the facing-page Greek text of the opening phrases of the translation MM has just transcribed from <hi rend="italics">Lyra Grecae</hi>. </note></l>
@@ -8498,7 +8498,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0208_text">
-            <pb facs="nb07_02_03_0208_verso.jpg" n="0208-verso"/>
+            <pb facs="nb07_02_03_0208_verso.jpg" xml:id="p0208v"/>
             <lg>
                <l n="01">42    <note>Levin, Harry. <hi rend="italics">James Joyce</hi> (see earlier note).</note>the novel of the artist, the <foreign xml:lang="de">Künstlerroman</foreign></l>
                <l n="02">   <hi rend="underline"><foreign xml:lang="fr">A la recherche du temps perdu</foreign></hi> has been described as a novel</l>
@@ -8534,7 +8534,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0209_text">
-            <pb facs="nb07_02_03_0209_recto.jpg" n="0209-recto"/>
+            <pb facs="nb07_02_03_0209_recto.jpg" xml:id="p0209r"/>
             <lg>
                <l n="01">   <note>Levin, Harry. <hi rend="italics">James Joyce</hi> (see earlier note).</note>It exalts the habit of verbal association into a principle for</l>
                <l n="02">    the arrangement of experience.</l>
@@ -8571,7 +8571,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0210_text">
-            <pb facs="nb07_02_03_0210_verso.jpg" n="0210-verso"/>
+            <pb facs="nb07_02_03_0210_verso.jpg" xml:id="p0210v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!A large
                dot appears above the word "Ulysses" on line
                21. An opening parenthesis is placed to the
@@ -8616,7 +8616,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0211_text">
-            <pb facs="nb07_02_03_0211_recto.jpg" n="0211-recto"/>
+            <pb facs="nb07_02_03_0211_recto.jpg" xml:id="p0211r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!the
                underlining on line 06 is in red
                pencil.!&amp;gt;</desc>-->
@@ -8655,7 +8655,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0212_text">
-            <pb facs="nb07_02_03_0212_verso.jpg" n="0212-verso"/>
+            <pb facs="nb07_02_03_0212_verso.jpg" xml:id="p0212v"/>
             <lg>
                <l n="01"> <note>Levin, Harry. <hi rend="italics">James Joyce</hi> (see earlier note). </note>193   Of the romance bet. his hero &amp; heroine he has a good deal</l>
                <l n="02">       to <del>xpress</del> say, but no more to express than the schoolboy</l>
@@ -8692,7 +8692,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0213_text">
-            <pb facs="nb07_02_03_0213_recto.jpg" n="0213-recto"/>
+            <pb facs="nb07_02_03_0213_recto.jpg" xml:id="p0213r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a closing parenthesis to the right of
                the words that end lines
@@ -8742,7 +8742,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0214_text">
-            <pb facs="nb07_02_03_0214_verso.jpg" n="0214-verso"/>
+            <pb facs="nb07_02_03_0214_verso.jpg" xml:id="p0214v"/>
             <lg>
                <l n="01">               <bibl corresp="nb07_02_03_0214_verso_l01_bibl"/>Twelve      Cummington, Aug. 19<del><unclear>1</unclear></del><gap extent="1"/>42<note>MM taught at the Cummington School of the Arts in the summer of 1942.</note></l>
                <l n="02">             Folk Hymns                       1942</l>
@@ -8781,7 +8781,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0215_text">
-            <pb facs="nb07_02_03_0215_recto.jpg" n="0215-recto"/>
+            <pb facs="nb07_02_03_0215_recto.jpg" xml:id="p0215r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a left curly bracket to the right of
                the left marginal note and the left of the
@@ -8814,7 +8814,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0216_text">
-            <pb facs="nb07_02_03_0216_verso.jpg" n="0216-verso"/>
+            <pb facs="nb07_02_03_0216_verso.jpg" xml:id="p0216v"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM draws
                an angel face between lines 01 and 09 and the
                outline of what is probably a tombstone
@@ -8847,7 +8847,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0217_text">
-            <pb facs="nb07_02_03_0217_recto.jpg" n="0217-recto"/>
+            <pb facs="nb07_02_03_0217_recto.jpg" xml:id="p0217r"/>
 <!--            <desc>[Page-level Description] &amp;lt;!MM
                places a left curly bracket to the right of
                the "m" of the left marginal note on line 01
@@ -8882,7 +8882,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0218_text">
-            <pb facs="nb07_02_03_0218_verso.jpg" n="0218-verso"/>
+            <pb facs="nb07_02_03_0218_verso.jpg" xml:id="p0218v"/>
             <lg>
                <l n="01" rend="poetry"> <hi rend="pencil">world wise &amp; world foolish</hi></l>
                <l n="02" rend="poetry"> <hi rend="pencil">chipmunk head on the sacred spread</hi><note>In a letter of October 4, 1942, MM writes to Katherine Frazier, the director of the Cummington School of the Arts, of "the supreme beauty of August" at Cummington, noting in particular "your snow-drop buds &amp; bending fruit-trees and your 2 russet chipmunks" (Rosenbach V:20:56).</note></l>
@@ -8893,7 +8893,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0219_text">
-            <pb facs="nb07_02_03_0219_recto.jpg" n="0219-recto"/>
+            <pb facs="nb07_02_03_0219_recto.jpg" xml:id="p0219r"/>
             <lg>
                <l n="01">   <bibl corresp="nb07_02_03_0219_recto_l01_bibl"/>The Foundations of Modern Art: Amedee Ozenfant<note>Ozenfant, Amédée [1886-1966]. French Cubist and then Purist painter who moved to New York in 1938 and in 1939 opened the Ozenfant School of Fine Arts.</note></l>
                <l n="02">  trans. by John Rodker     Brewer Warren, &amp; Putnam 1931<bibl corresp="#nb07_02_03_0219_recto_l01_bibl"/><note>Ozenfant, Amédée. <hi rend="italics">Foundations of Modern Art</hi>. John Rodker, trans. New York: Brewer, Warren and Putnam, 1931.</note></l>
@@ -8903,7 +8903,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0220_text">
-            <pb facs="nb07_02_03_0220_verso.jpg" n="0220-verso"/>
+            <pb facs="nb07_02_03_0220_verso.jpg" xml:id="p0220v"/>
             <lg type="sideways">
                <l n="v01"><!--desc: lines 28-04, left margin-->
                         <hi rend="pencil">                      Stevens the least sanctimonious of any one know.</hi></l>
@@ -8948,19 +8948,19 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0221_text">
-            <pb facs="nb07_02_03_0221_recto.jpg" n="0221-recto"/>
+            <pb facs="nb07_02_03_0221_recto.jpg" xml:id="p0221r"/>
             <lg>
                <l n="01"><note>Stevens, Wallace. "Noble Rider" (see earlier note).</note>the sound of its words, helps us to live our lives.</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0222_text">
-            <pb facs="nb07_02_03_0222_verso.jpg" n="0222-verso"/>
+            <pb facs="nb07_02_03_0222_verso.jpg" xml:id="p0222v"/>
             <lg>
                <l n="01">[No handwriting on this page.]</l>
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0223_text">
-            <pb facs="nb07_02_03_0223_recto.jpg" n="0223-recto"/>
+            <pb facs="nb07_02_03_0223_recto.jpg" xml:id="p0223r"/>
             <desc>[Inside back cover.]</desc>
             <lg>
                <l n="01"> Humility 15     Concentration 17     Hyperbole 18</l>
@@ -8977,7 +8977,7 @@
             </lg>
          </div>
          <div type="image" xml:id="nb07_02_03_0224_text">
-            <pb facs="nb07_02_03_0224_verso.jpg" n="0224-verso"/>
+            <pb facs="nb07_02_03_0224_verso.jpg" xml:id="p0224v"/>
             <desc>[Outside back cover.]</desc>
          </div>
       </body>
