@@ -89,13 +89,13 @@
     <text>
         <body>
             <div type="image" xml:id="nb07_04_05_0001_text">
-                <pb facs="nb07_04_05_0001_recto.jpg" xml:id="0001r"/>
+                <pb facs="nb07_04_05_0001_recto.jpg" xml:id="p0001r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0002_text">
-                <pb facs="nb07_04_05_0002_verso.jpg" xml:id="0002v"/>
+                <pb facs="nb07_04_05_0002_verso.jpg" xml:id="p0002v"/>
                 <lg>
                     <l n="01"/>
                     <l n="02"/>
@@ -108,14 +108,14 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0003_text">
-                <pb facs="nb07_04_05_0003_recto.jpg" xml:id="0003r"/>
+                <pb facs="nb07_04_05_0003_recto.jpg" xml:id="p0003r"/>
                 <lg>
                     <!-- NW: there does appear to a RML number in the top left of the page, should that be transcribed? We've transcribed those numbers elsewhere. -->
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0004_text">
-                <pb facs="nb07_04_05_0004_verso.jpg" xml:id="0004v"/>
+                <pb facs="nb07_04_05_0004_verso.jpg" xml:id="p0004v"/>
                 <lg>
                     <l n="01">  <hi rend="blue">Marianne Moore             260 Cumberland Street</hi></l>
                     <l n="02">                              <hi rend="blue">Brooklyn 5 NY</hi></l>
@@ -123,7 +123,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0005_text">
-                <pb facs="nb07_04_05_0005_recto.jpg" xml:id="0005r"/>
+                <pb facs="nb07_04_05_0005_recto.jpg" xml:id="p0005r"/>
                 <lg>
                     <l n="01">  August 7 1960                                            <hi rend="blue">1</hi></l>
                     <l n="02">      <hi rend="underline">Near the raspberry patch</hi></l>
@@ -164,7 +164,7 @@
             <div type="image" xml:id="nb07_04_05_0006_text">
                 <desc>Line 21, MM draws a straight line over
                     "and".</desc>
-                <pb facs="nb07_04_05_0006_verso.jpg" xml:id="0006v"/>
+                <pb facs="nb07_04_05_0006_verso.jpg" xml:id="p0006v"/>
                 <lg type="vertical">
                     <l n="v01"><!-- span lines 09-06 in left margin -->         Sept 21</l>
                 </lg>
@@ -208,7 +208,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0007_text">
-                <pb facs="nb07_04_05_0007_recto.jpg" xml:id="0007r"/>
+                <pb facs="nb07_04_05_0007_recto.jpg" xml:id="p0007r"/>
                 <lg>
                     <l n="01">     <hi rend="pencil">My <unclear resp="eg">cyguent</unclear><note>The unclear word "cyguent" may read "unguent". </note>                 Candidate</hi><note>MM drafts toward "Rescue with Yul Brynner,"  first published in <title>The New Yorker</title> 37 (20 May 1961): 40.</note> <hi rend="blue">3</hi></l>
                     <l n="02">  <hi rend="pencil">is an ointment                       debate</hi></l>
@@ -249,7 +249,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0008_text">
-                <pb facs="nb07_04_05_0008_verso.jpg" xml:id="0008v"/>
+                <pb facs="nb07_04_05_0008_verso.jpg" xml:id="p0008v"/>
                 <desc>MM draws square brackets around a
                     phrase on the right-hand side of the
                     page, lines 24-27, from "to cope" to
@@ -291,7 +291,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0009_text">
-                <pb facs="nb07_04_05_0009_recto.jpg" xml:id="0009r"/>
+                <pb facs="nb07_04_05_0009_recto.jpg" xml:id="p0009r"/>
                 <lg>
                     <l n="01">  							                                                                                                                  <hi rend="blue">5</hi></l>
                     <l n="02"/>
@@ -303,13 +303,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0010_text">
-                <pb facs="nb07_04_05_0010_verso.jpg" xml:id="0010v"/>
+                <pb facs="nb07_04_05_0010_verso.jpg" xml:id="p0010v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0011_text">
-                <pb facs="nb07_04_05_0011_recto.jpg" xml:id="0011r"/>
+                <pb facs="nb07_04_05_0011_recto.jpg" xml:id="p0011r"/>
                 <lg>
                     <l n="01"> The Bull resting on a hill                  <hi rend="blue">7</hi></l>
                     <l n="02">    his bulk tapering like a wedge</l>
@@ -323,25 +323,25 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0012_text">
-                <pb facs="nb07_04_05_0012_verso.jpg" xml:id="0012v"/>
+                <pb facs="nb07_04_05_0012_verso.jpg" xml:id="p0012v"/>
                 <lg>
                     <l n="01">[No transcription for this page.]<note>This image results from a copying and filing error in the files sent to the MMDA. It repeats image 010. Disregard. MM’s own handwritten numbers on the top right-hand corner of recto pages indicate the appropriate sequence.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0013_text">
-                <pb facs="nb07_04_05_0013_recto.jpg" xml:id="0013r"/>
+                <pb facs="nb07_04_05_0013_recto.jpg" xml:id="p0013r"/>
                 <lg>
                     <l n="01">[No transcription for this page.]<note>This image results from a copying and filing error in the files sent to the MMDA. It repeats image 011. Disregard. MM’s own handwritten numbers on the top right-hand corner of recto pages indicate the appropriate sequence. In this case, image 014 follows directly from image 011.</note></l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0014_text">
-                <pb facs="nb07_04_05_0014_recto.jpg" xml:id="0014r"/>
+                <pb facs="nb07_04_05_0014_recto.jpg" xml:id="p0014r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0015_text">
-                <pb facs="nb07_04_05_0015_recto.jpg" xml:id="0015r"/>
+                <pb facs="nb07_04_05_0015_recto.jpg" xml:id="p0015r"/>
                 <desc>MM draws a half circle around the
                     words at the end of line 26.</desc>
                 <lg>
@@ -383,7 +383,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0016_text">
-                <pb facs="nb07_04_05_0016_verso.jpg" xml:id="0016v"/>
+                <pb facs="nb07_04_05_0016_verso.jpg" xml:id="p0016v"/>
                 <lg type="vertical">
                     <l n="v01"><!-- span lines 12-01, along left margin, in three rows -->             <hi rend="blue">What if a new bill / came apart— / tore in half</hi></l>
                 </lg>
@@ -422,7 +422,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0017_text">
-                <pb facs="nb07_04_05_0017_recto.jpg" xml:id="0017r"/>
+                <pb facs="nb07_04_05_0017_recto.jpg" xml:id="p0017r"/>
                 <lg>
                     <l n="01" rend="verse">    		     No<note>MM drafts toward "To a Giraffe."</note>                                                                                                                                                      <hi rend="blue">11</hi></l>
                     <l n="02" rend="verse">            Unhumility—<del>no</del> oh enviable animal</l>
@@ -466,7 +466,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0018_text">
-                <pb facs="nb07_04_05_0018_verso.jpg" xml:id="0018v"/>
+                <pb facs="nb07_04_05_0018_verso.jpg" xml:id="p0018v"/>
                 <desc>MM draws a large parenthesis around
                     words in the left margin of lines 06-07;
                     between lines 21-22 she has a series of
@@ -522,7 +522,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0019_text">
-                <pb facs="nb07_04_05_0019_recto.jpg" xml:id="0019r"/>
+                <pb facs="nb07_04_05_0019_recto.jpg" xml:id="p0019r"/>
                 <desc>In line 24, the word "dumb" is written
                     in three colors, "du" in pencil; "mb" in
                     black ink; the top of the "b" is written
@@ -564,7 +564,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0020_text">
-                <pb facs="nb07_04_05_0020_verso.jpg" xml:id="0020v"/>
+                <pb facs="nb07_04_05_0020_verso.jpg" xml:id="p0020v"/>
                 <desc>Lines 09-16 are crossed out with one
                     diagonal line; MM draws a partial circle
                     around lines 18-19.</desc>
@@ -604,7 +604,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0021_text">
-                <pb facs="nb07_04_05_0021_recto.jpg" xml:id="0021r"/>
+                <pb facs="nb07_04_05_0021_recto.jpg" xml:id="p0021r"/>
                 <desc>MM circles the word "individual" in
                     blank ink, line 11.</desc>
                 <lg>
@@ -650,7 +650,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0022_text">
-                <pb facs="nb07_04_05_0022_verso.jpg" xml:id="0022v"/>
+                <pb facs="nb07_04_05_0022_verso.jpg" xml:id="p0022v"/>
                 <desc>MM circles the word "two" line 17 and
                     "do" line 20; line 30, she draws a wavy
                     line under the interlineation "the ball
@@ -695,7 +695,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0023_text">
-                <pb facs="nb07_04_05_0023_recto.jpg" xml:id="0023r"/>
+                <pb facs="nb07_04_05_0023_recto.jpg" xml:id="p0023r"/>
                 <desc>Throughout the page, MM writes over
                     letters to clarify with red pen; line
                     35, MM circles "of me".</desc>
@@ -749,7 +749,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0024_text">
-                <pb facs="nb07_04_05_0024_verso.jpg" xml:id="0024v"/>
+                <pb facs="nb07_04_05_0024_verso.jpg" xml:id="p0024v"/>
                 <desc>MM circles "pitcherly" in line 09 and
                     "juice" in line 21.</desc>
                 <lg>
@@ -796,7 +796,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0025_text">
-                <pb facs="nb07_04_05_0025_recto.jpg" xml:id="0025r"/>
+                <pb facs="nb07_04_05_0025_recto.jpg" xml:id="p0025r"/>
                 <desc>MM circles "very" line 01 and "we"
                     line 02, in pencil; she draws curly
                     bracket dividing right from left side of
@@ -837,13 +837,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0026_text">
-                <pb facs="nb07_04_05_0026_verso.jpg" xml:id="0026v"/>
+                <pb facs="nb07_04_05_0026_verso.jpg" xml:id="p0026v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0027_text">
-                <pb facs="nb07_04_05_0027_recto.jpg" xml:id="0027r"/>
+                <pb facs="nb07_04_05_0027_recto.jpg" xml:id="p0027r"/>
                 <desc>MM draws an arrow pointing from
                     "charity" in line 13 to "imaginary" in
                     line 11.</desc>
@@ -882,7 +882,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0028_text">
-                <pb facs="nb07_04_05_0028_verso.jpg" xml:id="0028v"/>
+                <pb facs="nb07_04_05_0028_verso.jpg" xml:id="p0028v"/>
                 <desc>MM circles "go" in line 12 and "grow"
                     in line 16.</desc>
                 <lg>
@@ -917,7 +917,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0029_text">
-                <pb facs="nb07_04_05_0029_recto.jpg" xml:id="0029r"/>
+                <pb facs="nb07_04_05_0029_recto.jpg" xml:id="p0029r"/>
                 <desc>MM draws a straight line in the left
                     margin by lines 07-08; she circles the
                     numbers 2 and 1, respectively, in lines
@@ -972,7 +972,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0030_text">
-                <pb facs="nb07_04_05_0030_verso.jpg" xml:id="0030v"/>
+                <pb facs="nb07_04_05_0030_verso.jpg" xml:id="p0030v"/>
                 <desc>MM draws a large parenthesis on the
                     right side of the words nearest the left
                     margin in lines 31-32.</desc>
@@ -1016,7 +1016,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0031_text">
-                <pb facs="nb07_04_05_0031_recto.jpg" xml:id="0031r"/>
+                <pb facs="nb07_04_05_0031_recto.jpg" xml:id="p0031r"/>
                 <lg type="vertical">
                     <l n="v01"><!-- span lines 27-08, on left margin  -->                       No need to bite back    elephants do not bite</l>
                 </lg>
@@ -1061,7 +1061,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0032_text">
-                <pb facs="nb07_04_05_0032_verso.jpg" xml:id="0032v"/>
+                <pb facs="nb07_04_05_0032_verso.jpg" xml:id="p0032v"/>
                 <desc>MM draws a large parenthesis around
                     words in lines 33-34, starting
                     "from".</desc>
@@ -1106,7 +1106,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0033_text">
-                <pb facs="nb07_04_05_0033_recto.jpg" xml:id="0033r"/>
+                <pb facs="nb07_04_05_0033_recto.jpg" xml:id="p0033r"/>
                 <desc>MM's parentheses include lines
                     25-27.</desc>
                 <lg>
@@ -1146,7 +1146,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0034_text">
-                <pb facs="nb07_04_05_0034_verso.jpg" xml:id="0034v"/>
+                <pb facs="nb07_04_05_0034_verso.jpg" xml:id="p0034v"/>
                 <desc>MM cancels lines 08–22 with blue ink;
                     in line 34, "See 19" is half
                     circled.</desc>
@@ -1192,7 +1192,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0035_text">
-                <pb facs="nb07_04_05_0035_recto.jpg" xml:id="0035r"/>
+                <pb facs="nb07_04_05_0035_recto.jpg" xml:id="p0035r"/>
                 <lg type="vertical">
                     <l n="v01"><!-- span lines 36-32 in left margin, three rows of print  -->                                                                      <hi rend="pencil">within</hi> / Emancipion is / from within</l>
                 </lg>
@@ -1238,7 +1238,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0036_text">
-                <pb facs="nb07_04_05_0036_verso.jpg" xml:id="0036v"/>
+                <pb facs="nb07_04_05_0036_verso.jpg" xml:id="p0036v"/>
                 <desc>MM writes over several words in green
                     or black ink; line 19, underlining is in
                     green ink; left margin of line 21, she
@@ -1276,7 +1276,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0037_text">
-                <pb facs="nb07_04_05_0037_recto.jpg" xml:id="0037r"/>
+                <pb facs="nb07_04_05_0037_recto.jpg" xml:id="p0037r"/>
                 <desc>Line 29, MM draws a double underline,
                     once in blue ink, once in pencil.</desc>
                 <lg>
@@ -1313,7 +1313,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0038_text">
-                <pb facs="nb07_04_05_0038_verso.jpg" xml:id="0038v"/>
+                <pb facs="nb07_04_05_0038_verso.jpg" xml:id="p0038v"/>
                 <lg>
                     <l n="01">      	  <seg type="draft-begin"/>Titian and the Musician<note>MM drafts toward "Charity Overcoming Envy."</note></l>
                     <l n="02"/>
@@ -1354,7 +1354,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0039_text">
-                <pb facs="nb07_04_05_0039_recto.jpg" xml:id="0039r"/>
+                <pb facs="nb07_04_05_0039_recto.jpg" xml:id="p0039r"/>
                 <lg>
                     <l n="01">  <seg type="draft-begin"/>      <hi rend="pencil">"a thousand flowers at the height of</hi><note>MM drafts toward "Charity Overcoming Envy."</note></l>
                     <l n="02">                    not rooted, massed</l>
@@ -1387,7 +1387,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0040_text">
-                <pb facs="nb07_04_05_0040_verso.jpg" xml:id="0040v"/>
+                <pb facs="nb07_04_05_0040_verso.jpg" xml:id="p0040v"/>
                 <lg>
                     <l n="01" rend="read verse">     cloaked in legend             deep in flowers<note>MM drafts toward "Charity Overcoming Envy.".</note></l>
                     <l n="02" rend="read verse">                           found</l>
@@ -1410,7 +1410,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0041_text">
-                <pb facs="nb07_04_05_0041_recto.jpg" xml:id="0041r"/>
+                <pb facs="nb07_04_05_0041_recto.jpg" xml:id="p0041r"/>
                 <lg>
                     <l n="01">                     <seg type="draft-begin"/>     implement<note>MM drafts toward "Charity Overcoming Envy."</note></l>
                     <l n="02">      Charity's uncharitable <del>perquisite</del>, a sword</l>
@@ -1452,7 +1452,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0042_text">
-                <pb facs="nb07_04_05_0042_verso.jpg" xml:id="0042v"/>
+                <pb facs="nb07_04_05_0042_verso.jpg" xml:id="p0042v"/>
                 <desc>MM makes a one-sided bracket around
                     words on the far right of lines 13-14
                     and 15-16; and a curly bracket around
@@ -1506,7 +1506,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0043_text">
-                <pb facs="nb07_04_05_0043_recto.jpg" xml:id="0043r"/>
+                <pb facs="nb07_04_05_0043_recto.jpg" xml:id="p0043r"/>
                 <desc>MM draws an arrow from "to pluck" in line 21 to "markings" in line 31 and from "but wait" in line 38 to "excess" in line 32.</desc>
                 <lg>
                     <l n="01">  <seg type="draft-begin">                   </seg>  I may have to go<note>MM drafts toward "Avec Ardeur."</note>                I resign  seek Spain</l>
@@ -1556,7 +1556,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0044_text">
-                <pb facs="nb07_04_05_0044_verso.jpg" xml:id="0044v"/>
+                <pb facs="nb07_04_05_0044_verso.jpg" xml:id="p0044v"/>
                 <desc>In lines 4-5, MM draws a large stray
                     mark; MM draws curly bracket around
                     lines 17-20 on left.</desc>
@@ -1584,7 +1584,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0045_text">
-                <pb facs="nb07_04_05_0045_recto.jpg" xml:id="0045r"/>
+                <pb facs="nb07_04_05_0045_recto.jpg" xml:id="p0045r"/>
                 <desc>MM circles "good?" and "wood," lines
                     11 and 25 respectively; she draws a
                     large parenthesis around mid-line words,
@@ -1636,7 +1636,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0046_text">
-                <pb facs="nb07_04_05_0046_verso.jpg" xml:id="0046v"/>
+                <pb facs="nb07_04_05_0046_verso.jpg" xml:id="p0046v"/>
                 <desc>MM circles 2 and "+" in lines 02 and
                     05; she writes over letters in lines
                     25-26 with green ink; she circles the
@@ -1673,7 +1673,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0047_text">
-                <pb facs="nb07_04_05_0047_recto.jpg" xml:id="0047r"/>
+                <pb facs="nb07_04_05_0047_recto.jpg" xml:id="p0047r"/>
                 <desc>Line 29, MM underlines "Brendan Gill"
                     in red; MM overwrites in black ink an O
                     over the last letter of Cano
@@ -1719,7 +1719,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0048_text">
-                <pb facs="nb07_04_05_0048_verso.jpg" xml:id="0048v"/>
+                <pb facs="nb07_04_05_0048_verso.jpg" xml:id="p0048v"/>
                 <desc>Line 1 "Want" is half circled. Right
                     column lines 01-10 are bracketed on left
                     side.</desc>
@@ -1754,7 +1754,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0049_text">
-                <pb facs="nb07_04_05_0049_recto.jpg" xml:id="0049r"/>
+                <pb facs="nb07_04_05_0049_recto.jpg" xml:id="p0049r"/>
                 <lg>
                     <l n="01">   <seg type="draft-begin">               </seg> <hi rend="green">May 18 63       The durable blossom</hi><note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query."   </note></l>
                     <l n="02">   <hi rend="green">of the catalpa.      Half frozen, battered</hi></l>
@@ -1789,7 +1789,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0050_text">
-                <pb facs="nb07_04_05_0050_verso.jpg" xml:id="0050v"/>
+                <pb facs="nb07_04_05_0050_verso.jpg" xml:id="p0050v"/>
                 <lg>
                     <l n="01">                  <seg type="draft-begin"/>   Yes Thomas<note>MM drafts toward "An Expedient—Leonardo da Vinci's—&amp; a Query" and, on bottom half of page, "W.S. Landor," first published in <title>The New Yorker</title>  40 (22 February, 1964): 26.</note></l>
                     <l n="02">   		         <del>How not like</del>  a Kempis<note>Kempis, Thomas à [c. 1380-1471]. Author of <title>The Imitation of Christ</title>, a renowned Christian devotional book.</note></l>
@@ -1830,7 +1830,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0051_text">
-                <pb facs="nb07_04_05_0051_recto.jpg" xml:id="0051r"/>
+                <pb facs="nb07_04_05_0051_recto.jpg" xml:id="p0051r"/>
                 <desc>line 2, MM draws a sequence of short
                     lines in 2 rows; line 16, she traces
                     most of the letters of her question in
@@ -1877,7 +1877,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0052_text">
-                <pb facs="nb07_04_05_0052_verso.jpg" xml:id="0052v"/>
+                <pb facs="nb07_04_05_0052_verso.jpg" xml:id="p0052v"/>
                 <desc>MM writes some lines first in pencil
                     then in green ink; line 06, she draws a
                     line from the long parenthesis following
@@ -1925,7 +1925,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0053_text">
-                <pb facs="nb07_04_05_0053_recto.jpg" xml:id="0053r"/>
+                <pb facs="nb07_04_05_0053_recto.jpg" xml:id="p0053r"/>
                 <desc>MM draws a vertical black line in
                     lines 4-5 to the right, and a vertical
                     red line in lines 14-15, to the left;
@@ -1949,7 +1949,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0054_text">
-                <pb facs="nb07_04_05_0054_verso.jpg" xml:id="0054v"/>
+                <pb facs="nb07_04_05_0054_verso.jpg" xml:id="p0054v"/>
                 <lg>
                     <l n="01">                   <hi rend="red">Another Katydid</hi></l>
                     <l n="02">     <hi rend="underline">Oh Did</hi>                     <hi rend="red">Be natural</hi></l>
@@ -1984,7 +1984,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0055_text">
-                <pb facs="nb07_04_05_0055_recto.jpg" xml:id="0055r"/>
+                <pb facs="nb07_04_05_0055_recto.jpg" xml:id="p0055r"/>
                 <lg>
                     <l n="01">                 Winter is here</l>
                     <l n="02">                 which I must bear</l>
@@ -2016,7 +2016,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0056_text">
-                <pb facs="nb07_04_05_0056_verso.jpg" xml:id="0056v"/>
+                <pb facs="nb07_04_05_0056_verso.jpg" xml:id="p0056v"/>
                 <lg>
                     <l n="01">              Scripps Calendar 1964<note>MM lectured at Scripps College in 1959 and evidently received calendars from them thereafter.</note></l>
                     <l n="02">         I confuse the Hesperides</l>
@@ -2056,7 +2056,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0057_text">
-                <pb facs="nb07_04_05_0057_recto.jpg" xml:id="0057r"/>
+                <pb facs="nb07_04_05_0057_recto.jpg" xml:id="p0057r"/>
                 <desc>MM draws a semicircle under and beside
                     lines 31-33, and an arrow pointing
                     toward line 35 indicating connection to
@@ -2104,7 +2104,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0058_text">
-                <pb facs="nb07_04_05_0058_verso.jpg" xml:id="0058v"/>
+                <pb facs="nb07_04_05_0058_verso.jpg" xml:id="p0058v"/>
                 <lg>
                     <l n="01">                  Appreciation of appreciator</l>
                     <l n="02">                   Ditty with Banjo</l>
@@ -2137,7 +2137,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0059_text">
-                <pb facs="nb07_04_05_0059_recto.jpg" xml:id="0059r"/>
+                <pb facs="nb07_04_05_0059_recto.jpg" xml:id="p0059r"/>
                 <desc>MM draws an emphatic squiggle under
                     the words "down," "nne,"
                     "calculation,"and "out done"
@@ -2191,7 +2191,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0060_text">
-                <pb facs="nb07_04_05_0060_verso.jpg" xml:id="0060v"/>
+                <pb facs="nb07_04_05_0060_verso.jpg" xml:id="p0060v"/>
                 <lg>
                     <l n="01">         <hi rend="blue">Musk oxen are</hi></l>
                     <l n="02">      <hi rend="blue"><del>The musk ox is</del> my envy    The musk-ox				</hi></l>
@@ -2226,7 +2226,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0061_text">
-                <pb facs="nb07_04_05_0061_recto.jpg" xml:id="0061r"/>
+                <pb facs="nb07_04_05_0061_recto.jpg" xml:id="p0061r"/>
                 <lg>
                     <l n="01">  <hi rend="blue">The Tum ti-tum of the drum</hi></l>
                     <l n="02">  					                          <hi rend="blue">cymbals</hi></l>
@@ -2256,7 +2256,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0062_text">
-                <pb facs="nb07_04_05_0062_verso.jpg" xml:id="0062v"/>
+                <pb facs="nb07_04_05_0062_verso.jpg" xml:id="p0062v"/>
                 <lg>
                     <l n="01">  <hi rend="blue"><seg type="draft-begin"/><hi rend="blue">Old Amusement Park              <seg type="genre-read-begin"/><bibl type="begin"/>May 23 1964</hi><note>MM drafts toward "The Old Amusement Park," first published <title>The New Yorker</title>  40 (29 August 1964): 34. MM also quotes on the first third of the page from Brendan Gill, "The Current Cinema: Danger! Virtue at Work," <title>The New Yorker</title>  (23 May 1964): 152. Brief rev. of a documentary on the 1960 Olympics. Gill sent MM the postcard on which the poem is based.</note></hi></l>
                     <l n="02">                                     <hi rend="blue">N Yorker<bibl type="end"/>			</hi></l>
@@ -2293,7 +2293,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0063_text">
-                <pb facs="nb07_04_05_0063_recto.jpg" xml:id="0063r"/>
+                <pb facs="nb07_04_05_0063_recto.jpg" xml:id="p0063r"/>
                 <desc>Lines 02-03 are first written in
                     pencil, then written over in blue ink;
                     underline in 06 and 16 is in red; line
@@ -2348,7 +2348,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0064_text">
-                <pb facs="nb07_04_05_0064_verso.jpg" xml:id="0064v"/>
+                <pb facs="nb07_04_05_0064_verso.jpg" xml:id="p0064v"/>
                 <desc>Lines 6-12, MM draws a long curly
                     bracket on the left margin, pointing to
                     her vertical note "J Masefield".</desc>
@@ -2392,7 +2392,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0065_text">
-                <pb facs="nb07_04_05_0065_recto.jpg" xml:id="0065r"/>
+                <pb facs="nb07_04_05_0065_recto.jpg" xml:id="p0065r"/>
                 <desc>MM underlines "Stay" in pencil, line
                     21.</desc>
                 <lg>
@@ -2436,7 +2436,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0066_text">
-                <pb facs="nb07_04_05_0066_verso.jpg" xml:id="0066v"/>
+                <pb facs="nb07_04_05_0066_verso.jpg" xml:id="p0066v"/>
                 <lg>
                     <l n="01"> <seg type="draft-begin"/>             <hi rend="pencil">&amp; pent up emotion        home of for the</hi><note>MM drafts toward "The Mind, Intractable Thing."</note></l>
                     <l n="02"/>
@@ -2466,7 +2466,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0067_text">
-                <pb facs="nb07_04_05_0067_recto.jpg" xml:id="0067r"/>
+                <pb facs="nb07_04_05_0067_recto.jpg" xml:id="p0067r"/>
                 <lg>
                     <l n="01">	  <seg type="draft-begin"/>                           <hi rend="pencil">fox ran the north</hi><note>MM drafts toward "The Mind, Intractable Thing."</note></l>
                     <l n="02">        <hi rend="pencil">quivered uncertain till finding					</hi></l>
@@ -2483,13 +2483,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0068_text">
-                <pb facs="nb07_04_05_0068_verso.jpg" xml:id="0068v"/>
+                <pb facs="nb07_04_05_0068_verso.jpg" xml:id="p0068v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0069_text">
-                <pb facs="nb07_04_05_0069_recto.jpg" xml:id="0069r"/>
+                <pb facs="nb07_04_05_0069_recto.jpg" xml:id="p0069r"/>
                 <lg>
                     <l n="01"> Some things are not said because too</l>
                     <l n="02"> much felt</l>
@@ -2521,13 +2521,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0070_text">
-                <pb facs="nb07_04_05_0070_verso.jpg" xml:id="0070v"/>
+                <pb facs="nb07_04_05_0070_verso.jpg" xml:id="p0070v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0071_text">
-                <pb facs="nb07_04_05_0071_recto.jpg" xml:id="0071r"/>
+                <pb facs="nb07_04_05_0071_recto.jpg" xml:id="p0071r"/>
                 <desc>Line 10, MM draws arrow from "ovoid"
                     to "egg" in previous line.</desc>
                 <lg>
@@ -2572,7 +2572,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0072_text">
-                <pb facs="nb07_04_05_0072_verso.jpg" xml:id="0072v"/>
+                <pb facs="nb07_04_05_0072_verso.jpg" xml:id="p0072v"/>
                 <lg>
                     <l n="01">  	<seg type="draft-begin"/>                  he            <hi rend="pencil">compose<note>MM drafts toward "Dream."</note></hi></l>
                     <l n="02">   At the Thomas-kirche had had to produce<note>Bach spent his last 27 years (1723–1750) in service to and writing cantatas for St. Thomas Church (Thomaskirche) in Leipzig, Germany.</note></l>
@@ -2585,7 +2585,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0073_text">
-                <pb facs="nb07_04_05_0073_verso.jpg" xml:id="0073v"/>
+                <pb facs="nb07_04_05_0073_verso.jpg" xml:id="p0073v"/>
                 <desc>Lines 29 to 34 involve extensive
                     erasure and overwriting; line 33 MM may
                     write and then erase "there here" and
@@ -2629,7 +2629,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0074_text">
-                <pb facs="nb07_04_05_0074_verso.jpg" xml:id="0074v"/>
+                <pb facs="nb07_04_05_0074_verso.jpg" xml:id="p0074v"/>
                 <lg>
                     <l n="01">         Such lofty language<note>MM drafts toward "Mercifully."</note></l>
                     <l n="02"/>
@@ -2639,7 +2639,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0075_text">
-                <pb facs="nb07_04_05_0075_recto.jpg" xml:id="0075r"/>
+                <pb facs="nb07_04_05_0075_recto.jpg" xml:id="p0075r"/>
                 <desc>Line 04, MM makes unidentifiable mark
                     at the beginning of the line.</desc>
                 <lg>
@@ -2674,7 +2674,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0076_text">
-                <pb facs="nb07_04_05_0076_verso.jpg" xml:id="0076v"/>
+                <pb facs="nb07_04_05_0076_verso.jpg" xml:id="p0076v"/>
                 <desc>MM either deletes or underlines words
                     in line 20, in red ink; between lines
                     22-24, she perhaps has written and then
@@ -2724,7 +2724,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0077_text">
-                <pb facs="nb07_04_05_0077_recto.jpg" xml:id="0077r"/>
+                <pb facs="nb07_04_05_0077_recto.jpg" xml:id="p0077r"/>
                 <lg>
                     <l n="01">  	          <hi rend="pencil">O moon</hi></l>
                     <l n="02"/>
@@ -2765,7 +2765,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0078_text">
-                <pb facs="nb07_04_05_0078_verso.jpg" xml:id="0078v"/>
+                <pb facs="nb07_04_05_0078_verso.jpg" xml:id="p0078v"/>
                 <desc>MM draws circles around the numbers 1,
                     2, and 3 lines 01, 03, 05; she draws a
                     curly bracket on the left side of lines
@@ -2809,7 +2809,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0079_text">
-                <pb facs="nb07_04_05_0079_recto.jpg" xml:id="0079r"/>
+                <pb facs="nb07_04_05_0079_recto.jpg" xml:id="p0079r"/>
                 <desc>MM circles "tall" line 04 and "small"
                     line 16; slanted lines cancel "own
                     ermine" in line 11; in line 23 the
@@ -2845,7 +2845,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0080_text">
-                <pb facs="nb07_04_05_0080_verso.jpg" xml:id="0080v"/>
+                <pb facs="nb07_04_05_0080_verso.jpg" xml:id="p0080v"/>
                 <desc>MM draws a line between line 35 from
                     the end of the word "interruption," to
                     the ellipses at the end of line 36; line
@@ -2891,7 +2891,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0081_text">
-                <pb facs="nb07_04_05_0081_recto.jpg" xml:id="0081r"/>
+                <pb facs="nb07_04_05_0081_recto.jpg" xml:id="p0081r"/>
                 <desc>Top of page was cut off, leaving only
                     the lower half, which was then overlaid
                     on p. 83 (see footnote).</desc>
@@ -2915,7 +2915,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0082_text">
-                <pb facs="nb07_04_05_0082_verso.jpg" xml:id="0082v"/>
+                <pb facs="nb07_04_05_0082_verso.jpg" xml:id="p0082v"/>
                 <desc>Top of page has been cut off, see note
                     image 0081; in line 7 the word
                     "inadequate" angles down.</desc>
@@ -2939,7 +2939,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0083_text">
-                <pb facs="nb07_04_05_0083_recto.jpg" xml:id="0083r"/>
+                <pb facs="nb07_04_05_0083_recto.jpg" xml:id="p0083r"/>
                 <desc>Material beginning line 12 is written
                     separately from the material above; see
                     note to image 0081.</desc>
@@ -2965,13 +2965,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0084_text">
-                <pb facs="nb07_04_05_0084_verso.jpg" xml:id="0084v"/>
+                <pb facs="nb07_04_05_0084_verso.jpg" xml:id="p0084v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0085_text">
-                <pb facs="nb07_04_05_0085_recto.jpg" xml:id="0085r"/>
+                <pb facs="nb07_04_05_0085_recto.jpg" xml:id="p0085r"/>
                 <lg>
                     <l n="01">  		<seg type="draft-begin"/>             Moon<note>MM drafts toward "Reminiscent of a Wave at the Curl," largely in the second half of the page; some elements anticipate "The Magician's Retreat."</note></l>
                     <l n="02">        Rock Crystal prism <del>nutria coal coat</del></l>
@@ -3013,7 +3013,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0086_text">
-                <pb facs="nb07_04_05_0086_verso.jpg" xml:id="0086v"/>
+                <pb facs="nb07_04_05_0086_verso.jpg" xml:id="p0086v"/>
                 <desc>Underlining in line 13 is in blue
                     ink.</desc>
                 <lg>
@@ -3042,7 +3042,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0087_text">
-                <pb facs="nb07_04_05_0087_recto.jpg" xml:id="0087r"/>
+                <pb facs="nb07_04_05_0087_recto.jpg" xml:id="p0087r"/>
                 <desc>MM cancels lines 01-10 with slanted
                     lines.</desc>
                 <lg>
@@ -3076,7 +3076,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0088_text">
-                <pb facs="nb07_04_05_0088_verso.jpg" xml:id="0088v"/>
+                <pb facs="nb07_04_05_0088_verso.jpg" xml:id="p0088v"/>
                 <desc>Two printed poems by Robert Southey.
                     MM cancels "nearer as she gazed" in the
                     penultimate line and "tremblingly" in
@@ -3111,7 +3111,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0089_text">
-                <pb facs="nb07_04_05_0089_recto.jpg" xml:id="0089r"/>
+                <pb facs="nb07_04_05_0089_recto.jpg" xml:id="p0089r"/>
                 <desc>MM draws a squiggle in line 01.</desc>
                 <lg>
                     <l n="01">  <seg type="draft-begin"/>                   — <note>MM drafts toward "The Magician's Retreat," first published <title>The New Yorker</title>  46 (21 February 1970): 40.</note></l>
@@ -3149,7 +3149,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0090_text">
-                <pb facs="nb07_04_05_0090_verso.jpg" xml:id="0090v"/>
+                <pb facs="nb07_04_05_0090_verso.jpg" xml:id="p0090v"/>
                 <lg>
                     <l n="01"> <seg type="draft-begin"/> bowed                      new moon</l>
                     <l n="02">          of moderate height</l>
@@ -3185,7 +3185,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0091_text">
-                <pb facs="nb07_04_05_0091_recto.jpg" xml:id="0091r"/>
+                <pb facs="nb07_04_05_0091_recto.jpg" xml:id="p0091r"/>
                 <desc>Lines 02-05, MM writes in pen over
                     faint penciled words; she draws some
                     mark before "born," line 13.</desc>
@@ -3230,7 +3230,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0092_text">
-                <pb facs="nb07_04_05_0092_verso.jpg" xml:id="0092v"/>
+                <pb facs="nb07_04_05_0092_verso.jpg" xml:id="p0092v"/>
                 <desc>This page contains traces of what may
                     be original pencil or an ink pen running
                     out of ink, which are largely
@@ -3278,7 +3278,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0093_text">
-                <pb facs="nb07_04_05_0093_recto.jpg" xml:id="0093r"/>
+                <pb facs="nb07_04_05_0093_recto.jpg" xml:id="p0093r"/>
                 <desc>This page was originally written in
                     pencil, which is in some sections then
                     overwritten in ink, as indicated; MM
@@ -3317,7 +3317,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0094_text">
-                <pb facs="nb07_04_05_0094_verso.jpg" xml:id="0094v"/>
+                <pb facs="nb07_04_05_0094_verso.jpg" xml:id="p0094v"/>
                 <desc>This page was originally written in
                     pencil or faint ink, then overwritten in
                     ink.</desc>
@@ -3335,7 +3335,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0095_text">
-                <pb facs="nb07_04_05_0095_recto.jpg" xml:id="0095r"/>
+                <pb facs="nb07_04_05_0095_recto.jpg" xml:id="p0095r"/>
                 <desc>This page was originally written in
                     pencil, which is in some sections
                     overwritten in ink; MM circles "gig"
@@ -3379,13 +3379,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0096_text">
-                <pb facs="nb07_04_05_0096_verso.jpg" xml:id="0096v"/>
+                <pb facs="nb07_04_05_0096_verso.jpg" xml:id="p0096v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0097_text">
-                <pb facs="nb07_04_05_0097_recto.jpg" xml:id="0097r"/>
+                <pb facs="nb07_04_05_0097_recto.jpg" xml:id="p0097r"/>
                 <desc>MM draws wavy vertical lines between
                     lines 06 and 08.</desc>
                 <lg>
@@ -3403,25 +3403,25 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0098_text">
-                <pb facs="nb07_04_05_0098_verso.jpg" xml:id="0098v"/>
+                <pb facs="nb07_04_05_0098_verso.jpg" xml:id="p0098v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0099_text">
-                <pb facs="nb07_04_05_0099_recto.jpg" xml:id="0099r"/>
+                <pb facs="nb07_04_05_0099_recto.jpg" xml:id="p0099r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0100_text">
-                <pb facs="nb07_04_05_0100_verso.jpg" xml:id="0100v"/>
+                <pb facs="nb07_04_05_0100_verso.jpg" xml:id="p0100v"/>
                 <lg>
                     <l n="01">[No handwriting on this page]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0101_text">
-                <pb facs="nb07_04_05_0101_recto.jpg" xml:id="0101r"/>
+                <pb facs="nb07_04_05_0101_recto.jpg" xml:id="p0101r"/>
                 <desc>Writing begins in lower tenth of the
                     page.</desc>
                 <lg>
@@ -3430,7 +3430,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0102_text">
-                <pb facs="nb07_04_05_0102_verso.jpg" xml:id="0102v"/>
+                <pb facs="nb07_04_05_0102_verso.jpg" xml:id="p0102v"/>
                 <desc>MM draws a rough map of Majorca that
                     overlaps writing between lines 17 and
                     23; it includes a depiction of a "one
@@ -3469,7 +3469,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0103_text">
-                <pb facs="nb07_04_05_0103_recto.jpg" xml:id="0103r"/>
+                <pb facs="nb07_04_05_0103_recto.jpg" xml:id="p0103r"/>
                 <lg>
                     <l n="01">  <seg type="genre-travel-begin"/>everything burned—piano - mask; each</l>
                     <l n="02">   cell had a small garden <unclear resp="eg"> <hi rend="underline">love</hi> </unclear><hi rend="underline"/>planted ? ?</l>
@@ -3500,7 +3500,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0104_text">
-                <pb facs="nb07_04_05_0104_verso.jpg" xml:id="0104v"/>
+                <pb facs="nb07_04_05_0104_verso.jpg" xml:id="p0104v"/>
                 <desc>Lines 11-13, MM draws curly bracket
                     linking three third-person
                     pronouns.</desc>
@@ -3540,7 +3540,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0105_text">
-                <pb facs="nb07_04_05_0105_recto.jpg" xml:id="0105r"/>
+                <pb facs="nb07_04_05_0105_recto.jpg" xml:id="p0105r"/>
                 <lg>
                     <l n="01">   <seg type="genre-travel-begin"/> <del>4</del> persoe, vicino all orche</l>
                     <l n="02">  <foreign xml:lang="it">  un tavolo per quattro</foreign></l>
@@ -3557,7 +3557,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0106_text">
-                <pb facs="nb07_04_05_0106_verso.jpg" xml:id="0106v"/>
+                <pb facs="nb07_04_05_0106_verso.jpg" xml:id="p0106v"/>
                 <desc>MM draws diagonal line from "visto" to
                     "from vedere" (line 10 to 13); she draws
                     a curly bracket linking three
@@ -3604,7 +3604,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0107_text">
-                <pb facs="nb07_04_05_0107_recto.jpg" xml:id="0107r"/>
+                <pb facs="nb07_04_05_0107_recto.jpg" xml:id="p0107r"/>
                 <lg>
                     <l n="01">   <seg type="genre-travel-begin"/>1-12 then 13 14 15</l>
                     <l n="02">    	<foreign xml:lang="it">l'aero à undici questa sera&amp;gt;</foreign><note>Translation line 2: The plane at 11 this evening; line 3: When will we arrive? Lines 4-5: Where will we find our bags? Line 6: I think that today this</note></l>
@@ -3619,7 +3619,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0108_text">
-                <pb facs="nb07_04_05_0108_verso.jpg" xml:id="0108v"/>
+                <pb facs="nb07_04_05_0108_verso.jpg" xml:id="p0108v"/>
                 <desc>MM draws curly brackets on the right
                     side of "to have" and "to be" (lines
                     02-03) and of the third-person pronouns
@@ -3665,7 +3665,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0109_text">
-                <pb facs="nb07_04_05_0109_recto.jpg" xml:id="0109r"/>
+                <pb facs="nb07_04_05_0109_recto.jpg" xml:id="p0109r"/>
                 <desc>MM underlines "Lisbona" in black ink,
                     line 03; MM sketches the Tagus river,
                     with the town Estoril marked near the
@@ -3716,7 +3716,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0110_text">
-                <pb facs="nb07_04_05_0110_verso.jpg" xml:id="0110v"/>
+                <pb facs="nb07_04_05_0110_verso.jpg" xml:id="p0110v"/>
                 <desc>MM draws curly bracket on right of
                     lines 17-21.</desc>
                 <lg>
@@ -3758,7 +3758,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0111_text">
-                <pb facs="nb07_04_05_0111_recto.jpg" xml:id="0111r"/>
+                <pb facs="nb07_04_05_0111_recto.jpg" xml:id="p0111r"/>
                 <desc>MM circles "tu" line 13.</desc>
                 <lg>
                     <l n="01">     <seg type="genre-travel-begin"/><hi rend="blue">Only 3 conjugations                  infinitive</hi></l>
@@ -3791,7 +3791,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0112_text">
-                <pb facs="nb07_04_05_0112_verso.jpg" xml:id="0112v"/>
+                <pb facs="nb07_04_05_0112_verso.jpg" xml:id="p0112v"/>
                 <lg>
                     <l n="01">  <seg type="genre-travel-begin"/>         <hi rend="blue"><foreign xml:lang="it">ieri  28</foreign></hi></l>
                     <l n="02">   <hi rend="blue"><foreign xml:lang="it">Comminciamo  con la seconda lesione</foreign><note>MM writes, in Italian, "yesterday 28 / we began the second lesson / today is the 28 of July"; on the rest of the page she writes primarily days of the week and numbers.</note></hi></l>
@@ -3822,7 +3822,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0113_text">
-                <pb facs="nb07_04_05_0113_recto.jpg" xml:id="0113r"/>
+                <pb facs="nb07_04_05_0113_recto.jpg" xml:id="p0113r"/>
                 <lg>
                     <l n="01"> <seg type="genre-travel-begin"/><hi rend="blue"><foreign xml:lang="it">Gennaio—Febbraio     Marzo	Aprile</foreign></hi><note>MM writes months of the year and the seasons in Italian, also practicing her use of plural "le."</note></l>
                     <l n="02"> <hi rend="blue"><foreign xml:lang="it">Maggio   Giugno  Juglio Agosto</foreign></hi></l>
@@ -3843,7 +3843,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0114_text">
-                <pb facs="nb07_04_05_0114_verso.jpg" xml:id="0114v"/>
+                <pb facs="nb07_04_05_0114_verso.jpg" xml:id="p0114v"/>
                 <lg>
                     <l n="01">    <seg type="genre-travel-begin"/>  <hi rend="pencil">a = ah                  a = ah</hi><note>MM gives pronunciation for words in Italian and rules for different pronunciation of "c."</note></l>
                     <l n="02">       <hi rend="pencil"><foreign xml:lang="it">mese</foreign></hi></l>
@@ -3878,7 +3878,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0115_text">
-                <pb facs="nb07_04_05_0115_recto.jpg" xml:id="0115r"/>
+                <pb facs="nb07_04_05_0115_recto.jpg" xml:id="p0115r"/>
                 <lg>
                     <l n="01">  	<seg type="genre-travel-begin"/>                       <hi rend="pencil">cf</hi></l>
                     <l n="02">   <hi rend="pencil">Penna. State Coll. Faculty: Pres Pasey					</hi></l>
@@ -3908,7 +3908,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0116_text">
-                <pb facs="nb07_04_05_0116_verso.jpg" xml:id="0116v"/>
+                <pb facs="nb07_04_05_0116_verso.jpg" xml:id="p0116v"/>
                 <desc>MM cancels "sciottolo" in blue
                     ink.</desc>
                 <lg>
@@ -3936,7 +3936,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0117_text">
-                <pb facs="nb07_04_05_0117_recto.jpg" xml:id="0117r"/>
+                <pb facs="nb07_04_05_0117_recto.jpg" xml:id="p0117r"/>
                 <desc>MM circles "27", line 09.</desc>
                 <lg>
                     <l n="01">  <seg type="genre-read-begin"/>    August 23 1960     Record 2    Side 1   Band 1<note>MM took notes on her Italian studies with records in 1960, two years before her 1962 cruise to Italy. Martin, Genevieve A., and Mario Ciatti. <title>Living Language conversational Italian</title>  (see earlier note).</note></l>
@@ -3967,7 +3967,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0118_text">
-                <pb facs="nb07_04_05_0118_verso.jpg" xml:id="0118v"/>
+                <pb facs="nb07_04_05_0118_verso.jpg" xml:id="p0118v"/>
                 <desc>MM draws a line linking the endings of
                     words mid-line, lines 03-04.</desc>
                 <lg>
@@ -3999,7 +3999,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0119_text">
-                <pb facs="nb07_04_05_0119_recto.jpg" xml:id="0119r"/>
+                <pb facs="nb07_04_05_0119_recto.jpg" xml:id="p0119r"/>
                 <desc>MM circles "39" in line 08.</desc>
                 <lg>
                     <l n="01">  <seg type="genre-read-begin"/>     <hi rend="blue">o</hi></l>
@@ -4026,7 +4026,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0120_text">
-                <pb facs="nb07_04_05_0120_verso.jpg" xml:id="0120v"/>
+                <pb facs="nb07_04_05_0120_verso.jpg" xml:id="p0120v"/>
                 <desc>MM draws line from "but" in line 01 to
                     "disorganized" in line 06; she circles
                     "not" in pencil, line 14.</desc>
@@ -4078,7 +4078,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0121_text">
-                <pb facs="nb07_04_05_0121_recto.jpg" xml:id="0121r"/>
+                <pb facs="nb07_04_05_0121_recto.jpg" xml:id="p0121r"/>
                 <desc>Line along the left margin by lines
                     04-03.</desc>
                 <lg>
@@ -4089,37 +4089,37 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0122_text">
-                <pb facs="nb07_04_05_0122_verso.jpg" xml:id="0122v"/>
+                <pb facs="nb07_04_05_0122_verso.jpg" xml:id="p0122v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0123_text">
-                <pb facs="nb07_04_05_0123_recto.jpg" xml:id="0123r"/>
+                <pb facs="nb07_04_05_0123_recto.jpg" xml:id="p0123r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0124_text">
-                <pb facs="nb07_04_05_0124_verso.jpg" xml:id="0124v"/>
+                <pb facs="nb07_04_05_0124_verso.jpg" xml:id="p0124v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0125_text">
-                <pb facs="nb07_04_05_0125_recto.jpg" xml:id="0125r"/>
+                <pb facs="nb07_04_05_0125_recto.jpg" xml:id="p0125r"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0126_text">
-                <pb facs="nb07_04_05_0126_verso.jpg" xml:id="0126v"/>
+                <pb facs="nb07_04_05_0126_verso.jpg" xml:id="p0126v"/>
                 <lg>
                     <l n="01">[No handwriting on this page.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0127_text">
-                <pb facs="nb07_04_05_0127_recto.jpg" xml:id="0127r"/>
+                <pb facs="nb07_04_05_0127_recto.jpg" xml:id="p0127r"/>
                 <lg>
                     <l n="01">              Technique            in the way of</l>
                     <l n="02">   We are subjected to a great deal of chaos (that</l>
@@ -4131,7 +4131,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0128_text">
-                <pb facs="nb07_04_05_0128_verso.jpg" xml:id="0128v"/>
+                <pb facs="nb07_04_05_0128_verso.jpg" xml:id="p0128v"/>
                 <lg type="vertical">
                     <l n="v01"><!-- Left margin -->Born in Danbury. Father a bandmaster</l>
                     <l n="v02"><!-- Left margin -->in Grant's army. Grant to A Lincoln - Enjoy the music? I can't tell </l>
@@ -4172,7 +4172,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0129_text">
-                <pb facs="nb07_04_05_0129_recto.jpg" xml:id="0129r"/>
+                <pb facs="nb07_04_05_0129_recto.jpg" xml:id="p0129r"/>
                 <desc>MM sketches an open umbrella, line 13;
                     three versions of the Northern Pacific
                     Railway logo, line 17—with Northern
@@ -4213,7 +4213,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0130_text">
-                <pb facs="nb07_04_05_0130_verso.jpg" xml:id="0130v"/>
+                <pb facs="nb07_04_05_0130_verso.jpg" xml:id="p0130v"/>
                 <desc> MM sketches the Alcoa Aluminum logo,
                     a human stick figure with legs and arms
                     outspread, lines 03-04.</desc>
@@ -4243,7 +4243,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0131_text">
-                <pb facs="nb07_04_05_0131_recto.jpg" xml:id="0131r"/>
+                <pb facs="nb07_04_05_0131_recto.jpg" xml:id="p0131r"/>
                 <desc>Page is torn loose from notebook and
                     has fraying right edge, cutting off some
                     letters and words. Lines 01-09 and 10-16
@@ -4299,7 +4299,7 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0132_text">
-                <pb facs="nb07_04_05_0132_verso.jpg" xml:id="0132v"/>
+                <pb facs="nb07_04_05_0132_verso.jpg" xml:id="p0132v"/>
                 <lg>
                     <l n="01">   <hi rend="underline">Poems</hi>   1961—70<note>Cataloguing note from Rosenbach Museum and Library with early cataloguing number (1251/10) and an incomplete list of poems MM drafts toward in this notebook. The dates in line 1 refer to the publication dates of poems developed herein, not to the dates of use of the notebook.</note></l>
                     <l n="02">                 1251/10</l>
@@ -4315,13 +4315,13 @@
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0133_text">
-                <pb facs="nb07_04_05_0133_recto.jpg" xml:id="0133r"/>
+                <pb facs="nb07_04_05_0133_recto.jpg" xml:id="p0133r"/>
                 <lg>
                     <l n="01">[No handwriting on this inside of back cover.]</l>
                 </lg>
             </div>
             <div type="image" xml:id="nb07_04_05_0134_text">
-                <pb facs="nb07_04_05_0134_verso.jpg" xml:id="0134v"/>
+                <pb facs="nb07_04_05_0134_verso.jpg" xml:id="p0134v"/>
                 <lg>
                     <l n="01">[No handwriting on this back cover.]</l>
                 </lg>

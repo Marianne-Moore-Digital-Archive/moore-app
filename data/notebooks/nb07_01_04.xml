@@ -137,14 +137,14 @@
    <text xml:space="preserve" xml:id="nb07_01_04.xml" rend="read">
       <body>
          <div type="image" xml:id="nb07_01_04_0001_text">
-            <pb facs="nb07_01_04_0001_recto.jpg" xml:id="0001r"/>
+            <pb facs="nb07_01_04_0001_recto.jpg" xml:id="p0001r"/>
                <!-- <desc>[Outside front cover.]</desc>-->
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0002_text">
-            <pb facs="nb07_01_04_0002_verso.jpg" xml:id="0002v"/>
+            <pb facs="nb07_01_04_0002_verso.jpg" xml:id="p0002v"/>
                <!-- <desc>[Inside front cover.]</desc>-->
                <lg>
                   <l n="01">            M. Moore</l>
@@ -159,7 +159,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0003_text">
-            <pb facs="nb07_01_04_0003_recto.jpg" xml:id="0003r"/>
+            <pb facs="nb07_01_04_0003_recto.jpg" xml:id="p0003r"/>
                <lg>
                   <l n="01">             Marianne Moore</l>
                   <l n="02">             14 St. Luke's Place.</l>
@@ -171,13 +171,13 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0004_text">
-            <pb facs="nb07_01_04_0004_verso.jpg" xml:id="0004v"/>
+            <pb facs="nb07_01_04_0004_verso.jpg" xml:id="p0004v"/>
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0005_text">
-            <pb facs="nb07_01_04_0005_recto.jpg" xml:id="0005r"/>
+            <pb facs="nb07_01_04_0005_recto.jpg" xml:id="p0005r"/>
                <lg>
                   <l n="01">                                    Jan.</l>
                   <l n="02">W L George<note target="georgeLionel">George, Lionel Walter [1882-1926]. British author known for his popular fiction and writings on feminism. Author of <title>The Intelligence of Woman</title> (1916).</note><bibl>    Art of Courtship.  Harper's 1923</bibl><note>George, Lionel Walter. "The Art of Courtship." <title>Harper's Bazar</title> (January 1923): 212-218.</note></l>
@@ -213,7 +213,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0006_text">
-            <pb facs="nb07_01_04_0006_verso.jpg" xml:id="0006v"/>
+            <pb facs="nb07_01_04_0006_verso.jpg" xml:id="p0006v"/>
                <lg>
                   <l n="01"> <note>"The Art of Courtship" (see earlier note).</note><quote type="begin"/>In general it is inadvisable to refer to past rivals, even</l>
                   <l n="02"> to dead ones. Dead rivals are sometimes dangerous because</l>
@@ -236,7 +236,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0007_text">
-            <pb facs="nb07_01_04_0007_recto.jpg" xml:id="0007r"/>
+            <pb facs="nb07_01_04_0007_recto.jpg" xml:id="p0007r"/>
                <lg>
                   <l n="01"> <note>"The Art of Courtship" (see earlier note).</note><quote corresp="nb07_01_04_0007_l01_quote"/>to get more into one's life, but they seldom allow one to get</l>
                   <l n="02"> as much out. If he varies his suggestions he ceases to be               2</l>
@@ -259,7 +259,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0008_text">
-            <pb facs="nb07_01_04_0008_verso.jpg" xml:id="0008v"/>
+            <pb facs="nb07_01_04_0008_verso.jpg" xml:id="p0008v"/>
                <lg>
                   <l n="01">   <note>"The Art of Courtship" (see earlier note).</note><quote type="begin"/> must have a past provided it is past . . . . A woman</l>
                   <l n="02">    had better have only a present. A lover will do no harm</l>
@@ -283,7 +283,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0009_text">
-            <pb facs="nb07_01_04_0009_recto.jpg" xml:id="0009r"/>
+            <pb facs="nb07_01_04_0009_recto.jpg" xml:id="p0009r"/>
                <lg>
                   <l n="01"> <quote corresp="nb07_01_04_0009_l01_quote"/>grows dangerously enchanting–a hasty adieu–<quote corresp="#nb07_01_04_0009_l01_quote"/><note>Tappé, Herman Patrick. "The Encroaching Gulf Stream" (see earlier note).</note></l>
                   <l n="02">                                                     3</l>
@@ -308,7 +308,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0010_text">
-            <pb facs="nb07_01_04_0010_verso.jpg" xml:id="0010v"/>
+            <pb facs="nb07_01_04_0010_verso.jpg" xml:id="p0010v"/>
                <lg>
                   <l n="01" rend="verse"><quote type="begin"/>With vague, moist mouths grown hungry to devour<note>Jennings, Leslie Nelson. "Interregnum" (see earlier note).</note></l>
                   <l n="02" rend="verse">       The honey of the heart. Oh, let me break</l>
@@ -333,7 +333,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0011_text">
-            <pb facs="nb07_01_04_0011_recto.jpg" xml:id="0011r"/>
+            <pb facs="nb07_01_04_0011_recto.jpg" xml:id="p0011r"/>
                <lg>
                   <l n="01"><quote type="begin"/>(Western Himalayas) late 18th c. under Raja Samsara Cand<quote type="end"/><note>Coomaraswamy, Ananda K. "Indian Art in Boston" (see earlier note).</note></l>
                   <l n="02">                                                              4</l>
@@ -357,7 +357,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0012_text">
-            <pb facs="nb07_01_04_0012_verso.jpg" xml:id="0012v"/>
+            <pb facs="nb07_01_04_0012_verso.jpg" xml:id="p0012v"/>
                <lg>
                   <l n="01"> <bibl rend="begin"/>An Unknown Quantity–Gerard Hopkins.<note target="hopkinsGerard">Hopkins, Gerard Walter Sturgis [1892 - 1961]. Translator from French, author of seven novels, and editorial advisor to Oxford University Press. Nephew of poet Gerard Manley Hopkins.</note>  Dutton. <bibl rend="end"/><note>Hopkins, Gerard. <title>An Unknown Quantity</title>. (NY: E. P. Dutton &amp; Company, 1923).</note></l>
                   <l n="02"> <quote type="begin"/>It was not that Jimmy's nature was inflammable . . . . but</l>
@@ -380,7 +380,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0013_text">
-            <pb facs="nb07_01_04_0013_recto.jpg" xml:id="0013r"/>
+            <pb facs="nb07_01_04_0013_recto.jpg" xml:id="p0013r"/>
                <lg>
                   <l n="01"> <quote type="begin"/>She hit him again &amp; again  EXIT Edward. Not long<note>Benson, Stella. <title>The Poor Man</title>. Rev. by Will Cuppy (see earlier note).</note></l>
                   <l n="02"> enough if you ask me.<quote type="end"/>                                5</l>
@@ -406,7 +406,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0014_text">
-            <pb facs="nb07_01_04_0014_verso.jpg" xml:id="0014v"/>
+            <pb facs="nb07_01_04_0014_verso.jpg" xml:id="p0014v"/>
                <lg>
                   <l n="01"> <note>MM quotes from material read at the Metropolitan Museum of Art Exhibition on Chinese Art in March and April 1923, as attributed to Tu Muh (Du Mu).</note><quote type="begin"/>Powerful is the painting of the Fang Hu mountains,</l>
                   <l n="02"> of the Kuen Lun Range, and high is it hung on</l>
@@ -430,7 +430,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0015_text">
-            <pb facs="nb07_01_04_0015_recto.jpg" xml:id="0015r"/>
+            <pb facs="nb07_01_04_0015_recto.jpg" xml:id="p0015r"/>
                <lg>
                   <l n="01"> <quote type="begin"/><note>MM quotes from material read at the Metropolitan Museum of Art (see earlier note).</note>I would cut off a portion of the river into which I could</l>
                   <l n="02">                small                                 6</l>
@@ -454,7 +454,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0016_text">
-            <pb facs="nb07_01_04_0016_verso.jpg" xml:id="0016v"/>
+            <pb facs="nb07_01_04_0016_verso.jpg" xml:id="p0016v"/>
                <lg>
                   <l n="01" rend="verse">   <bibl rend="begin"/>Punch  Feb  21  1923<bibl rend="end"/>        <quote type="begin"/>An' they stirred</l>
                   <l n="02" rend="verse">      The Little Young Lambs<note>Chalmers, Patrick R. "The Little Young Lambs." February 1923.</note><note target="chalmers">Chalmers, Patrick R. [1872-1942]. Irish poet, writer, and banker.</note> When they heard</l>
@@ -480,7 +480,7 @@
          
          
          <div type="image" xml:id="nb07_01_04_0017_text">
-            <pb facs="nb07_01_04_0017_recto.jpg" xml:id="0017r"/>
+            <pb facs="nb07_01_04_0017_recto.jpg" xml:id="p0017r"/>
                <lg>
                   <l n="01" rend="verse">      <quote type="begin"/>For he blew<note>Chalmers, Patrick R. "The Little Young Lambs" (see earlier note).</note></l>
                   <l n="02" rend="verse">      That he knew                   <bibl>Spectator Dec 30 1922</bibl>   7 </l>
@@ -502,7 +502,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0018_text">
-            <pb facs="nb07_01_04_0018_verso.jpg" xml:id="0018v"/>
+            <pb facs="nb07_01_04_0018_verso.jpg" xml:id="p0018v"/>
                <lg>
                   <l n="01"> <bibl type="begin"/>Jan 20    1922    Spectator     Robert  Risk<bibl type="end"/></l>
                   <l n="02"><quote type="begin"/>     She might just as well have written</l> 
@@ -525,7 +525,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0019_text">
-            <pb facs="nb07_01_04_0019_recto.jpg" xml:id="0019r"/>
+            <pb facs="nb07_01_04_0019_recto.jpg" xml:id="p0019r"/>
                <lg>
                   <l n="01"> <quote type="begin"/><note>Prodgers, Cecil Herbert. <title>Adventures in Bolivia</title> (see earlier note). MM repeats this title below.</note>parasites spring from the distorted roots, trunks of   8</l>
                   <l n="02"> Ceibas &amp; of Bo<del>r</del>ngos &amp; butterflies, light &amp; dark blue,</l>
@@ -546,7 +546,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0020_text">
-            <pb facs="nb07_01_04_0020_verso.jpg" xml:id="0020v"/>
+            <pb facs="nb07_01_04_0020_verso.jpg" xml:id="p0020v"/>
                <lg>
                   <l n="01">  <quote type="begin"/><note>Prodgers, Cecil Herbert. <title>Adventures in Bolivia</title> (see earlier note).</note>&amp; I shall always look back w pleasure to the</l>
                   <l n="02">  weeks spent w him &amp; his llamas &amp; hives.</l>
@@ -569,7 +569,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0021_text">
-            <pb facs="nb07_01_04_0021_recto.jpg" xml:id="0021r"/>
+            <pb facs="nb07_01_04_0021_recto.jpg" xml:id="p0021r"/>
                <lg>
                   <l n="01">  <quote type="begin"/><note>Prodgers, Cecil Herbert. <title>Adventures in Bolivia</title> (see earlier note).</note>other four; they were growing together as one plant  9</l>
                   <l n="02">  &amp; had 5 more blossoms ready to burst in a day or</l>
@@ -591,7 +591,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0022_text">
-            <pb facs="nb07_01_04_0022_verso.jpg" xml:id="0022v"/>
+            <pb facs="nb07_01_04_0022_verso.jpg" xml:id="p0022v"/>
                <lg>
                   <l n="01"> <quote type="begin"/><note>Prodgers, Cecil Herbert. <title>Adventures in Bolivia</title> (see earlier note).</note>In his book on wild life, Rowland Ward says</l>
                   <l n="02"> Amongst the rarest animals is a bear with a tail;</l>
@@ -614,7 +614,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0023_text">
-            <pb facs="nb07_01_04_0023_recto.jpg" xml:id="0023r"/>
+            <pb facs="nb07_01_04_0023_recto.jpg" xml:id="p0023r"/>
                <lg>
                   <l n="01">  <quote type="begin"/><note>Bridges, Robert. "Poetic Diction in English" (see earlier note).</note>Keeping is taken from Painting &amp; has no convenient 10</l>
                   <l n="02"> synonym, but it may be explained as the harmonizing</l>
@@ -638,7 +638,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0024_text">
-            <pb facs="nb07_01_04_0024_verso.jpg" xml:id="0024v"/>
+            <pb facs="nb07_01_04_0024_verso.jpg" xml:id="p0024v"/>
                <lg>
                   <l n="01"> <bibl type="begin"/>50         New Poems for Children</l>
                   <l n="02"> an anthology . . .   Published by Basil Blackwell</l>
@@ -661,7 +661,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0025_text">
-            <pb facs="nb07_01_04_0025_recto.jpg" xml:id="0025r"/>
+            <pb facs="nb07_01_04_0025_recto.jpg" xml:id="p0025r"/>
                <lg>
                   <l n="01" rend="verse">        <note>King, Edith. "Useful Things" (see previous note).</note><quote type="begin"/>When I am bathing in the sea</l>
                   <l n="02" rend="verse">         And find it hard to float,          11</l>
@@ -685,7 +685,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0026_text">
-            <pb facs="nb07_01_04_0026_verso.jpg" xml:id="0026v"/>
+            <pb facs="nb07_01_04_0026_verso.jpg" xml:id="p0026v"/>
                <lg>
                   <l n="01" rend="verse">          <quote type="begin"/>In tabards trim they followed him,</l>
                   <l n="02" rend="verse">          Through jocund groves &amp; green,</l>
@@ -708,7 +708,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0027_text">
-            <pb facs="nb07_01_04_0027_recto.jpg" xml:id="0027r"/>
+            <pb facs="nb07_01_04_0027_recto.jpg" xml:id="p0027r"/>
                <lg>
                   <l n="01"><note>Dugmore, Arthur Radclyffe. "Hunting Without Rifle" (see earlier note).</note><quote type="begin"/>the top of a hill to extend their view . . . . Every animal</l>
                   <l n="02">  in the film is shown alive &amp; happy and in its natural    12</l>
@@ -731,7 +731,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0028_text">
-            <pb facs="nb07_01_04_0028_verso.jpg" xml:id="0028v"/>
+            <pb facs="nb07_01_04_0028_verso.jpg" xml:id="p0028v"/>
                <lg type="sideways">
                   <l n="v01"><quote type="begin"/>He darted out his tongue &amp; took a little / sip<quote type="end"/></l>
                </lg>
@@ -755,7 +755,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0029_text">
-            <pb facs="nb07_01_04_0029_recto.jpg" xml:id="0029r"/>
+            <pb facs="nb07_01_04_0029_recto.jpg" xml:id="p0029r"/>
                <lg>
                   <l n="01">     <bibl type="begin"/>Current Events   May 28 June 1     1923            13</l>
                   <l n="02">         _____________________________</l>
@@ -779,7 +779,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0030_text">
-            <pb facs="nb07_01_04_0030_verso.jpg" xml:id="0030v"/>
+            <pb facs="nb07_01_04_0030_verso.jpg" xml:id="p0030v"/>
                <lg>
                   <l n="01">    <note>"Chance for Inventors" (see earlier note).</note><quote type="begin"/>on the palate</l>
                   <l n="02">       Talking moving pictures<quote type="end"/></l>
@@ -801,7 +801,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0031_text">
-            <pb facs="nb07_01_04_0031_recto.jpg" xml:id="0031r"/>
+            <pb facs="nb07_01_04_0031_recto.jpg" xml:id="p0031r"/>
                <!-- <desc>MM draws curved lines linking lines 07-15 and lines 16-17, labeling the first
                   group 2 and the second 1</desc> -->
                <lg>
@@ -825,7 +825,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0032_text">
-            <pb facs="nb07_01_04_0032_verso.jpg" xml:id="0032v"/>
+            <pb facs="nb07_01_04_0032_verso.jpg" xml:id="p0032v"/>
                <lg>
                   <l n="01"> <note>Galsworthy, John. <title>Forsyte Saga</title> (see earlier note).</note><quote type="begin"/>760   Mont came in.   I went to my own Dad, &amp;</l>
                   <l n="02">    he says if I settle down he'll see me through. He</l>
@@ -848,7 +848,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0033_text">
-            <pb facs="nb07_01_04_0033_recto.jpg" xml:id="0033r"/>
+            <pb facs="nb07_01_04_0033_recto.jpg" xml:id="p0033r"/>
                <lg>
                   <l n="01">    <note>Galsworthy, John. <title>Forsyte Saga</title> (see earlier note).</note><quote type="begin"/>My Dad seems to me a perfect babe . . .  But</l>
                   <l n="02">     he's a Baronight of course; that keeps him back        15</l>
@@ -870,7 +870,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0034_text">
-            <pb facs="nb07_01_04_0034_verso.jpg" xml:id="0034v"/>
+            <pb facs="nb07_01_04_0034_verso.jpg" xml:id="p0034v"/>
                <lg>
                   <l n="01">     <note>Glover, W. J., Ed. <title>British Fairy and Folk Tales</title> (see earlier note).</note><quote type="begin"/>as in their talk &amp; saw a weariness of pain</l>
                   <l n="02">      defined in many a kindly-turned line of their half</l>
@@ -891,7 +891,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0035_text">
-            <pb facs="nb07_01_04_0035_recto.jpg" xml:id="0035r"/>
+            <pb facs="nb07_01_04_0035_recto.jpg" xml:id="p0035r"/>
                <lg>
                   <l n="01">    <note>Glover, W. J., Ed. <title>British Fairy and Folk Tales</title> (see earlier note).</note><quote type="begin"/>grown into a silver crown.      Never ask how       16</l>
                   <l n="02">       I came by it. Wear it." . . . and in the</l>
@@ -912,7 +912,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0036_text">
-            <pb facs="nb07_01_04_0036_verso.jpg" xml:id="0036v"/>
+            <pb facs="nb07_01_04_0036_verso.jpg" xml:id="p0036v"/>
                <lg>
                   <l n="01">     <bibl type="begin"/>an answer to the Q.</l>
                   <l n="02">    What IS Poetry.   Leigh Hunt. ed A S Cook</l>
@@ -935,7 +935,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0037_text">
-            <pb facs="nb07_01_04_0037_recto.jpg" xml:id="0037r"/>
+            <pb facs="nb07_01_04_0037_recto.jpg" xml:id="p0037r"/>
                <lg>
                   <l n="01" rend="verse">  <note>Hunt, Leigh. <title>An Answer To The Question 'What Is Poetry?'</title> (see earlier note).</note><gap extent="2"/>     <quote type="begin"/>with moonshine that are gilded.</l>
                   <l n="02" rend="verse">                                                17</l>
@@ -957,7 +957,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0038_text">
-            <pb facs="nb07_01_04_0038_verso.jpg" xml:id="0038v"/>
+            <pb facs="nb07_01_04_0038_verso.jpg" xml:id="p0038v"/>
                <lg>
                   <l n="01" rend="verse">      <quote type="begin"/><note>Hunt, Leigh. <title>An Answer To The Question 'What Is Poetry?'</title> (see earlier note).</note>That he should raise his mitred crest on high,</l>
                   <l n="02" rend="verse">       And clap his wings &amp; call his family</l>
@@ -979,7 +979,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0039_text">
-            <pb facs="nb07_01_04_0039_recto.jpg" xml:id="0039r"/>
+            <pb facs="nb07_01_04_0039_recto.jpg" xml:id="p0039r"/>
                <lg>
                   <l n="01"> <quote type="begin"/>   <note>Hunt, Leigh. <title>An Answer To The Question 'What Is Poetry?'</title> (see earlier note).</note>63  Dryden confessed that a rime often gave        18</l>
                   <l n="02">      him a thought.</l>
@@ -1001,7 +1001,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0040_text">
-            <pb facs="nb07_01_04_0040_verso.jpg" xml:id="0040v"/>
+            <pb facs="nb07_01_04_0040_verso.jpg" xml:id="p0040v"/>
                <lg>
                   <l n="01">  <note>Hunt, Leigh. <title>An Answer To The Question 'What Is Poetry?'</title> (see earlier note).</note><quote type="begin"/>the universal profoundly simple Chaucer; &amp; luxuriant</l>
                   <l n="02">  remote Spenser.    Then the airy, yet robust</l>
@@ -1023,7 +1023,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0041_text">
-            <pb facs="nb07_01_04_0041_recto.jpg" xml:id="0041r"/>
+            <pb facs="nb07_01_04_0041_recto.jpg" xml:id="p0041r"/>
                <lg>
                   <l n="01">  <bibl rend="begin"/>Post Lit Rev.    16 June 1923                    19</l>
                   <l n="02">  Alice Meynell's<note target="meynell">Meynell, Alice Christiana Gertrude [1847-1922]. British writer, editor, critic, and suffragist, now remembered mainly as a poet.</note> prose –  Olivia Howard Dunbar<bibl rend="end"/><note target="dunbar">Dunbar, Olivia Howard [1873–1953]. American short story writer, journalist and biographer.</note></l>
@@ -1044,7 +1044,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0042_text">
-            <pb facs="nb07_01_04_0042_verso.jpg" xml:id="0042v"/>
+            <pb facs="nb07_01_04_0042_verso.jpg" xml:id="p0042v"/>
                <lg>
                   <l n="01">    <bibl type="begin"/>Outlook   13  June  1923<bibl type="end"/><note>"To Fellow-Fans." <title>The Outlook</title> 134 (13 June 1923): 163-164.</note></l>
                   <l n="02"/>
@@ -1067,7 +1067,7 @@
                </lg>
             </div>         
          <div type="image" xml:id="nb07_01_04_0043_text">
-            <pb facs="nb07_01_04_0043_recto.jpg" xml:id="0043r"/>
+            <pb facs="nb07_01_04_0043_recto.jpg" xml:id="p0043r"/>
                <lg type="sideways">
                   <l n="v01">He could shoot the old pill down to / 2nd like a bullet from a rifle barrel<quote type="end"/></l>
                </lg>
@@ -1093,7 +1093,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0044_text">
-            <pb facs="nb07_01_04_0044_verso.jpg" xml:id="0044v"/>
+            <pb facs="nb07_01_04_0044_verso.jpg" xml:id="p0044v"/>
                <lg>
                   <l n="01"> <note>"To Fellow-Fans" (see earlier note).</note><quote type="begin"/>ends as the darkness approaches</l>
                   <l n="02"> sitting down to pick &amp; chew grass here &amp; there</l>
@@ -1113,7 +1113,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0045_text">
-            <pb facs="nb07_01_04_0045_recto.jpg" xml:id="0045r"/>
+            <pb facs="nb07_01_04_0045_recto.jpg" xml:id="p0045r"/>
                <lg>
                   <l n="01" rend="verse">  <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote type="begin"/>To draw no envy (Shakspeare) on thy name</l>
                   <l n="02" rend="verse">  Am I thus ample to thy <del>b</del>Book, and Fame;          21</l>
@@ -1135,7 +1135,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0046_text">
-            <pb facs="nb07_01_04_0046_verso.jpg" xml:id="0046v"/>
+            <pb facs="nb07_01_04_0046_verso.jpg" xml:id="p0046v"/>
                <lg>
                   <l n="01" rend="verse"> <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).</note><quote type="begin"/>The applause! delight!  the wonder of our Stage!</l>
                   <l n="02" rend="verse"> My Shakespeare rise; I will not lodge thee by</l>
@@ -1157,7 +1157,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0047_text">
-            <pb facs="nb07_01_04_0047_recto.jpg" xml:id="0047r"/>
+            <pb facs="nb07_01_04_0047_recto.jpg" xml:id="p0047r"/>
                <lg>
                   <l n="01" rend="verse">     <note>Ridgway, Gertrude M. "The Book Table" (see earlier note).<quote type="begin"/></note>Euripides <del>&amp;</del> Sophocles to us,</l>
                   <l n="02" rend="verse">              and</l>
@@ -1181,7 +1181,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0048_text">
-            <pb facs="nb07_01_04_0048_verso.jpg" xml:id="0048v"/>
+            <pb facs="nb07_01_04_0048_verso.jpg" xml:id="p0048v"/>
                <lg>
                   <l n="01"> <bibl type="begin"/><del>L</del>Thomas Traherne:   The Poetical works of</l>
                   <l n="02">    1636? 1674     ed. Bertram Dobell.   77 Charing</l>
@@ -1203,7 +1203,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0049_text">
-            <pb facs="nb07_01_04_0049_recto.jpg" xml:id="0049r"/>
+            <pb facs="nb07_01_04_0049_recto.jpg" xml:id="p0049r"/>
                <lg>
                   <l n="01"><note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>The Preparative    12        V                23</l>
                   <l n="02" rend="verse">    Being thus prepared for all felicity</l>
@@ -1225,7 +1225,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0050_text">
-            <pb facs="nb07_01_04_0050_verso.jpg" xml:id="0050v"/>
+            <pb facs="nb07_01_04_0050_verso.jpg" xml:id="p0050v"/>
                <lg>
                   <l n="01">       <note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note> <quote type="begin"/>XIV</l>
                   <l n="02" rend="verse"> As sponges gather moisture from the earth</l>
@@ -1244,7 +1244,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0051_text">
-            <pb facs="nb07_01_04_0051_recto.jpg" xml:id="0051r"/>
+            <pb facs="nb07_01_04_0051_recto.jpg" xml:id="p0051r"/>
                <lg>
                   <l n="01" rend="verse">                <note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>Silence     38           29</l>
                   <l n="02" rend="verse">    A quiet silent person may possess</l>
@@ -1265,7 +1265,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0052_text">
-            <pb facs="nb07_01_04_0052_verso.jpg" xml:id="0052v"/>
+            <pb facs="nb07_01_04_0052_verso.jpg" xml:id="p0052v"/>
                <lg>
                   <l n="01" rend="verse">   <note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>The rude and ignorant: this was a thing</l>
                   <l n="02" rend="verse">   As then unknown.   For neither ignorance</l>
@@ -1286,7 +1286,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0053_text">
-            <pb facs="nb07_01_04_0053_recto.jpg" xml:id="0053r"/>
+            <pb facs="nb07_01_04_0053_recto.jpg" xml:id="p0053r"/>
                <lg>
                   <l n="01">                                          <note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>25</l>
                   <l n="02" rend="verse">     What powerful Spirit lives within!</l>
@@ -1308,7 +1308,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0054_text">
-            <pb facs="nb07_01_04_0054_verso.jpg" xml:id="0054v"/>
+            <pb facs="nb07_01_04_0054_verso.jpg" xml:id="p0054v"/>
                <lg>
                   <l n="01" rend="verse"> <note>Traherne, Thomas. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>As in a Clock 'tis hinder'd Force doth bring</l>
                   <l n="02" rend="verse"> The wheels to ordered Motion by a Spring;</l>
@@ -1329,7 +1329,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0055_text">
-            <pb facs="nb07_01_04_0055_recto.jpg" xml:id="0055r"/>
+            <pb facs="nb07_01_04_0055_recto.jpg" xml:id="p0055r"/>
                <lg>
                   <l n="01"><note>Continued from <title>Life</title> (5 July 1923), previous page.</note><quote type="begin"/> by his fire and was gradually getting calmed       26</l>
                   <l n="02"> down when the cat, which had been sitting there</l>
@@ -1351,7 +1351,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0056_text">
-            <pb facs="nb07_01_04_0056_verso.jpg" xml:id="0056v"/>
+            <pb facs="nb07_01_04_0056_verso.jpg" xml:id="p0056v"/>
                <lg>
                   <l n="01">  <bibl rend="begin"/> <bibl rend="begin"/><bibl>Spectator  Jan 6  The recreations of London</bibl>.<bibl rend="end"/><note>"The Recreations of London" (6 January 1923). This section was a recurring feature of the <title>Spectator</title>.</note><bibl rend="end"/></l>
                   <l n="02"> <quote type="begin"/>      Globe: The laughing lady. A play w an ending</l>
@@ -1373,7 +1373,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0057_text">
-            <pb facs="nb07_01_04_0057_recto.jpg" xml:id="0057r"/>
+            <pb facs="nb07_01_04_0057_recto.jpg" xml:id="p0057r"/>
                <lg>
                   <l n="01">   <note>Williams-Ellis, Amabel (aka Tarn). "The Last Waltz" (see earlier note).</note><quote type="begin"/>primitive thrill of life." in a station hotel. And    27</l>
                   <l n="02">   that was what Messrs. Harker and Terraine's</l>
@@ -1396,7 +1396,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0058_text">
-            <pb facs="nb07_01_04_0058_verso.jpg" xml:id="0058v"/>
+            <pb facs="nb07_01_04_0058_verso.jpg" xml:id="p0058v"/>
                <lg>
                   <l n="01">  <note>Cescinsky, Herbert. <title>Chinese Furniture</title> (see earlier note).</note><quote type="begin"/>save in an Oriental–that have gone to their</l>
                   <l n="02">  making, we still reserve our liberty to dislike</l>
@@ -1419,7 +1419,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0059_text">
-            <pb facs="nb07_01_04_0059_recto.jpg" xml:id="0059r"/>
+            <pb facs="nb07_01_04_0059_recto.jpg" xml:id="p0059r"/>
                <lg>
                   <l n="01"> <note>"Fighting Mosquitos" (see previous page).</note><quote type="begin"/>for mosquitoes is now bred on a large scale in Calif.</l>
                   <l n="02">  (frequently spoken of as Pot belly)                   28</l>
@@ -1442,7 +1442,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0060_text">
-            <pb facs="nb07_01_04_0060_verso.jpg" xml:id="0060v"/>
+            <pb facs="nb07_01_04_0060_verso.jpg" xml:id="p0060v"/>
                <lg>
                   <l n="01">   <bibl rend="begin"/><bibl/>The Dilemma of Mariage  Alyse Gregory<note target="gregory">Gregory, Alyse [1884-1967]. American writer and editor, and a friend of MM's. She was managing editor of <title>The Dial</title>, 1924-June 1925.</note>  N. Rep.</l>
                   <l n="02"> July 4 1923<bibl rend="end"/>– <note>Gregory, Alyse. "The Dilemma of Marriage." <title>New Republic</title> 4 July, 1923.</note></l>
@@ -1467,7 +1467,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0061_text">
-            <pb facs="nb07_01_04_0061_recto.jpg" xml:id="0061r"/>
+            <pb facs="nb07_01_04_0061_recto.jpg" xml:id="p0061r"/>
                <lg type="sideways">
                   <l n="v01">    BACON</l>
                </lg>
@@ -1495,7 +1495,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0062_text">
-            <pb facs="nb07_01_04_0062_verso.jpg" xml:id="0062v"/>
+            <pb facs="nb07_01_04_0062_verso.jpg" xml:id="p0062v"/>
                <lg>
                   <l n="01">    <quote type="begin"/><note>Gregory, Alyse. "The Dilemma of Marriage" (see earlier note).</note>other with blind experiments and circular traditions</l>
                   <l n="02">    and impostures, hath committed so many spoils,<note>MM paraphrases this passage in "Marriage" (first published <title>Manikin</title> 1923), and attributes "of circular traditions" to Bacon in her Notes to the poem.</note> I hope</l>
@@ -1515,7 +1515,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0063_text">
-            <pb facs="nb07_01_04_0063_recto.jpg" xml:id="0063r"/>
+            <pb facs="nb07_01_04_0063_recto.jpg" xml:id="p0063r"/>
                <lg>
                   <l n="01"> <note>Unamuno, Miguel de. <title>Tragic Sense of Life</title> (see earlier note).</note> <quote type="begin"/>understand anything, it is nec. . . . to lay it out       30</l>
                   <l n="02">   rigid in the mind. . . . And truth? Is truth</l>
@@ -1538,7 +1538,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0064_text">
-            <pb facs="nb07_01_04_0064_verso.jpg" xml:id="0064v"/>
+            <pb facs="nb07_01_04_0064_verso.jpg" xml:id="p0064v"/>
                <lg>
                   <l n="01"> <note>"Wit to Measure" advertisement (see previous page).</note><quote type="begin"/>shirts of Sea Island cotton . . . backless waist-coats</l>
                   <l n="02"> . . . Spitalfields silk cravats.” etc</l>
@@ -1559,7 +1559,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0065_text">
-            <pb facs="nb07_01_04_0065_recto.jpg" xml:id="0065r"/>
+            <pb facs="nb07_01_04_0065_recto.jpg" xml:id="p0065r"/>
                <lg>
                   <l n="01">     <bibl rend="begin"/>Tragic Sense of Life  Don Miguel de Unamuno<note target="unamuno"> Unamuno, Miguel de [1864-1936]. Spanish philosopher and writer in all creative genres. MM reviews one of his novels and refers to him in her prose.</note>      31</l>
                   <l n="02">            in men &amp; in peoples</l>
@@ -1582,7 +1582,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0066_text">
-            <pb facs="nb07_01_04_0066_verso.jpg" xml:id="0066v"/>
+            <pb facs="nb07_01_04_0066_verso.jpg" xml:id="p0066v"/>
                <lg>
                   <l n="01">         <note>Continued from previous page, <title>Life</title> 9 August 1923.</note><quote type="begin"/>Aye–the sea be fair saturated with 'em</l>
                   <l n="02">  week before?</l>
@@ -1603,7 +1603,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0067_text">
-            <pb facs="nb07_01_04_0067_recto.jpg" xml:id="0067r"/>
+            <pb facs="nb07_01_04_0067_recto.jpg" xml:id="p0067r"/>
                <lg>
                   <l n="01">      <note>Bernhardt, Sarah. <title>Ma Double Vie. Memoires de Sarah Bernhardt</title> (see earlier note). The text translates: "and loved this pure creature. I was introduced to the glacial mannequin Mr. Cross gifted me six small cameleons, which resembled lizards, and one admirable cameleon, a fabulous prehistoric animal, a real chinese ornament passing from tender green to bronzed black, svelte and long. Like a lilly leaf and then suddenly swollen and stocky like a toad. It's eyes, in lorgnettes like those of lobsters, did not rely on one another. His right eye looked forward and his left eye looked backward. I was delighted, enthused by this gift."</note><quote type="begin"/><foreign xml:lang="fr">et aimé cette pure créature</foreign>.</l>
                   <l n="02">                                                       32</l>
@@ -1627,7 +1627,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0068_text">
-            <pb facs="nb07_01_04_0068_verso.jpg" xml:id="0068v"/>
+            <pb facs="nb07_01_04_0068_verso.jpg" xml:id="p0068v"/>
                <lg>
                   <l n="01"> <quote type="begin"/><note>Firkins, Oscar W. "A Sage's Lyre" (see earlier note).</note>; we shall be thankful if he does not question ours.</l>
                   <l n="02">                                  forty</l>
@@ -1649,7 +1649,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0069_text">
-            <pb facs="nb07_01_04_0069_recto.jpg" xml:id="0069r"/>
+            <pb facs="nb07_01_04_0069_recto.jpg" xml:id="p0069r"/>
                <lg>
                   <l n="01">   Harvard Classics v. 27   7.   Defense of Poesy    33<note><title>English Essays: From Sir Philip Sidney to Macauley</title>. Ed. Charles W. Eliot, LL.D. Harvard Classics Vol. 27. NY: P. F. Collier &amp; Son, 1910.</note></l>
                   <l n="02">                                Sir P Sidney <note target="sidney">Sidney, Sir Philip [1554-1586]. English poet, courtier, and soldier. MM refers to him periodically throughout her life, including in "No better than "a withered daffodil" (first published <title>Art News</title>, March 1959).</note></l>
@@ -1673,7 +1673,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0070_text">
-            <pb facs="nb07_01_04_0070_verso.jpg" xml:id="0070v"/>
+            <pb facs="nb07_01_04_0070_verso.jpg" xml:id="p0070v"/>
                <lg>
                   <l n="01">    <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note><quote type="begin"/>they now play the hedgehog that, being received into</l>
                   <l n="02">   the den, drave out his host?</l>
@@ -1699,7 +1699,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0071_text">
-            <pb facs="nb07_01_04_0071_recto.jpg" xml:id="0071r"/>
+            <pb facs="nb07_01_04_0071_recto.jpg" xml:id="p0071r"/>
                <lg>
                   <l n="01">    <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note><quote type="begin"/>For all standeth upon dialogues; wherein he</l>
                   <l n="02">   feigneth many honest burgesses of Athens to            34</l>
@@ -1722,7 +1722,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0072_text">
-            <pb facs="nb07_01_04_0072_verso.jpg" xml:id="0072v"/>
+            <pb facs="nb07_01_04_0072_verso.jpg" xml:id="p0072v"/>
                <lg>
                   <l n="01"> <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note>15 <quote type="begin"/> the greatest part of poets have apparelled their</l>
                   <l n="02">    poetical inventions in that <del>numebrous</del> numberous kind</l>
@@ -1747,7 +1747,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0073_text">
-            <pb facs="nb07_01_04_0073_recto.jpg" xml:id="0073r"/>
+            <pb facs="nb07_01_04_0073_recto.jpg" xml:id="p0073r"/>
                <lg>
                   <l n="01"> <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note> 21  <quote type="begin"/>The philosopher teacheth . . . . them that are already</l>
                   <l n="02">    taught. But the poet is the food for <hi rend="shorthand_the">the</hi> tenderest stomachs.      35</l>
@@ -1771,7 +1771,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0074_text">
-            <pb facs="nb07_01_04_0074_verso.jpg" xml:id="0074v"/>
+            <pb facs="nb07_01_04_0074_verso.jpg" xml:id="p0074v"/>
                <lg>
                   <l n="01"> <note>Sir Philip Sidney. "The Defense of Poesy" (see earlier note).</note><quote type="begin"/>man shall have a near guess <del>at the latter</del>  to</l>
                   <l n="02">  the  follower.</l>
@@ -1793,7 +1793,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0075_text">
-            <pb facs="nb07_01_04_0075_recto.jpg" xml:id="0075r"/>
+            <pb facs="nb07_01_04_0075_recto.jpg" xml:id="p0075r"/>
                <lg>
                   <l n="01">   <bibl rend="begin"/>A  defence of Poetry.<note>Shelley, Percy Bysshe. "A Defence of Poetry." Written in 1821 and published posthumously in 1840.</note> Shelley<note target="shelley">Shelley, Percy Bysshe [1792-1822]. English poet. MM refers to Shelley in letters and essays.</note>                    36<bibl rend="end"/></l>
                   <l n="02">  349   <quote type="begin"/>It is necessary . . . . to determine the distinction</l>
@@ -1815,7 +1815,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0076_text">
-            <pb facs="nb07_01_04_0076_verso.jpg" xml:id="0076v"/>
+            <pb facs="nb07_01_04_0076_verso.jpg" xml:id="p0076v"/>
                <lg>
                   <l n="01">                      <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note).</note>Herodotus, Plutarch, Livy</l>
                   <l n="02">  . . . .    <quote type="begin"/> all the great historians ^ were poets . . . . . .</l>
@@ -1837,7 +1837,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0077_text">
-            <pb facs="nb07_01_04_0077_recto.jpg" xml:id="0077r"/>
+            <pb facs="nb07_01_04_0077_recto.jpg" xml:id="p0077r"/>
                <lg>
                   <l n="01">   <note>Shelley, Percy Bysshe. "A Defence of Poetry" (see earlier note).</note>. . . <quote type="begin"/>But poetry defeats the curse which binds us to         37</l>
                   <l n="02">    be subjected to the accident of surrounding impressions</l>
@@ -1862,7 +1862,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0078_text">
-            <pb facs="nb07_01_04_0078_verso.jpg" xml:id="0078v"/>
+            <pb facs="nb07_01_04_0078_verso.jpg" xml:id="p0078v"/>
                <lg>
                   <l n="01"> <bibl rend="begin"/>Ernst von Feuchtersleben  Prof of medicine</l>
                   <l n="02"> in the U. of Vienna.  translated by L. Lewisohn Huebsch 1910</l>
@@ -1885,7 +1885,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0079_text">
-            <pb facs="nb07_01_04_0079_recto.jpg" xml:id="0079r"/>
+            <pb facs="nb07_01_04_0079_recto.jpg" xml:id="p0079r"/>
                <lg type="sideways">
                   <l n="v01">113  all desires, so long as they  spring fr / imperfect knowl., are passions; rightly looked upon, / they blossom into actions</l>
                </lg>
@@ -1912,7 +1912,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0080_text">
-            <pb facs="nb07_01_04_0080_verso.jpg" xml:id="0080v"/>
+            <pb facs="nb07_01_04_0080_verso.jpg" xml:id="p0080v"/>
                <lg>
                   <l n="01">   <note>Feuchtersleben, Ernst von. <title>Health and Suggestion</title> (see earlier note).</note><quote type="begin"/>egoism, idleness, pedantry.</l>
                   <l n="02">  144 . . . . . the appreciation of a young poet will soon need the</l>
@@ -1936,7 +1936,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0081_text">
-            <pb facs="nb07_01_04_0081_recto.jpg" xml:id="0081r"/>
+            <pb facs="nb07_01_04_0081_recto.jpg" xml:id="p0081r"/>
                <lg>
                   <l n="01">    <quote type="begin"/>art &amp; activity, the alpha &amp; omega of our wellbeing<quote type="end"/>.</l>
                   <l n="02">                                                   39</l>
@@ -1960,7 +1960,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0082_text">
-            <pb facs="nb07_01_04_0082_verso.jpg" xml:id="0082v"/>
+            <pb facs="nb07_01_04_0082_verso.jpg" xml:id="p0082v"/>
                <lg>
                   <l n="01">     <bibl rend="begin"/>Lit. review. Sept 29 1923</l>
                   <l n="02">  A Blunt Old Tory: Women &amp; Men   Ford Madox Ford<note target="ford"> Ford, Ford Madox (born Hueffer) [1873-1939]. English novelist, poet, critic, and editor. MM refers to Ford in essays and letters, not always positively.</note></l>
@@ -1979,7 +1979,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0083_text">
-            <pb facs="nb07_01_04_0083_recto.jpg" xml:id="0083r"/>
+            <pb facs="nb07_01_04_0083_recto.jpg" xml:id="p0083r"/>
                <lg>
                   <l n="01">    <bibl rend="begin"/>Lit. Rev. 29 Sept 1923</l>
                   <l n="02">                                                   40</l>
@@ -2002,7 +2002,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0084_text">
-            <pb facs="nb07_01_04_0084_verso.jpg" xml:id="0084v"/>
+            <pb facs="nb07_01_04_0084_verso.jpg" xml:id="p0084v"/>
                <lg>
                   <l n="01">    <quote type="begin"/><note>Lawrence, D. H. "A Spiritual Record." Rev. of <title>A Second Contemporary Anthology</title> (see earlier note).</note>There is nothing new under the sun once</l>
                   <l n="02">   the consciousness becomes pot-bound. And this</l>
@@ -2025,7 +2025,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0085_text">
-            <pb facs="nb07_01_04_0085_recto.jpg" xml:id="0085r"/>
+            <pb facs="nb07_01_04_0085_recto.jpg" xml:id="p0085r"/>
                <lg>
                   <l n="01">  <note>Lawrence, D. H. "A Spiritual Record." Rev. of <title>A Second Contemporary Anthology</title> (see earlier note).</note><quote type="begin"/>Old soup of old bones of life, heated up again    41</l>
                   <l n="02">   for a new consommé. . . .I know a forest stilly-deep</l>
@@ -2046,7 +2046,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0086_text">
-            <pb facs="nb07_01_04_0086_verso.jpg" xml:id="0086v"/>
+            <pb facs="nb07_01_04_0086_verso.jpg" xml:id="p0086v"/>
                <lg>
                   <l n="01"> <note>Spenser, Edmund. <title>The Poetical Works of Spenser</title> (see earlier note).</note> <quote type="begin"/>Sonnet LVI</l>
                   <l n="02" rend="verse">   Fayre ye be sure but cruell &amp; unkind,</l>
@@ -2066,7 +2066,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0087_text">
-            <pb facs="nb07_01_04_0087_recto.jpg" xml:id="0087r"/>
+            <pb facs="nb07_01_04_0087_recto.jpg" xml:id="p0087r"/>
                <lg>
                   <l n="01">      <note>Spenser, Edmund. <title>The Poetical Works of Spenser</title> (see earlier note).</note>LIII</l>
                   <l n="02" rend="verse">  <quote type="begin"/>The Panther knowing that his spotted hyde    42</l>
@@ -2089,7 +2089,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0088_text">
-            <pb facs="nb07_01_04_0088_verso.jpg" xml:id="0088v"/>
+            <pb facs="nb07_01_04_0088_verso.jpg" xml:id="p0088v"/>
                <!-- <desc>MM draws an upside down triangle of dots; right-side up this is the mathematical symbol for "therefore"</desc> -->
                <lg>
                   <l n="01">   <note>Spenser, Edmund. <title>The Poetical Works of Spenser</title> (see earlier note).</note><quote type="begin"/>precisely officious, I make you a present of this</l>
@@ -2111,7 +2111,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0089_text">
-            <pb facs="nb07_01_04_0089_recto.jpg" xml:id="0089r"/>
+            <pb facs="nb07_01_04_0089_recto.jpg" xml:id="p0089r"/>
                <lg type="sideways">
                   <l n="v01">Gabriell Harvey</l>
                </lg>
@@ -2136,7 +2136,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0090_text">
-            <pb facs="nb07_01_04_0090_verso.jpg" xml:id="0090v"/>
+            <pb facs="nb07_01_04_0090_verso.jpg" xml:id="p0090v"/>
                <lg>
                   <l n="01"> <note>Spenser, Edmund. <title>The Poetical Works of Spenser</title> (see earlier note).</note> <quote type="begin"/>but out lyar out, thou lyest abominably in</l>
                   <l n="02">   thy throate. . . . . . with as manye gentle</l>
@@ -2159,7 +2159,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0091_text">
-            <pb facs="nb07_01_04_0091_recto.jpg" xml:id="0091r"/>
+            <pb facs="nb07_01_04_0091_recto.jpg" xml:id="p0091r"/>
                <lg>
                   <l n="01">   <bibl rend="begin"/>Christian Science Monitor–  Oct  24  1923</l>
                   <l n="02">    E. Gordon Craig<note target="craig"> Craig, Edward Gordon [1872-1966]. English theater practitioner, including scene design and theory. MM writes of him in "Picking and Choosing" (<title>Observations</title> 1924) and refers to him in "The Dial: A Retrospect," <title>Life and Letters To-Day</title> 27 (1940).</note>                               44</l>
@@ -2182,7 +2182,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0092_text">
-            <pb facs="nb07_01_04_0092_verso.jpg" xml:id="0092v"/>
+            <pb facs="nb07_01_04_0092_verso.jpg" xml:id="p0092v"/>
                <lg>
                   <l n="01">   <bibl rend="b"/>N Y  Times Nov 18. 1923<note><title>New York Times</title> (18 November 1923). 31 October 1923, there was a brief notice that the cavern had been made a national monument.</note>       Gothic arch–</l>
                   <l n="02">   Carlsbad Cave<note>MM apparently considered writing a poem on Carlsbad Caverns. See miscellaneous notebook (1929-1940) 07.03.11, image 37 verso.</note>. N. Mexico.   <bibl rend="end"/><quote type="begin"/>A vaulted room in</l>
@@ -2200,7 +2200,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0093_text">
-            <pb facs="nb07_01_04_0093_recto.jpg" xml:id="0093r"/>
+            <pb facs="nb07_01_04_0093_recto.jpg" xml:id="p0093r"/>
                <lg type="sideways"><l n="v01"> Dr Francis Ward 1-28</l></lg>
                <lg>
                   <l n="01">    <bibl rend="begin"/>Ill London News  Aug 11 1923<note>"A Summer 'Seaside' Visitor to be Avoided." Photographs by Dr. Francis Ward. <title>Illustrated London News</title>, 11 September 1923: 21.</note><bibl rend="end"/>                   45<note>MM takes notes toward drafting "An Octopus," first published <title>Dial</title> December 1924. Her Notes to the poem refer to this article and claim to quote from Ward.</note></l>
@@ -2222,7 +2222,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0094_text">
-            <pb facs="nb07_01_04_0094_verso.jpg" xml:id="0094v"/>
+            <pb facs="nb07_01_04_0094_verso.jpg" xml:id="p0094v"/>
                <lg>
                   <l n="01">   <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note><quote type="begin"/>When in use the suckers hearing surface alters its<note>MM takes notes toward drafting "An Octopus."</note></l>
                   <l n="02">    shape, in order to secure a more effective grip</l>
@@ -2244,7 +2244,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0095_text">
-            <pb facs="nb07_01_04_0095_recto.jpg" xml:id="0095r"/>
+            <pb facs="nb07_01_04_0095_recto.jpg" xml:id="p0095r"/>
                <lg>
                   <l n="01">      <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>This is done in a slow deliberate manner<note>MM takes notes toward drafting "An Octopus"; in her Notes, she attributes "ghostly pallor" to Francis Ward.</note></l>
                   <l n="02">   if disturbed                                        46</l>
@@ -2270,7 +2270,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0096_text">
-            <pb facs="nb07_01_04_0096_verso.jpg" xml:id="0096v"/>
+            <pb facs="nb07_01_04_0096_verso.jpg" xml:id="p0096v"/>
                <lg>
                   <l n="01"> <note>"A Summer 'Seaside' Visitor to be Avoided" (see earlier note).</note>crus.  was hiding under a bunch of weeds. The cep.</l>
                   <l n="02"> ^<note>MM takes notes toward drafting "An Octopus<title>.</title>"</note></l>
@@ -2293,7 +2293,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0097_text">
-            <pb facs="nb07_01_04_0097_recto.jpg" xml:id="0097r"/>
+            <pb facs="nb07_01_04_0097_recto.jpg" xml:id="p0097r"/>
                <lg>
                   <l n="01">    <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note><quote type="begin"/>timid creature &amp; <hi rend="underline">makes his home</hi> in the rock <note>MM takes notes toward drafting "An Octopus."</note></l>
                   <l n="02">    pools in <hi rend="underline">quite an innocent fashion</hi>.  Off the</l>
@@ -2318,7 +2318,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0098_text">
-            <pb facs="nb07_01_04_0098_verso.jpg" xml:id="0098v"/>
+            <pb facs="nb07_01_04_0098_verso.jpg" xml:id="p0098v"/>
                <lg>
                   <l n="01">    <note>Carey, M. C. "The Octopus in the Channel Islands" (see earlier note).</note><quote type="begin"/>are very scornful of the tourists' alarm of these queer<note>MM takes notes toward drafting "An Octopus" and attributes "picking periwinkles" to Carey.</note></l>
                   <l n="02">   beasts. They ... fish for them, using the cut-up feelers</l>
@@ -2344,7 +2344,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0099_text">
-            <pb facs="nb07_01_04_0099_recto.jpg" xml:id="0099r"/>
+            <pb facs="nb07_01_04_0099_recto.jpg" xml:id="p0099r"/>
                <lg>
                   <l n="01">      <bibl rend="begin"/>Vision and Design  Roger Fry.<note>Fry, Roger [1866-1934]. English painter and critic, part of the Bloomsbury group. MM refers to or quotes Fry in several essays, starting in 1926.</note> Brentano<note>Fry, Roger. <title>Vision and Design</title>. London: Chatto and Windus, 1920; NY: Brentano's, 1923.</note>  48</l>
                   <l n="02"/>
@@ -2366,7 +2366,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0100_text">
-            <pb facs="nb07_01_04_0100_verso.jpg" xml:id="0100v"/>
+            <pb facs="nb07_01_04_0100_verso.jpg" xml:id="p0100v"/>
               <!-- <desc>Lines 05, 07, MM circles 1 and 2</desc> -->
                <lg>
                   <l n="01"> <note>Fry, Roger. <title>Vision and Design</title> (see earlier note).</note><quote type="begin"/>Christian legend very much what  Pindar did</l>
@@ -2388,7 +2388,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0101_text">
-            <pb facs="nb07_01_04_0101_recto.jpg" xml:id="0101r"/>
+            <pb facs="nb07_01_04_0101_recto.jpg" xml:id="p0101r"/>
                <lg>
                   <l n="01">  <note>Fry, Roger. <title>Vision and Design</title> (see earlier note).</note> <quote type="begin"/>peering for their needles' eyes, a half burnt     49</l>
                   <l n="02">    piece of paper, dogs  nozzling  for fleas  &amp;</l>
@@ -2410,7 +2410,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0102_text">
-            <pb facs="nb07_01_04_0102_verso.jpg" xml:id="0102v"/>
+            <pb facs="nb07_01_04_0102_verso.jpg" xml:id="p0102v"/>
                <lg>
                   <l n="01">  <note>Fry, Roger. <title>Vision and Design</title> (see earlier note).</note><quote type="begin"/>what seems to us the perfect &amp; delicate</l>
                   <l n="02">   balance between representational  &amp;  purely  formal</l>
@@ -2432,7 +2432,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0103_text">
-            <pb facs="nb07_01_04_0103_recto.jpg" xml:id="0103r"/>
+            <pb facs="nb07_01_04_0103_recto.jpg" xml:id="p0103r"/>
                <lg>
                   <l n="01">   <note>Fry, Roger. <title>Vision and Design</title> (see earlier note).</note><quote type="begin"/>is kept flat and generally square in the</l>
                   <l n="02">   section, it has nothing of the dryness &amp;          50</l>
@@ -2454,7 +2454,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0104_text">
-            <pb facs="nb07_01_04_0104_verso.jpg" xml:id="0104v"/>
+            <pb facs="nb07_01_04_0104_verso.jpg" xml:id="p0104v"/>
                <lg>
                   <l n="01">     <note>King, Georgiana Goddard. <title>Sardinian Painting</title> (see earlier note).</note><quote type="begin"/>last decade of the 15th century brought</l>
                   <l n="02">   their offerings to the palace of the King of</l>
@@ -2476,7 +2476,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0105_text">
-            <pb facs="nb07_01_04_0105_recto.jpg" xml:id="0105r"/>
+            <pb facs="nb07_01_04_0105_recto.jpg" xml:id="p0105r"/>
                <lg>
                   <l n="01">  <note>Dolf, Wyllarde. <title>The Lavender Lad</title> (see earlier note).</note><quote type="begin"/>his . . .  cheeks.</l>
                   <l n="02">  63   cloud of color still seemed to float between          51</l>
@@ -2498,7 +2498,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0106_text">
-            <pb facs="nb07_01_04_0106_verso.jpg" xml:id="0106v"/>
+            <pb facs="nb07_01_04_0106_verso.jpg" xml:id="p0106v"/>
                <lg>
                   <l n="01" rend="verse">      <quote type="begin"/><note>Gay, John. <title>The Poetical Works</title> (see earlier note).</note> <hi rend="underline">His</hi> little boxes change the grain:</l>
                   <l n="02" rend="verse">       Trick after trick deludes the train.</l>
@@ -2521,7 +2521,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0107_text">
-            <pb facs="nb07_01_04_0107_recto.jpg" xml:id="0107r"/>
+            <pb facs="nb07_01_04_0107_recto.jpg" xml:id="p0107r"/>
                <lg>
                   <l n="01" rend="verse">    <note>Gay, John. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>Blood stuff'd in skins is British Christian's food,</l>
                   <l n="02" rend="verse">     And France robs marshes of the croaking brood;    52</l>
@@ -2544,7 +2544,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0108_text">
-            <pb facs="nb07_01_04_0108_verso.jpg" xml:id="0108v"/>
+            <pb facs="nb07_01_04_0108_verso.jpg" xml:id="p0108v"/>
                <lg>
                   <l n="01" rend="verse">      <note>Gay, John. <title>The Poetical Works</title> (see earlier note).</note><quote type="begin"/>And on the hearth the milk white embers spread;</l>
                   <l n="02" rend="verse">      Slow crawl'd the snail, and if I  right can spell,</l>
@@ -2564,7 +2564,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0109_text">
-            <pb facs="nb07_01_04_0109_recto.jpg" xml:id="0109r"/>
+            <pb facs="nb07_01_04_0109_recto.jpg" xml:id="p0109r"/>
                <lg>
                   <l n="01">   <bibl rend="begin"/>Harpers Bazar  Dec 1923</l>
                   <l n="02">                                                53<note>Tappé, Herman Patrick. Untitled note on Christmas fashions, <title>Harper's Bazaar</title> (December 1923).</note></l>
@@ -2586,7 +2586,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0110_text">
-            <pb facs="nb07_01_04_0110_verso.jpg" xml:id="0110v"/>
+            <pb facs="nb07_01_04_0110_verso.jpg" xml:id="p0110v"/>
                <!-- <desc>MM draws a curly bracket around the end of the last 4 lines of the quoted
                   verse, before writing "Prologue"</desc> -->
                <lg>
@@ -2611,7 +2611,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0111_text">
-            <pb facs="nb07_01_04_0111_recto.jpg" xml:id="0111r"/>
+            <pb facs="nb07_01_04_0111_recto.jpg" xml:id="p0111r"/>
                <lg>
                   <l n="01">   <note>Heller, Frank. <title>The Marriage of Yussuf Kahn </title>(see earlier note).</note>18 <quote type="begin"/>The steamer's whistle tooted in its hoarse</l>
                   <l n="02">      bass, drunkenlike tone.                        54</l>
@@ -2636,7 +2636,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0112_text">
-            <pb facs="nb07_01_04_0112_verso.jpg" xml:id="0112v"/>
+            <pb facs="nb07_01_04_0112_verso.jpg" xml:id="p0112v"/>
                <lg>
                   <l n="01">    <bibl rend="begin"/>Yale Review:   January  1924</l>
                   <l n="02">      Story animals–Caroline Francis Richardson.<note>Richardson, Caroline Francis. "Story Animals." <title>Yale Review</title> (January 1924):365-74.</note>   <bibl rend="end"/></l>
@@ -2658,7 +2658,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0113_text">
-            <pb facs="nb07_01_04_0113_recto.jpg" xml:id="0113r"/>
+            <pb facs="nb07_01_04_0113_recto.jpg" xml:id="p0113r"/>
                <lg>
                   <l n="01">  <note>Richardson, Caroline Francis. "Story Animals" (see earlier note).</note><quote type="begin"/>wolf's side of the quarrel, (" . . . I wot     55</l>
                   <l n="02">   well that through hunger thou hast wrought</l>
@@ -2678,7 +2678,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0114_text">
-            <pb facs="nb07_01_04_0114_verso.jpg" xml:id="0114v"/>
+            <pb facs="nb07_01_04_0114_verso.jpg" xml:id="p0114v"/>
                <lg>
                   <l n="01">   <note>McMurry, Oscar L., George W. Eggers, and Charles A. McMurry. <title>Teaching of Industrial Arts in the Elementary School</title> (see earlier note).</note>p. 63  <quote type="begin"/>Decoration contrasted w plain</l>
                   <l n="02">   areas may simplify appearance, emphasize</l>
@@ -2699,7 +2699,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0115_text">
-            <pb facs="nb07_01_04_0115_recto.jpg" xml:id="0115r"/>
+            <pb facs="nb07_01_04_0115_recto.jpg" xml:id="p0115r"/>
                <lg>
                   <l n="01">  <note>Ad for Lotus and Delta Shoes (see earlier note).</note><quote type="begin"/>For all men &amp; most occasions <quote type="end"/>       56</l>
                   <l n="02">                  drawings by</l>
@@ -2724,7 +2724,7 @@
             </div>
          
          <div type="image" xml:id="nb07_01_04_0116_text">
-            <pb facs="nb07_01_04_0116_verso.jpg" xml:id="0116v"/>
+            <pb facs="nb07_01_04_0116_verso.jpg" xml:id="p0116v"/>
                <lg>
                   <l n="01" rend="verse">  <note><title>Nursery Rhymes With Drawings by Leslie Brooke</title> (see earlier note).</note><quote type="begin"/>He rode till he came to my Lady Mouse hall</l>
                   <l n="02" rend="verse">        Kitty alone,  :</l>
@@ -2747,7 +2747,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0117_text">
-            <pb facs="nb07_01_04_0117_recto.jpg" xml:id="0117r"/>
+            <pb facs="nb07_01_04_0117_recto.jpg" xml:id="p0117r"/>
                <lg>
                   <l n="01" rend="verse"> <note><title>Nursery Rhymes With Drawings by Leslie Brooke</title> (see earlier note).</note><quote type="begin"/>The frog he came whistling through the brook     57</l>
                   <l n="02" rend="verse">   . . . .     "</l>
@@ -2771,7 +2771,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0118_text">
-            <pb facs="nb07_01_04_0118_verso.jpg" xml:id="0118v"/>
+            <pb facs="nb07_01_04_0118_verso.jpg" xml:id="p0118v"/>
                <lg>
                   <l n="01" rend="verse"> <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>And cracks creep; worms have fed upon</l>
                   <l n="02" rend="verse">    The doors.  Yea! sprightlier times were then</l>
@@ -2794,7 +2794,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0119_text">
-            <pb facs="nb07_01_04_0119_recto.jpg" xml:id="0119r"/>
+            <pb facs="nb07_01_04_0119_recto.jpg" xml:id="p0119r"/>
                <lg>
                   <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>In dance the polka hit our wish,            58</l>
                   <l n="02" rend="verse">             Gentlemen</l>
@@ -2817,7 +2817,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0120_text">
-            <pb facs="nb07_01_04_0120_verso.jpg" xml:id="0120v"/>
+            <pb facs="nb07_01_04_0120_verso.jpg" xml:id="p0120v"/>
                <lg>
                   <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><quote type="begin"/>the spider is sole denizen,</l>
                   <l n="02" rend="verse">      Even she who read those rhymes is dust,</l>
@@ -2839,7 +2839,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0121_text">
-            <pb facs="nb07_01_04_0121_recto.jpg" xml:id="0121r"/>
+            <pb facs="nb07_01_04_0121_recto.jpg" xml:id="p0121r"/>
                <lg>
                   <l n="01" rend="verse">    <note>Hardy, Thomas. "An Ancient to Ancients" (see earlier note).</note><bibl rend="begin"/><quote type="begin"/>Sophocles, Plato, Socrates               59</l>
                   <l n="02" rend="verse">             G–</l>
@@ -2858,7 +2858,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0122_text">
-            <pb facs="nb07_01_04_0122_verso.jpg" xml:id="0122v"/>
+            <pb facs="nb07_01_04_0122_verso.jpg" xml:id="p0122v"/>
                <lg>
                   <l n="01"><note>MM writes text across both pages in lines 10 and 14. Text across both pages reads: "Cescinsky chinese furniture 27" and "Chinese painting met. museum 5"</note>A.                                      Bridges Poetic diction–10</l>
                   <l n="02"> Acres, Bob 41                            Brooke, Leslie    56</l>
@@ -2885,7 +2885,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0123_text">
-            <pb facs="nb07_01_04_0123_recto.jpg" xml:id="0123r"/>
+            <pb facs="nb07_01_04_0123_recto.jpg" xml:id="p0123r"/>
                <!-- <desc>MM circles two lines of cancelled text on the right-hand side of lines 12 and
                   13 in black pen. She shades the middle of the circle with blue pencil.</desc> -->
                <lg>
@@ -2912,7 +2912,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0124_text">
-            <pb facs="nb07_01_04_0124_verso.jpg" xml:id="0124v"/>
+            <pb facs="nb07_01_04_0124_verso.jpg" xml:id="p0124v"/>
               <!-- <desc>MM draws a bracket from "the left of Belasco in line 4 to below "slightly
                   nervous" in line 9.</desc> -->
                <lg>
@@ -2940,7 +2940,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0125_text">
-            <pb facs="nb07_01_04_0125_recto.jpg" xml:id="0125r"/>
+            <pb facs="nb07_01_04_0125_recto.jpg" xml:id="p0125r"/>
                <!-- <desc>MM draws a bracket from the right of "Poor man" in line 6 to line 9. On left
                   bottom margin, MM also draws a small upward arrow.</desc> -->
                <lg>
@@ -2969,7 +2969,7 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0126_text">
-            <pb facs="nb07_01_04_0126_verso.jpg" xml:id="0126v"/>
+            <pb facs="nb07_01_04_0126_verso.jpg" xml:id="p0126v"/>
               <!-- <desc>MM draws a line, with bracketed top, in the left margin from line 6 to line
                   9.</desc> -->
                <lg>
@@ -2992,19 +2992,19 @@
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0127_text">
-            <pb facs="nb07_01_04_0127_verso.jpg" xml:id="0127v"/>
+            <pb facs="nb07_01_04_0127_verso.jpg" xml:id="p0127v"/>
                <lg>
                   <l n="01">1.15</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0128_text">
-            <pb facs="nb07_01_04_0128_verso.jpg" xml:id="0128v"/>
+            <pb facs="nb07_01_04_0128_verso.jpg" xml:id="p0128v"/>
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
             </div>
          <div type="image" xml:id="nb07_01_04_0129_text">
-            <pb facs="nb07_01_04_0129_recto.jpg" xml:id="0129r"/>
+            <pb facs="nb07_01_04_0129_recto.jpg" xml:id="p0129r"/>
                <lg>
                   <l n="01">[No handwriting on this page.]</l>
                </lg>
